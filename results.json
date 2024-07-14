@@ -301,7 +301,7 @@
   },
   {
     "pkg": "en.kaido",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kaido.json"
   },
   {
@@ -426,7 +426,7 @@
   },
   {
     "pkg": "en.wcofun",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.wcofun.json"
   },
   {
