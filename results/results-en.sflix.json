@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/free-lowlifes-hd-111367",
+                                "title": "Lowlifes",
+                                "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/a4/f4/a4f48c3285cff8f842a3b41eff430ba1/a4f48c3285cff8f842a3b41eff430ba1.jpg"
+                            },
+                            {
                                 "url": "/movie/free-longlegs-hd-111361",
                                 "title": "Longlegs",
                                 "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/2e/fd/2efd41b3984aab7f30367e59bbcbde45/2efd41b3984aab7f30367e59bbcbde45.jpg"
@@ -160,11 +165,6 @@
                                 "url": "/movie/free-murder-company-hd-111223",
                                 "title": "Murder Company",
                                 "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/10/34/103499c3e51b9dc00970d22279d34fb7/103499c3e51b9dc00970d22279d34fb7.jpg"
-                            },
-                            {
-                                "url": "/movie/free-kaulayaw-hd-111220",
-                                "title": "Kaulayaw",
-                                "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/52/35/52359186f84486944c6c0e177470bb88/52359186f84486944c6c0e177470bb88.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -474,14 +474,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/free-longlegs-hd-111361",
-                    "title": "Longlegs",
-                    "author": "C2 Motion Picture Group, Saturn Films, Oddfellows Entertainment, Traffic Productions, Range Media Partners, Blue Fox Entertainment",
-                    "description": " In pursuit of a notorious serial killer, a rookie FBI agent with a mysterious past must solve a series of occult clues to end his terrifying killing spree.",
-                    "genre": "Crime, Horror, Thriller",
+                    "url": "/movie/free-lowlifes-hd-111367",
+                    "title": "Lowlifes",
+                    "author": "Front Street Pictures",
+                    "description": " The survival instincts of a road-tripping family are put to the test when they have no other choice but to stay the night at a remote homestead.",
+                    "genre": "Horror, Thriller",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/2e/fd/2efd41b3984aab7f30367e59bbcbde45/2efd41b3984aab7f30367e59bbcbde45.jpg",
+                    "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/a4/f4/a4f48c3285cff8f842a3b41eff430ba1/a4f48c3285cff8f842a3b41eff430ba1.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -489,8 +489,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ajax/movie/episodes/111361",
-                        "name": "Longlegs",
+                        "url": "/ajax/movie/episodes/111367",
+                        "name": "Lowlifes",
                         "episode_number": 1.0
                     }
                 ],

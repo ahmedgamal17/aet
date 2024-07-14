@@ -112,7 +112,7 @@
                                 "artist": "Cailey Fleming, Ryan Reynolds, John Krasinski, Fiona Shaw",
                                 "author": "John Krasinski",
                                 "description": "A young girl who goes through a difficult experience begins to see everyone's imaginary friends who have been left behind as their real-life friends have grown up.",
-                                "genre": "Comedy, Kids & Family, Fantasy, Animation, Drama",
+                                "genre": "Comedy, Drama, Kids & Family, Fantasy, Animation",
                                 "thumbnail_url": "https://images.justwatch.com/poster/315756972/s276/if-2024.webp",
                                 "initialized": true
                             },
@@ -152,7 +152,7 @@
                                 "artist": "Maika Monroe, Nicolas Cage, Blair Underwood, Alicia Witt",
                                 "author": "Oz Perkins",
                                 "description": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
-                                "genre": "Horror, Mystery & Thriller, Crime",
+                                "genre": "Mystery & Thriller, Crime, Horror",
                                 "thumbnail_url": "https://images.justwatch.com/poster/318508463/s276/longlegs.webp",
                                 "initialized": true
                             },
@@ -182,7 +182,7 @@
                                 "artist": "Bryan Cranston, Hope Davis, Isiah Whitlock Jr., Michael Stuhlbarg",
                                 "author": "",
                                 "description": "New Orleans judge Michael Desiato is forced to confront his own deepest convictions when his son is involved in a hit and run that embroils an organized crime family.",
-                                "genre": "Drama, Crime, Mystery & Thriller",
+                                "genre": "Drama, Mystery & Thriller, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/304411641/s276/your-honor-2020-0.webp",
                                 "initialized": true
                             },
@@ -202,7 +202,7 @@
                                 "artist": "Owen Teague, Freya Allan, Kevin Durand, Peter Macon",
                                 "author": "Wes Ball",
                                 "description": "Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.",
-                                "genre": "Action & Adventure, Science-Fiction, Drama, Mystery & Thriller",
+                                "genre": "Science-Fiction, Action & Adventure, Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/314299423/s276/kingdom-of-the-planet-of-the-apes.webp",
                                 "initialized": true
                             },
@@ -212,7 +212,7 @@
                                 "artist": "Tom Hiddleston, Hugh Laurie, Olivia Colman, Tom Hollander",
                                 "author": "",
                                 "description": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
-                                "genre": "Mystery & Thriller, Crime, Drama, Made in Europe",
+                                "genre": "Drama, Mystery & Thriller, Crime, Made in Europe",
                                 "thumbnail_url": "https://images.justwatch.com/poster/177807387/s276/the-night-manager.webp",
                                 "initialized": true
                             },
@@ -312,7 +312,7 @@
                                 "artist": "Tom Ellis, Ally Maki, Mark Proksch, Sasheer Zamata",
                                 "author": "",
                                 "description": "It's the ultimate fight between good and evil when God and his nemesis, the spawn of Satan, are sent to Earth to live with humans — as talking cats.",
-                                "genre": "Comedy, Animation",
+                                "genre": "Animation, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/318168042/s276/exploding-kittens.webp",
                                 "initialized": true
                             },
@@ -332,7 +332,7 @@
                                 "artist": "",
                                 "author": "",
                                 "description": "Follows a specialist in the FBI's Behavioral Science Unit who transformed how authorities look into serial murders.",
-                                "genre": "Crime, Documentary",
+                                "genre": "Documentary, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/318204840/s276/mastermind-to-think-like-a-killer.webp",
                                 "initialized": true
                             },
@@ -432,7 +432,7 @@
                                 "artist": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
                                 "author": "Marc Forster",
                                 "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                "genre": "Action & Adventure, Drama, Horror, Science-Fiction, Mystery & Thriller",
+                                "genre": "Horror, Science-Fiction, Mystery & Thriller, Action & Adventure, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/291193041/s276/world-war-z-3d.webp",
                                 "initialized": true
                             },
@@ -507,16 +507,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": ",SHOW,/us/tv-show/world-dice-tour",
-                                "title": "World Dice Tour",
-                                "artist": "Pani Bottle, Kwak Joon-bin, Lee Won-ji, Noh Hong-chul",
-                                "author": "Kim Tae-ho, Kim Hoon-beom",
-                                "description": "Three travel content creators competing to win a trip to space embark on the adventure of a lifetime, rolling the dice to decide where they'll go next.",
-                                "genre": "Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/304427115/s276/world-dice-tour.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt5895884,SHOW,/us/tv-show/world-of-dance",
                                 "title": "World of Dance",
                                 "artist": "Jennifer Lopez, Ne-Yo, Derek Hough, Jenna Dewan",
@@ -524,6 +514,16 @@
                                 "description": "Dancers battle in heats of artistry, precision and athleticism in this reality-competition show.",
                                 "genre": "Reality TV, Kids & Family, Music & Musical",
                                 "thumbnail_url": "https://images.justwatch.com/poster/9379865/s276/world-of-dance.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": ",SHOW,/us/tv-show/world-dice-tour",
+                                "title": "World Dice Tour",
+                                "artist": "Pani Bottle, Kwak Joon-bin, Lee Won-ji, Noh Hong-chul",
+                                "author": "Kim Tae-ho, Kim Hoon-beom",
+                                "description": "Three travel content creators competing to win a trip to space embark on the adventure of a lifetime, rolling the dice to decide where they'll go next.",
+                                "genre": "Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/304427115/s276/world-dice-tour.webp",
                                 "initialized": true
                             },
                             {
@@ -537,16 +537,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt2011840,SHOW,/us/tv-show/worlds-craziest-fools",
-                                "title": "World's Craziest Fools",
-                                "artist": "Rupert Vansittart, Mr. T",
-                                "author": "",
-                                "description": "World's Craziest Fools is a clip show made by Roughcut TV for BBC Three, presented by Mr. T. It showcases clips, sometimes viral, of people making themselves look like \"Fools\", often by accident. Many clips were from CCTV footage. The videos were shown in different categories such as \"Parking Fools\", \"Drunk Fools\", \"Criminal Fools\", and \"Fools jumping off things they shouldn't be jumping off of\". As would be expected, some categories see more entries than others, and the categories that feature episode-to-episode are not bound to a predetermined structure.",
-                                "genre": "Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/304669268/s276/worlds-craziest-fools.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt1001484,SHOW,/us/tv-show/world-of-quest",
                                 "title": "World of Quest",
                                 "artist": "Ron Pardo, Landon Norris, Kedar Brown, James Rankin",
@@ -554,6 +544,16 @@
                                 "description": "World of Quest is a Canadian animated series based on the graphic novel story by Jason Kruse published by Komikwerks.",
                                 "genre": "Animation, Comedy, Science-Fiction, Action & Adventure, Kids & Family, Music & Musical",
                                 "thumbnail_url": "https://images.justwatch.com/poster/270309621/s276/world-of-quest.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt2011840,SHOW,/us/tv-show/worlds-craziest-fools",
+                                "title": "World's Craziest Fools",
+                                "artist": "Rupert Vansittart, Mr. T",
+                                "author": "",
+                                "description": "World's Craziest Fools is a clip show made by Roughcut TV for BBC Three, presented by Mr. T. It showcases clips, sometimes viral, of people making themselves look like \"Fools\", often by accident. Many clips were from CCTV footage. The videos were shown in different categories such as \"Parking Fools\", \"Drunk Fools\", \"Criminal Fools\", and \"Fools jumping off things they shouldn't be jumping off of\". As would be expected, some categories see more entries than others, and the categories that feature episode-to-episode are not bound to a predetermined structure.",
+                                "genre": "Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/304669268/s276/worlds-craziest-fools.webp",
                                 "initialized": true
                             },
                             {
@@ -577,13 +577,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt8888656,SHOW,/us/tv-show/worlds-most-evil-killers",
-                                "title": "World's Most Evil Killers",
-                                "artist": "Geoffrey Wansell, Elizabeth Yardley, Fred Dinenage",
-                                "author": "",
-                                "description": "World’s Most Evil Killers delves into the gripping real-life stories of the world’s most terrifying and prolific killers. From Fred and Rose West to Ed Gein – The Clown Killer – and even to The Milwaukee Cannibal. Each episode focuses on one notorious killer and features authentic first-hand accounts of their behavior, from detectives who ran the case, journalists who reported on the stories, relatives, and at times survivors, alongside series experts who provide analysis. These criminologists, crime journalists and psychologists examine how the infamous killers made headlines both nationally and internationally and why they still continue to evoke fear and fascination in the public eye.",
-                                "genre": "Documentary, Crime, Made in Europe",
-                                "thumbnail_url": "https://images.justwatch.com/poster/302249943/s276/worlds-most-evil-killers.webp",
+                                "url": "tt0412080,MOVIE,/us/movie/the-worlds-fastest-indian",
+                                "title": "The World's Fastest Indian",
+                                "artist": "Anthony Hopkins, Walton Goggins, Diane Ladd, Bruce Greenwood",
+                                "author": "Roger Donaldson",
+                                "description": "The life story of New Zealander Burt Munro, who spent years building a 1920 Indian motorcycle—a bike which helped him set the land-speed world record at Utah's Bonneville Salt Flats in 1967.",
+                                "genre": "Drama, Action & Adventure, History, Sport",
+                                "thumbnail_url": "https://images.justwatch.com/poster/301578498/s276/the-worlds-fastest-indian.webp",
                                 "initialized": true
                             },
                             {
@@ -597,13 +597,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0412080,MOVIE,/us/movie/the-worlds-fastest-indian",
-                                "title": "The World's Fastest Indian",
-                                "artist": "Anthony Hopkins, Walton Goggins, Diane Ladd, Bruce Greenwood",
-                                "author": "Roger Donaldson",
-                                "description": "The life story of New Zealander Burt Munro, who spent years building a 1920 Indian motorcycle—a bike which helped him set the land-speed world record at Utah's Bonneville Salt Flats in 1967.",
-                                "genre": "Drama, Action & Adventure, History, Sport",
-                                "thumbnail_url": "https://images.justwatch.com/poster/301578498/s276/the-worlds-fastest-indian.webp",
+                                "url": "tt7224848,SHOW,/us/tv-show/worlds-most-evil-killers",
+                                "title": "World's Most Evil Killers",
+                                "artist": "Geoffrey Wansell, Elizabeth Yardley, Fred Dinenage",
+                                "author": "",
+                                "description": "World’s Most Evil Killers delves into the gripping real-life stories of the world’s most terrifying and prolific killers. From Fred and Rose West to Ed Gein – The Clown Killer – and even to The Milwaukee Cannibal. Each episode focuses on one notorious killer and features authentic first-hand accounts of their behavior, from detectives who ran the case, journalists who reported on the stories, relatives, and at times survivors, alongside series experts who provide analysis. These criminologists, crime journalists and psychologists examine how the infamous killers made headlines both nationally and internationally and why they still continue to evoke fear and fascination in the public eye.",
+                                "genre": "Documentary, Crime, Made in Europe",
+                                "thumbnail_url": "https://images.justwatch.com/poster/302249943/s276/worlds-most-evil-killers.webp",
                                 "initialized": true
                             },
                             {
@@ -622,7 +622,7 @@
                                 "artist": "Nicolas Cage, Michael Peña, Maria Bello, Maggie Gyllenhaal",
                                 "author": "Oliver Stone",
                                 "description": "Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.",
-                                "genre": "Drama, History, Mystery & Thriller",
+                                "genre": "Mystery & Thriller, Drama, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/250979950/s276/september-2006.webp",
                                 "initialized": true
                             },
@@ -647,16 +647,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
-                                "title": "Jurassic World",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
-                                "author": "Colin Trevorrow",
-                                "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt1878805,SHOW,/us/tv-show/world-without-end",
                                 "title": "World Without End",
                                 "artist": "Oliver Maltman, David Bradley, Ben Chaplin, Charlotte Riley",
@@ -667,13 +657,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
-                                "title": "Jurassic World Dominion",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
+                                "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
+                                "title": "Jurassic World",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
                                 "author": "Colin Trevorrow",
-                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
+                                "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
                                 "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
+                                "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
                                 "initialized": true
                             },
                             {
@@ -684,6 +674,16 @@
                                 "description": "ABC World News is the flagship daily evening television news program of ABC News, the news division of the American Broadcasting Company television network in the United States. Currently the weekday editions (going by title ABC World News Tonight with David Muir) are anchored by David Muir. ABC World News has been anchored at various times by a number of other people since its debut in 1953. It also has used various titles, including ABC Evening News from 1970 to 1978 and World News Tonight from 1978 to 2006.",
                                 "genre": "",
                                 "thumbnail_url": "https://images.justwatch.com/poster/272546979/s276/abc-world-news.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
+                                "title": "Jurassic World Dominion",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
+                                "author": "Colin Trevorrow",
+                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
+                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
                                 "initialized": true
                             },
                             {
@@ -717,16 +717,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
-                                "title": "World's Funniest Animals",
-                                "artist": "Elizabeth Stanton",
-                                "author": "",
-                                "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
-                                "genre": "Reality TV, Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt15472028,SHOW,/us/tv-show/world-war-2-the-call-of-duty-a-complete-timeline",
                                 "title": "World War 2: The Call of Duty - A Complete Timeline",
                                 "artist": "",
@@ -744,6 +734,16 @@
                                 "description": "This historical survey of the First World War was produced and aired by CBS to commemorate the 50th anniversary of the opening of hostilities. The series used footage that was shot during the era of the war. Much of the footage had never been aired on television before.",
                                 "genre": "Documentary, History, War & Military",
                                 "thumbnail_url": "https://images.justwatch.com/poster/138403766/s276/world-war-one.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
+                                "title": "World's Funniest Animals",
+                                "artist": "Elizabeth Stanton",
+                                "author": "",
+                                "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
+                                "genre": "Reality TV, Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
                                 "initialized": true
                             },
                             {
@@ -767,26 +767,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0070904,SHOW,/us/tv-show/world-on-a-wire",
-                                "title": "World on a Wire",
-                                "artist": "Klaus Löwitsch, Mascha Rabben, Karl-Heinz Vosgerau, Adrian Hoven",
-                                "author": "",
-                                "description": "Cybernetics engineer Fred Stiller uncovers a massive corporate conspiracy involving a virtual reality computer project.",
-                                "genre": "Science-Fiction, Crime",
-                                "thumbnail_url": "https://images.justwatch.com/poster/248776527/s276/world-on-a-wire.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt4881806,MOVIE,/us/movie/jurassic-world-fallen-kingdom",
-                                "title": "Jurassic World: Fallen Kingdom",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith",
-                                "author": "J. A. Bayona",
-                                "description": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
-                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller, Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/79976709/s276/jurassic-world-fallen-kingdom.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt6177752,MOVIE,/us/movie/world-of-darkness",
                                 "title": "World of Darkness",
                                 "artist": "",
@@ -804,6 +784,26 @@
                                 "description": "Twelve-year-old mathematics genius Prem discovers his recently deceased father was a famous rapper and immediately sets out to learn more about his father’s life and passions. Empowered by imaginative hip-hop music-fueled fantasies, Prem is determined to find out if hip-hop truly is in his DNA.",
                                 "genre": "Comedy, Music & Musical, Kids & Family",
                                 "thumbnail_url": "https://images.justwatch.com/poster/305635309/s276/worlds-best.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt4881806,MOVIE,/us/movie/jurassic-world-fallen-kingdom",
+                                "title": "Jurassic World: Fallen Kingdom",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith",
+                                "author": "J. A. Bayona",
+                                "description": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller, Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/79976709/s276/jurassic-world-fallen-kingdom.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0070904,SHOW,/us/tv-show/world-on-a-wire",
+                                "title": "World on a Wire",
+                                "artist": "Klaus Löwitsch, Mascha Rabben, Karl-Heinz Vosgerau, Adrian Hoven",
+                                "author": "",
+                                "description": "Cybernetics engineer Fred Stiller uncovers a massive corporate conspiracy involving a virtual reality computer project.",
+                                "genre": "Science-Fiction, Crime",
+                                "thumbnail_url": "https://images.justwatch.com/poster/248776527/s276/world-on-a-wire.webp",
                                 "initialized": true
                             },
                             {

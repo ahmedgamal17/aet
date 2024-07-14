@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/0-saiji-start-dash-monogatari",
+                                "title": "0-saiji Start Dash Monogatari",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933670.jpg"
+                            },
+                            {
                                 "url": "/anime/make-heroine-ga-oosugiru",
                                 "title": "Make Heroine ga Oosugiru!",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933669.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
                                 "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933655.jpg"
-                            },
-                            {
-                                "url": "/anime/na-nare-hana-nare",
-                                "title": "Na Nare Hana Nare",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933654.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/make-heroine-ga-oosugiru",
-                    "title": "Make Heroine ga Oosugiru!",
-                    "description": "Kazuhiko Nukumizu, a self-proclaimed “background character,” accidentally witnessed his popular classmate Anna Yanami being rejected by her childhood friend. Since then, Kazuhiko has become involved with several loser heroines, including Anna.",
-                    "genre": "Comedy, Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933669.jpg",
+                    "url": "/anime/0-saiji-start-dash-monogatari",
+                    "title": "0-saiji Start Dash Monogatari",
+                    "description": "Lilia, the newborn daughter of a marquis, has the memories of her previous life! With cheat-like gamer knowledge she aims to become the strongest girl in this new “other world”!",
+                    "genre": "Adventure, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933670.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,7 +616,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/make-heroine-ga-oosugiru-episode-1-english-subbed",
+                        "url": "/0-saiji-start-dash-monogatari-episode-1-english-subbed",
                         "name": "Season 1 - Episode 1",
                         "episode_number": 101.0
                     }
@@ -626,19 +626,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuX7h7L1EN6PDfQ2I787idbDDYTPWNWzzBj5rWzyIra6RANLB2b19r_gVNimK2bwl9EhLKTOYj3jvAmUq0MqNBB_cMXkUrfW0vfVAZ6RM_cuMHiNN9F1_LKdeGop8LiDRZpnppK3syMPEg6dvjAcAS7NQ-MLoveQ4IZYd1g87vODZjwdEfh7HfViINXjHzxnEM0I5ewfNieszIEBPjiAKyZDGBVcy7pdXTOidovRx6zjRlqXeO247sbLTaG5srcFvX6ewPNbdZ3m6nwPLvHIxlYf3jekgUWy_eqzEUZTfiCE9zyYy-CVT1wBteDReef37id6PW7kW9qoggGcDG_69hu05Rp-7jzkQNtRpGEncar-Zd8-Ax7t5WzO03PB3iIG8t86lgaAKyZtJ4Fv3XghhsFD",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVRl1z3TpDHNS7Gp6WRdHREIu9rZLt1CiVCpFKuAMqIa6O5mi8mlATp4aj4MglPEeIoM0XdO4q4TU_cyxed-aqlAesc6SRJSXoe4q6WUGv2OQm_A1rB3A2kr8JbrTFxYAUj8viOgrNnjN7pgDRrD2wwaLUYHoKySS0JdVtBj3co3zlMF2_i39YEQjV0ZKmTTd_ORUC-tZRRYtAosbe6APQTKzbud7ZYHeyh4CtRjAEAn4pgXCP7cJvJ2JKX6OO640rAt10V7DkDSJXD-ZYIOKBuJ6RYII-WKqhmq_yMEJ3G7ReWITn42fjNvOIUwQULGUbHOiXzyf5XwKHAK3xdohabnEFSYfitfoBIyxvUxGULzWd0ASshsTtLxXI95R85cZS6ycCksYJna-68jZMo_oMx",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuX7h7L1EN6PDfQ2I787idbDDYTPWNWzzBj5rWzyIra6RANLB2b19r_gVNimK2bwl9EhLKTOYj3jvAmUq0MqNBB_cMXkUrfW0vfVAZ6RM_cuMHiNN9F1_LKdeGop8LiDRZpnppK3syMPEg6dvjAcAS7NQ-MLoveQ4IZYd1g87vODZjwdEfh7HfViINXjHzxnEM0I5ewfNieszIEBPjiAKyZDGBVcy7pdXTOidovRx6zjRlqXeO247sbLTaG5srcFvX6ewPNbdZ3m6nwPLvHIxlYf3jekgUWy_eqzEUZTfiCE9zyYy-CVT1wBteDReef37id6PW7kW9qoggGcDG_69hu05Rp-7jzkQNtRpGEncar-Zd8-Ax7t5WzO03PB3iIG8t86lgaAKyZtJ4Fv3XghhsFD"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVRl1z3TpDHNS7Gp6WRdHREIu9rZLt1CiVCpFKuAMqIa6O5mi8mlATp4aj4MglPEeIoM0XdO4q4TU_cyxed-aqlAesc6SRJSXoe4q6WUGv2OQm_A1rB3A2kr8JbrTFxYAUj8viOgrNnjN7pgDRrD2wwaLUYHoKySS0JdVtBj3co3zlMF2_i39YEQjV0ZKmTTd_ORUC-tZRRYtAosbe6APQTKzbud7ZYHeyh4CtRjAEAn4pgXCP7cJvJ2JKX6OO640rAt10V7DkDSJXD-ZYIOKBuJ6RYII-WKqhmq_yMEJ3G7ReWITn42fjNvOIUwQULGUbHOiXzyf5XwKHAK3xdohabnEFSYfitfoBIyxvUxGULzWd0ASshsTtLxXI95R85cZS6ycCksYJna-68jZMo_oMx"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuX7h7L1EN6PDfQ2I787idbDDYTPWNWzzBj5rWzyIra6RANLB2b19r_gVNimK2bwl9EhLKTOYj3jvAmUq0MqNBB_cMXkUrfW0vfVAZ6RM_cuMHiNN9F1_LKdeGop8LiDRZq4DH2HaeVXbrILtmvw7LBGqs4NmOTBDplVOwlIaSQ3eLTL9TcNMaAWORpprs-jzz_4WEouey8KFXdrYkJx8rgZqfgltg0qStKADYoAHbgnQ6MFQeKTH-jxiX6rH21iKrhzO7gac73Zv0OXcyRKXn8AgQEzUJODpO98xJW_fj-kA7bEdZPGFDwL-emjfSoGKgZwTtpDPEEXam5AXyM1xAPPHFZJkNdgy8mNwDz8issZ4RLZHOtal4WvmAIRR6Zg9WgGQoMXQvRbgKM5q3pN90RH",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVRl1z3TpDHNS7Gp6WRdHREIu9rZLt1CiVCpFKuAMqIa6O5mi8mlATp4aj4MglPEeIoM0XdO4q4TU_cyxed-aqlAesc6SRJSXoe4q6WUGv2OQm_A1rB3A2kr8JbrTFxYAWjxCif0kzN2M9_NTYHf47ccV9K_0MG3mjQvtbtqgkEckPlPcAnkp0aMp1iv0PhtI6D5K3BTl3We6gWnAsB7KhvgGTsDow66zzaqES0hf64zzeeCTYGjXB0jIH8uMsjdasiQgJFckOX4WadU83cCBMDiwZlsGFc7MbQfGH92KZhPy6q9fFAsQsLIUeoRmdjzPyoUVZPYd6D6RB49ixycwoYOfyQr2SAO8UHmYEQByELX64dLONYrsK1cO08MQmbMPznbi_hY1UrTNLV3KkeZYDg",
                         "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuX7h7L1EN6PDfQ2I787idbDDYTPWNWzzBj5rWzyIra6RANLB2b19r_gVNimK2bwl9EhLKTOYj3jvAmUq0MqNBB_cMXkUrfW0vfVAZ6RM_cuMHiNN9F1_LKdeGop8LiDRZq4DH2HaeVXbrILtmvw7LBGqs4NmOTBDplVOwlIaSQ3eLTL9TcNMaAWORpprs-jzz_4WEouey8KFXdrYkJx8rgZqfgltg0qStKADYoAHbgnQ6MFQeKTH-jxiX6rH21iKrhzO7gac73Zv0OXcyRKXn8AgQEzUJODpO98xJW_fj-kA7bEdZPGFDwL-emjfSoGKgZwTtpDPEEXam5AXyM1xAPPHFZJkNdgy8mNwDz8issZ4RLZHOtal4WvmAIRR6Zg9WgGQoMXQvRbgKM5q3pN90RH"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVRl1z3TpDHNS7Gp6WRdHREIu9rZLt1CiVCpFKuAMqIa6O5mi8mlATp4aj4MglPEeIoM0XdO4q4TU_cyxed-aqlAesc6SRJSXoe4q6WUGv2OQm_A1rB3A2kr8JbrTFxYAWjxCif0kzN2M9_NTYHf47ccV9K_0MG3mjQvtbtqgkEckPlPcAnkp0aMp1iv0PhtI6D5K3BTl3We6gWnAsB7KhvgGTsDow66zzaqES0hf64zzeeCTYGjXB0jIH8uMsjdasiQgJFckOX4WadU83cCBMDiwZlsGFc7MbQfGH92KZhPy6q9fFAsQsLIUeoRmdjzPyoUVZPYd6D6RB49ixycwoYOfyQr2SAO8UHmYEQByELX64dLONYrsK1cO08MQmbMPznbi_hY1UrTNLV3KkeZYDg"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuX7h7L1EN6PDfQ2I787idbDDYTPWNWzzBj5rWzyIra6RANLB2b19r_gVNimK2bwl9EhLKTOYj3jvAmUq0MqNBB_cMXkUrfW0vfVAZ6RM_cuMHiNN9F1_LKdeGop8LiDRZrYuH5Xn-cDNkR0KuVMHHLIRttBYp5TC_Y8ZSAm-E0XYtvgACm7E4OKY5E_PF2mVX--VSMuMCdvFHWiJv2yM3ECaOHBZB5JpjbxENS6nrFNyIwfcbXYwFPFc3hm4l4-teFFKDYWqj7Z5qyUsTidLxzxznldu8LyujIT-ZJ2_Up__HThXARh3scbEIQ4eq30_iIuyH_Chj6H90hdq_GrLwVeFHYSjNDAgNWRyfvr981je5CeHwsqewz3-Kgju4eJWNs",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVRl1z3TpDHNS7Gp6WRdHREIu9rZLt1CiVCpFKuAMqIa6O5mi8mlATp4aj4MglPEeIoM0XdO4q4TU_cyxed-aqlAesc6SRJSXoe4q6WUGv2OQm_A1rB3A2kr8JbrTFxYAVJewd7f4RnDEDlYGpZvZZQZP76lr2bJ_V4DJJ3RCJm0hc_Qtz0PBIP-X1rAREWCbGH78U8YTkC032Pvz94LSkJwgn0Hvdb2e2BOgQHEG1-J-HOReFD_i9NT_zE6tHMXtRDcbqRwDr3DSyHkofnjMdDo2QJAXccdeE3rA7bRd3MEpEUzkaTH8liW4gicyib-BiG0rC39T16jx3377rQWZnLMxhTu8WBHopPeTas3pFeZFbU9tnT1F0t2YCncmG9n7b5jsqBEOdCzrHIcatm-ipY",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuX7h7L1EN6PDfQ2I787idbDDYTPWNWzzBj5rWzyIra6RANLB2b19r_gVNimK2bwl9EhLKTOYj3jvAmUq0MqNBB_cMXkUrfW0vfVAZ6RM_cuMHiNN9F1_LKdeGop8LiDRZrYuH5Xn-cDNkR0KuVMHHLIRttBYp5TC_Y8ZSAm-E0XYtvgACm7E4OKY5E_PF2mVX--VSMuMCdvFHWiJv2yM3ECaOHBZB5JpjbxENS6nrFNyIwfcbXYwFPFc3hm4l4-teFFKDYWqj7Z5qyUsTidLxzxznldu8LyujIT-ZJ2_Up__HThXARh3scbEIQ4eq30_iIuyH_Chj6H90hdq_GrLwVeFHYSjNDAgNWRyfvr981je5CeHwsqewz3-Kgju4eJWNs"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVRl1z3TpDHNS7Gp6WRdHREIu9rZLt1CiVCpFKuAMqIa6O5mi8mlATp4aj4MglPEeIoM0XdO4q4TU_cyxed-aqlAesc6SRJSXoe4q6WUGv2OQm_A1rB3A2kr8JbrTFxYAVJewd7f4RnDEDlYGpZvZZQZP76lr2bJ_V4DJJ3RCJm0hc_Qtz0PBIP-X1rAREWCbGH78U8YTkC032Pvz94LSkJwgn0Hvdb2e2BOgQHEG1-J-HOReFD_i9NT_zE6tHMXtRDcbqRwDr3DSyHkofnjMdDo2QJAXccdeE3rA7bRd3MEpEUzkaTH8liW4gicyib-BiG0rC39T16jx3377rQWZnLMxhTu8WBHopPeTas3pFeZFbU9tnT1F0t2YCncmG9n7b5jsqBEOdCzrHIcatm-ipY"
                     }
                 ],
                 "passed": true
