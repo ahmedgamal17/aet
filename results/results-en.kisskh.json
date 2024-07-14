@@ -247,9 +247,34 @@
                                 "thumbnail_url": "https://prod-images.viu.com/2639312418/4bc6be6c0c0385ec0867fd1919d5646f6cfb3f66?im=Resize,width=1920"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9029?isq=false",
+                                "title": "Love Sea the Series",
+                                "thumbnail_url": "https://im.gurl.eu.org/file/f946ee6853fa546d69397.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9070?isq=false",
+                                "title": "Miss Night and Day",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/s5XtGhamnK0yx9MI5XVhHMiJr70.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9202?isq=false",
+                                "title": "The Auditors",
+                                "thumbnail_url": "https://d2y2efdi5wgkcl.cloudfront.net/fit-in/1280x720/media-io/2024/7/3/landscape_the_audito.ccf9e9b1.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9198?isq=false",
+                                "title": "The Trainee",
+                                "thumbnail_url": "https://prod-images.viu.com/30199903/999ece1ad58af2fd043bfe98c76ea3721f3c9448?im=Resize,width=1920"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/8050?isq=false",
                                 "title": "Renegade Immortal - Xian Ni",
                                 "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/19q8yj9d3bzqfqk1700634890668/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/8849?isq=false",
+                                "title": "My Stand-In: Uncut",
+                                "thumbnail_url": "https://im.gurl.eu.org/file/a92d0c4308c24a4dffb4d.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9283?isq=false",
@@ -307,19 +332,9 @@
                                 "thumbnail_url": "https://occ-0-4265-58.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVnt6Oaz1UGSZFqiFBKI8f-8gRVOAELSjuy-0jMPb2S-qYDnHBjZOprwoRCch2htdhAUOa0BzHvk5pJ1je1PXS2f1A-Dk1-1gCns.webp?r=e55"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9070?isq=false",
-                                "title": "Miss Night and Day",
-                                "thumbnail_url": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVgFGYEctrQjdYSY4RfkAUz4u2jCd16J4K5Pph_tiknQV3Iy6bKjhCNko7AzjbnG51Wu24dl12zMiHW8gW9870p01VPXq0oLSoJ5.jpg?r=f62"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/8751?isq=false",
                                 "title": "Beauty and Mr. Romantic",
                                 "thumbnail_url": "https://kocowa-img.imgix.net/images/54ef327b-f323-4c88-92ee-039f5ac927e3.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9202?isq=false",
-                                "title": "The Auditors",
-                                "thumbnail_url": "https://d2y2efdi5wgkcl.cloudfront.net/fit-in/1280x720/media-io/2024/7/3/landscape_the_audito.ccf9e9b1.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9279?isq=false",
@@ -330,11 +345,6 @@
                                 "url": "/api/DramaList/Drama/8887?isq=false",
                                 "title": "My Hero Academia Season 7 - Boku no Hero Academia 7th Season",
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/uicia399gyMGE1smatJ41M0CtFx.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/8849?isq=false",
-                                "title": "My Stand-In: Uncut",
-                                "thumbnail_url": "https://im.gurl.eu.org/file/a92d0c4308c24a4dffb4d.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/8971?isq=false",
@@ -405,16 +415,6 @@
                                 "url": "/api/DramaList/Drama/9204?isq=false",
                                 "title": "Meet You at the Blossom",
                                 "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/c5o1ffdwm6yhwy51720593393769/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9100?isq=false",
-                                "title": "Knock Knock Boys!",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/89w1vvkv6zpo6wf1715856634459/0?imageMogr2/thumbnail/NaNx"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9281?isq=false",
-                                "title": "Bye Bye, Earth",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/5BCJIAr0rpmW7ChRLCArUdjzixJ.jpg"
                             }
                         ],
                         "hasNextPage": true
