@@ -7,14 +7,14 @@
                     {
                         "animes": [
                             {
-                                "url": "/series/مسلسل-the-umbrella-academy/",
-                                "title": "مسلسل The Umbrella Academy",
-                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2019/04/tt1312171--351x520.jpg"
-                            },
-                            {
                                 "url": "/series/lets-fight-ghost/",
                                 "title": "Let's Fight Ghost",
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/03/Lets-Fight-Ghost.jpg"
+                            },
+                            {
+                                "url": "/series/مسلسل-the-umbrella-academy/",
+                                "title": "مسلسل The Umbrella Academy",
+                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2019/04/tt1312171--351x520.jpg"
                             },
                             {
                                 "url": "/series/1883/",
@@ -102,14 +102,14 @@
                                 "thumbnail_url": "https://cdn57.mycimaa1.boats/wp-content/uploads/2023/07/الوعد-الاطول.jpg"
                             },
                             {
-                                "url": "/series/inside-man-2022/",
-                                "title": "Inside Man 2022",
-                                "thumbnail_url": "https://mycimaa.work/wp-content/uploads/2022/09/مسلسل-Inside-Man.jpg"
-                            },
-                            {
                                 "url": "/series/where-dreams-begin/",
                                 "title": "Where Dreams Begin",
                                 "thumbnail_url": "https://mycima.wecima.cam/wp-content/uploads/2023/06/Where-Dreams-Begin-موسم-1.jpg"
+                            },
+                            {
+                                "url": "/series/inside-man-2022/",
+                                "title": "Inside Man 2022",
+                                "thumbnail_url": "https://mycimaa.work/wp-content/uploads/2022/09/مسلسل-Inside-Man.jpg"
                             },
                             {
                                 "url": "/series/law-order-organized-crime/",
@@ -147,19 +147,14 @@
                                 "thumbnail_url": "https://wecima.show/wp-content/uploads/2020/09/Raised-by-Wolves-S01-351x520.jpg"
                             },
                             {
-                                "url": "/series/مسلسل-breaking-bad/",
-                                "title": "مسلسل breaking bad",
-                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2019/04/breaking-bad-S03--351x520.jpg"
-                            },
-                            {
                                 "url": "/series/drops-of-god/",
                                 "title": "Drops of God",
                                 "thumbnail_url": "https://wecima.dev/wp-content/uploads/2023/04/مسلسل-Drops-of-God-الموسم-الاول.jpg"
                             },
                             {
-                                "url": "/series/the-blood-of-youth/",
-                                "title": "The Blood of Youth",
-                                "thumbnail_url": "https://myciiima.autos/wp-content/uploads/2023/01/The-Blood-of-Youth-موسم-1.jpg"
+                                "url": "/series/مسلسل-breaking-bad/",
+                                "title": "مسلسل breaking bad",
+                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2019/04/breaking-bad-S03--351x520.jpg"
                             },
                             {
                                 "url": "/series/wandavision/",
@@ -167,14 +162,19 @@
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/01/WandaVision-S01.jpg"
                             },
                             {
-                                "url": "/series/مسلسل-band-of-brothers/",
-                                "title": "مسلسل Band of Brothers",
-                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2019/04/5c8b38ff55111--360x520.jpg"
+                                "url": "/series/the-blood-of-youth/",
+                                "title": "The Blood of Youth",
+                                "thumbnail_url": "https://myciiima.autos/wp-content/uploads/2023/01/The-Blood-of-Youth-موسم-1.jpg"
                             },
                             {
                                 "url": "/series/scam-1992-the-harshad-mehta-story/",
                                 "title": "Scam 1992: The Harshad Mehta Story",
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2020/12/MV5BNjgxZTMxNmQtZGFkZS00NDUyLTllMzYtOTE0ZjdlMjM1ZWU0XkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_UY1200855823460.jpg"
+                            },
+                            {
+                                "url": "/series/مسلسل-band-of-brothers/",
+                                "title": "مسلسل Band of Brothers",
+                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2019/04/5c8b38ff55111--360x520.jpg"
                             },
                             {
                                 "url": "/series/مسلسل-game-of-thrones-4/",
@@ -694,11 +694,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/مسلسل-the-umbrella-academy/",
-                    "title": "مسلسل The Umbrella Academy",
+                    "url": "/series/lets-fight-ghost/",
+                    "title": "Let's Fight Ghost",
                     "author": "",
-                    "description": "",
-                    "genre": "اكشن",
+                    "description": "Alternative Name: دعونا نحارب الشبح Let's Fight Ghost (Thailand)",
+                    "genre": "رعب",
                     "initialized": true
                 },
                 "passed": true
@@ -706,14 +706,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/مشاهدة-مسلسل-the-umbrella-academy-موسم-3-حلقة-10-والاخيرة/",
-                        "name": "الموسم 3 : الحلقة 10",
-                        "episode_number": 3.1
+                        "url": "/watch/مشاهدة-مسلسل-lets-fight-ghost-موسم-1-حلقة-12/",
+                        "name": "الموسم 1 : الحلقة 12",
+                        "episode_number": 1.12
                     },
                     {
-                        "url": "/watch/مشاهدة-مسلسل-the-umbrella-academy-موسم-3-حلقة-9/",
-                        "name": "الموسم 3 : الحلقة 9",
-                        "episode_number": 3.9
+                        "url": "/watch/مشاهدة-مسلسل-lets-fight-ghost-موسم-1-حلقة-11/",
+                        "name": "الموسم 1 : الحلقة 11",
+                        "episode_number": 1.11
                     }
                 ],
                 "passed": true
@@ -721,32 +721,49 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://m70.uqload.ws/3rfkse4ex5w2q4drdlq7lpnecgmmjddgcjoky2bcytkz5poru5iufyzreg7a/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m70.uqload.ws/3rfkse4ex5w2q4drdlq7lpnecgmmjddgcjoky2bcytkz5poru5iufyzreg7a/v.mp4",
+                        "url": "https://vd464.mycdn.me/expires/1721111501277/clientType/0/srcIp/20.171.122.190/type/2/mid/2404577774230/id/1232624093846/ms/185.226.52.69/zs/43/srcAg/GECKO/urls/45.136.22.74/oq/0/pr/10/ct/28/sig/CBNLQDbQ8nE/ondemand/CJaV_PDvIxISCJaV_PDvIxCWlfzw7yMYAyABGhIIlpX88O8jEJaV_PDvIxgDIAIgBSgEMAM4AnjlCuplqP1S4u7P/fn/track.m3u8",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd464.mycdn.me/expires/1721111501277/clientType/0/srcIp/20.171.122.190/type/2/mid/2404577774230/id/1232624093846/ms/185.226.52.69/zs/43/srcAg/GECKO/urls/45.136.22.74/oq/0/pr/10/ct/28/sig/CBNLQDbQ8nE/ondemand/CJaV_PDvIxISCJaV_PDvIxCWlfzw7yMYAyABGhIIlpX88O8jEJaV_PDvIxgDIAIgBSgEMAM4AnjlCuplqP1S4u7P/fn/track.m3u8",
                         "headers": {
-                            "Referer": "https://uqload.co/"
+                            "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://tgbvcx6x1.zfghrew10.shop/to3q3piujjvsy46b3xkwxo5jjk2t6yagchhslxbjbtraq3itqpouvjy3jxka/v.mp4",
-                        "quality": "Vidbom: 640p",
-                        "videoUrl": "https://tgbvcx6x1.zfghrew10.shop/to3q3piujjvsy46b3xkwxo5jjk2t6yagchhslxbjbtraq3itqpouvjy3jxka/v.mp4"
+                        "url": "https://vd464.mycdn.me/expires/1721111501277/clientType/0/srcIp/20.171.122.190/type/2/mid/2404577774230/id/1232624093846/ms/185.226.52.69/zs/43/srcAg/GECKO/urls/45.136.22.74/oq/0/pr/10/ct/28/sig/CBNLQDbQ8nE/ondemand/CJaV_PDvIxISCJaV_PDvIxCWlfzw7yMYAyABGhIIlpX88O8jEJaV_PDvIxgDIAIgBCgDMAM4AnjlCqoBCAoGCNgGEOADsgEECMTYAtIBBggBEAIoF9oBAggQ76UDF_9VDtQ/fn/track.m3u8",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd464.mycdn.me/expires/1721111501277/clientType/0/srcIp/20.171.122.190/type/2/mid/2404577774230/id/1232624093846/ms/185.226.52.69/zs/43/srcAg/GECKO/urls/45.136.22.74/oq/0/pr/10/ct/28/sig/CBNLQDbQ8nE/ondemand/CJaV_PDvIxISCJaV_PDvIxCWlfzw7yMYAyABGhIIlpX88O8jEJaV_PDvIxgDIAIgBCgDMAM4AnjlCqoBCAoGCNgGEOADsgEECMTYAtIBBggBEAIoF9oBAggQ76UDF_9VDtQ/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
                     },
                     {
-                        "url": "https://nox7-04.ukra1.shop/hls/,pdombgs5pkm4f4kmlh6sf7t6hoy6yl4ekrj36qadjniuiubpqlgmll4rixia,.urlset/master.m3u8",
-                        "quality": "Vidshare: 480p",
-                        "videoUrl": "https://nox7-04.ukra1.shop/hls/,pdombgs5pkm4f4kmlh6sf7t6hoy6yl4ekrj36qadjniuiubpqlgmll4rixia,.urlset/master.m3u8"
+                        "url": "https://vd464.mycdn.me/expires/1721111501277/clientType/0/srcIp/20.171.122.190/type/2/mid/2404577774230/id/1232624093846/ms/185.226.52.69/zs/43/srcAg/GECKO/urls/45.136.22.74/oq/0/pr/10/ct/28/sig/CBNLQDbQ8nE/ondemand/CJaV_PDvIxISCJaV_PDvIxCWlfzw7yMYAyABGhIIlpX88O8jEJaV_PDvIxgDIAIgAygCMAM4AnjlCqoBCAoGCIAFEOgCsgEECMTYAtIBBBACKBfaAQIIECNwx1y1E2yk/fn/track.m3u8",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd464.mycdn.me/expires/1721111501277/clientType/0/srcIp/20.171.122.190/type/2/mid/2404577774230/id/1232624093846/ms/185.226.52.69/zs/43/srcAg/GECKO/urls/45.136.22.74/oq/0/pr/10/ct/28/sig/CBNLQDbQ8nE/ondemand/CJaV_PDvIxISCJaV_PDvIxCWlfzw7yMYAyABGhIIlpX88O8jEJaV_PDvIxgDIAIgAygCMAM4AnjlCqoBCAoGCIAFEOgCsgEECMTYAtIBBBACKBfaAQIIECNwx1y1E2yk/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
                     },
                     {
-                        "url": "https://n50no-05.times20qu20.shop/6jmnu76zuaazsalriwhqfzhliiwojx5mtfj62ib6mrwxgyuxqlrep44c7x2a/v.mp4",
-                        "quality": "Vidbom: 640p",
-                        "videoUrl": "https://n50no-05.times20qu20.shop/6jmnu76zuaazsalriwhqfzhliiwojx5mtfj62ib6mrwxgyuxqlrep44c7x2a/v.mp4"
+                        "url": "https://vd464.mycdn.me/expires/1721111501277/clientType/0/srcIp/20.171.122.190/type/2/mid/2404577774230/id/1232624093846/ms/185.226.52.69/zs/43/srcAg/GECKO/urls/45.136.22.74/oq/0/pr/10/ct/28/sig/CBNLQDbQ8nE/ondemand/CJaV_PDvIxISCJaV_PDvIxCWlfzw7yMYAyABGhIIlpX88O8jEJaV_PDvIxgDIAIgAigBMAM4AnjlCqoBCAoGCKgDEPABsgEECMTYAtIBBBACKBfaAQIIEDDBONirQunP/fn/track.m3u8",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd464.mycdn.me/expires/1721111501277/clientType/0/srcIp/20.171.122.190/type/2/mid/2404577774230/id/1232624093846/ms/185.226.52.69/zs/43/srcAg/GECKO/urls/45.136.22.74/oq/0/pr/10/ct/28/sig/CBNLQDbQ8nE/ondemand/CJaV_PDvIxISCJaV_PDvIxCWlfzw7yMYAyABGhIIlpX88O8jEJaV_PDvIxgDIAIgAigBMAM4AnjlCqoBCAoGCKgDEPABsgEECMTYAtIBBBACKBfaAQIIEDDBONirQunP/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
                     },
                     {
-                        "url": "https://wecima.show/run/472943dd0d9a9c8b0369027d3be75f57a0902fc9b095d8974fa08b7daab06b4f221cca4def89245d7ce744f7519f2833a247cc611de957dc16b6762c624b97f3ca069ee7724a8c0b9e240cd785a0b8c7758fb9df9ccae1f65af273f2db9605bfebf2e0/?Key=pkW1s0ZvyJuHxagERnbKZQ&Expires=1721014986&auto=true",
+                        "url": "https://vd464.mycdn.me/expires/1721111501277/clientType/0/srcIp/20.171.122.190/type/2/mid/2404577774230/id/1232624093846/ms/185.226.52.69/zs/43/srcAg/GECKO/urls/45.136.22.74/oq/0/pr/10/ct/28/sig/CBNLQDbQ8nE/ondemand/CJaV_PDvIxISCJaV_PDvIxCWlfzw7yMYAyABGhIIlpX88O8jEJaV_PDvIxgDIAIgATADOAJ45QqqAQgKBgiAAhCQAbIBBAjE2ALSAQQQAigX2gECCAiy-4Xw8Q4MaA/fn/track.m3u8",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd464.mycdn.me/expires/1721111501277/clientType/0/srcIp/20.171.122.190/type/2/mid/2404577774230/id/1232624093846/ms/185.226.52.69/zs/43/srcAg/GECKO/urls/45.136.22.74/oq/0/pr/10/ct/28/sig/CBNLQDbQ8nE/ondemand/CJaV_PDvIxISCJaV_PDvIxCWlfzw7yMYAyABGhIIlpX88O8jEJaV_PDvIxgDIAIgATADOAJ45QqqAQgKBgiAAhCQAbIBBAjE2ALSAQQQAigX2gECCAiy-4Xw8Q4MaA/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://wecima.show/run/3e21f3beab0fc980102917b4d9e5e1e5214991cc40cd19e09af54c76b2d0f68af53e6b2b04650b45450803cdf488912dae449a8f39ff2284b6750dd3d50b7c38ff761e11d921c14549ef02834aeb1891d768282315297437a50c144e9500df01bac0dd/?Key=-xCKfNAh6ivGa9uLJbKxvA&Expires=1721034388&auto=true",
                         "quality": "Default (may take a while)",
-                        "videoUrl": "https://wecima.show/run/472943dd0d9a9c8b0369027d3be75f57a0902fc9b095d8974fa08b7daab06b4f221cca4def89245d7ce744f7519f2833a247cc611de957dc16b6762c624b97f3ca069ee7724a8c0b9e240cd785a0b8c7758fb9df9ccae1f65af273f2db9605bfebf2e0/?Key=pkW1s0ZvyJuHxagERnbKZQ&Expires=1721014986&auto=true",
+                        "videoUrl": "https://wecima.show/run/3e21f3beab0fc980102917b4d9e5e1e5214991cc40cd19e09af54c76b2d0f68af53e6b2b04650b45450803cdf488912dae449a8f39ff2284b6750dd3d50b7c38ff761e11d921c14549ef02834aeb1891d768282315297437a50c144e9500df01bac0dd/?Key=-xCKfNAh6ivGa9uLJbKxvA&Expires=1721034388&auto=true",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://wecima.show/"
