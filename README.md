@@ -64,7 +64,7 @@
 | en.hanime            |     ✅     | [results-en.hanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hanime.json)                       |
 | en.hentaimama        |     ✅     | [results-en.hentaimama.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hentaimama.json)               |
 | en.hstream           |     ✅     | [results-en.hstream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hstream.json)                     |
-| en.kaido             | ❌<br>5/6  | [results-en.kaido.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kaido.json)                         |
+| en.kaido             |     ✅     | [results-en.kaido.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kaido.json)                         |
 | en.kawaiifu          |     ✅     | [results-en.kawaiifu.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kawaiifu.json)                   |
 | en.kayoanime         | ❌<br>4/6  | [results-en.kayoanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kayoanime.json)                 |
 | en.kickassanime      |     ✅     | [results-en.kickassanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kickassanime.json)           |
@@ -75,7 +75,7 @@
 | en.multimovies       | ❌<br>0/6  | [results-en.multimovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.multimovies.json)             |
 | en.myanime           |     ✅     | [results-en.myanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.myanime.json)                     |
 | en.myrunningman      | ❌<br>5/6  | [results-en.myrunningman.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.myrunningman.json)           |
-| en.nineanime         |     ✅     | [results-en.nineanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.nineanime.json)                 |
+| en.nineanime         | ❌<br>4/6  | [results-en.nineanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.nineanime.json)                 |
 | en.nollyverse        |     ✅     | [results-en.nollyverse.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.nollyverse.json)               |
 | en.noobsubs          |     ✅     | [results-en.noobsubs.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.noobsubs.json)                   |
 | en.oppaistream       |     ✅     | [results-en.oppaistream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.oppaistream.json)             |
@@ -86,7 +86,7 @@
 | en.sflix             | ❌<br>5/6  | [results-en.sflix.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.sflix.json)                         |
 | en.slothanime        |     ✅     | [results-en.slothanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.slothanime.json)               |
 | en.superstream       | ❌<br>0/6  | [results-en.superstream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.superstream.json)             |
-| en.tokuzilla         | ❌<br>4/5  | [results-en.tokuzilla.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.tokuzilla.json)                 |
+| en.tokuzilla         | ❌<br>1/5  | [results-en.tokuzilla.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.tokuzilla.json)                 |
 | en.uhdmovies         | ❌<br>1/5  | [results-en.uhdmovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.uhdmovies.json)                 |
 | en.uniquestream      | ❌<br>1/6  | [results-en.uniquestream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.uniquestream.json)           |
 | en.wcofun            |     ✅     | [results-en.wcofun.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.wcofun.json)                       |
