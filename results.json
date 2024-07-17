@@ -46,7 +46,7 @@
   },
   {
     "pkg": "all.missav",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.missav.json"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "pkg": "all.torrentioanime",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.torrentioanime.json"
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "pkg": "ar.faselhd",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.faselhd.json"
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "pkg": "en.asianload",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.asianload.json"
   },
   {
@@ -336,7 +336,7 @@
   },
   {
     "pkg": "en.luciferdonghua",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.luciferdonghua.json"
   },
   {
@@ -401,7 +401,7 @@
   },
   {
     "pkg": "en.slothanime",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.slothanime.json"
   },
   {

@@ -323,13 +323,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/videos/red-swan-2024-episode-4",
-                    "title": "Red Swan (2024)",
-                    "description": "Oh Wan Soo reached the top of her sport as a golf player. Dreaming of having a perfect life within the upper class, she marries the successor of the Hwain Group. Now, Wan Soo works as the chairperson for a foundation and has gained worldwide fame through her charity work. She has Seo Do Yoon as her new bodyguard. Do Yoon, who graduated from the police university, excels in the martial arts. He joined the Hwang Group's security team for a specific reason. Through her bodyguard, Wan Soo faces a secret of the Hwain Family. (Source: AsianWiki) Episodes: 10 Duration: 60 min. Airs On: Wednesday Content Rating: Not Yet Rated",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -351,9 +346,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=2ZVIms3Iw9ZjD-HfyC8ieFFYbXEHZMU377j1Cq1i4jc&s=1721197745&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://qek81wv5rz.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PLUfOxFePlbt9ZvANiC2QNpCsXiigaqEw5xK76EUIeA&s=1721220004&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=2ZVIms3Iw9ZjD-HfyC8ieFFYbXEHZMU377j1Cq1i4jc&s=1721197745&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://qek81wv5rz.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PLUfOxFePlbt9ZvANiC2QNpCsXiigaqEw5xK76EUIeA&s=1721220004&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -362,22 +357,22 @@
                         }
                     },
                     {
-                        "url": "https://s-delivery31.mxcontent.net/v/c9521f269f804a3e6b83ce7d3241bef8.mp4?s=kT0eMcskG0S5ASBG-T0nYg&e=1721219347&_t=1721201595",
+                        "url": "https://s-delivery31.mxcontent.net/v/c9521f269f804a3e6b83ce7d3241bef8.mp4?s=JFIm4pSL0_hc7J3n9DrnRw&e=1721241606&_t=1721220855",
                         "quality": "MixDrop",
-                        "videoUrl": "https://s-delivery31.mxcontent.net/v/c9521f269f804a3e6b83ce7d3241bef8.mp4?s=kT0eMcskG0S5ASBG-T0nYg&e=1721219347&_t=1721201595",
+                        "videoUrl": "https://s-delivery31.mxcontent.net/v/c9521f269f804a3e6b83ce7d3241bef8.mp4?s=JFIm4pSL0_hc7J3n9DrnRw&e=1721241606&_t=1721220855",
                         "headers": {
                             "Referer": "https://mixdrop.co/"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=01708Y2L2dCL3a&expires=1721267746&ip=F0qQKRWZD19XKxR&token=f9aVHbAzUp32",
+                        "url": "https://streamtape.com/get_video?id=01708Y2L2dCL3a&expires=1721290006&ip=FROsD0ETKxSHDN&token=VN6eqOzBg72a",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=01708Y2L2dCL3a&expires=1721267746&ip=F0qQKRWZD19XKxR&token=f9aVHbAzUp32"
+                        "videoUrl": "https://streamtape.com/get_video?id=01708Y2L2dCL3a&expires=1721290006&ip=FROsD0ETKxSHDN&token=VN6eqOzBg72a"
                     },
                     {
-                        "url": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=2ZVIms3Iw9ZjD-HfyC8ieFFYbXEHZMU377j1Cq1i4jc&s=1721197745&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://qek81wv5rz.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PLUfOxFePlbt9ZvANiC2QNpCsXiigaqEw5xK76EUIeA&s=1721220004&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "StreamWish - 720p",
-                        "videoUrl": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=2ZVIms3Iw9ZjD-HfyC8ieFFYbXEHZMU377j1Cq1i4jc&s=1721197745&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://qek81wv5rz.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PLUfOxFePlbt9ZvANiC2QNpCsXiigaqEw5xK76EUIeA&s=1721220004&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -386,9 +381,9 @@
                         }
                     },
                     {
-                        "url": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=2ZVIms3Iw9ZjD-HfyC8ieFFYbXEHZMU377j1Cq1i4jc&s=1721197745&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://qek81wv5rz.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PLUfOxFePlbt9ZvANiC2QNpCsXiigaqEw5xK76EUIeA&s=1721220004&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "quality": "StreamWish - 480p",
-                        "videoUrl": "https://kkb9w6hpzyq8.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=2ZVIms3Iw9ZjD-HfyC8ieFFYbXEHZMU377j1Cq1i4jc&s=1721197745&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://qek81wv5rz.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PLUfOxFePlbt9ZvANiC2QNpCsXiigaqEw5xK76EUIeA&s=1721220004&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
