@@ -77,6 +77,56 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/shy-season-2",
+                                "title": "SHY Season 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12075.png"
+                            },
+                            {
+                                "url": "/anime/spice-and-wolf-merchant-meets-the-wise-wolf",
+                                "title": "Spice and Wolf: merchant meets the wise wolf",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11903.png"
+                            },
+                            {
+                                "url": "/anime/ninjala",
+                                "title": "Ninjala",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11109.png"
+                            },
+                            {
+                                "url": "/anime/kamen-rider-gotchard-anime",
+                                "title": "Kamen Rider Gotchard Anime",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12024.png"
+                            },
+                            {
+                                "url": "/anime/run-for-money-the-great-mission",
+                                "title": "Run For Money : The Great Mission",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11152.png"
+                            },
+                            {
+                                "url": "/anime/egumi-legacy",
+                                "title": "Egumi Legacy",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12125.png"
+                            },
+                            {
+                                "url": "/anime/the-magical-girl-and-the-evil-lieutenant-used-to-be-archenemies",
+                                "title": "The Magical Girl and the Evil Lieutenant Used to Be Archenemies",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12124.png"
+                            },
+                            {
+                                "url": "/anime/no-longer-allowed-in-another-world",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12123.png"
+                            },
+                            {
+                                "url": "/anime/the-charm-of-soul-pets",
+                                "title": "The Charm of Soul Pets",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12026.png"
+                            },
+                            {
+                                "url": "/anime/perman-birdman-ga-yatte-kita",
+                                "title": "Perman: Birdman ga Yatte Kita!!",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12122.png"
+                            },
+                            {
                                 "url": "/anime/one-hundred-thousand-years-of-qi-refining",
                                 "title": "One Hundred Thousand Years of Qi Refining",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11097.png"
@@ -85,56 +135,6 @@
                                 "url": "/anime/dubu-wangu-2nd-season",
                                 "title": "Dubu Wangu 2nd Season",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11791.png"
-                            },
-                            {
-                                "url": "/anime/dubu-xiaoyao",
-                                "title": "Dubu Xiaoyao",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11157.png"
-                            },
-                            {
-                                "url": "/anime/jueshi-zhan-hun",
-                                "title": "Jueshi Zhan Hun",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11991.png"
-                            },
-                            {
-                                "url": "/anime/ling-jian-zun-4",
-                                "title": "Ling Jian Zun 4",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11115.png"
-                            },
-                            {
-                                "url": "/anime/san-xiu-zhi-wang",
-                                "title": "San Xiu Zhi Wang",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11917.png"
-                            },
-                            {
-                                "url": "/anime/jin-can-wangshi",
-                                "title": "Jin Can Wangshi",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12042.png"
-                            },
-                            {
-                                "url": "/anime/tales-of-demons-and-gods-season-7",
-                                "title": "Tales of Demons and Gods Season 7",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11992.png"
-                            },
-                            {
-                                "url": "/anime/the-legend-of-sword-domain-3rd-season",
-                                "title": "The Legend of Sword Domain 3rd Season",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11543.png"
-                            },
-                            {
-                                "url": "/anime/swallowed-star-4",
-                                "title": "Swallowed Star 4",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11475.png"
-                            },
-                            {
-                                "url": "/anime/ten-thousand-worlds-2",
-                                "title": "Ten Thousand Worlds 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11775.png"
-                            },
-                            {
-                                "url": "/anime/wu-shang-shen-di-2",
-                                "title": "Wu Shang Shen Di 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11193.png"
                             }
                         ],
                         "hasNextPage": true
@@ -255,19 +255,28 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/egumi-legacy/148340",
+                        "name": "Episode 2"
+                    },
+                    {
+                        "url": "/player/egumi-legacy/148339",
+                        "name": "Episode 1"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=VOGjAU2N9fPcfhGWyVbh7g%3D%3D",
+                        "url": "https://slothanime.com/player-url/148340?vrf=z%2F%2Bz2GyQP2a3AcPAGJC9bQ%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=VOGjAU2N9fPcfhGWyVbh7g%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/148340?vrf=z%2F%2Bz2GyQP2a3AcPAGJC9bQ%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/egumi-legacy/148340"
                         }
                     }
                 ],

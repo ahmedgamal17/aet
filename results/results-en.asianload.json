@@ -7,7 +7,7 @@
                     {
                         "animes": [
                             {
-                                "url": "/videos/red-swan-2024-episode-4",
+                                "url": "/videos/red-swan-2024-episode-6",
                                 "title": "Red Swan (2024)",
                                 "thumbnail_url": "https://asianimg.pro/cover/she-1719546727.png"
                             },
@@ -323,22 +323,25 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/videos/red-swan-2024-episode-6",
+                    "title": "Red Swan (2024)",
+                    "description": "Oh Wan Soo reached the top of her sport as a golf player. Dreaming of having a perfect life within the upper class, she marries the successor of the Hwain Group. Now, Wan Soo works as the chairperson for a foundation and has gained worldwide fame through her charity work. She has Seo Do Yoon as her new bodyguard. Do Yoon, who graduated from the police university, excels in the martial arts. He joined the Hwang Group's security team for a specific reason. Through her bodyguard, Wan Soo faces a secret of the Hwain Family. (Source: AsianWiki) Episodes: 10 Duration: 60 min. Airs On: Wednesday Content Rating: Not Yet Rated",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/red-swan-2024-episode-4",
-                        "name": "SUB Episode: 4",
-                        "date_upload": 1720576008000,
-                        "episode_number": 4.0
+                        "url": "/videos/red-swan-2024-episode-6",
+                        "name": "SUB Episode: 6",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/videos/red-swan-2024-episode-3",
-                        "name": "SUB Episode: 3",
-                        "date_upload": 1720576000000,
-                        "episode_number": 3.0
+                        "url": "/videos/red-swan-2024-episode-5",
+                        "name": "SUB Episode: 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -346,49 +349,44 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://qek81wv5rz.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PLUfOxFePlbt9ZvANiC2QNpCsXiigaqEw5xK76EUIeA&s=1721220004&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/04404/d6sgn1c4hib6_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=o7MMS40e5s6HcKS9AELnwNuUfQCHIGVcshbe_bumMC4&s=1721240873&e=129600&f=22020154&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
                         "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://qek81wv5rz.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PLUfOxFePlbt9ZvANiC2QNpCsXiigaqEw5xK76EUIeA&s=1721220004&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/04404/d6sgn1c4hib6_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=o7MMS40e5s6HcKS9AELnwNuUfQCHIGVcshbe_bumMC4&s=1721240873&e=129600&f=22020154&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://dwish.pro",
-                            "Referer": "https://dwish.pro/e/ap4zvo3w88wf?caption_1=https://sub.plcool1.com&sub_1=English"
+                            "Referer": "https://dwish.pro/e/d6sgn1c4hib6?caption_1=https://sub.plcool1.com&sub_1=English"
                         }
                     },
                     {
-                        "url": "https://s-delivery31.mxcontent.net/v/c9521f269f804a3e6b83ce7d3241bef8.mp4?s=JFIm4pSL0_hc7J3n9DrnRw&e=1721241606&_t=1721220855",
+                        "url": "https://s-delivery41.mxcontent.net/v/7a8ef80a970fa76e670d4e808806b5de.mp4?s=-Sc_anIxhjsuFdNE7D8yRA&e=1721262474&_t=1721243145",
                         "quality": "MixDrop",
-                        "videoUrl": "https://s-delivery31.mxcontent.net/v/c9521f269f804a3e6b83ce7d3241bef8.mp4?s=JFIm4pSL0_hc7J3n9DrnRw&e=1721241606&_t=1721220855",
+                        "videoUrl": "https://s-delivery41.mxcontent.net/v/7a8ef80a970fa76e670d4e808806b5de.mp4?s=-Sc_anIxhjsuFdNE7D8yRA&e=1721262474&_t=1721243145",
                         "headers": {
                             "Referer": "https://mixdrop.co/"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=01708Y2L2dCL3a&expires=1721290006&ip=FROsD0ETKxSHDN&token=VN6eqOzBg72a",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=01708Y2L2dCL3a&expires=1721290006&ip=FROsD0ETKxSHDN&token=VN6eqOzBg72a"
-                    },
-                    {
-                        "url": "https://qek81wv5rz.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PLUfOxFePlbt9ZvANiC2QNpCsXiigaqEw5xK76EUIeA&s=1721220004&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/04404/d6sgn1c4hib6_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=o7MMS40e5s6HcKS9AELnwNuUfQCHIGVcshbe_bumMC4&s=1721240873&e=129600&f=22020154&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
                         "quality": "StreamWish - 720p",
-                        "videoUrl": "https://qek81wv5rz.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PLUfOxFePlbt9ZvANiC2QNpCsXiigaqEw5xK76EUIeA&s=1721220004&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/04404/d6sgn1c4hib6_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=o7MMS40e5s6HcKS9AELnwNuUfQCHIGVcshbe_bumMC4&s=1721240873&e=129600&f=22020154&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://dwish.pro",
-                            "Referer": "https://dwish.pro/e/ap4zvo3w88wf?caption_1=https://sub.plcool1.com&sub_1=English"
+                            "Referer": "https://dwish.pro/e/d6sgn1c4hib6?caption_1=https://sub.plcool1.com&sub_1=English"
                         }
                     },
                     {
-                        "url": "https://qek81wv5rz.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PLUfOxFePlbt9ZvANiC2QNpCsXiigaqEw5xK76EUIeA&s=1721220004&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/04404/d6sgn1c4hib6_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=o7MMS40e5s6HcKS9AELnwNuUfQCHIGVcshbe_bumMC4&s=1721240873&e=129600&f=22020154&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
                         "quality": "StreamWish - 480p",
-                        "videoUrl": "https://qek81wv5rz.sw-cdnstreamwish.com/hls2/01/04345/ap4zvo3w88wf_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PLUfOxFePlbt9ZvANiC2QNpCsXiigaqEw5xK76EUIeA&s=1721220004&e=129600&f=21729768&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/04404/d6sgn1c4hib6_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=o7MMS40e5s6HcKS9AELnwNuUfQCHIGVcshbe_bumMC4&s=1721240873&e=129600&f=22020154&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://dwish.pro",
-                            "Referer": "https://dwish.pro/e/ap4zvo3w88wf?caption_1=https://sub.plcool1.com&sub_1=English"
+                            "Referer": "https://dwish.pro/e/d6sgn1c4hib6?caption_1=https://sub.plcool1.com&sub_1=English"
                         }
                     }
                 ],
