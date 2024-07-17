@@ -137,6 +137,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodes/مسلسل-land-women-الموسم-الأول-الحلقة-5",
+                                "title": "مسلسل Land of Women الموسم الأول – الحلقة 5",
+                                "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/06/0a97ce3e5234760238c1693d1d980721-400x600.jpg?resize=400%2C600"
+                            },
+                            {
+                                "url": "/episodes/مسلسل-presumed-innocent-الموسم-الاول-الحلقة-7",
+                                "title": "مسلسل Presumed Innocent الموسم الاول – الحلقة 7",
+                                "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/06/1a3fe1508ef03e378f33e67f1d8a3fbe-400x600.jpg?resize=400%2C600"
+                            },
+                            {
+                                "url": "/movies/فيلم-inheritance-2024-مترجم-2",
+                                "title": "فيلم The Inheritance 2024 مترجم",
+                                "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/07/413d1b7bae1d0924af8b5f1d8530d2d9-400x600.jpg?resize=400%2C600"
+                            },
+                            {
+                                "url": "/episodes/مسلسل-acolyte-الموسم-الأول-الحلقة-8-والاخي",
+                                "title": "مسلسل The Acolyte الموسم الأول – الحلقة 8 والاخيرة",
+                                "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/06/13bca37ab2c3fc7682dbd378dc558cc6-400x600.jpg?resize=400%2C600"
+                            },
+                            {
+                                "url": "/episodes/مسلسل-sunny-الموسم-الأول-الحلقة-3",
+                                "title": "مسلسل Sunny الموسم الأول – الحلقة 3",
+                                "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/07/ee7e6ccfb1d357631167ce9f0f5ad4b3-400x600.jpg?resize=400%2C600"
+                            },
+                            {
                                 "url": "/movies/فيلم-hacker-2016-مترجم",
                                 "title": "فيلم Hacker 2016 مترجم",
                                 "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/07/a38e6d4ef517a3a33df5b41ebfc3cae4.jpg?resize=400%2C600"
@@ -230,31 +255,6 @@
                                 "url": "/anime-episodes/انمي-shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-الحلقة-3",
                                 "title": "انمي Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru – الحلقة 3",
                                 "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/07/a163f09ce45752c9d90d1d09fe5afb93-400x600.jpg?resize=400%2C600"
-                            },
-                            {
-                                "url": "/anime-episodes/انمي-ookami-koushinryou-merchant-meets-wise-wolf-الحلقة-16",
-                                "title": "انمي Ookami to Koushinryou: Merchant Meets the Wise Wolf – الحلقة 16",
-                                "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/04/a70429aab167a2c31ce83ac95f607181.webp?resize=400%2C600"
-                            },
-                            {
-                                "url": "/anime-episodes/انمي-shy-2nd-season-الحلقة-3",
-                                "title": "انمي Shy 2nd Season – الحلقة 3",
-                                "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/07/2da6f5317ae5e5018cb8f6fcf788e225.jpg?resize=400%2C600"
-                            },
-                            {
-                                "url": "/anime-episodes/انمي-mayonaka-punch-الحلقة-2",
-                                "title": "انمي Mayonaka Punch – الحلقة 2",
-                                "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/07/e04a3fec6851fbbc49d6c59d570ecc29.jpg?resize=400%2C600"
-                            },
-                            {
-                                "url": "/anime-episodes/انمي-nige-jouzu-no-wakagimi-الحلقة-2",
-                                "title": "انمي Nige Jouzu no Wakagimi – الحلقة 2",
-                                "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/07/3b478ddb3bd211770e723c7df7c9b633.jpg?resize=400%2C600"
-                            },
-                            {
-                                "url": "/series/مسلسل-laliga-all-access-الموسم-الأول",
-                                "title": "مسلسل LaLiga: All Access الموسم الأول",
-                                "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/07/33705e2e47a4bb46dfad4b396981ab97-400x600.jpg?resize=400%2C600"
                             }
                         ],
                         "hasNextPage": true
@@ -421,8 +421,39 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://r465--3xa1wlsd.c.scdns.io/stream/v1/hls/ql1HZqrUSc96bKcRk8ykHA/1721219348/www.faselhd.center/all/52.159.142.104/no/US/0/03-02/4/5adbca818806803f701185f5bce33711/160_hd1080b_playlist.m3u8",
+                        "quality": "1080p",
+                        "videoUrl": "https://r465--3xa1wlsd.c.scdns.io/stream/v1/hls/ql1HZqrUSc96bKcRk8ykHA/1721219348/www.faselhd.center/all/52.159.142.104/no/US/0/03-02/4/5adbca818806803f701185f5bce33711/160_hd1080b_playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://www.faselhd.pro",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://r465--3xa1wlsd.c.scdns.io/stream/v1/hls/zCbHbY5mUXQFzjoQHvHFTQ/1721219348/www.faselhd.center/all/52.159.142.104/no/US/0/03-02/4/5adbca818806803f701185f5bce33711/140_sd360b_playlist.m3u8",
+                        "quality": "360p",
+                        "videoUrl": "https://r465--3xa1wlsd.c.scdns.io/stream/v1/hls/zCbHbY5mUXQFzjoQHvHFTQ/1721219348/www.faselhd.center/all/52.159.142.104/no/US/0/03-02/4/5adbca818806803f701185f5bce33711/140_sd360b_playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://www.faselhd.pro",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://r465--3xa1wlsd.c.scdns.io/stream/v1/hls/8tU552QayyDthDYk55GnDg/1721219348/www.faselhd.center/all/52.159.142.104/no/US/0/03-02/4/5adbca818806803f701185f5bce33711/155_hd720b_playlist.m3u8",
+                        "quality": "720p",
+                        "videoUrl": "https://r465--3xa1wlsd.c.scdns.io/stream/v1/hls/8tU552QayyDthDYk55GnDg/1721219348/www.faselhd.center/all/52.159.142.104/no/US/0/03-02/4/5adbca818806803f701185f5bce33711/155_hd720b_playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://www.faselhd.pro",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
