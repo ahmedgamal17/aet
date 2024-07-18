@@ -36,7 +36,7 @@
 | ar.witanime          |     ✅     | [results-ar.witanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.witanime.json)                   |
 | ar.xsanime           | ❌<br>0/5  | [results-ar.xsanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.xsanime.json)                     |
 | ar.xsmovie           | ❌<br>0/5  | [results-ar.xsmovie.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.xsmovie.json)                     |
-| en.allanime          | ❌<br>4/6  | [results-en.allanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanime.json)                   |
+| en.allanime          |     ✅     | [results-en.allanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanime.json)                   |
 | en.allanimechi       |     ✅     | [results-en.allanimechi.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanimechi.json)             |
 | en.allmovies         | ❌<br>0/5  | [results-en.allmovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allmovies.json)                 |
 | en.animeflix         | ❌<br>0/6  | [results-en.animeflix.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animeflix.json)                 |
@@ -50,7 +50,7 @@
 | en.animesakura       | ❌<br>4/6  | [results-en.animesakura.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animesakura.json)             |
 | en.animetake         | ❌<br>0/6  | [results-en.animetake.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animetake.json)                 |
 | en.asiaflix          | ❌<br>0/6  | [results-en.asiaflix.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.asiaflix.json)                   |
-| en.asianload         |     ✅     | [results-en.asianload.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.asianload.json)                 |
+| en.asianload         | ❌<br>4/5  | [results-en.asianload.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.asianload.json)                 |
 | en.ask4movie         | ❌<br>0/6  | [results-en.ask4movie.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.ask4movie.json)                 |
 | en.bestdubbedanime   |     ✅     | [results-en.bestdubbedanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.bestdubbedanime.json)     |
 | en.donghuastream     | ❌<br>3/6  | [results-en.donghuastream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.donghuastream.json)         |

@@ -161,7 +161,7 @@
   },
   {
     "pkg": "en.allanime",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanime.json"
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "pkg": "en.asianload",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.asianload.json"
   },
   {
