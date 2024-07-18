@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5599",
+                                "title": "Gimai Seikatsu",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/6853fc65c7416185c34900a0d8df2325b3279c6e6f243ed50c5bf81ba1bba78d.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5481",
                                 "title": "Beyblade X",
                                 "artist": "HnY",
@@ -71,12 +77,6 @@
                                 "title": "Yozakura-san Chi no Daisakusen",
                                 "artist": "Disney_Plus",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/43b7c20f1cb62189d2439f74199ae5a76a686471ea2e7fb3c4901c78d4e7acf9.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5515",
-                                "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/5e94a0f4d3015567cc0da443857e805108dd91035e53eddffdfcaed5205648f3.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5599",
+                                "title": "Gimai Seikatsu",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/6853fc65c7416185c34900a0d8df2325b3279c6e6f243ed50c5bf81ba1bba78d.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5481",
                                 "title": "Beyblade X",
                                 "artist": "HnY",
@@ -153,12 +159,6 @@
                                 "title": "Yozakura-san Chi no Daisakusen",
                                 "artist": "Disney_Plus",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/43b7c20f1cb62189d2439f74199ae5a76a686471ea2e7fb3c4901c78d4e7acf9.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5515",
-                                "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/5e94a0f4d3015567cc0da443857e805108dd91035e53eddffdfcaed5205648f3.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5481",
-                    "title": "Beyblade X",
-                    "author": "OLM",
-                    "description": "Kazami Bird, aiming to become a professional, meets former champion Kurosu Ekusu also known as 'Kamen X' and forms a team so that they can aim for the \"top\" of the X Tower. But what awaits them is a spectacular battle that no one has ever seen before: the yet unseen \"X.\" The super accelerated beyblade runs through a new era!",
-                    "genre": "Adventure, Sports",
+                    "url": "/anime/?anime_id=5599",
+                    "title": "Gimai Seikatsu",
+                    "author": "Studio Deen",
+                    "description": "Yuuta Asamura gets a new stepsister after his father remarries, Saki Ayase, who happens to be the number one beauty of the school year. They promise each other not to be too close, not to be too opposing, and to simply keep a vague and comfortable distance, having learned important values about men and women relationships from their parents' previous ones. Saki, who has worked alone for the sake of her family, doesn't know how to properly rely on others, whereas Yuuta is unsure of how to truly treat her. Standing on fairly equal ground, these two gradually learn the comfort of living together. Their relationship progresses from strangers to friends as the days pass. This is a story that may one day lead to love.\n\nSynonyms: Days with My Stepsister",
+                    "genre": "Romance",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/5a7f40d100f95368e34573dbaa1ca209c312f41242e9f97ce39eb7258d929363.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/fb01f875d738c2251a76d3993197e4c933398bd5eff9456391d2c7f67b94b39e.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/ebb58162-aeeb-f23f-202f-a4c9530a7f46/534afd6ed37262b4957f8001621668cc35c2b290564a1adb5968f3d3291e654b",
-                        "name": "Episode 40",
-                        "date_upload": 1721278834000,
-                        "episode_number": 40.0
+                        "url": "/play/05d34fd4-78c6-c31a-a818-4d8bde380ec7/9661b8a6b1a6de91227ccb54805e59d8094d7d923d29a1fa356e8596a34e3b2c",
+                        "name": "Episode 3",
+                        "date_upload": 1721306125000,
+                        "episode_number": 3.0
                     },
                     {
-                        "url": "/play/ebb58162-aeeb-f23f-202f-a4c9530a7f46/127c299bc3409a61e568cc10989870f32f972ce59a55111ab62a29485199e64f",
-                        "name": "Episode 39",
-                        "date_upload": 1720756149000,
-                        "episode_number": 39.0
+                        "url": "/play/05d34fd4-78c6-c31a-a818-4d8bde380ec7/92f4e2acfa47e601dc73b13a6f11161e6adaf4830ddc570a77873df49bd9837f",
+                        "name": "Episode 2",
+                        "date_upload": 1720701336000,
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/2076e11b41668e6683c28ffb0b21accb250902ca86c6160cb3a230eb12442c0f?file=AnimePahe_Beyblade_X_-_40_1080p_HnY.mp4&token=2iA0F2z2xeVBffUfi3X0MQ&expires=1721298565",
-                        "quality": "HnY · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/2076e11b41668e6683c28ffb0b21accb250902ca86c6160cb3a230eb12442c0f?file=AnimePahe_Beyblade_X_-_40_1080p_HnY.mp4&token=2iA0F2z2xeVBffUfi3X0MQ&expires=1721298565"
+                        "url": "https://eu-99.files.nextcdn.org/get/99/02/3a6eecc22ba48d87acbdc168219f5ef23929fa00209f187717e05ba03b67c3d6?file=AnimePahe_Gimai_Seikatsu_-_03_720p_SubsPlease.mp4&token=f_qmfHqljxyKgLti_BH5hg&expires=1721320846",
+                        "quality": "SubsPlease · 720p",
+                        "videoUrl": "https://eu-99.files.nextcdn.org/get/99/02/3a6eecc22ba48d87acbdc168219f5ef23929fa00209f187717e05ba03b67c3d6?file=AnimePahe_Gimai_Seikatsu_-_03_720p_SubsPlease.mp4&token=f_qmfHqljxyKgLti_BH5hg&expires=1721320846"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/66841330d0319f13bad359a46662a244cf5fbdd83e1b43a84da7034324a25c99?file=AnimePahe_Beyblade_X_-_40_720p_HnY.mp4&token=yXJ8ekxIzpT7oI_4-dyoyA&expires=1721298563",
-                        "quality": "HnY · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/66841330d0319f13bad359a46662a244cf5fbdd83e1b43a84da7034324a25c99?file=AnimePahe_Beyblade_X_-_40_720p_HnY.mp4&token=yXJ8ekxIzpT7oI_4-dyoyA&expires=1721298563"
-                    },
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/a322fcef09a1f231b2c650b3842b47ff736dcd3b77cdbf868c3fdaacfda802f1?file=AnimePahe_Beyblade_X_-_40_360p_HnY.mp4&token=UDl9kC_j7WIrQ82jlOS-rQ&expires=1721298562",
-                        "quality": "HnY · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/a322fcef09a1f231b2c650b3842b47ff736dcd3b77cdbf868c3fdaacfda802f1?file=AnimePahe_Beyblade_X_-_40_360p_HnY.mp4&token=UDl9kC_j7WIrQ82jlOS-rQ&expires=1721298562"
+                        "url": "https://eu-99.files.nextcdn.org/get/99/02/26ccec4b47a28ef87fc47d9a527db9239b516592c1e1b93a6a0b5028c985e039?file=AnimePahe_Gimai_Seikatsu_-_03_360p_SubsPlease.mp4&token=J631XvUVOvr-WK2rdaRDTA&expires=1721320844",
+                        "quality": "SubsPlease · 360p",
+                        "videoUrl": "https://eu-99.files.nextcdn.org/get/99/02/26ccec4b47a28ef87fc47d9a527db9239b516592c1e1b93a6a0b5028c985e039?file=AnimePahe_Gimai_Seikatsu_-_03_360p_SubsPlease.mp4&token=J631XvUVOvr-WK2rdaRDTA&expires=1721320844"
                     }
                 ],
                 "passed": true
