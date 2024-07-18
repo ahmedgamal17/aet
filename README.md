@@ -1,6 +1,6 @@
 ## Extension status
 
-### 43/88(49%) are working
+### 44/88(50%) are working
 
 | Extension            |  Status   | Log                                                                                                                                       |
 | :------------------- | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,7 +50,7 @@
 | en.animesakura       | ❌<br>4/6  | [results-en.animesakura.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animesakura.json)             |
 | en.animetake         | ❌<br>0/6  | [results-en.animetake.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animetake.json)                 |
 | en.asiaflix          | ❌<br>0/6  | [results-en.asiaflix.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.asiaflix.json)                   |
-| en.asianload         | ❌<br>4/5  | [results-en.asianload.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.asianload.json)                 |
+| en.asianload         |     ✅     | [results-en.asianload.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.asianload.json)                 |
 | en.ask4movie         | ❌<br>0/6  | [results-en.ask4movie.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.ask4movie.json)                 |
 | en.bestdubbedanime   |     ✅     | [results-en.bestdubbedanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.bestdubbedanime.json)     |
 | en.donghuastream     | ❌<br>3/6  | [results-en.donghuastream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.donghuastream.json)         |
