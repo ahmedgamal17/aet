@@ -72,7 +72,7 @@
                                 "artist": "Emma D'Arcy, Olivia Cooke, Matt Smith, Rhys Ifans",
                                 "author": "",
                                 "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-                                "genre": "Drama, Action & Adventure, Science-Fiction, Romance, Fantasy",
+                                "genre": "Drama, Action & Adventure, Science-Fiction, Fantasy, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/301444667/s276/house-of-the-dragon.webp",
                                 "initialized": true
                             },
@@ -182,7 +182,7 @@
                                 "artist": "Anthony Hopkins, Tom Hughes, Sara Martins, Jojo Macari",
                                 "author": "",
                                 "description": "The series explores a side of Rome never before told - the dirty business of entertaining the masses, giving the mob what they want most - blood and sport.",
-                                "genre": "Comedy, Drama, Action & Adventure",
+                                "genre": "Drama, Action & Adventure, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/318831959/s276/those-about-to-die.webp",
                                 "initialized": true
                             },
@@ -192,7 +192,7 @@
                                 "artist": "Sam Corlett, Frida Gustavsson, Leo Suter, Jóhannes Haukur Jóhannesson",
                                 "author": "",
                                 "description": "Follow-up series to 'Vikings' set 100 years later and focusing on the adventures of Leif Erikson, Freydis, Harald Hardrada, and the Norman King William the Conqueror.",
-                                "genre": "Action & Adventure, Drama, History, Romance, War & Military",
+                                "genre": "Drama, History, Romance, War & Military, Action & Adventure",
                                 "thumbnail_url": "https://images.justwatch.com/poster/302208571/s276/vikings-valhalla.webp",
                                 "initialized": true
                             },
@@ -272,7 +272,7 @@
                                 "artist": "Cailey Fleming, Ryan Reynolds, John Krasinski, Fiona Shaw",
                                 "author": "John Krasinski",
                                 "description": "A young girl who goes through a difficult experience begins to see everyone's imaginary friends who have been left behind as their real-life friends have grown up.",
-                                "genre": "Kids & Family, Comedy, Fantasy, Animation, Drama",
+                                "genre": "Comedy, Fantasy, Kids & Family, Animation, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/315756972/s276/if-2024.webp",
                                 "initialized": true
                             },
@@ -342,7 +342,7 @@
                                 "artist": "",
                                 "author": "",
                                 "description": "Documentary series focusing on detectives and prosecutors as they revisit their most challenging homicide cases in the city of New York.",
-                                "genre": "Crime, Documentary",
+                                "genre": "Documentary, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/312763841/s276/homicide.webp",
                                 "initialized": true
                             },
@@ -572,7 +572,7 @@
                                 "artist": "Aoi Yuki, Ayana Taketatsu, Kaito Ishikawa, Maaya Uchida",
                                 "author": "",
                                 "description": "The scenery takes place in a private high school involving the concept of \"saviors.\" They are known as people who possess awakened memories of their past lives. The story tells of a young boy named Moroha Haimura who comes to this private school. At the school, there are two types of people: Saviors, who fight enemies with weapons and techniques gleaned from the Puraana powers from their own bodies, and Kuroma, who wipe out enemies with magic to manipulate the Maana powers that surpass physics. Moroha Haimura is the first person with past lives of both Shirogane and Kuroma.",
-                                "genre": "Animation, Action & Adventure, Fantasy, Romance",
+                                "genre": "Animation, Romance, Action & Adventure, Fantasy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/175939333/s276/world-break-aria-of-curse-for-a-holy-swordsman.webp",
                                 "initialized": true
                             },
@@ -617,16 +617,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0469641,MOVIE,/us/movie/september-2006",
-                                "title": "World Trade Center",
-                                "artist": "Nicolas Cage, Michael Peña, Maria Bello, Maggie Gyllenhaal",
-                                "author": "Oliver Stone",
-                                "description": "Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.",
-                                "genre": "History, Mystery & Thriller, Drama",
-                                "thumbnail_url": "https://images.justwatch.com/poster/250979950/s276/september-2006.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0262911,MOVIE,/us/movie/world-traveler",
                                 "title": "World Traveler",
                                 "artist": "Billy Crudup, Julianne Moore, Cleavant Derricks, David Keith",
@@ -634,6 +624,16 @@
                                 "description": "After hitting the road a man encounters characters that make him realize the importance of family.",
                                 "genre": "Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/260257685/s276/world-traveler.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0469641,MOVIE,/us/movie/september-2006",
+                                "title": "World Trade Center",
+                                "artist": "Nicolas Cage, Michael Peña, Maria Bello, Maggie Gyllenhaal",
+                                "author": "Oliver Stone",
+                                "description": "Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.",
+                                "genre": "Drama, History, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/250979950/s276/september-2006.webp",
                                 "initialized": true
                             },
                             {
@@ -727,16 +727,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt15472028,SHOW,/us/tv-show/world-war-2-the-call-of-duty-a-complete-timeline",
-                                "title": "World War 2: The Call of Duty - A Complete Timeline",
-                                "artist": "",
-                                "author": "Liam Dale",
-                                "description": "Track the main events of World War II with the help of remarkable archive footage in this extensive 24 episode series, which shines a spotlight on this monumental period of history.",
-                                "genre": "History, War & Military, Documentary",
-                                "thumbnail_url": "https://images.justwatch.com/poster/298702672/s276/world-war-2-the-call-of-duty-a-complete-timeline.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0057801,SHOW,/us/tv-show/world-war-one",
                                 "title": "World War One",
                                 "artist": "Robert Ryan",
@@ -744,6 +734,16 @@
                                 "description": "This historical survey of the First World War was produced and aired by CBS to commemorate the 50th anniversary of the opening of hostilities. The series used footage that was shot during the era of the war. Much of the footage had never been aired on television before.",
                                 "genre": "Documentary, History, War & Military",
                                 "thumbnail_url": "https://images.justwatch.com/poster/138403766/s276/world-war-one.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt15472028,SHOW,/us/tv-show/world-war-2-the-call-of-duty-a-complete-timeline",
+                                "title": "World War 2: The Call of Duty - A Complete Timeline",
+                                "artist": "",
+                                "author": "Liam Dale",
+                                "description": "Track the main events of World War II with the help of remarkable archive footage in this extensive 24 episode series, which shines a spotlight on this monumental period of history.",
+                                "genre": "History, War & Military, Documentary",
+                                "thumbnail_url": "https://images.justwatch.com/poster/298702672/s276/world-war-2-the-call-of-duty-a-complete-timeline.webp",
                                 "initialized": true
                             },
                             {
@@ -797,13 +797,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": ",SHOW,/us/tv-show/world-series",
-                                "title": "MLB World Series",
-                                "artist": "Joe Buck, Jeanne Zelasko, Tim McCarver, Chris Myers",
+                                "url": "tt0155394,SHOW,/us/tv-show/worlds-wildest-police-videos",
+                                "title": "World's Wildest Police Videos",
+                                "artist": "John Bunnell",
                                 "author": "",
-                                "description": "",
-                                "genre": "",
-                                "thumbnail_url": "https://images.justwatch.com/poster/300523048/s276/world-series.webp",
+                                "description": "An American reality TV series that deals with police videos from across the world. Video footage of car chases, subsequent arrests, robberies, riots and other crimes appears on the show.",
+                                "genre": "Action & Adventure, Comedy, Crime, Reality TV, Documentary",
+                                "thumbnail_url": "https://images.justwatch.com/poster/177620157/s276/worlds-wildest-police-videos.webp",
                                 "initialized": true
                             },
                             {
@@ -836,25 +836,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/stream/series/tt1190634:5:1.json",
-                        "name": "S5:E1 - Episode #5.1",
-                        "episode_number": 5.1,
-                        "scanlator": ""
-                    },
-                    {
-                        "url": "/stream/series/tt1190634:4:8.json",
-                        "name": "S4:E8 - Season Four Finale",
-                        "date_upload": 1721260800000,
-                        "episode_number": 4.8,
-                        "scanlator": ""
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             }
         }
