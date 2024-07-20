@@ -255,19 +255,28 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/tp-bon-season-2/148388",
+                        "name": "Episode 12"
+                    },
+                    {
+                        "url": "/player/tp-bon-season-2/148387",
+                        "name": "Episode 11"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=zr1%2FDJF4T2Ec%2F87MoRUAfQ%3D%3D",
+                        "url": "https://slothanime.com/player-url/148388?vrf=LSYWEJxpf5GAOtmdRWHFpQ%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=zr1%2FDJF4T2Ec%2F87MoRUAfQ%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/148388?vrf=LSYWEJxpf5GAOtmdRWHFpQ%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/tp-bon-season-2/148388"
                         }
                     }
                 ],
