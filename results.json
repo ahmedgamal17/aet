@@ -336,7 +336,7 @@
   },
   {
     "pkg": "en.luciferdonghua",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.luciferdonghua.json"
   },
   {
@@ -386,7 +386,7 @@
   },
   {
     "pkg": "en.rule34video",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.rule34video.json"
   },
   {
