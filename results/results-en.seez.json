@@ -248,7 +248,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "kotlinx.serialization.MissingFieldException: Field 'result' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.seez.EmbedSourceList', but it was missing at path: $",
                 "passed": false
             }
         }

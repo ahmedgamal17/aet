@@ -136,68 +136,8 @@
                 "result": [
                     {
                         "animes": [
-                            {
-                                "url": "/Accel-World-dub",
-                                "title": "Accel World",
-                                "thumbnail_url": "https://i.imgur.com/54JeEuA.jpg"
-                            },
-                            {
-                                "url": "/Overlord",
-                                "title": "Overlord",
-                                "thumbnail_url": "https://i.imgur.com/DOC94AF.jpg"
-                            },
-                            {
-                                "url": "/Sword-Art-Online-dub",
-                                "title": "Sword Art Online",
-                                "thumbnail_url": "https://i.imgur.com/fJgCZin.jpg"
-                            },
-                            {
-                                "url": "/Sword-Art-Online-2-dubbed",
-                                "title": "Sword Art Online 2",
-                                "thumbnail_url": "https://i.imgur.com/bx8jrlQ.jpg"
-                            },
-                            {
-                                "url": "/The-World-God-Only-Knows",
-                                "title": "The World God Only Knows",
-                                "thumbnail_url": "https://i.imgur.com/ioIwcGJ.jpg"
-                            },
-                            {
-                                "url": "/Accel-World-Acchel-World",
-                                "title": "Accel World: Acchel World",
-                                "thumbnail_url": "https://i.imgur.com/Y1FAJmu.jpg"
-                            },
-                            {
-                                "url": "/The-World-God-Only-Knows-II",
-                                "title": "The World God Only Knows II",
-                                "thumbnail_url": "https://i.imgur.com/m5RTJRQ.jpg"
-                            },
-                            {
-                                "url": "/In-Another-World-With-My-Smartphone",
-                                "title": "In Another World With My Smartphone",
-                                "thumbnail_url": "https://i.imgur.com/j2RNWQw.jpg"
-                            },
-                            {
-                                "url": "/The-World-God-Only-Knows-Goddesses",
-                                "title": "The World God Only Knows: Goddesses",
-                                "thumbnail_url": "https://i.imgur.com/NFLxBos.jpg"
-                            },
-                            {
-                                "url": "/No-Game-No-Life-dub",
-                                "title": "No Game, No Life",
-                                "thumbnail_url": "https://i.imgur.com/bKppLam.jpg"
-                            },
-                            {
-                                "url": "/Problem-Children-Are-Coming-From-Another-World-Arent-They-",
-                                "title": "Problem Children Are Coming From Another World, Aren't They?",
-                                "thumbnail_url": "https://i.imgur.com/P996YYQ.jpg"
-                            },
-                            {
-                                "url": "/No-Game-No-Life-Specials",
-                                "title": "No Game, No Life Specials",
-                                "thumbnail_url": "https://i.imgur.com/zsBpZWs.jpg"
-                            }
                         ],
-                        "hasNextPage": true
+                        "hasNextPage": false
                     }
                 ],
                 "passed": true
@@ -231,9 +171,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn-lfs.huggingface.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1721697993&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMTY5Nzk5M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=F2kU6qj2s2pcnPY-cC-JMjIZI9FfRFCWeIW0P63YP0lUo3ApfjS2Z5s4vxlSlMJB4NYXavUMP0JkIqBEfr9BF7zg5ZXHOsy30SrGkhk7HWqOxX1eW3I%7EIMr%7EOEz%7EDqgirL6DRVWhVm0Vc155rX1MBsrbr%7EZzFl1pobHKifmf%7EJOJS7i9ZOkWxLWC1559n0bW5Rf-IpYrOrDhbe-s1VLsd7joRzBuend0BuqnYQrpdoGg1VvreJu9WHBm%7E5KN6HuZEWf6-5OPjxHbbcgpt%7EI6sujamBzSxgPgyxZcmHyg5-LFl7vvaWMQ3nz6pvg3ic3XoBCvs5E090s039atmdAQ9Q__&Key-Pair-Id=K3ESJI6DHPFC7",
+                        "url": "https://cdn-lfs.huggingface.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1721716133&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMTcxNjEzM319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=eTKS-byPjXhnBl50peK4%7EGahoppyQBAAwkSo2cSxDQfZg9kqXl7%7EQaVmx5p4t1BE4ajLomOw6J4hqPDmNA5h3JjKfblqPuD%7EX0HKFPj2D50YCQMPAp44oKiARjIf5nq65yWeYbWq215QJt2OjGNPAhEgoW4F6BlMGRAsCiC0XUBJU3eCL%7ERjXWlTaRz%7Ezl0Wg5voO%7EqTaBsJaBiSHcmPIUf9vOfqabRsECrBCyXiLySTKK88XdxlX38t-Ka7-cg6vDaEVtXD7UHTaYwaHJIByLmjMfIsS2fFhfwbdnZNiSzWQb7RD-0tK78r00t-ggyct8Xu%7EepRct9p0hF1bwy2IQ__&Key-Pair-Id=K3ESJI6DHPFC7",
                         "quality": "720p # 1 (BDA-HF)",
-                        "videoUrl": "https://cdn-lfs.huggingface.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1721697993&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMTY5Nzk5M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=F2kU6qj2s2pcnPY-cC-JMjIZI9FfRFCWeIW0P63YP0lUo3ApfjS2Z5s4vxlSlMJB4NYXavUMP0JkIqBEfr9BF7zg5ZXHOsy30SrGkhk7HWqOxX1eW3I%7EIMr%7EOEz%7EDqgirL6DRVWhVm0Vc155rX1MBsrbr%7EZzFl1pobHKifmf%7EJOJS7i9ZOkWxLWC1559n0bW5Rf-IpYrOrDhbe-s1VLsd7joRzBuend0BuqnYQrpdoGg1VvreJu9WHBm%7E5KN6HuZEWf6-5OPjxHbbcgpt%7EI6sujamBzSxgPgyxZcmHyg5-LFl7vvaWMQ3nz6pvg3ic3XoBCvs5E090s039atmdAQ9Q__&Key-Pair-Id=K3ESJI6DHPFC7"
+                        "videoUrl": "https://cdn-lfs.huggingface.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1721716133&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMTcxNjEzM319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=eTKS-byPjXhnBl50peK4%7EGahoppyQBAAwkSo2cSxDQfZg9kqXl7%7EQaVmx5p4t1BE4ajLomOw6J4hqPDmNA5h3JjKfblqPuD%7EX0HKFPj2D50YCQMPAp44oKiARjIf5nq65yWeYbWq215QJt2OjGNPAhEgoW4F6BlMGRAsCiC0XUBJU3eCL%7ERjXWlTaRz%7Ezl0Wg5voO%7EqTaBsJaBiSHcmPIUf9vOfqabRsECrBCyXiLySTKK88XdxlX38t-Ka7-cg6vDaEVtXD7UHTaYwaHJIByLmjMfIsS2fFhfwbdnZNiSzWQb7RD-0tK78r00t-ggyct8Xu%7EepRct9p0hF1bwy2IQ__&Key-Pair-Id=K3ESJI6DHPFC7"
                     },
                     {
                         "url": "//bestdubbedanime.com/xz/api/v.php?u=bWNaWURCV3BqZHdvKy9mbEVzZ2o1Zz09",
