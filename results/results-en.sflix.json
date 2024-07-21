@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/free-moro-hd-111679",
+                                "title": "Moro",
+                                "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/26/91/269136804fe05f7823f0b3c8cd833079/269136804fe05f7823f0b3c8cd833079.jpg"
+                            },
+                            {
                                 "url": "/movie/free-young-woman-and-the-sea-hd-111640",
                                 "title": "Young Woman and the Sea",
                                 "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/ce/11/ce11d8e525bf546ca5ba1979ef1d9cc0/ce11d8e525bf546ca5ba1979ef1d9cc0.jpg"
@@ -160,11 +165,6 @@
                                 "url": "/movie/free-indian-pink-hd-111526",
                                 "title": "Indian Pink",
                                 "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/fc/16/fc16b9e7c5547bbf88f8e510194bffcc/fc16b9e7c5547bbf88f8e510194bffcc.jpg"
-                            },
-                            {
-                                "url": "/movie/free-ice-cream-fever-hd-111523",
-                                "title": "Ice Cream Fever",
-                                "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/3b/8c/3b8c23079d4d600a26d4a59b03a8f484/3b8c23079d4d600a26d4a59b03a8f484.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -474,14 +474,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/free-young-woman-and-the-sea-hd-111640",
-                    "title": "Young Woman and the Sea",
-                    "author": "Walt Disney Pictures, Jerry Bruckheimer Films",
-                    "description": " Through the steadfast support of the women in her life, young Trudy Ederle fights to overcome adversity and the animosity of a patriarchal society to rise through the ranks of the Olympic swimming team. Against all odds, she sets her sights on completing a staggering and dangerous journey — to become the first woman to swim across the brutal 21-mile stretch known as The English Channel.",
-                    "genre": "Drama, History",
+                    "url": "/movie/free-moro-hd-111679",
+                    "title": "Moro",
+                    "author": "",
+                    "description": " A single mother, who had an ominous dream about her husband who passed away before her, tries to reconcile her two sons. With the help of the local community, peace seems to be coming to the family, but soon the entire region becomes embroiled in serious violence due to the unexpected intervention of government forces.",
+                    "genre": "Action, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/ce/11/ce11d8e525bf546ca5ba1979ef1d9cc0/ce11d8e525bf546ca5ba1979ef1d9cc0.jpg",
+                    "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/26/91/269136804fe05f7823f0b3c8cd833079/269136804fe05f7823f0b3c8cd833079.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -489,8 +489,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ajax/movie/episodes/111640",
-                        "name": "Young Woman and the Sea",
+                        "url": "/ajax/movie/episodes/111679",
+                        "name": "Moro",
                         "episode_number": 1.0
                     }
                 ],
