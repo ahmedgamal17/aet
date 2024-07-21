@@ -6,12 +6,12 @@
   },
   {
     "pkg": "all.animexin",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.animexin.json"
   },
   {
     "pkg": "all.chineseanime",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.chineseanime.json"
   },
   {
