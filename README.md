@@ -1,6 +1,6 @@
 ## Extension status
 
-### 39/88(44%) are working
+### 42/88(48%) are working
 
 | Extension            |  Status   | Log                                                                                                                                       |
 | :------------------- | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,12 +55,12 @@
 | en.bestdubbedanime   |     ✅     | [results-en.bestdubbedanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.bestdubbedanime.json)     |
 | en.donghuastream     | ❌<br>3/6  | [results-en.donghuastream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.donghuastream.json)         |
 | en.dopebox           | ❌<br>5/6  | [results-en.dopebox.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.dopebox.json)                     |
-| en.dramacool         | ❌<br>4/6  | [results-en.dramacool.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.dramacool.json)                 |
+| en.dramacool         |     ✅     | [results-en.dramacool.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.dramacool.json)                 |
 | en.edytjedhgmdhm     | ❌<br>2/5  | [results-en.edytjedhgmdhm.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.edytjedhgmdhm.json)         |
 | en.fmovies           | ❌<br>0/6  | [results-en.fmovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.fmovies.json)                     |
 | en.genoanime         | ❌<br>0/6  | [results-en.genoanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.genoanime.json)                 |
 | en.gogoanime         |     ✅     | [results-en.gogoanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.gogoanime.json)                 |
-| en.hahomoe           | ❌<br>5/6  | [results-en.hahomoe.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hahomoe.json)                     |
+| en.hahomoe           |     ✅     | [results-en.hahomoe.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hahomoe.json)                     |
 | en.hanime            |     ✅     | [results-en.hanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hanime.json)                       |
 | en.hentaimama        |     ✅     | [results-en.hentaimama.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hentaimama.json)               |
 | en.hstream           |     ✅     | [results-en.hstream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hstream.json)                     |
@@ -77,7 +77,7 @@
 | en.myrunningman      | ❌<br>5/6  | [results-en.myrunningman.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.myrunningman.json)           |
 | en.nineanime         | ❌<br>4/6  | [results-en.nineanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.nineanime.json)                 |
 | en.nollyverse        |     ✅     | [results-en.nollyverse.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.nollyverse.json)               |
-| en.noobsubs          | ❌<br>2/5  | [results-en.noobsubs.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.noobsubs.json)                   |
+| en.noobsubs          |     ✅     | [results-en.noobsubs.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.noobsubs.json)                   |
 | en.oppaistream       |     ✅     | [results-en.oppaistream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.oppaistream.json)             |
 | en.putlocker         | ❌<br>5/6  | [results-en.putlocker.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.putlocker.json)                 |
 | en.ripcrabbyanime    | ❌<br>4/5  | [results-en.ripcrabbyanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.ripcrabbyanime.json)       |
