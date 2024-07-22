@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/wistoria-wand-and-sword",
+                                "title": "Wistoria: Wand and Sword",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933677.jpg"
+                            },
+                            {
+                                "url": "/anime/fairy-tail-100-years-quest",
+                                "title": "Fairy Tail: 100 Years Quest",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933676.jpg"
+                            },
+                            {
                                 "url": "/anime/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me",
                                 "title": "My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me!",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933675.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/isekai-shikkaku",
                                 "title": "Isekai Shikkaku",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933662.jpg"
-                            },
-                            {
-                                "url": "/anime/egumi-legacy-english-subbed",
-                                "title": "Egumi Legacy English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933661.jpg"
-                            },
-                            {
-                                "url": "/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
-                                "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933660.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me",
-                    "title": "My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me!",
-                    "description": "During a school trip, a bus full of students is suddenly transported to another world by a sage named Sion. She bestows most of the students with powers called Gifts, seeking to recruit them to become sages as well. However, a few are excluded from receiving a Gift, resulting in the others leaving them behind.",
-                    "genre": "Action, Adventure, Comedy, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933675.jpg",
+                    "url": "/anime/wistoria-wand-and-sword",
+                    "title": "Wistoria: Wand and Sword",
+                    "description": "Will Serfort dreams of keeping his promise to a childhood friend by becoming a Magia Vander, one of the mighty magicians who sit atop the Wizard’s Tower. However, he is unable to cast even the simplest of spells, leaving him to fight dungeon monsters to earn credits at Regarden Magical Academy. As if that weren’t enough, he finds himself putting his sword skills to the test against a bullying professor!",
+                    "genre": "Action, Adventure, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933677.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,7 +616,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-episode-1-english-dubbed",
+                        "url": "/wistoria-wand-and-sword-episode-1-english-dubbed",
                         "name": "Season 1 - Episode 1",
                         "episode_number": 101.0
                     }
@@ -626,19 +626,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gdxxi_QidDPt8hocxdCXiaCZfirVzjEXwTodmJ6RPHbjJ9MU6hnEek4_G_gcDvtIWlRY5HDU9MtztRgS5_xMziVVkgSRj_ULrwsOSNU1p4V_lP3oj4sZQfK77sOYLBprT3sQU-HCUjr3i8CCDZHRcauREoxTZovjX9-94CL6W3s16pUwu_2qovOwVGcbZrrOcS9olusci0mEFy8rV40axaP0ycqmbj4U63o-yEKCNapAASaI7dnQ6ik3KpEMKv55vLm4L7ZqxafBHSaHu97ua74jMPoSsM5JX0AR83fTpv3_inyfV6RXV4gCVd6LR6f8RLWCUVllzZqGBKKrVrsbK9NDxluQnQpYynlSkrYA8OObAdwEmkDMkoKn-ywBFQjZ6-8AklYpnIk4kJWrzoRnqUA9PAoBTPWfbaYmsWKMdn1U2xmmlv2XJ8JtZ4yhITXj9dmx8Hz_q4HK4pDV2RUtpbtv990cDy5D9cX6TijZ06tA",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i4G4JfcB_MLfXAQv7mtCiHyYhjI2D7UOUOJtCv9uoJ8YPK0hips_rhk4kEkl947iEGOWngfiC9EMHXAv1j5Dc3ZnN2-CTXGkXVyNcjSWXG-AtFjC43iU2V2IAivyeRU5ISNIwPSzenZzOC3_D8ucI2geel_bYmQwr_knG7KF_VzZWibJdFee-2vrTco0ow-onUm0tvdQRU-ne0pIUvqP8tDVIWb1r3Btus-EzYQdhfDhw6qFAZDHqwfvZPU5dohUVWUQW11FU4GHelkzLB-hR8-wyku8CD-mhGQYoHMOmMAo1KmkyW4WSf2tyva8mQFvnpibRV-MCSU0X99oFvk4S7dV9lm9EhNlTIt6YGwpOLvt2ppI2BQJonr_gKEJ2Ewcp71vouWposakqVas5CjJiMEuS7Mb1JZqOFrti2Nc3PFA",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gdxxi_QidDPt8hocxdCXiaCZfirVzjEXwTodmJ6RPHbjJ9MU6hnEek4_G_gcDvtIWlRY5HDU9MtztRgS5_xMziVVkgSRj_ULrwsOSNU1p4V_lP3oj4sZQfK77sOYLBprT3sQU-HCUjr3i8CCDZHRcauREoxTZovjX9-94CL6W3s16pUwu_2qovOwVGcbZrrOcS9olusci0mEFy8rV40axaP0ycqmbj4U63o-yEKCNapAASaI7dnQ6ik3KpEMKv55vLm4L7ZqxafBHSaHu97ua74jMPoSsM5JX0AR83fTpv3_inyfV6RXV4gCVd6LR6f8RLWCUVllzZqGBKKrVrsbK9NDxluQnQpYynlSkrYA8OObAdwEmkDMkoKn-ywBFQjZ6-8AklYpnIk4kJWrzoRnqUA9PAoBTPWfbaYmsWKMdn1U2xmmlv2XJ8JtZ4yhITXj9dmx8Hz_q4HK4pDV2RUtpbtv990cDy5D9cX6TijZ06tA"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i4G4JfcB_MLfXAQv7mtCiHyYhjI2D7UOUOJtCv9uoJ8YPK0hips_rhk4kEkl947iEGOWngfiC9EMHXAv1j5Dc3ZnN2-CTXGkXVyNcjSWXG-AtFjC43iU2V2IAivyeRU5ISNIwPSzenZzOC3_D8ucI2geel_bYmQwr_knG7KF_VzZWibJdFee-2vrTco0ow-onUm0tvdQRU-ne0pIUvqP8tDVIWb1r3Btus-EzYQdhfDhw6qFAZDHqwfvZPU5dohUVWUQW11FU4GHelkzLB-hR8-wyku8CD-mhGQYoHMOmMAo1KmkyW4WSf2tyva8mQFvnpibRV-MCSU0X99oFvk4S7dV9lm9EhNlTIt6YGwpOLvt2ppI2BQJonr_gKEJ2Ewcp71vouWposakqVas5CjJiMEuS7Mb1JZqOFrti2Nc3PFA"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gdxxi_QidDPt8hocxdCXiaCZfirVzjEXwTodmJ6RPHbjJ9MU6hnEek4_G_gcDvtIWlRY5HDU9MtztRgS5_xMziVVkgSRj_ULrwsOSNU1p4V_lP3oj4sZQfK77sOYLBprT3sQU-HCUjr3i8CCDZHRcauREoxTZovjX9-94CL6W3s16pUwu_2qovOwVGcbZrrOcS9olusci0mEFy8rV40axaOnm5tsMj9RR0_I4iBZ9z3lKEp1WGLY701rjpyO-lEBQBw1oveXTapvgeO8S5FE6Iylg5VhAzRbANkN1LMVt1nLb6MhUHpUCwp5RbUZra6QfxAqQMX1BQYEqs88aYt3sDDcf-Ry6vBzAIRKT6C-qaCwe1KQt_j01hT2VVqpZsYDaMLMA_4bF9flNrpVpoqacYFUmPV3n56UW0SHkY5fgoNl8FdQ7zODUIj9vTgf9_mhpnyuyremEtbnZMitTpdk6MDbUK5yRL2XPkIV17c8MsdQ",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i4G4JfcB_MLfXAQv7mtCiHyYhjI2D7UOUOJtCv9uoJ8YPK0hips_rhk4kEkl947iEGOWngfiC9EMHXAv1j5Dc3ZnN2-CTXGkXVyNcjSWXG-AtFjC43iU2V2IAivyeRU5ISNIwPSzenZzOC3_D8ucI2su8ai4UNZx0XsGlMw2O5Owo_x7Dw5EB8BqLfH6T2fsA22LQgQb5huLYbqY6IyPV0wRbwEpUmMm925f9dl_mlS9iNm4nNjB1WnEtbfbRMKSAzTjckzgGNMNDyvhxGSyXiI64eVdVZEg2ZTaSMX8Yvou8pwwKuHOfJngAYiuwPYo1zO0gZOaroGbQ-2KeyaESJuWOZ0kgt5IZNdojDarVWe67QpEcHMyI63VhqeMvCkKTqEvqEOC5SvIDVIgZFa2pzZ_JdOXTX0PNW66VEPO0k1Q",
                         "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gdxxi_QidDPt8hocxdCXiaCZfirVzjEXwTodmJ6RPHbjJ9MU6hnEek4_G_gcDvtIWlRY5HDU9MtztRgS5_xMziVVkgSRj_ULrwsOSNU1p4V_lP3oj4sZQfK77sOYLBprT3sQU-HCUjr3i8CCDZHRcauREoxTZovjX9-94CL6W3s16pUwu_2qovOwVGcbZrrOcS9olusci0mEFy8rV40axaOnm5tsMj9RR0_I4iBZ9z3lKEp1WGLY701rjpyO-lEBQBw1oveXTapvgeO8S5FE6Iylg5VhAzRbANkN1LMVt1nLb6MhUHpUCwp5RbUZra6QfxAqQMX1BQYEqs88aYt3sDDcf-Ry6vBzAIRKT6C-qaCwe1KQt_j01hT2VVqpZsYDaMLMA_4bF9flNrpVpoqacYFUmPV3n56UW0SHkY5fgoNl8FdQ7zODUIj9vTgf9_mhpnyuyremEtbnZMitTpdk6MDbUK5yRL2XPkIV17c8MsdQ"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i4G4JfcB_MLfXAQv7mtCiHyYhjI2D7UOUOJtCv9uoJ8YPK0hips_rhk4kEkl947iEGOWngfiC9EMHXAv1j5Dc3ZnN2-CTXGkXVyNcjSWXG-AtFjC43iU2V2IAivyeRU5ISNIwPSzenZzOC3_D8ucI2su8ai4UNZx0XsGlMw2O5Owo_x7Dw5EB8BqLfH6T2fsA22LQgQb5huLYbqY6IyPV0wRbwEpUmMm925f9dl_mlS9iNm4nNjB1WnEtbfbRMKSAzTjckzgGNMNDyvhxGSyXiI64eVdVZEg2ZTaSMX8Yvou8pwwKuHOfJngAYiuwPYo1zO0gZOaroGbQ-2KeyaESJuWOZ0kgt5IZNdojDarVWe67QpEcHMyI63VhqeMvCkKTqEvqEOC5SvIDVIgZFa2pzZ_JdOXTX0PNW66VEPO0k1Q"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gdxxi_QidDPt8hocxdCXiaCZfirVzjEXwTodmJ6RPHbjJ9MU6hnEek4_G_gcDvtIWlRY5HDU9MtztRgS5_xMziVVkgSRj_ULrwsOSNU1p4V_lP3oj4sZQfK77sOYLBprT3sQU-HCUjr3i8CCDZHRcauREoxTZovjX9-94CL6W3s16pUwu_2qovOwVGcbZrrOcS9olusci0mEFy8rV40axaGfu9W6rD2SmlM4PA8QK384WKG9dOot1AX2BAbF3slyTardGyEFGajwAnW7Ol5YuZjeyV_nAsTAf7-7pkdsXQtVZfM7XSyZ8upPHG7-u_92ulxRMrqFNmvjbMUKYYjFt95hbagc1pt3lB15ZdgkVB4cpttU4Shac8rUX1jQMzyMVh4DCgGuW6rLgW-alQFF0GcucXw8XidY-qJXyR0oK8grslPHU94tdBM9pt4nAH0s02gFCjhCiuXotGxoXamkoJF2vG9kvGZLmXIZGO0UFUhw",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i4G4JfcB_MLfXAQv7mtCiHyYhjI2D7UOUOJtCv9uoJ8YPK0hips_rhk4kEkl947iEGOWngfiC9EMHXAv1j5Dc3ZnN2-CTXGkXVyNcjSWXG-AtFjC43iU2V2IAivyeRU5ISNIwPSzenZzOC3_D8ucI2ZGqtzm1OAWtFhIy18tipQtHG6VlhxJgXcJsoLYqLmvfm9fFjBdZdGGCqmw8mquRIIrQwK83hYIj5a-kRjpFQMxNCDpai6KzBA9ux73cIHt9V2ys01C8dqTI52-rECS3qWmvYrYueBmDzgMvjfh4vQlXwuFfgfyHbe5dnftl0AQTGFOZ2fC6G4MdGRpeIrql1pgdcJDm1pDBnnoNiFpgiZRGc4P5lBiOHQ2J4KOFRJrDzi3PIAOmYUFVd80-6GOAybFcqRQGTYBj9SG62VG1anQ",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gdxxi_QidDPt8hocxdCXiaCZfirVzjEXwTodmJ6RPHbjJ9MU6hnEek4_G_gcDvtIWlRY5HDU9MtztRgS5_xMziVVkgSRj_ULrwsOSNU1p4V_lP3oj4sZQfK77sOYLBprT3sQU-HCUjr3i8CCDZHRcauREoxTZovjX9-94CL6W3s16pUwu_2qovOwVGcbZrrOcS9olusci0mEFy8rV40axaGfu9W6rD2SmlM4PA8QK384WKG9dOot1AX2BAbF3slyTardGyEFGajwAnW7Ol5YuZjeyV_nAsTAf7-7pkdsXQtVZfM7XSyZ8upPHG7-u_92ulxRMrqFNmvjbMUKYYjFt95hbagc1pt3lB15ZdgkVB4cpttU4Shac8rUX1jQMzyMVh4DCgGuW6rLgW-alQFF0GcucXw8XidY-qJXyR0oK8grslPHU94tdBM9pt4nAH0s02gFCjhCiuXotGxoXamkoJF2vG9kvGZLmXIZGO0UFUhw"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i4G4JfcB_MLfXAQv7mtCiHyYhjI2D7UOUOJtCv9uoJ8YPK0hips_rhk4kEkl947iEGOWngfiC9EMHXAv1j5Dc3ZnN2-CTXGkXVyNcjSWXG-AtFjC43iU2V2IAivyeRU5ISNIwPSzenZzOC3_D8ucI2ZGqtzm1OAWtFhIy18tipQtHG6VlhxJgXcJsoLYqLmvfm9fFjBdZdGGCqmw8mquRIIrQwK83hYIj5a-kRjpFQMxNCDpai6KzBA9ux73cIHt9V2ys01C8dqTI52-rECS3qWmvYrYueBmDzgMvjfh4vQlXwuFfgfyHbe5dnftl0AQTGFOZ2fC6G4MdGRpeIrql1pgdcJDm1pDBnnoNiFpgiZRGc4P5lBiOHQ2J4KOFRJrDzi3PIAOmYUFVd80-6GOAybFcqRQGTYBj9SG62VG1anQ"
                     }
                 ],
                 "passed": true
