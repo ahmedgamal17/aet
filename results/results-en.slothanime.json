@@ -73,8 +73,74 @@
                 "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/shoshimin-how-to-become-ordinary",
+                                "title": "SHOSHIMIN: How to Become Ordinary",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12095.png"
+                            },
+                            {
+                                "url": "/anime/yatagarasu-the-raven-does-not-choose-its-master",
+                                "title": "YATAGARASU: The Raven Does Not Choose Its Master",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11969.png"
+                            },
+                            {
+                                "url": "/anime/mythical-creatures-are-my-dinners",
+                                "title": "Mythical Creatures Are My Dinners",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12043.png"
+                            },
+                            {
+                                "url": "/anime/oishinbo",
+                                "title": "Oishinbo",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/10081.png"
+                            },
+                            {
+                                "url": "/anime/makeine-too-many-losing-heroines",
+                                "title": "Makeine: Too Many Losing Heroines!",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12116.png"
+                            },
+                            {
+                                "url": "/anime/the-fable",
+                                "title": "The Fable",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11928.png"
+                            },
+                            {
+                                "url": "/anime/the-elusive-samurai",
+                                "title": "The Elusive Samurai",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12096.png"
+                            },
+                            {
+                                "url": "/anime/my-hero-academia-season-7",
+                                "title": "My Hero Academia Season 7",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11924.png"
+                            },
+                            {
+                                "url": "/anime/dubu-wangu-2nd-season",
+                                "title": "Dubu Wangu 2nd Season",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11791.png"
+                            },
+                            {
+                                "url": "/anime/ling-jian-zun-4",
+                                "title": "Ling Jian Zun 4",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11115.png"
+                            },
+                            {
+                                "url": "/anime/shaonian-bai-ma-zui-chun-feng-2nd-season",
+                                "title": "Shaonian Bai Ma Zui Chun Feng 2nd Season",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12128.png"
+                            },
+                            {
+                                "url": "/anime/apotheosis-2nd-season",
+                                "title": "Apotheosis 2nd Season",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11617.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -177,8 +243,16 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/anime/shaonian-bai-ma-zui-chun-feng-2nd-season",
+                    "title": "Shaonian Bai Ma Zui Chun Feng 2nd Season",
+                    "author": "CG Year",
+                    "description": "The second season of Shaonian Bai Ma Zui Chun Feng.",
+                    "genre": "Action, Adventure, Fantasy",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12128.png",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
@@ -196,9 +270,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/148436?vrf=sTTPCwLSQcvzRNQGH0qEWQ%3D%3D",
+                        "url": "https://slothanime.com/player-url/148436?vrf=8i7lw%2B%2F6geZtvgtA2bJlhw%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/148436?vrf=sTTPCwLSQcvzRNQGH0qEWQ%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/148436?vrf=8i7lw%2B%2F6geZtvgtA2bJlhw%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",

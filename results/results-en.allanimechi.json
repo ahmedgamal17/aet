@@ -22,6 +22,11 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-KxkqTIuQgJ6v.png"
                             },
                             {
+                                "url": "RZ8kKEvdYnFBZAQvj",
+                                "title": "Tsue to Tsurugi no Wistoria",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174576-tpKcHG0eO6CS.jpg"
+                            },
+                            {
                                 "url": "EbFttcGsJ5AmN6A68",
                                 "title": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170695-Nb1DIg7gIHCF.jpg"
@@ -30,11 +35,6 @@
                                 "url": "cskJzx6rseAgcGcAe",
                                 "title": "Boku no Hero Academia 7th Season",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163139-JchZhUFlNTWU.jpg"
-                            },
-                            {
-                                "url": "RZ8kKEvdYnFBZAQvj",
-                                "title": "Tsue to Tsurugi no Wistoria",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174576-tpKcHG0eO6CS.jpg"
                             },
                             {
                                 "url": "ubGJNAmJmdKSjNBSX",
@@ -62,14 +62,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139518-GZWYKM8Kg1S2.png"
                             },
                             {
-                                "url": "5QN3sznB2tFoR8zww",
-                                "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1007/141625.jpg"
-                            },
-                            {
                                 "url": "vj5neAm4FfqobQzuA",
                                 "title": "Kaijuu 8-gou",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg"
+                            },
+                            {
+                                "url": "5QN3sznB2tFoR8zww",
+                                "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1007/141625.jpg"
                             },
                             {
                                 "url": "iv4jDGx4DbuzXyM6J",
@@ -137,14 +137,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112667-GYFeAlZ38mXK.jpg"
                             },
                             {
-                                "url": "pxoBGA54cmpk56MLA",
-                                "title": "\"Oshi no Ko\" Season 2",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166531-dAL5MsqDHUkj.jpg"
-                            },
-                            {
                                 "url": "QHbkPMeqhZKLtEeBr",
                                 "title": "Kami no Tou",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115230-QHOdSN7yt8ab.jpg"
+                            },
+                            {
+                                "url": "pxoBGA54cmpk56MLA",
+                                "title": "\"Oshi no Ko\" Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166531-dAL5MsqDHUkj.jpg"
                             },
                             {
                                 "url": "2tzuyxhPsGHxDLe9z",
@@ -166,6 +166,36 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "qCi9BjaQeLJtDxv3u",
+                                "title": "Return of the Immortal",
+                                "thumbnail_url": "https://cdnimg.xyz/cover/return-of-the-immortal.png"
+                            },
+                            {
+                                "url": "ajZyCqMEaiDZtkACh",
+                                "title": "I Was Forced by the System to Become a Villain",
+                                "thumbnail_url": "https://gogocdn.net/cover/i-was-forced-by-the-system-to-become-a-villain.png"
+                            },
+                            {
+                                "url": "nK2Sf5kD4JZaFRoxW",
+                                "title": "Reborn As A Monster! What The Hell",
+                                "thumbnail_url": "https://gogocdn.net/cover/reborn-as-a-monster-what-the-hell.png"
+                            },
+                            {
+                                "url": "4C7xJbApR6LHo9rd9",
+                                "title": "Unparalleled in the Online Gaming World",
+                                "thumbnail_url": "https://gogocdn.net/cover/unparalleled-in-the-online-gaming-world.png"
+                            },
+                            {
+                                "url": "akAAFoxCzW7S7W6Mo",
+                                "title": "Jin Can Wangshi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155315-ok2f4vFZ033C.png"
+                            },
+                            {
+                                "url": "ZDxMfy9mmxEbjryKP",
+                                "title": "Ni Tian Zhizun",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1099/117046.jpg"
+                            },
                             {
                                 "url": "A4a3uwnedEZsrCYHt",
                                 "title": "THE FRENZY OF EVOLUTION",
@@ -285,36 +315,6 @@
                                 "url": "iKcHqQDFiK7wQ8BRA",
                                 "title": "Legend of Xianwu Season 2",
                                 "thumbnail_url": "https://cdnimg.xyz/cover/legend-of-xianwu-2nd-season.png"
-                            },
-                            {
-                                "url": "JqtBBEomGLm6Kcp2G",
-                                "title": "Wuliao Jiu Wanjie",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156087-0LAtkHTAafoP.jpg"
-                            },
-                            {
-                                "url": "5rxL7CbzWyoazMaGy",
-                                "title": "0-saiji Start Dash Monogatari",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177879-IwqLLxo8cpHa.jpg"
-                            },
-                            {
-                                "url": "LMwfiWbQSst3SdpNk",
-                                "title": "Yong Sheng: Shi Nian Zhi Yue Season 3",
-                                "thumbnail_url": "https://gogocdn.net/cover/yong-sheng-shi-nian-zhi-yue-3rd-season.png"
-                            },
-                            {
-                                "url": "kErrH6QwGtbYi8YSk",
-                                "title": "Elf-san wa Yaserarenai",
-                                "thumbnail_url": "https://gogocdn.net/cover/elf-san-wa-yaserarenai-uncensored.png"
-                            },
-                            {
-                                "url": "zZLPHFxwEWKmY9qCJ",
-                                "title": "Wonderful Precure!",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171030-U7zjkqv8pQFq.jpg"
-                            },
-                            {
-                                "url": "CZHeqKeZrYxiSGgwe",
-                                "title": "Maze☆Bakunetsu Jikuu",
-                                "thumbnail_url": "https://gogocdn.net/cover/mazebakunetsu-jikuu.png"
                             }
                         ],
                         "hasNextPage": true
@@ -326,6 +326,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "4C7xJbApR6LHo9rd9",
+                                "title": "Unparalleled in the Online Gaming World",
+                                "thumbnail_url": "https://gogocdn.net/cover/unparalleled-in-the-online-gaming-world.png"
+                            },
                             {
                                 "url": "MsQMzfMtztc93Eiui",
                                 "title": "Shinkalion: Change the World",
@@ -400,11 +405,6 @@
                                 "url": "ewwkbzpv4japu7PsD",
                                 "title": "Manga Sekai Mukashibanashi",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6262.jpg"
-                            },
-                            {
-                                "url": "4C7xJbApR6LHo9rd9",
-                                "title": "Unparalleled in the Online Gaming World",
-                                "thumbnail_url": "https://gogocdn.net/cover/unparalleled-in-the-online-gaming-world.png"
                             },
                             {
                                 "url": "QusmPJR29sg3G35CB",
@@ -512,9 +512,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www040.anicdnstream.info/videos/hls/S6l4VugkB6an2NjLuKReVA/1721643964/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.1080.m3u8",
+                        "url": "https://www040.anicdnstream.info/videos/hls/fMtU5LX_dEnoZATDfBTgcA/1721666387/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.1080.m3u8",
                         "quality": "Luf-mp4 - HLS1 - 1080p",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/S6l4VugkB6an2NjLuKReVA/1721643964/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.1080.m3u8",
+                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/fMtU5LX_dEnoZATDfBTgcA/1721666387/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -534,9 +534,9 @@
                         }
                     },
                     {
-                        "url": "https://www040.anicdnstream.info/videos/hls/S6l4VugkB6an2NjLuKReVA/1721643964/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.720.m3u8",
+                        "url": "https://www040.anicdnstream.info/videos/hls/fMtU5LX_dEnoZATDfBTgcA/1721666387/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.720.m3u8",
                         "quality": "Luf-mp4 - HLS1 - 720p",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/S6l4VugkB6an2NjLuKReVA/1721643964/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.720.m3u8",
+                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/fMtU5LX_dEnoZATDfBTgcA/1721666387/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.720.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -545,9 +545,9 @@
                         }
                     },
                     {
-                        "url": "https://www040.anicdnstream.info/videos/hls/S6l4VugkB6an2NjLuKReVA/1721643964/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.480.m3u8",
+                        "url": "https://www040.anicdnstream.info/videos/hls/fMtU5LX_dEnoZATDfBTgcA/1721666387/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.480.m3u8",
                         "quality": "Luf-mp4 - HLS1 - 480p",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/S6l4VugkB6an2NjLuKReVA/1721643964/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.480.m3u8",
+                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/fMtU5LX_dEnoZATDfBTgcA/1721666387/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.480.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -556,9 +556,9 @@
                         }
                     },
                     {
-                        "url": "https://www040.anicdnstream.info/videos/hls/S6l4VugkB6an2NjLuKReVA/1721643964/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.360.m3u8",
+                        "url": "https://www040.anicdnstream.info/videos/hls/fMtU5LX_dEnoZATDfBTgcA/1721666387/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.360.m3u8",
                         "quality": "Luf-mp4 - HLS1 - 360p",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/S6l4VugkB6an2NjLuKReVA/1721643964/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.360.m3u8",
+                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/fMtU5LX_dEnoZATDfBTgcA/1721666387/227946/0b594d900f47daabc194844092384914/ep.1112.1720924949.360.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
