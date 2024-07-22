@@ -3,78 +3,78 @@
         "name": "SlothAnime (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
-            },
-            "latest": {
                 "result": [
                     {
                         "animes": [
-                            {
-                                "url": "/anime/oishinbo",
-                                "title": "Oishinbo",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/10081.png"
-                            },
-                            {
-                                "url": "/anime/makeine-too-many-losing-heroines",
-                                "title": "Makeine: Too Many Losing Heroines!",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12116.png"
-                            },
-                            {
-                                "url": "/anime/the-fable",
-                                "title": "The Fable",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11928.png"
-                            },
-                            {
-                                "url": "/anime/the-elusive-samurai",
-                                "title": "The Elusive Samurai",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12096.png"
-                            },
-                            {
-                                "url": "/anime/my-hero-academia-season-7",
-                                "title": "My Hero Academia Season 7",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11924.png"
-                            },
-                            {
-                                "url": "/anime/dubu-wangu-2nd-season",
-                                "title": "Dubu Wangu 2nd Season",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11791.png"
-                            },
-                            {
-                                "url": "/anime/ling-jian-zun-4",
-                                "title": "Ling Jian Zun 4",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11115.png"
-                            },
                             {
                                 "url": "/anime/shaonian-bai-ma-zui-chun-feng-2nd-season",
                                 "title": "Shaonian Bai Ma Zui Chun Feng 2nd Season",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12128.png"
                             },
                             {
-                                "url": "/anime/apotheosis-2nd-season",
-                                "title": "Apotheosis 2nd Season",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11617.png"
+                                "url": "/anime/treasure-island-the-movie",
+                                "title": "Treasure Island: The Movie",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12127.png"
                             },
                             {
-                                "url": "/anime/wu-shang-shen-di-2",
-                                "title": "Wu Shang Shen Di 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11193.png"
+                                "url": "/anime/tp-bon-season-2",
+                                "title": "T.P BON Season 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12126.png"
                             },
                             {
-                                "url": "/anime/wanmei-shijie-4",
-                                "title": "Wanmei Shijie 4",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11507.png"
+                                "url": "/anime/egumi-legacy",
+                                "title": "Egumi Legacy",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12125.png"
                             },
                             {
-                                "url": "/anime/case-closed",
-                                "title": "Case Closed",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11106.png"
+                                "url": "/anime/the-magical-girl-and-the-evil-lieutenant-used-to-be-archenemies",
+                                "title": "The Magical Girl and the Evil Lieutenant Used to Be Archenemies",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12124.png"
+                            },
+                            {
+                                "url": "/anime/no-longer-allowed-in-another-world",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12123.png"
+                            },
+                            {
+                                "url": "/anime/perman-birdman-ga-yatte-kita",
+                                "title": "Perman: Birdman ga Yatte Kita!!",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12122.png"
+                            },
+                            {
+                                "url": "/anime/wistoria-wand-and-sword",
+                                "title": "Wistoria: Wand and Sword",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12121.png"
+                            },
+                            {
+                                "url": "/anime/kinnikuman-perfect-origin-arc",
+                                "title": "Kinnikuman Perfect Origin Arc",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12120.png"
+                            },
+                            {
+                                "url": "/anime/yami-shibai-13",
+                                "title": "Yami Shibai 13",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12119.png"
+                            },
+                            {
+                                "url": "/anime/why-does-nobody-remember-me-in-this-world",
+                                "title": "Why Does Nobody Remember Me in This World?",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12118.png"
+                            },
+                            {
+                                "url": "/anime/cang-yuan-tu-2",
+                                "title": "Cang Yuan Tu 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12117.png"
                             }
                         ],
                         "hasNextPage": true
                     }
                 ],
                 "passed": true
+            },
+            "latest": {
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -177,26 +177,18 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/anime/oishinbo",
-                    "title": "Oishinbo",
-                    "author": "Shin-Ei Animation",
-                    "description": "A popular adult comic in Japan, Oishinbo, follows the story of newspaper reporters and centers on the life of a skeptical food critic named Yamaoka. Its success resulted in a reference to the show during an episode of \"Iron Chef.\"",
-                    "genre": "Comedy, Seinen, Slice of Life, Gourmet",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/10081.png",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/player/oishinbo/148446",
-                        "name": "Episode 51"
+                        "url": "/player/shaonian-bai-ma-zui-chun-feng-2nd-season/148436",
+                        "name": "Episode 2"
                     },
                     {
-                        "url": "/player/oishinbo/147506",
-                        "name": "Episode 50"
+                        "url": "/player/shaonian-bai-ma-zui-chun-feng-2nd-season/148416",
+                        "name": "Episode 1"
                     }
                 ],
                 "passed": true
@@ -204,13 +196,13 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/148446?vrf=LzAGEijY5LOUcALxLkqHRw%3D%3D",
+                        "url": "https://slothanime.com/player-url/148436?vrf=sTTPCwLSQcvzRNQGH0qEWQ%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/148446?vrf=LzAGEijY5LOUcALxLkqHRw%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/148436?vrf=sTTPCwLSQcvzRNQGH0qEWQ%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/oishinbo/148446"
+                            "Referer": "https://slothanime.com/player/shaonian-bai-ma-zui-chun-feng-2nd-season/148436"
                         }
                     }
                 ],
