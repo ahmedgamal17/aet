@@ -66,12 +66,12 @@
   },
   {
     "pkg": "all.torrentioanime",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.torrentioanime.json"
   },
   {
     "pkg": "ar.akwam",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.akwam.json"
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "pkg": "ar.asia2tv",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.asia2tv.json"
   },
   {
@@ -401,7 +401,7 @@
   },
   {
     "pkg": "en.slothanime",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.slothanime.json"
   },
   {
