@@ -161,7 +161,7 @@
   },
   {
     "pkg": "en.allanime",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanime.json"
   },
   {
@@ -401,7 +401,7 @@
   },
   {
     "pkg": "en.slothanime",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.slothanime.json"
   },
   {
