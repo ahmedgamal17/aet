@@ -112,7 +112,7 @@
                                 "artist": "Matt Smith, Emma D'Arcy, Olivia Cooke",
                                 "author": "",
                                 "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-                                "genre": "Science-Fiction, Drama, Action & Adventure, Fantasy, Romance",
+                                "genre": "Drama, Action & Adventure, Science-Fiction, Fantasy, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/301444667/s276/house-of-the-dragon.webp",
                                 "initialized": true
                             },
@@ -162,7 +162,7 @@
                                 "artist": "Liam Hemsworth, Russell Crowe, Luke Hemsworth, Ricky Whittle",
                                 "author": "William Eubank",
                                 "description": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
-                                "genre": "War & Military, Action & Adventure, Mystery & Thriller",
+                                "genre": "Action & Adventure, Mystery & Thriller, War & Military",
                                 "thumbnail_url": "https://images.justwatch.com/poster/311750775/s276/land-of-bad.webp",
                                 "initialized": true
                             },
@@ -262,7 +262,7 @@
                                 "artist": "Krysten Ritter, Keeley Hawes, Rya Kihlstedt, Amanda Fix",
                                 "author": "",
                                 "description": "Follows a group of women as they weave their way into each other's lives and embark on a thrilling journey, unravelling the mystery of their identity.",
-                                "genre": "Mystery & Thriller, Drama, Science-Fiction",
+                                "genre": "Science-Fiction, Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/318167396/s276/orphan-black-echoes.webp",
                                 "initialized": true
                             },
@@ -282,7 +282,7 @@
                                 "artist": "Melissa Barrera, Dan Stevens, Alisha Weir, William Catlett",
                                 "author": "Matt Bettinelli-Olpin, Tyler Gillett",
                                 "description": "A group of criminals kidnaps a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with an unusual girl.",
-                                "genre": "Mystery & Thriller, Horror",
+                                "genre": "Horror, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/315665120/s276/abigail-2024.webp",
                                 "initialized": true
                             },
@@ -352,7 +352,7 @@
                                 "artist": "Maika Monroe, Nicolas Cage, Blair Underwood, Alicia Witt",
                                 "author": "Oz Perkins",
                                 "description": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
-                                "genre": "Crime, Horror, Mystery & Thriller",
+                                "genre": "Horror, Mystery & Thriller, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/311450895/s276/longlegs.webp",
                                 "initialized": true
                             },
@@ -378,11 +378,11 @@
                             },
                             {
                                 "url": "tt20723826,SHOW,/us/tv-show/eve-2022",
-                                "title": "EVE",
+                                "title": "Eve",
                                 "artist": "Seo Yea-ji, Park Byung-eun, Yu Seon, Lee Sang-yeob",
                                 "author": "Park Bong-seob",
                                 "description": "The Republic of Korea is overturned by 2 trillion-won divorce scandal of a chaebol caused by one ordinary woman. It is about getting into the truth of the scandal and the top 1% rich couple who made it. Surprisingly, Lee Ra-el, a nobody who's not rich nor famous has caused the divorce. But Ra-el is a charming and intelligent woman who's mastered art, psychology, and even economics. if she wants to, she can get any kind of man with her looks and brain.",
-                                "genre": "Drama, Romance",
+                                "genre": "Drama, Comedy, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/285620143/s276/eve-2022.webp",
                                 "initialized": true
                             },
@@ -432,7 +432,7 @@
                                 "artist": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
                                 "author": "Marc Forster",
                                 "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                "genre": "Action & Adventure, Drama, Horror, Science-Fiction, Mystery & Thriller",
+                                "genre": "Mystery & Thriller, Action & Adventure, Drama, Horror, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/291193041/s276/world-war-z-3d.webp",
                                 "initialized": true
                             },
@@ -537,16 +537,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt1001484,SHOW,/us/tv-show/world-of-quest",
-                                "title": "World of Quest",
-                                "artist": "Ron Pardo, Landon Norris, Kedar Brown, James Rankin",
-                                "author": "",
-                                "description": "World of Quest is a Canadian animated series based on the graphic novel story by Jason Kruse published by Komikwerks.",
-                                "genre": "Animation, Comedy, Science-Fiction, Action & Adventure, Kids & Family, Music & Musical",
-                                "thumbnail_url": "https://images.justwatch.com/poster/270309621/s276/world-of-quest.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt2011840,SHOW,/us/tv-show/worlds-craziest-fools",
                                 "title": "World's Craziest Fools",
                                 "artist": "Rupert Vansittart, Mr. T",
@@ -554,6 +544,16 @@
                                 "description": "World's Craziest Fools is a clip show made by Roughcut TV for BBC Three, presented by Mr. T. It showcases clips, sometimes viral, of people making themselves look like \"Fools\", often by accident. Many clips were from CCTV footage. The videos were shown in different categories such as \"Parking Fools\", \"Drunk Fools\", \"Criminal Fools\", and \"Fools jumping off things they shouldn't be jumping off of\". As would be expected, some categories see more entries than others, and the categories that feature episode-to-episode are not bound to a predetermined structure.",
                                 "genre": "Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/304669268/s276/worlds-craziest-fools.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt1001484,SHOW,/us/tv-show/world-of-quest",
+                                "title": "World of Quest",
+                                "artist": "Ron Pardo, Landon Norris, Kedar Brown, James Rankin",
+                                "author": "",
+                                "description": "World of Quest is a Canadian animated series based on the graphic novel story by Jason Kruse published by Komikwerks.",
+                                "genre": "Science-Fiction, Animation, Comedy, Kids & Family, Music & Musical, Action & Adventure",
+                                "thumbnail_url": "https://images.justwatch.com/poster/270309621/s276/world-of-quest.webp",
                                 "initialized": true
                             },
                             {
@@ -617,16 +617,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
-                                "title": "World's End Harem",
-                                "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
-                                "author": "",
-                                "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
-                                "genre": "Animation, Drama, Science-Fiction, Mystery & Thriller, Romance",
-                                "thumbnail_url": "https://images.justwatch.com/poster/251915444/s276/worlds-end-harem.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0412080,MOVIE,/us/movie/the-worlds-fastest-indian",
                                 "title": "The World's Fastest Indian",
                                 "artist": "Anthony Hopkins, Walton Goggins, Diane Ladd, Bruce Greenwood",
@@ -634,6 +624,16 @@
                                 "description": "The life story of New Zealander Burt Munro, who spent years building a 1920 Indian motorcycle—a bike which helped him set the land-speed world record at Utah's Bonneville Salt Flats in 1967.",
                                 "genre": "Drama, Sport",
                                 "thumbnail_url": "https://images.justwatch.com/poster/301578498/s276/the-worlds-fastest-indian.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
+                                "title": "World's End Harem",
+                                "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
+                                "author": "",
+                                "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
+                                "genre": "Drama, Science-Fiction, Mystery & Thriller, Animation, Romance",
+                                "thumbnail_url": "https://images.justwatch.com/poster/251915444/s276/worlds-end-harem.webp",
                                 "initialized": true
                             },
                             {
@@ -657,6 +657,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
+                                "title": "Jurassic World Dominion",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
+                                "author": "Colin Trevorrow",
+                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
+                                "genre": "Science-Fiction, Action & Adventure, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt8001092,SHOW,/us/tv-show/world-on-fire",
                                 "title": "World on Fire",
                                 "artist": "Jonah Hauer-King, Julia Brown, Helen Hunt, Zofia Wichłacz",
@@ -677,13 +687,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
-                                "title": "Jurassic World Dominion",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
-                                "author": "Colin Trevorrow",
-                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
-                                "genre": "Science-Fiction, Mystery & Thriller, Action & Adventure",
-                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
+                                "url": "tt1688399,SHOW,/us/tv-show/worlds-deadliest",
+                                "title": "World's Deadliest",
+                                "artist": "Jeremy Davidson",
+                                "author": "",
+                                "description": "The Animal Kingdom is rife with deadly snakes.",
+                                "genre": "Documentary, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/306897307/s276/worlds-deadliest.webp",
                                 "initialized": true
                             },
                             {
@@ -694,16 +704,6 @@
                                 "description": "Each year, seven strangers in their twenties, from different backgrounds and countries, are chosen to come live together in a major city.",
                                 "genre": "Reality TV, Comedy, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/267056478/s276/the-real-world.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt1688399,SHOW,/us/tv-show/worlds-deadliest",
-                                "title": "World's Deadliest",
-                                "artist": "Jeremy Davidson",
-                                "author": "",
-                                "description": "The Animal Kingdom is rife with deadly snakes.",
-                                "genre": "Documentary, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/306897307/s276/worlds-deadliest.webp",
                                 "initialized": true
                             },
                             {
@@ -724,16 +724,6 @@
                                 "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
                                 "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
-                                "title": "The World Wars",
-                                "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
-                                "author": "John Ealer",
-                                "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
-                                "genre": "War & Military, Documentary, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/306417970/s276/the-world-wars.webp",
                                 "initialized": true
                             },
                             {
@@ -774,6 +764,16 @@
                                 "description": "Three separate narratives each following a love story between a foreigner and a Greek. Each story represents a different generation falling in love during a time of socioeconomic turmoil that dominates Southern Europe as a whole, only to connect as a single story in the end.",
                                 "genre": "Romance, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/45122637/s276/worlds-apart-2015.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
+                                "title": "The World Wars",
+                                "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
+                                "author": "John Ealer",
+                                "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
+                                "genre": "War & Military, Documentary, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/306417970/s276/the-world-wars.webp",
                                 "initialized": true
                             },
                             {
