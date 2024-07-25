@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/episode/oshi-no-ko-2nd-season-الحلقة-4/",
+                                "title": "Oshi no Ko 2nd Season",
+                                "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/06/Oshi-no-Ko-2nd-Season-323x470.jpg"
+                            },
+                            {
                                 "url": "/episode/sengoku-youko-senma-konton-hen-الحلقة-2/",
                                 "title": "Sengoku Youko: Senma Konton-hen",
                                 "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/07/Sengoku-Youko-Senma-Konton-hen-323x470.jpg"
@@ -400,11 +405,6 @@
                                 "url": "/episode/gimai-seikatsu-الحلقة-3/",
                                 "title": "Gimai Seikatsu",
                                 "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/06/Gimai-Seikatsu-323x470.jpg"
-                            },
-                            {
-                                "url": "/episode/oshi-no-ko-2nd-season-الحلقة-3/",
-                                "title": "Oshi no Ko 2nd Season",
-                                "thumbnail_url": "https://witanime.cyou/wp-content/uploads/2024/06/Oshi-no-Ko-2nd-Season-323x470.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -546,34 +546,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd390.mycdn.me/?expires=1721932153472&srcIp=20.97.191.38&pr=10&srcAg=GECKO&ms=45.136.20.19&type=4&sig=Hxodi95_26I&ct=0&urls=185.226.52.19&clientType=0&zs=43&id=1692836825675",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd390.mycdn.me/?expires=1721932153472&srcIp=20.97.191.38&pr=10&srcAg=GECKO&ms=45.136.20.19&type=4&sig=Hxodi95_26I&ct=0&urls=185.226.52.19&clientType=0&zs=43&id=1692836825675"
-                    },
-                    {
-                        "url": "https://vd390.mycdn.me/?expires=1721932153472&srcIp=20.97.191.38&pr=10&srcAg=GECKO&ms=45.136.20.19&type=0&sig=_6TGcgQSJ80&ct=0&urls=185.226.52.19&clientType=0&zs=43&id=1692836825675",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd390.mycdn.me/?expires=1721932153472&srcIp=20.97.191.38&pr=10&srcAg=GECKO&ms=45.136.20.19&type=0&sig=_6TGcgQSJ80&ct=0&urls=185.226.52.19&clientType=0&zs=43&id=1692836825675"
-                    },
-                    {
-                        "url": "https://vd390.mycdn.me/?expires=1721932153472&srcIp=20.97.191.38&pr=10&srcAg=GECKO&ms=45.136.20.19&type=1&sig=oYlsnevK_h4&ct=0&urls=185.226.52.19&clientType=0&zs=43&id=1692836825675",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd390.mycdn.me/?expires=1721932153472&srcIp=20.97.191.38&pr=10&srcAg=GECKO&ms=45.136.20.19&type=1&sig=oYlsnevK_h4&ct=0&urls=185.226.52.19&clientType=0&zs=43&id=1692836825675"
-                    },
-                    {
-                        "url": "https://vd390.mycdn.me/?expires=1721932153472&srcIp=20.97.191.38&pr=10&srcAg=GECKO&ms=45.136.20.19&type=2&sig=YWFbG0azxTE&ct=0&urls=185.226.52.19&clientType=0&zs=43&id=1692836825675",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd390.mycdn.me/?expires=1721932153472&srcIp=20.97.191.38&pr=10&srcAg=GECKO&ms=45.136.20.19&type=2&sig=YWFbG0azxTE&ct=0&urls=185.226.52.19&clientType=0&zs=43&id=1692836825675"
-                    },
-                    {
-                        "url": "https://vd390.mycdn.me/?expires=1721932153472&srcIp=20.97.191.38&pr=10&srcAg=GECKO&ms=45.136.20.19&type=3&sig=N1rmvNsfj2s&ct=0&urls=185.226.52.19&clientType=0&zs=43&id=1692836825675",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd390.mycdn.me/?expires=1721932153472&srcIp=20.97.191.38&pr=10&srcAg=GECKO&ms=45.136.20.19&type=3&sig=N1rmvNsfj2s&ct=0&urls=185.226.52.19&clientType=0&zs=43&id=1692836825675"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -117,6 +117,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/first-immortal-of-kendo/",
+                                "title": "First Immortal of kendo",
+                                "thumbnail_url": "https://i2.wp.com/comicxy.com/wp-content/uploads/2022/06/First-Immortal-of-kendo.jpg"
+                            },
+                            {
+                                "url": "/anime/hidden-sect-leader/",
+                                "title": "Hidden Sect Leader",
+                                "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2024/03/Hidden-Sect-Leader.jpg"
+                            },
+                            {
                                 "url": "/anime/yuan-zun-dragon-prince-yuan/",
                                 "title": "Yuan Zun (Dragon Prince Yuan)",
                                 "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2024/05/Yuan-Zun-Dragon-Prince-Yuan.png"
@@ -162,11 +172,6 @@
                                 "thumbnail_url": "https://i0.wp.com/comicxy.com/wp-content/uploads/2024/05/The-Wind-of-Jinwu-Guards-Rises-in-Jinling-Jin-Wu-Wei.jpeg"
                             },
                             {
-                                "url": "/anime/first-immortal-of-kendo/",
-                                "title": "First Immortal of kendo",
-                                "thumbnail_url": "https://i2.wp.com/comicxy.com/wp-content/uploads/2022/06/First-Immortal-of-kendo.jpg"
-                            },
-                            {
                                 "url": "/anime/alchemy-supreme/",
                                 "title": "Alchemy Supreme",
                                 "thumbnail_url": "https://i3.wp.com/comicxy.com/wp-content/uploads/2023/12/Alchemy-Supreme.webp"
@@ -210,11 +215,6 @@
                                 "url": "/anime/swallowed-star-season-4/",
                                 "title": "Swallowed Star Season 4",
                                 "thumbnail_url": "https://i3.wp.com/comicxy.com/wp-content/uploads/2023/08/Swallowed-Star-Season-3.png"
-                            },
-                            {
-                                "url": "/anime/supreme-god-emperor/",
-                                "title": "Supreme God Emperor",
-                                "thumbnail_url": "https://i3.wp.com/comicxy.com/wp-content/uploads/2021/09/0a6968eef6cccaaf2b37a7a7a98eb6dd.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,9 +316,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vod.cf.dmcdn.net/sec2(weLrJlUUfzFxgiRwIJqZuUhEZ4amHcuGlLeE8gsaNq-SPSK2dmOQCFViPANLAzH2cdPZ9IBICvrhGkWHYWgAsJrFXE8FvCazZaVdxN8eqd_yWaB0sOyunL-kv8l8GJxSYd0VQh3up4OkDo8a42sjfw)/video/596/493/520394695_mp4_h264_aac_fhd_5.m3u8#cell=cf",
+                        "url": "https://vod.cf.dmcdn.net/sec2(fCBpEtMVK7046WOQq7RSOmOdskYr8vssVg-MkVYKQ0fD8ymYRVOdbt6JwWPJ4NXkWluPuq0qxEDmWu19uRfd4s1aoaThgQkunC7q7oz5X6d-wgmtJUB0k1vj5DwVVkZ8KheuW91zZvNzSsgn7nseHQ)/video/596/493/520394695_mp4_h264_aac_fhd_5.m3u8#cell=cf",
                         "quality": "All Subtitle player 2 - 808p",
-                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(weLrJlUUfzFxgiRwIJqZuUhEZ4amHcuGlLeE8gsaNq-SPSK2dmOQCFViPANLAzH2cdPZ9IBICvrhGkWHYWgAsJrFXE8FvCazZaVdxN8eqd_yWaB0sOyunL-kv8l8GJxSYd0VQh3up4OkDo8a42sjfw)/video/596/493/520394695_mp4_h264_aac_fhd_5.m3u8#cell=cf",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(fCBpEtMVK7046WOQq7RSOmOdskYr8vssVg-MkVYKQ0fD8ymYRVOdbt6JwWPJ4NXkWluPuq0qxEDmWu19uRfd4s1aoaThgQkunC7q7oz5X6d-wgmtJUB0k1vj5DwVVkZ8KheuW91zZvNzSsgn7nseHQ)/video/596/493/520394695_mp4_h264_aac_fhd_5.m3u8#cell=cf",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -407,9 +407,9 @@
                         ]
                     },
                     {
-                        "url": "https://vod.cf.dmcdn.net/sec2(pVde3pCAkF4JYkm4iacDCkLagzpIeUM0Croeo2TxBmD2KPiYWI6ZivUd5wgX1KCbqJdBlwRqXl1AqW9Z4M-5Nw6gV5EbYI64uQknTIlT2mHHrtOnUCEnKk0OJyNjS6OgmHXC_fqj06ycoEvXT6PH6w)/video/596/493/520394695_mp4_h264_aac_hq_5.m3u8#cell=cf",
+                        "url": "https://vod.cf.dmcdn.net/sec2(F7Hzxx2Wio9_BPRE-qlwAH_sYi-F4muzoG3K2qcEENcfSFCWyCOlosl0c8pSY1ICfYGrKLdk4UO3MRtd-AUKwhjrTfzV8d2n8DPj6uKKlgrIJJ1BnJp4JOyRlfmW1Xd24hMznWeJLzeLhU_iqBFTrg)/video/596/493/520394695_mp4_h264_aac_hq_5.m3u8#cell=cf",
                         "quality": "All Subtitle player 2 - 352p",
-                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(pVde3pCAkF4JYkm4iacDCkLagzpIeUM0Croeo2TxBmD2KPiYWI6ZivUd5wgX1KCbqJdBlwRqXl1AqW9Z4M-5Nw6gV5EbYI64uQknTIlT2mHHrtOnUCEnKk0OJyNjS6OgmHXC_fqj06ycoEvXT6PH6w)/video/596/493/520394695_mp4_h264_aac_hq_5.m3u8#cell=cf",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(F7Hzxx2Wio9_BPRE-qlwAH_sYi-F4muzoG3K2qcEENcfSFCWyCOlosl0c8pSY1ICfYGrKLdk4UO3MRtd-AUKwhjrTfzV8d2n8DPj6uKKlgrIJJ1BnJp4JOyRlfmW1Xd24hMznWeJLzeLhU_iqBFTrg)/video/596/493/520394695_mp4_h264_aac_hq_5.m3u8#cell=cf",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -498,9 +498,9 @@
                         ]
                     },
                     {
-                        "url": "https://vod.cf.dmcdn.net/sec2(-03Oqv9Rp5VO55SFyaCd3cB3Mcn6Ga4pLpPZDPA2EjyhHabQ1m_DGvKtfGWUDPDnmqh0DTXawiLDh3elWiIZFme5nvAwdogCrDsvK0675VJzx85mOvZRE3HvhRHGrefJnJXIny3PVID2Wc3KMhLhLw)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=cf",
+                        "url": "https://vod.cf.dmcdn.net/sec2(LTxlZ-vI6TZ-Pmav778soo9p-L_jcuu2otwCDEwh4cbKz6eLkfM1tRuD8ajGGRqps008KQQ7q4miomFt3U6UDwWD75yObeIz7V--WNAstzc83V4Y7xkiYoMxHPLvNM9i61lFkAxbr3U-G2X_Zgd_qA)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=cf",
                         "quality": "All Subtitle player 2 - 216p",
-                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(-03Oqv9Rp5VO55SFyaCd3cB3Mcn6Ga4pLpPZDPA2EjyhHabQ1m_DGvKtfGWUDPDnmqh0DTXawiLDh3elWiIZFme5nvAwdogCrDsvK0675VJzx85mOvZRE3HvhRHGrefJnJXIny3PVID2Wc3KMhLhLw)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=cf",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(LTxlZ-vI6TZ-Pmav778soo9p-L_jcuu2otwCDEwh4cbKz6eLkfM1tRuD8ajGGRqps008KQQ7q4miomFt3U6UDwWD75yObeIz7V--WNAstzc83V4Y7xkiYoMxHPLvNM9i61lFkAxbr3U-G2X_Zgd_qA)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=cf",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -589,9 +589,9 @@
                         ]
                     },
                     {
-                        "url": "https://vod.cf.dmcdn.net/sec2(5EZ27Jn3nWIXySR4qr0qiFiCWOZ0O-KElX4lvwdRq3zJwqRBc6O5W-4nUd-MpgxsPICI3-Y01rzRZGKzZPID9izvChpr5LJIL1dviL-9ybmBIdfWzhwS6KUQ1pmpiu71htxs1aQdtR6ieYglxccX_g)/video/596/493/520394695_mp4_h264_aac_hd_5.m3u8#cell=cf",
+                        "url": "https://vod.cf.dmcdn.net/sec2(jOjPJ7-nMWGP2K3TmNlkFY-mipuY-3fu-E3tnbCNO-8Bv5GGNUQtu0Z81QlottYRRahdf0IMcFb_gy41P5LAYqvhnUmjkkRATJCYKa-QEbQvkTm-DVidkbzJedv3OZpilXMCvEAQM0AkYepVqVfUcA)/video/596/493/520394695_mp4_h264_aac_hd_5.m3u8#cell=cf",
                         "quality": "All Subtitle player 2 - 536p",
-                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(5EZ27Jn3nWIXySR4qr0qiFiCWOZ0O-KElX4lvwdRq3zJwqRBc6O5W-4nUd-MpgxsPICI3-Y01rzRZGKzZPID9izvChpr5LJIL1dviL-9ybmBIdfWzhwS6KUQ1pmpiu71htxs1aQdtR6ieYglxccX_g)/video/596/493/520394695_mp4_h264_aac_hd_5.m3u8#cell=cf",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(jOjPJ7-nMWGP2K3TmNlkFY-mipuY-3fu-E3tnbCNO-8Bv5GGNUQtu0Z81QlottYRRahdf0IMcFb_gy41P5LAYqvhnUmjkkRATJCYKa-QEbQvkTm-DVidkbzJedv3OZpilXMCvEAQM0AkYepVqVfUcA)/video/596/493/520394695_mp4_h264_aac_hd_5.m3u8#cell=cf",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
