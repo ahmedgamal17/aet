@@ -167,6 +167,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/dragon-prince-yuan/",
+                                "title": "Dragon Prince Yuan",
+                                "thumbnail_url": "https://animexin.vip/wp-content/uploads/2024/06/Wu-768x1366.webp"
+                            },
+                            {
+                                "url": "/dubu-xiaoyao/",
+                                "title": "Dubu Xiaoyao",
+                                "thumbnail_url": "https://animexin.vip/wp-content/uploads/2020/06/Dubu-Xiaoyao-new.webp"
+                            },
+                            {
+                                "url": "/throne-of-seal/",
+                                "title": "Throne of Seal",
+                                "thumbnail_url": "https://animexin.vip/wp-content/uploads/2022/04/Throne-of-Seal-animexin.webp"
+                            },
+                            {
                                 "url": "/the-island-of-siliang/",
                                 "title": "The Island of Siliang",
                                 "thumbnail_url": "https://animexin.vip/wp-content/uploads/2021/06/The-Island-of-Siliang-s2-768x1045.jpg"
@@ -242,11 +257,6 @@
                                 "thumbnail_url": "https://animexin.vip/wp-content/uploads/2021/07/Against-new.webp"
                             },
                             {
-                                "url": "/dubu-xiaoyao/",
-                                "title": "Dubu Xiaoyao",
-                                "thumbnail_url": "https://animexin.vip/wp-content/uploads/2020/06/Dubu-Xiaoyao-new.webp"
-                            },
-                            {
                                 "url": "/a-record-of-mortals-journey-to-immortality-season-3/",
                                 "title": "A Record Of Mortal’s Journey To Immortality Season 3",
                                 "thumbnail_url": "https://animexin.vip/wp-content/uploads/2023/11/A-Record-of-a-Mortals-Journey-to-Immortality-Season-3.webp"
@@ -300,16 +310,6 @@
                                 "url": "/big-brother/",
                                 "title": "Big Brother",
                                 "thumbnail_url": "https://animexin.vip/wp-content/uploads/2023/12/big-brother-768x1365.jpeg"
-                            },
-                            {
-                                "url": "/dragon-prince-yuan/",
-                                "title": "Dragon Prince Yuan",
-                                "thumbnail_url": "https://animexin.vip/wp-content/uploads/2024/06/Wu-768x1366.webp"
-                            },
-                            {
-                                "url": "/throne-of-seal/",
-                                "title": "Throne of Seal",
-                                "thumbnail_url": "https://animexin.vip/wp-content/uploads/2022/04/Throne-of-Seal-animexin.webp"
                             },
                             {
                                 "url": "/tales-of-dark-river/",
@@ -399,14 +399,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vd389.mycdn.me/?expires=1721957680938&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.18&type=3&sig=yAKj-f5jeRc&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276",
+                        "url": "https://vd389.mycdn.me/?expires=1721975362808&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.18&type=3&sig=SfRgulgkoqI&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276",
                         "quality": "Hardsub Indonesia Ok.ru -  Okru:720p",
-                        "videoUrl": "https://vd389.mycdn.me/?expires=1721957680938&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.18&type=3&sig=yAKj-f5jeRc&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276"
+                        "videoUrl": "https://vd389.mycdn.me/?expires=1721975362808&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.18&type=3&sig=SfRgulgkoqI&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276"
                     },
                     {
-                        "url": "https://vd419.mycdn.me/?expires=1721957681680&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.56&type=3&sig=RBXBhTZONC8&ct=0&urls=45.136.21.51&clientType=0&zs=43&id=4885360806452",
+                        "url": "https://vd419.mycdn.me/?expires=1721975362365&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.56&type=3&sig=emB_muJ1ciU&ct=0&urls=185.226.52.75&clientType=0&zs=43&id=4885360806452",
                         "quality": "Hardsub English Ok.ru -  Okru:720p",
-                        "videoUrl": "https://vd419.mycdn.me/?expires=1721957681680&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.56&type=3&sig=RBXBhTZONC8&ct=0&urls=45.136.21.51&clientType=0&zs=43&id=4885360806452"
+                        "videoUrl": "https://vd419.mycdn.me/?expires=1721975362365&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.56&type=3&sig=emB_muJ1ciU&ct=0&urls=185.226.52.75&clientType=0&zs=43&id=4885360806452"
                     },
                     {
                         "url": "https://vod.cf.dmcdn.net/sec2(nhj5Mx8FEIgWR8vGlAl5UbBCME07GeHkdUspD1pb44AAzAiEPzwjaC0ossKkhOofUJSE7-YUgYp27NWfNh6HhELgEWYKpIUvO5hLKFvMTLY0K6HsMWVjqHLZ8WWyu-SyS9-bXpnaU4OzCSj_zvUq8A)/video/899/690/520096998_mp4_h264_aac_fhd_4.m3u8#cell=cf",
@@ -773,54 +773,54 @@
                         ]
                     },
                     {
-                        "url": "https://vd389.mycdn.me/?expires=1721957680938&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.18&type=4&sig=W2uskeOyqmM&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276",
+                        "url": "https://vd389.mycdn.me/?expires=1721975362808&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.18&type=4&sig=9cwOnhmMD9M&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276",
                         "quality": "Hardsub Indonesia Ok.ru -  Okru:144p",
-                        "videoUrl": "https://vd389.mycdn.me/?expires=1721957680938&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.18&type=4&sig=W2uskeOyqmM&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276"
+                        "videoUrl": "https://vd389.mycdn.me/?expires=1721975362808&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.18&type=4&sig=9cwOnhmMD9M&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276"
                     },
                     {
-                        "url": "https://vd389.mycdn.me/?expires=1721957680938&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.18&type=0&sig=f9ghKB0AcuE&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276",
+                        "url": "https://vd389.mycdn.me/?expires=1721975362808&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.18&type=0&sig=mUNw91krIhU&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276",
                         "quality": "Hardsub Indonesia Ok.ru -  Okru:240p",
-                        "videoUrl": "https://vd389.mycdn.me/?expires=1721957680938&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.18&type=0&sig=f9ghKB0AcuE&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276"
+                        "videoUrl": "https://vd389.mycdn.me/?expires=1721975362808&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.18&type=0&sig=mUNw91krIhU&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276"
                     },
                     {
-                        "url": "https://vd389.mycdn.me/?expires=1721957680938&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.18&type=1&sig=uyCobnYlzzg&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276",
+                        "url": "https://vd389.mycdn.me/?expires=1721975362808&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.18&type=1&sig=37fV6nRWmOU&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276",
                         "quality": "Hardsub Indonesia Ok.ru -  Okru:360p",
-                        "videoUrl": "https://vd389.mycdn.me/?expires=1721957680938&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.18&type=1&sig=uyCobnYlzzg&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276"
+                        "videoUrl": "https://vd389.mycdn.me/?expires=1721975362808&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.18&type=1&sig=37fV6nRWmOU&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276"
                     },
                     {
-                        "url": "https://vd389.mycdn.me/?expires=1721957680938&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.18&type=2&sig=bk0FS4yEQyY&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276",
+                        "url": "https://vd389.mycdn.me/?expires=1721975362808&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.18&type=2&sig=16Hm3RKVyf8&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276",
                         "quality": "Hardsub Indonesia Ok.ru -  Okru:480p",
-                        "videoUrl": "https://vd389.mycdn.me/?expires=1721957680938&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.18&type=2&sig=bk0FS4yEQyY&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276"
+                        "videoUrl": "https://vd389.mycdn.me/?expires=1721975362808&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.18&type=2&sig=16Hm3RKVyf8&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276"
                     },
                     {
-                        "url": "https://vd389.mycdn.me/?expires=1721957680938&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.18&type=5&sig=cJbH-R7a5BE&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276",
+                        "url": "https://vd389.mycdn.me/?expires=1721975362808&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.18&type=5&sig=o73a1SPtwD0&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276",
                         "quality": "Hardsub Indonesia Ok.ru -  Okru:1080p",
-                        "videoUrl": "https://vd389.mycdn.me/?expires=1721957680938&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.18&type=5&sig=cJbH-R7a5BE&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276"
+                        "videoUrl": "https://vd389.mycdn.me/?expires=1721975362808&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.18&type=5&sig=o73a1SPtwD0&ct=0&urls=185.226.53.73&clientType=0&zs=43&id=4885361396276"
                     },
                     {
-                        "url": "https://vd419.mycdn.me/?expires=1721957681680&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.56&type=4&sig=I8VkAGe3is4&ct=0&urls=45.136.21.51&clientType=0&zs=43&id=4885360806452",
+                        "url": "https://vd419.mycdn.me/?expires=1721975362365&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.56&type=4&sig=rqGDNTxW0I0&ct=0&urls=185.226.52.75&clientType=0&zs=43&id=4885360806452",
                         "quality": "Hardsub English Ok.ru -  Okru:144p",
-                        "videoUrl": "https://vd419.mycdn.me/?expires=1721957681680&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.56&type=4&sig=I8VkAGe3is4&ct=0&urls=45.136.21.51&clientType=0&zs=43&id=4885360806452"
+                        "videoUrl": "https://vd419.mycdn.me/?expires=1721975362365&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.56&type=4&sig=rqGDNTxW0I0&ct=0&urls=185.226.52.75&clientType=0&zs=43&id=4885360806452"
                     },
                     {
-                        "url": "https://vd419.mycdn.me/?expires=1721957681680&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.56&type=0&sig=UQle4xnossc&ct=0&urls=45.136.21.51&clientType=0&zs=43&id=4885360806452",
+                        "url": "https://vd419.mycdn.me/?expires=1721975362365&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.56&type=0&sig=T21FR27bVd0&ct=0&urls=185.226.52.75&clientType=0&zs=43&id=4885360806452",
                         "quality": "Hardsub English Ok.ru -  Okru:240p",
-                        "videoUrl": "https://vd419.mycdn.me/?expires=1721957681680&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.56&type=0&sig=UQle4xnossc&ct=0&urls=45.136.21.51&clientType=0&zs=43&id=4885360806452"
+                        "videoUrl": "https://vd419.mycdn.me/?expires=1721975362365&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.56&type=0&sig=T21FR27bVd0&ct=0&urls=185.226.52.75&clientType=0&zs=43&id=4885360806452"
                     },
                     {
-                        "url": "https://vd419.mycdn.me/?expires=1721957681680&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.56&type=1&sig=Cdg-7Gz8ZEw&ct=0&urls=45.136.21.51&clientType=0&zs=43&id=4885360806452",
+                        "url": "https://vd419.mycdn.me/?expires=1721975362365&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.56&type=1&sig=vfrsK_5QC6I&ct=0&urls=185.226.52.75&clientType=0&zs=43&id=4885360806452",
                         "quality": "Hardsub English Ok.ru -  Okru:360p",
-                        "videoUrl": "https://vd419.mycdn.me/?expires=1721957681680&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.56&type=1&sig=Cdg-7Gz8ZEw&ct=0&urls=45.136.21.51&clientType=0&zs=43&id=4885360806452"
+                        "videoUrl": "https://vd419.mycdn.me/?expires=1721975362365&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.56&type=1&sig=vfrsK_5QC6I&ct=0&urls=185.226.52.75&clientType=0&zs=43&id=4885360806452"
                     },
                     {
-                        "url": "https://vd419.mycdn.me/?expires=1721957681680&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.56&type=2&sig=vkbNyRoOxuY&ct=0&urls=45.136.21.51&clientType=0&zs=43&id=4885360806452",
+                        "url": "https://vd419.mycdn.me/?expires=1721975362365&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.56&type=2&sig=diVtxa5GQMM&ct=0&urls=185.226.52.75&clientType=0&zs=43&id=4885360806452",
                         "quality": "Hardsub English Ok.ru -  Okru:480p",
-                        "videoUrl": "https://vd419.mycdn.me/?expires=1721957681680&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.56&type=2&sig=vkbNyRoOxuY&ct=0&urls=45.136.21.51&clientType=0&zs=43&id=4885360806452"
+                        "videoUrl": "https://vd419.mycdn.me/?expires=1721975362365&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.56&type=2&sig=diVtxa5GQMM&ct=0&urls=185.226.52.75&clientType=0&zs=43&id=4885360806452"
                     },
                     {
-                        "url": "https://vd419.mycdn.me/?expires=1721957681680&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.56&type=5&sig=DsnORkF3lpc&ct=0&urls=45.136.21.51&clientType=0&zs=43&id=4885360806452",
+                        "url": "https://vd419.mycdn.me/?expires=1721975362365&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.56&type=5&sig=JXNWs8z6TCY&ct=0&urls=185.226.52.75&clientType=0&zs=43&id=4885360806452",
                         "quality": "Hardsub English Ok.ru -  Okru:1080p",
-                        "videoUrl": "https://vd419.mycdn.me/?expires=1721957681680&srcIp=52.234.27.4&pr=10&srcAg=GECKO&ms=45.136.20.56&type=5&sig=DsnORkF3lpc&ct=0&urls=45.136.21.51&clientType=0&zs=43&id=4885360806452"
+                        "videoUrl": "https://vd419.mycdn.me/?expires=1721975362365&srcIp=13.83.123.178&pr=10&srcAg=GECKO&ms=45.136.20.56&type=5&sig=JXNWs8z6TCY&ct=0&urls=185.226.52.75&clientType=0&zs=43&id=4885360806452"
                     }
                 ],
                 "passed": true
