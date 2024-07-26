@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/bartender-glass-of-god",
+                                "title": "Bartender Glass of God",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933682.jpg"
+                            },
+                            {
                                 "url": "/anime/kite-man-hell-yeah",
                                 "title": "Kite Man: Hell Yeah!",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933681.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/atri-my-dear-moments",
                                 "title": "Atri: My Dear Moments",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933667.jpg"
-                            },
-                            {
-                                "url": "/anime/bye-bye-earth-english-subbed",
-                                "title": "Bye Bye, Earth English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933666.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/kite-man-hell-yeah",
-                    "title": "Kite Man: Hell Yeah!",
-                    "description": "The adventures of the minor villain Kite Man as he commits crimes to support the purchase of Noonan’s, Gotham’s seediest dive bar.",
-                    "genre": "Black comedy, Superhero, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933681.jpg",
+                    "url": "/anime/bartender-glass-of-god",
+                    "title": "Bartender Glass of God",
+                    "description": "Miwa Kurushima and her colleague Yukari Higuchi hunt for a skilled individual to run the counter bar at the famous Hotel Cardinal. The chairman of the hotel demands only one thing of the potential hire: the bartender must be able to craft the ultimate drink known as the “Glass of God.” Because Miwa does not fully understand the requirement, her search runs dry after everyone she has scouted cannot get past the chairman’s scrutiny.",
+                    "genre": "Drama, Gourmet, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933682.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,14 +616,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/kite-man-hell-yeah-episode-3-villigans-hell-yeah",
-                        "name": "Season 1 - Episode 3",
-                        "episode_number": 103.0
-                    },
-                    {
-                        "url": "/kite-man-hell-yeah-episode-2-grand-reopening-hell-yeah",
-                        "name": "Season 1 - Episode 2",
-                        "episode_number": 102.0
+                        "url": "/bartender-glass-of-god-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
                     }
                 ],
                 "passed": true
@@ -631,19 +626,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJs_K1_1Av7_zrHnjn3cAlwmG2XAwOgOFy847DXYbBKXNdbWR0dseYHcT12IdJPDT0kU8AY3oyfOmr5Q7gLIA5QqpwSZsvuqMUFBNFZTSUmtGez53j02zDjMrL2Cim11ihvZXxXHzJyfV-avViW2LU8bfKl9ja0TdecwAefZBwr9BkuwAsMiQ9X0A5VVvnVv6WvbbgwSYGM5q2ciZor3TUTftEyo5wDKUYjLWPyKbGgrhY2dc5fvF9YKFAb-StSRz_esp0BntPM0g3BxkHQcGS7RyZMWiQHlG36dhDzM5IGubJHpEuaCzHmptMpoBtnNXdGY60WpDOpbmNuAbVozANbdzEDVZPV6tgCeZQj8dmnImLqmt2czbgl40Fx0GWAWbIA",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2iT-t3n4VmyRx82vEaT9UVukyGMuGcTLbtjpfG9tGVcHKtnIDVuAxYspFxJPziy1tnwJb9sP6sys2iacJU23D_SgRgq5dPghX0bGSQoNAQC_RV0eCxIq7QAH8z6_f6BMkeoHZbR3dk1IGq2x98nB-eZH7-JYKzWE93XyFkuxY3rvi1X_h7C-JzFKVYj3vlWlEGhH7ekSE1gkVE5bEF4UbejJcLaTFyJRtk07HQ4xhov2QRze6-hR4TGU2vO0tfErPpJvL7D1wa8TCTj74BKt-5krPMSsOgOhTzJr9fDCyxBoBZkAYQWhQKDceh_-d12aTgStBmhuDpzwSLR63GV6GqDe1rvYkpATulge3UlJ9h7Q3QtHM7vV2EoUMQ_MHeon0OVePjNdslKd8hRPNa8Ilyck853bAVHRFFWkcxglmkIZg",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJs_K1_1Av7_zrHnjn3cAlwmG2XAwOgOFy847DXYbBKXNdbWR0dseYHcT12IdJPDT0kU8AY3oyfOmr5Q7gLIA5QqpwSZsvuqMUFBNFZTSUmtGez53j02zDjMrL2Cim11ihvZXxXHzJyfV-avViW2LU8bfKl9ja0TdecwAefZBwr9BkuwAsMiQ9X0A5VVvnVv6WvbbgwSYGM5q2ciZor3TUTftEyo5wDKUYjLWPyKbGgrhY2dc5fvF9YKFAb-StSRz_esp0BntPM0g3BxkHQcGS7RyZMWiQHlG36dhDzM5IGubJHpEuaCzHmptMpoBtnNXdGY60WpDOpbmNuAbVozANbdzEDVZPV6tgCeZQj8dmnImLqmt2czbgl40Fx0GWAWbIA"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2iT-t3n4VmyRx82vEaT9UVukyGMuGcTLbtjpfG9tGVcHKtnIDVuAxYspFxJPziy1tnwJb9sP6sys2iacJU23D_SgRgq5dPghX0bGSQoNAQC_RV0eCxIq7QAH8z6_f6BMkeoHZbR3dk1IGq2x98nB-eZH7-JYKzWE93XyFkuxY3rvi1X_h7C-JzFKVYj3vlWlEGhH7ekSE1gkVE5bEF4UbejJcLaTFyJRtk07HQ4xhov2QRze6-hR4TGU2vO0tfErPpJvL7D1wa8TCTj74BKt-5krPMSsOgOhTzJr9fDCyxBoBZkAYQWhQKDceh_-d12aTgStBmhuDpzwSLR63GV6GqDe1rvYkpATulge3UlJ9h7Q3QtHM7vV2EoUMQ_MHeon0OVePjNdslKd8hRPNa8Ilyck853bAVHRFFWkcxglmkIZg"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJs_K1_1Av7_zrHnjn3cAlwmG2XAwOgOFy847DXYbBKXNdbWR0dseYHcT12IdJPDT0kU8AY3oyfOmr5Q7gLIA5QqpwSZsvuqMUFBNFZTSUmtGJGJmpMeCUmV4rTjLqGHfPxq1DN_glnGjc8XOm9NeDELbA3FpDc3g_JHFVbyv9S7Jjey6GpjJvOWeNHXN5bzdHE-ebSEkGYXspOUPH7ZtqKhS1g6mg7W4GtToU9k5aznqVpCDZCfR1Bv-zFg3wUVoLId8nT50Bf8IMkCDEXxpruyLyXap2vHEo53RZH6-2dYJeRnxAZDZSYV_VlsQF0HVeuzdLvTQv5D8FrYC-6xRKtstIIhZHIm2isJMMKUo8qW_POJXmKx0XUk-_y9QAjY_Qw",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2iT-t3n4VmyRx82vEaT9UVukyGMuGcTLbtjpfG9tGVcHKtnIDVuAxYspFxJPziy1tnwJb9sP6sys2iacJU23D_SgRgq5dPghX0bGSQoNAQC_RV0eCxIq7QAH8z6_f6BMkeoHZbR3dk1IGq2x98nB-eZBMCBTZXnd2Q6xD2LLCpVyJQIyg7bT2456fiv_MhV058_t5k6RhWlV-J1mMW3vcxrWlp5egGr5b05nRD18C4I-Svv9_bEliHjvgpE50eFN1sX0SO_J6SKG4lqeiaS02NGIDQX_EjfSuJdvcTy2TPOvK9YY16OPVfI7r5eYmikjC5fdCcyX2XkECdCr43uO0dsu0KYmfE45tptji9NOeDCpzRF1LerpxmCL9CUWAB45dO3AzBcaXz51yA6OWWl_pqRpD_sJhBn_QJU6orpmaqcTw",
                         "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJs_K1_1Av7_zrHnjn3cAlwmG2XAwOgOFy847DXYbBKXNdbWR0dseYHcT12IdJPDT0kU8AY3oyfOmr5Q7gLIA5QqpwSZsvuqMUFBNFZTSUmtGJGJmpMeCUmV4rTjLqGHfPxq1DN_glnGjc8XOm9NeDELbA3FpDc3g_JHFVbyv9S7Jjey6GpjJvOWeNHXN5bzdHE-ebSEkGYXspOUPH7ZtqKhS1g6mg7W4GtToU9k5aznqVpCDZCfR1Bv-zFg3wUVoLId8nT50Bf8IMkCDEXxpruyLyXap2vHEo53RZH6-2dYJeRnxAZDZSYV_VlsQF0HVeuzdLvTQv5D8FrYC-6xRKtstIIhZHIm2isJMMKUo8qW_POJXmKx0XUk-_y9QAjY_Qw"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2iT-t3n4VmyRx82vEaT9UVukyGMuGcTLbtjpfG9tGVcHKtnIDVuAxYspFxJPziy1tnwJb9sP6sys2iacJU23D_SgRgq5dPghX0bGSQoNAQC_RV0eCxIq7QAH8z6_f6BMkeoHZbR3dk1IGq2x98nB-eZBMCBTZXnd2Q6xD2LLCpVyJQIyg7bT2456fiv_MhV058_t5k6RhWlV-J1mMW3vcxrWlp5egGr5b05nRD18C4I-Svv9_bEliHjvgpE50eFN1sX0SO_J6SKG4lqeiaS02NGIDQX_EjfSuJdvcTy2TPOvK9YY16OPVfI7r5eYmikjC5fdCcyX2XkECdCr43uO0dsu0KYmfE45tptji9NOeDCpzRF1LerpxmCL9CUWAB45dO3AzBcaXz51yA6OWWl_pqRpD_sJhBn_QJU6orpmaqcTw"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJs_K1_1Av7_zrHnjn3cAlwmG2XAwOgOFy847DXYbBKXNdbWR0dseYHcT12IdJPDT0kU8AY3oyfOmr5Q7gLIA5QqpwSZsvuqMUFBNFZTSUmtGwutI-ALpPRqY8pqQUXiE2ER-AEx0SDucFVylIh3OXM2pHnWz0REpDA-Wv55p7jE4C2w4lNp5Z4-1Xhyz7dzYkmIIVWtL4FiWo-a-it0X0wISJWAAeihVcIYrBUPcY-sH8iCi2jtv0Co9Qptnw5HPFGnRrmmc4pvpZdLzkhNdGKkPCof402wtIuRiVD-biS_eCsXV5vq-ZkinVx1pduva_qxXY55XZw9U4SO5uxBPvVfPF6ubtNb4u2Tc90H8KwsyeNbXcHMKtyjtCCALmsi58A",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2iT-t3n4VmyRx82vEaT9UVukyGMuGcTLbtjpfG9tGVcHKtnIDVuAxYspFxJPziy1tnwJb9sP6sys2iacJU23D_SgRgq5dPghX0bGSQoNAQC_RV0eCxIq7QAH8z6_f6BMkeoHZbR3dk1IGq2x98nB-eZuaj2Ha0qjfq0Cqk4orV8BT_2t__YWYncgdRG4h6F2CBoVdQp0VgvSxyVDaqF0lYbl63G7o2M8CUgUn6ameqV9D3LMe-OCwSZ1B9JK_U1QbFUVJk8U65D7Ps8mg3KbO-4oJy4485oUjx-ruyjsBIMF3cincQE23sA_qaDOPRXJYvQZc8-P0wftut3GHB6dFeDjM8ghWDgpSIc7-yTdVefqVayLI4FzGmhMCy5e-9hlHCc75j8M-eRIV8-1F5aaf_q",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJs_K1_1Av7_zrHnjn3cAlwmG2XAwOgOFy847DXYbBKXNdbWR0dseYHcT12IdJPDT0kU8AY3oyfOmr5Q7gLIA5QqpwSZsvuqMUFBNFZTSUmtGwutI-ALpPRqY8pqQUXiE2ER-AEx0SDucFVylIh3OXM2pHnWz0REpDA-Wv55p7jE4C2w4lNp5Z4-1Xhyz7dzYkmIIVWtL4FiWo-a-it0X0wISJWAAeihVcIYrBUPcY-sH8iCi2jtv0Co9Qptnw5HPFGnRrmmc4pvpZdLzkhNdGKkPCof402wtIuRiVD-biS_eCsXV5vq-ZkinVx1pduva_qxXY55XZw9U4SO5uxBPvVfPF6ubtNb4u2Tc90H8KwsyeNbXcHMKtyjtCCALmsi58A"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2iT-t3n4VmyRx82vEaT9UVukyGMuGcTLbtjpfG9tGVcHKtnIDVuAxYspFxJPziy1tnwJb9sP6sys2iacJU23D_SgRgq5dPghX0bGSQoNAQC_RV0eCxIq7QAH8z6_f6BMkeoHZbR3dk1IGq2x98nB-eZuaj2Ha0qjfq0Cqk4orV8BT_2t__YWYncgdRG4h6F2CBoVdQp0VgvSxyVDaqF0lYbl63G7o2M8CUgUn6ameqV9D3LMe-OCwSZ1B9JK_U1QbFUVJk8U65D7Ps8mg3KbO-4oJy4485oUjx-ruyjsBIMF3cincQE23sA_qaDOPRXJYvQZc8-P0wftut3GHB6dFeDjM8ghWDgpSIc7-yTdVefqVayLI4FzGmhMCy5e-9hlHCc75j8M-eRIV8-1F5aaf_q"
                     }
                 ],
                 "passed": true
