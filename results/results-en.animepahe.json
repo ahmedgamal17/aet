@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5584",
+                                "title": "Dead Dead Demons Dededede Destruction (ONA)",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/44c32ccdd87925c8dbe9e10e30fd9c35d4a61d560f47fbcd48b5784712223790.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5481",
                                 "title": "Beyblade X",
                                 "artist": "HnY",
@@ -71,12 +77,6 @@
                                 "title": "Isekai Suicide Squad",
                                 "artist": "Amazon",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/9ae56b5939ab6b636caf2ec112b7e836ce4c8c7a96eb4b13e9353f9018d55361.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5511",
-                                "title": "Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou Part 2",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/cc172a21cbdfbcd64004267120995dd782ace82c596e02985e612693635d09c2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5584",
+                                "title": "Dead Dead Demons Dededede Destruction (ONA)",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/44c32ccdd87925c8dbe9e10e30fd9c35d4a61d560f47fbcd48b5784712223790.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5481",
                                 "title": "Beyblade X",
                                 "artist": "HnY",
@@ -153,12 +159,6 @@
                                 "title": "Isekai Suicide Squad",
                                 "artist": "Amazon",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/9ae56b5939ab6b636caf2ec112b7e836ce4c8c7a96eb4b13e9353f9018d55361.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5511",
-                                "title": "Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou Part 2",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/cc172a21cbdfbcd64004267120995dd782ace82c596e02985e612693635d09c2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5481",
-                    "title": "Beyblade X",
-                    "author": "OLM",
-                    "description": "Kazami Bird, aiming to become a professional, meets former champion Kurosu Ekusu also known as 'Kamen X' and forms a team so that they can aim for the \"top\" of the X Tower. But what awaits them is a spectacular battle that no one has ever seen before: the yet unseen \"X.\" The super accelerated beyblade runs through a new era!",
-                    "genre": "Adventure, Sports",
+                    "url": "/anime/?anime_id=5584",
+                    "title": "Dead Dead Demons Dededede Destruction (ONA)",
+                    "author": "Production +h.",
+                    "description": "When you look up at the sky, what do you see? A blue sky? Freedom? A hopeful future? The people of Tokyo see none of these. Instead, an ominous alien mothership looms overhead, engulfing the city skyscape. Three years ago, they came. The arrival of the \"Invaders\" sparked the greatest war humanity had ever faced—one that threatened to end the world. The Japanese government scrambled to fight the Invaders. Weapons were mass-produced, sparking controversy and pacifist movements. That day, everything changed. And yet, nothing has changed. Kadode Koyama and Ouran Nakagawa live their final days like they always have: going to school, playing with friends, and doing what any carefree high school girl would do. As they grow up, they come to learn what it truly means to be an adult, in a world where adults seem to be demons who only deceive and destroy. They come to learn the real threat to humanity is not the Invaders, but humanity itself.\n\nSynonyms: DeDeDeDe, DDDD",
+                    "genre": "Drama, Sci-Fi",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/5a7f40d100f95368e34573dbaa1ca209c312f41242e9f97ce39eb7258d929363.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/0f6833840c692fc3129f8c6273d54f2861b82d705943162078897383f860af03.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/58976063-2dd0-8a84-0946-5c6df48c07d1/8728fa920caf3635cd2769bb13bd1888507e75db5cc2b4c0076b38f13a6c8c04",
-                        "name": "Episode 41",
-                        "date_upload": 1721953325000,
-                        "episode_number": 41.0
+                        "url": "/play/0c9ba45a-ba72-6d4e-cc4f-336fc3bf4c51/a289797a2a9898f3f3e2bb78063431d58dd21d9d25b8f0d567f32af36bd26185",
+                        "name": "Episode 9",
+                        "date_upload": 1721963149000,
+                        "episode_number": 9.0
                     },
                     {
-                        "url": "/play/58976063-2dd0-8a84-0946-5c6df48c07d1/f04a32291f5a7385e0991a0c34902875ac556af0300c1c806b6ce781b9896392",
-                        "name": "Episode 40",
-                        "date_upload": 1721278834000,
-                        "episode_number": 40.0
+                        "url": "/play/0c9ba45a-ba72-6d4e-cc4f-336fc3bf4c51/47e1efb1ec7da2caf6f121f3f723579ec7feb5b7baf19973a738e0574a05dbc1",
+                        "name": "Episode 8",
+                        "date_upload": 1721358347000,
+                        "episode_number": 8.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/f5eccb6c413deca58fbff1068f0e9aeab46a26b234c24ff0bd857712f0cd56ca?file=AnimePahe_Beyblade_X_-_41_1080p_HnY.mp4&token=4FQOscENmKZRdVJdHqAEbg&expires=1721972203",
-                        "quality": "HnY · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/f5eccb6c413deca58fbff1068f0e9aeab46a26b234c24ff0bd857712f0cd56ca?file=AnimePahe_Beyblade_X_-_41_1080p_HnY.mp4&token=4FQOscENmKZRdVJdHqAEbg&expires=1721972203"
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/7d2d551e3e843cbfa3bc1fdc26a7b7ca15e9828f468eb7618c9f92de9a388984?file=AnimePahe_Dead_Dead_Demons_Dededede_Destruction_ONA_-_09_1080p_SubsPlease.mp4&token=gMQM5rVVmWfpQYxspPutng&expires=1721989778",
+                        "quality": "SubsPlease · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/7d2d551e3e843cbfa3bc1fdc26a7b7ca15e9828f468eb7618c9f92de9a388984?file=AnimePahe_Dead_Dead_Demons_Dededede_Destruction_ONA_-_09_1080p_SubsPlease.mp4&token=gMQM5rVVmWfpQYxspPutng&expires=1721989778"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/ec545b47975c875eefb6be17d25a16f127971c2837799fa43ea4351e9543c788?file=AnimePahe_Beyblade_X_-_41_720p_HnY.mp4&token=gmz5NkI_Lc-Vg52lUUm0Ng&expires=1721972201",
-                        "quality": "HnY · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/ec545b47975c875eefb6be17d25a16f127971c2837799fa43ea4351e9543c788?file=AnimePahe_Beyblade_X_-_41_720p_HnY.mp4&token=gmz5NkI_Lc-Vg52lUUm0Ng&expires=1721972201"
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/6a5b9744383bade58bbe30196fa0f7b31ede94e708282335b1a5a414f49bc708?file=AnimePahe_Dead_Dead_Demons_Dededede_Destruction_ONA_-_09_720p_SubsPlease.mp4&token=lXIbc47hmjzJ2jwILTPkcA&expires=1721989776",
+                        "quality": "SubsPlease · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/6a5b9744383bade58bbe30196fa0f7b31ede94e708282335b1a5a414f49bc708?file=AnimePahe_Dead_Dead_Demons_Dededede_Destruction_ONA_-_09_720p_SubsPlease.mp4&token=lXIbc47hmjzJ2jwILTPkcA&expires=1721989776"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/071be88bf92d17e07d66b6073a1f9c8606e97ee03523a8a8146c6a3949b48525?file=AnimePahe_Beyblade_X_-_41_360p_HnY.mp4&token=XGjRKxcvHJvOir-xaz4Qug&expires=1721972200",
-                        "quality": "HnY · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/071be88bf92d17e07d66b6073a1f9c8606e97ee03523a8a8146c6a3949b48525?file=AnimePahe_Beyblade_X_-_41_360p_HnY.mp4&token=XGjRKxcvHJvOir-xaz4Qug&expires=1721972200"
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/43c3a080eb7b0e07b9b20f61128770ee521815c82d9e3b46d4d25cc32dff0020?file=AnimePahe_Dead_Dead_Demons_Dededede_Destruction_ONA_-_09_360p_SubsPlease.mp4&token=g8FRRdF5uVTE_n5z-qpyUQ&expires=1721989775",
+                        "quality": "SubsPlease · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/43c3a080eb7b0e07b9b20f61128770ee521815c82d9e3b46d4d25cc32dff0020?file=AnimePahe_Dead_Dead_Demons_Dededede_Destruction_ONA_-_09_360p_SubsPlease.mp4&token=g8FRRdF5uVTE_n5z-qpyUQ&expires=1721989775"
                     }
                 ],
                 "passed": true
