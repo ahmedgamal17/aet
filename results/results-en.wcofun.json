@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/dr-panda",
+                                "title": "Dr. Panda",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933685.jpg"
+                            },
+                            {
+                                "url": "/anime/bye-bye-earth-english-dubbed",
+                                "title": "Bye Bye, Earth English Dubbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933684.jpg"
+                            },
+                            {
+                                "url": "/anime/yamato-yo-towa-ni-rebel-3199",
+                                "title": "Yamato yo, Towa ni: Rebel 3199",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933683.jpg"
+                            },
+                            {
                                 "url": "/anime/bartender-glass-of-god",
                                 "title": "Bartender Glass of God",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933682.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/0-saiji-start-dash-monogatari",
                                 "title": "0-saiji Start Dash Monogatari",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933670.jpg"
-                            },
-                            {
-                                "url": "/anime/make-heroine-ga-oosugiru",
-                                "title": "Make Heroine ga Oosugiru!",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933669.jpg"
-                            },
-                            {
-                                "url": "/anime/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
-                                "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933668.jpg"
-                            },
-                            {
-                                "url": "/anime/atri-my-dear-moments",
-                                "title": "Atri: My Dear Moments",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933667.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/bartender-glass-of-god",
-                    "title": "Bartender Glass of God",
-                    "description": "Miwa Kurushima and her colleague Yukari Higuchi hunt for a skilled individual to run the counter bar at the famous Hotel Cardinal. The chairman of the hotel demands only one thing of the potential hire: the bartender must be able to craft the ultimate drink known as the “Glass of God.” Because Miwa does not fully understand the requirement, her search runs dry after everyone she has scouted cannot get past the chairman’s scrutiny.",
-                    "genre": "Drama, Gourmet, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933682.jpg",
+                    "url": "/anime/dr-panda",
+                    "title": "Dr. Panda",
+                    "description": "Welcome to the wonderful world of Panda City, where every day Dr. Panda tries out a new job working together with his friends. A mix-up at the post off-ice? A chicken stuck in a tree? Are carrots mysteriously disappearing? No problem! With a dash of creativity and a good deal of teamwork, Dr. Panda always saves the day!",
+                    "genre": "Animation, Kids, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933685.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,9 +616,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/bartender-glass-of-god-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
+                        "url": "/dr-panda-episode-13-personal-trainer-tour-guide-magician",
+                        "name": "Season 1 - Episode 13",
+                        "episode_number": 113.0
+                    },
+                    {
+                        "url": "/dr-panda-episode-12-furniture-mover-the-melt-and-wobble-chickensitter",
+                        "name": "Season 1 - Episode 12",
+                        "episode_number": 112.0
                     }
                 ],
                 "passed": true
@@ -626,19 +631,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2iT-t3n4VmyRx82vEaT9UVukyGMuGcTLbtjpfG9tGVcHKtnIDVuAxYspFxJPziy1tnwJb9sP6sys2iacJU23D_SgRgq5dPghX0bGSQoNAQC_RV0eCxIq7QAH8z6_f6BMkeoHZbR3dk1IGq2x98nB-eZH7-JYKzWE93XyFkuxY3rvi1X_h7C-JzFKVYj3vlWlEGhH7ekSE1gkVE5bEF4UbejJcLaTFyJRtk07HQ4xhov2QRze6-hR4TGU2vO0tfErPpJvL7D1wa8TCTj74BKt-5kevtqF5-cBP0S91H7nsun_gcmnHec9d9D5yEap6M99tq_n3V_uQ-WyUGXvipEZpg8WqrEIIcKeKWtT4WdkBm4GMnrXDD9y6uiq0lzIc86NL49rq6DHtrz3hMGTv9P0YpTukCe5PPeDonV9tfEFHUfog",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjuTbeLzy-T7AbMhfZPUOgC39L8oKxou4QlsVuCp5CTjMrYzOCdQPKGXW6uXWUC6EJdMUIXBvrNq4uVILOWg9g8xwvulKnP0YZucP-xwahkoUyemorwdx_EyB3KUE4MmNtQc-9u4XTUchwsAaY1XzhM53wnq2v_prLhsHNxx2xzldSdhJBcOZUEoBXfQSB295W0Ba3atV-O0UV4P_9ZACSxhYBHK-Wl8TOmnbV9FDOmSRoAk5b2zutBawiNmJBmNVt3NvqaDGzFfbR2GLqXt_sNofXoakxfMTb9Jf_cuJBy1Dxu2VW8okFREMtAV2EgWNg",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2iT-t3n4VmyRx82vEaT9UVukyGMuGcTLbtjpfG9tGVcHKtnIDVuAxYspFxJPziy1tnwJb9sP6sys2iacJU23D_SgRgq5dPghX0bGSQoNAQC_RV0eCxIq7QAH8z6_f6BMkeoHZbR3dk1IGq2x98nB-eZH7-JYKzWE93XyFkuxY3rvi1X_h7C-JzFKVYj3vlWlEGhH7ekSE1gkVE5bEF4UbejJcLaTFyJRtk07HQ4xhov2QRze6-hR4TGU2vO0tfErPpJvL7D1wa8TCTj74BKt-5kevtqF5-cBP0S91H7nsun_gcmnHec9d9D5yEap6M99tq_n3V_uQ-WyUGXvipEZpg8WqrEIIcKeKWtT4WdkBm4GMnrXDD9y6uiq0lzIc86NL49rq6DHtrz3hMGTv9P0YpTukCe5PPeDonV9tfEFHUfog"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjuTbeLzy-T7AbMhfZPUOgC39L8oKxou4QlsVuCp5CTjMrYzOCdQPKGXW6uXWUC6EJdMUIXBvrNq4uVILOWg9g8xwvulKnP0YZucP-xwahkoUyemorwdx_EyB3KUE4MmNtQc-9u4XTUchwsAaY1XzhM53wnq2v_prLhsHNxx2xzldSdhJBcOZUEoBXfQSB295W0Ba3atV-O0UV4P_9ZACSxhYBHK-Wl8TOmnbV9FDOmSRoAk5b2zutBawiNmJBmNVt3NvqaDGzFfbR2GLqXt_sNofXoakxfMTb9Jf_cuJBy1Dxu2VW8okFREMtAV2EgWNg"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2iT-t3n4VmyRx82vEaT9UVukyGMuGcTLbtjpfG9tGVcHKtnIDVuAxYspFxJPziy1tnwJb9sP6sys2iacJU23D_SgRgq5dPghX0bGSQoNAQC_RV0eCxIq7QAH8z6_f6BMkeoHZbR3dk1IGq2x98nB-eZBMCBTZXnd2Q6xD2LLCpVyJQIyg7bT2456fiv_MhV058_t5k6RhWlV-J1mMW3vcxrWlp5egGr5b05nRD18C4I-Svv9_bEliHjvgpE50eFN1sX0SO_J6SKG4lqeiaS02NGUr-Ke0NnG40tZSSB_vcjLHkaD4PoUob2UwkIzvDpJ2Wxa-T6pHAeu4PbaR4GQWC0ZRkR1plll45tVNvaXyE7upm_C3QcrqbCj46u8ag4nMeM_OF07xXhjBxN7xgaRJePxqcZNxgIuoII08t9FMmJfg",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2iT-t3n4VmyRx82vEaT9UVukyGMuGcTLbtjpfG9tGVcHKtnIDVuAxYspFxJPziy1tnwJb9sP6sys2iacJU23D_SgRgq5dPghX0bGSQoNAQC_RV0eCxIq7QAH8z6_f6BMkeoHZbR3dk1IGq2x98nB-eZBMCBTZXnd2Q6xD2LLCpVyJQIyg7bT2456fiv_MhV058_t5k6RhWlV-J1mMW3vcxrWlp5egGr5b05nRD18C4I-Svv9_bEliHjvgpE50eFN1sX0SO_J6SKG4lqeiaS02NGUr-Ke0NnG40tZSSB_vcjLHkaD4PoUob2UwkIzvDpJ2Wxa-T6pHAeu4PbaR4GQWC0ZRkR1plll45tVNvaXyE7upm_C3QcrqbCj46u8ag4nMeM_OF07xXhjBxN7xgaRJePxqcZNxgIuoII08t9FMmJfg"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2iT-t3n4VmyRx82vEaT9UVukyGMuGcTLbtjpfG9tGVcHKtnIDVuAxYspFxJPziy1tnwJb9sP6sys2iacJU23D_SgRgq5dPghX0bGSQoNAQC_RV0eCxIq7QAH8z6_f6BMkeoHZbR3dk1IGq2x98nB-eZuaj2Ha0qjfq0Cqk4orV8BT_2t__YWYncgdRG4h6F2CBoVdQp0VgvSxyVDaqF0lYbl63G7o2M8CUgUn6ameqV9D3LMe-OCwSZ1B9JK_U1QbFUVJk8U65D7Ps8mg3KbO-4SQ1BFvkJdiNamcgNcAq9gbEZckbMJGfnWEvQWZjQFeGWMTBBrxPYBHHWAQ43HTh3GZSqRYWv9kaXJaQWI2iRP6Huj7rl5rliQz7zz9YiqHke6dBqsCvYwO7sToltbzqd54QwXps1_o_Nci44E6H33A",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjuTbeLzy-T7AbMhfZPUOgDHlXjXcR-AWJWKZp3ndLYRt9dwEiDyvmRw360M4b23fKtMBMVJj5z2CRcD8wsazupB_5Gv1QiBNMsgPxUKe7E6fMpu2fXV1vsuJGc4tw1GVGtdRRlpZMa0bFKVHgZZULJwlHJJCNzFXM2Fi_KmzMnUWGjahgGpLl_StcScp7fcyIcM_fPjBYOf5arC8cDcxwdM0LuDO-27wbv1BiJIkp6ylj618hsFHZJXLGmS0LbqOq3c-S7Jo0h7VGWerdH7VepOlEUnFX0tbQcVsenEJWRn",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2iT-t3n4VmyRx82vEaT9UVukyGMuGcTLbtjpfG9tGVcHKtnIDVuAxYspFxJPziy1tnwJb9sP6sys2iacJU23D_SgRgq5dPghX0bGSQoNAQC_RV0eCxIq7QAH8z6_f6BMkeoHZbR3dk1IGq2x98nB-eZuaj2Ha0qjfq0Cqk4orV8BT_2t__YWYncgdRG4h6F2CBoVdQp0VgvSxyVDaqF0lYbl63G7o2M8CUgUn6ameqV9D3LMe-OCwSZ1B9JK_U1QbFUVJk8U65D7Ps8mg3KbO-4SQ1BFvkJdiNamcgNcAq9gbEZckbMJGfnWEvQWZjQFeGWMTBBrxPYBHHWAQ43HTh3GZSqRYWv9kaXJaQWI2iRP6Huj7rl5rliQz7zz9YiqHke6dBqsCvYwO7sToltbzqd54QwXps1_o_Nci44E6H33A"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjuTbeLzy-T7AbMhfZPUOgDHlXjXcR-AWJWKZp3ndLYRt9dwEiDyvmRw360M4b23fKtMBMVJj5z2CRcD8wsazupB_5Gv1QiBNMsgPxUKe7E6fMpu2fXV1vsuJGc4tw1GVGtdRRlpZMa0bFKVHgZZULJwlHJJCNzFXM2Fi_KmzMnUWGjahgGpLl_StcScp7fcyIcM_fPjBYOf5arC8cDcxwdM0LuDO-27wbv1BiJIkp6ylj618hsFHZJXLGmS0LbqOq3c-S7Jo0h7VGWerdH7VepOlEUnFX0tbQcVsenEJWRn"
                     }
                 ],
                 "passed": true
