@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5608",
+                                "title": "Madougushi Dahliya wa Utsumukanai",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/dcca44975f44f5fce6fb81e7c85883654aa9e04725ba4f76e38817b38f2adb0b.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5612",
                                 "title": "Cardfight!! Vanguard: Divinez Season 2",
                                 "artist": "SubsPlease",
@@ -71,12 +77,6 @@
                                 "title": "Dead Dead Demons Dededede Destruction (ONA)",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/44c32ccdd87925c8dbe9e10e30fd9c35d4a61d560f47fbcd48b5784712223790.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5481",
-                                "title": "Beyblade X",
-                                "artist": "HnY",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/9a7c5756b2162afaeb9d4a5de88cd9d1efcd4612993b7617e3480a65d67cea1c.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5608",
+                                "title": "Madougushi Dahliya wa Utsumukanai",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/dcca44975f44f5fce6fb81e7c85883654aa9e04725ba4f76e38817b38f2adb0b.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5612",
                                 "title": "Cardfight!! Vanguard: Divinez Season 2",
                                 "artist": "SubsPlease",
@@ -153,12 +159,6 @@
                                 "title": "Dead Dead Demons Dededede Destruction (ONA)",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/44c32ccdd87925c8dbe9e10e30fd9c35d4a61d560f47fbcd48b5784712223790.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5481",
-                                "title": "Beyblade X",
-                                "artist": "HnY",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/9a7c5756b2162afaeb9d4a5de88cd9d1efcd4612993b7617e3480a65d67cea1c.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5612",
-                    "title": "Cardfight!! Vanguard: Divinez Season 2",
-                    "author": "Kinema Citrus, GIFTanimation, Studio Jemi",
-                    "description": "Through his victory with Vanguard at the Fated Clash, Akina has his wish for the health of his sister Hikari fulfilled. Gabwelius, who assembled the owners of the Fated One cards, reveals the truth behind the Fated Clash. Another plush toy Sybilt has appeared as well, gathering the 6 owners of Destined One cards, and announcing the start of the “Destined Showdown” where the winner can have their wish fulfilled. Thus begins the fierce bout where motives and intentions cross, of Fate vs Destiny!",
-                    "genre": "Action",
+                    "url": "/anime/?anime_id=5608",
+                    "title": "Madougushi Dahliya wa Utsumukanai",
+                    "author": "Typhoon Graphics, Imagica Infos",
+                    "description": "After dying of overwork in Japan, Dahlia is reborn into a world filled with magic. Raised by a master of magical toolmaking, she develops a passion for the craft and becomes engaged to her father's apprentice. Before her father can see her wed, however, he suddenly passes away. As if this weren't enough, on the day before their wedding, her fiancé announces that he's in love—but not with her! Dahlia finally realizes she needs to live for herself. She vows to be her own woman from now on and devote herself to her craft, even if it's not quite the quiet life she was hoping for! From a chance encounter with a knight to starting her own company, there are challenges aplenty on the horizon. But this young craftswoman is no longer a shrinking violet—she's Dahlia, and she's ready to bloom.\n\nSynonyms: Dahlia in Bloom, Dahliya in Bloom, Madougushi Dahliya wa Utsumukanai: Kyou kara Jiyuu na Shokunin Life",
+                    "genre": "Fantasy, Slice of Life",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/4cfad762f26142119d7c40f5646b291e77c8079175c4ba34b78fc41e963a5c2d.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/8b2f518935557d71cbd0e3ebdc0a4f1683352a582bb9e21979b5ee87fdf8f67f.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,15 +233,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/1495075a-4fd8-656e-8e6a-430fbd3d3b6d/d707ce3091e72d9537216322220891bf389071c87c98b95333f4697978ce88c1",
+                        "url": "/play/fa6dabbd-df60-7ee5-bc29-e60e8f72bc77/5ced6cf09cdd4b175bcf30e82bf777f0c0a4d9da7bfb1dccc4d3c975c11c3328",
                         "name": "Episode 4",
-                        "date_upload": 1722052834000,
+                        "date_upload": 1722083712000,
                         "episode_number": 4.0
                     },
                     {
-                        "url": "/play/1495075a-4fd8-656e-8e6a-430fbd3d3b6d/c2be7a32378c7970aa151a0e6eeb03509f704686d417e60312f026a40ce0fb1b",
+                        "url": "/play/fa6dabbd-df60-7ee5-bc29-e60e8f72bc77/80c498c80278877f123e3cda9e503c5d4ecdedb45cfa030bb827f5d5c8ea792f",
                         "name": "Episode 3",
-                        "date_upload": 1721465411000,
+                        "date_upload": 1721478930000,
                         "episode_number": 3.0
                     }
                 ],
@@ -250,19 +250,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/e11af7e65b88d48e9c9fe6364fa080c402379ff556e8095d0ff10ecbb0b191cf?file=AnimePahe_Cardfight_Vanguard_-_Divinez_-_04_1080p_SubsPlease.mp4&token=6Hfrz1PuYNFRfvGJU2mGeQ&expires=1722075984",
-                        "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/e11af7e65b88d48e9c9fe6364fa080c402379ff556e8095d0ff10ecbb0b191cf?file=AnimePahe_Cardfight_Vanguard_-_Divinez_-_04_1080p_SubsPlease.mp4&token=6Hfrz1PuYNFRfvGJU2mGeQ&expires=1722075984"
-                    },
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/9108d3d3f7c28682e695b2207c04df1b1e62ae70f10cf94c2682d05cad406f64?file=AnimePahe_Cardfight_Vanguard_-_Divinez_-_04_720p_SubsPlease.mp4&token=Gmw-AsB6WpVMtaO_oHjArA&expires=1722075982",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/cde148ee505f553b54bfc8cb1faf0de40b7dbf93d269bd4b17d7d0f351ce434f?file=AnimePahe_Madougushi_Dahliya_wa_Utsumukanai_-_04_720p_SubsPlease.mp4&token=ZZKHYARLVe2yMM59-HPXEw&expires=1722098297",
                         "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/9108d3d3f7c28682e695b2207c04df1b1e62ae70f10cf94c2682d05cad406f64?file=AnimePahe_Cardfight_Vanguard_-_Divinez_-_04_720p_SubsPlease.mp4&token=Gmw-AsB6WpVMtaO_oHjArA&expires=1722075982"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/cde148ee505f553b54bfc8cb1faf0de40b7dbf93d269bd4b17d7d0f351ce434f?file=AnimePahe_Madougushi_Dahliya_wa_Utsumukanai_-_04_720p_SubsPlease.mp4&token=ZZKHYARLVe2yMM59-HPXEw&expires=1722098297"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/882f064b39b4f31826e5343baa884f1546e02c847f1723ac75e3ddba409100d4?file=AnimePahe_Cardfight_Vanguard_-_Divinez_-_04_360p_SubsPlease.mp4&token=AiOC9cMlwMpEHvA63b1lHQ&expires=1722075981",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/7a70a7a56bfe32f2065d2726da7eeced1efec7b909ab5482ee983cc0b0ce0f5e?file=AnimePahe_Madougushi_Dahliya_wa_Utsumukanai_-_04_360p_SubsPlease.mp4&token=fBWTVHINvc0yyOE0QH6owQ&expires=1722098296",
                         "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/882f064b39b4f31826e5343baa884f1546e02c847f1723ac75e3ddba409100d4?file=AnimePahe_Cardfight_Vanguard_-_Divinez_-_04_360p_SubsPlease.mp4&token=AiOC9cMlwMpEHvA63b1lHQ&expires=1722075981"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/7a70a7a56bfe32f2065d2726da7eeced1efec7b909ab5482ee983cc0b0ce0f5e?file=AnimePahe_Madougushi_Dahliya_wa_Utsumukanai_-_04_360p_SubsPlease.mp4&token=fBWTVHINvc0yyOE0QH6owQ&expires=1722098296"
                     }
                 ],
                 "passed": true
