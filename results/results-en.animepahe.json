@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5641",
+                                "title": "Don't Give Up!",
+                                "artist": "B-Global",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7ea2cf16f8724b675de5385e869cec45ba01e20c19b99ebf8670f96ee437cdee.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4",
+                                "title": "One Piece",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/d6b911874cf1a48779c7d2ba99726a04b86056eda5980cc0db36d4065ba4f6ef.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5495",
                                 "title": "Wonderful Precure!",
                                 "artist": "SubsPlease",
@@ -65,18 +77,6 @@
                                 "title": "Monogatari Series: Off & Monster Season",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/38da0211c2c0ae22688e5c6aa2126eb46cedfdd81bd32e23112b34cb419adc32.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5610",
-                                "title": "Mob kara Hajimaru Tansaku Eiyuutan",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/363ad6f98a11f28956935ac5b48d270e416a80f343f57753a2a48086195ba585.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5608",
-                                "title": "Madougushi Dahliya wa Utsumukanai",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/dcca44975f44f5fce6fb81e7c85883654aa9e04725ba4f76e38817b38f2adb0b.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5641",
+                                "title": "Don't Give Up!",
+                                "artist": "B-Global",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7ea2cf16f8724b675de5385e869cec45ba01e20c19b99ebf8670f96ee437cdee.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4",
+                                "title": "One Piece",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/d6b911874cf1a48779c7d2ba99726a04b86056eda5980cc0db36d4065ba4f6ef.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5495",
                                 "title": "Wonderful Precure!",
                                 "artist": "SubsPlease",
@@ -147,18 +159,6 @@
                                 "title": "Monogatari Series: Off & Monster Season",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/38da0211c2c0ae22688e5c6aa2126eb46cedfdd81bd32e23112b34cb419adc32.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5610",
-                                "title": "Mob kara Hajimaru Tansaku Eiyuutan",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/363ad6f98a11f28956935ac5b48d270e416a80f343f57753a2a48086195ba585.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5608",
-                                "title": "Madougushi Dahliya wa Utsumukanai",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/dcca44975f44f5fce6fb81e7c85883654aa9e04725ba4f76e38817b38f2adb0b.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5495",
-                    "title": "Wonderful Precure!",
-                    "author": "Toei Animation",
-                    "description": "The Wonderful Precure! anime is set in Animal Town, a town where animals and people live together in harmony. Second-year junior high school student Iroha Inukai is best friends with her dog named Komugi. Out for a walk one day, Iroha and Komugi encounter a mysterious creature named Garugaru, who goes on a rampage in the city. Komugi suddenly transforms into a Pretty Cure named Cure Wonderful, to protect Iroha.",
-                    "genre": "Action, Fantasy",
+                    "url": "/anime/?anime_id=5641",
+                    "title": "Don't Give Up!",
+                    "author": "Shengying Animation",
+                    "description": "Men Ke, a social animal working as an office worker, was so bored in the first half of her life that she doubted her life, but in the second half of her life, she will die of boredom. How can the Earth heroine, who faces the threat of death every day but continues to go to work, and the alien hero, who is enthusiastic and wants to save her but is not very good at it, overcome boredom and live with a smile!",
+                    "genre": "Comedy, Romance, Sci-Fi",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/e60f5ac3e90f911c585fe4e4857542a4e84b20049189ff28603808d52ae88b0d.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/4b4de688def9d07273aad5a43b1b4983603f46d1e11291c5df3cf5d6a9a26846.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/0c270dc1-a1f4-815f-fdf5-1a9009413189/37be8e054659f0f114782e4a7bd0519323068a20e8f41deea16597106a04febe",
-                        "name": "Episode 26",
-                        "date_upload": 1722130592000,
-                        "episode_number": 26.0
+                        "url": "/play/6daf0392-737c-0487-e261-fcdfb50daa07/aeab476eb10497b39addf1c6ad88b51464a72576908f0dff7f121489e840af20",
+                        "name": "Episode 6",
+                        "date_upload": 1722136036000,
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/play/0c270dc1-a1f4-815f-fdf5-1a9009413189/7ce6603cce22de621bf1613054c3aadc0f8da4cc627cea9b6a0563cebe0c83e3",
-                        "name": "Episode 25",
-                        "date_upload": 1721525795000,
-                        "episode_number": 25.0
+                        "url": "/play/6daf0392-737c-0487-e261-fcdfb50daa07/a60097ee995afa4ed1f29e3ab65ad4afff39e5b5f33a34535e9b7edbd9ae0662",
+                        "name": "Episode 5",
+                        "date_upload": 1721531230000,
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -250,14 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/d26b25ffb798f5ffb5841bcb92b7f0e4b6b497645a1426b1d843991352a546b6?file=AnimePahe_Wonderful_Precure_-_26_720p_SubsPlease.mp4&token=YCgU0V8oD6kw-Xfh-0AB2w&expires=1722145283",
-                        "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/d26b25ffb798f5ffb5841bcb92b7f0e4b6b497645a1426b1d843991352a546b6?file=AnimePahe_Wonderful_Precure_-_26_720p_SubsPlease.mp4&token=YCgU0V8oD6kw-Xfh-0AB2w&expires=1722145283"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/db7e6ccd0c1d5ab540baa4391d80a4db34d20847d35e84329dc8c576040d4d04?file=AnimePahe_Wuliao_Jiu_Wanjie_-_06_1080p_B-Global.mp4&token=ggJLMXxTs3ycvq_nI2gbXw&expires=1722162449",
+                        "quality": "B-Global · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/db7e6ccd0c1d5ab540baa4391d80a4db34d20847d35e84329dc8c576040d4d04?file=AnimePahe_Wuliao_Jiu_Wanjie_-_06_1080p_B-Global.mp4&token=ggJLMXxTs3ycvq_nI2gbXw&expires=1722162449"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/18a9b68dda9038ba7b97d81115f17ee8d108c93837bc607154d661d06863265f?file=AnimePahe_Wonderful_Precure_-_26_360p_SubsPlease.mp4&token=pPtLlhILV8MmOfDH51hrZg&expires=1722145282",
-                        "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/18a9b68dda9038ba7b97d81115f17ee8d108c93837bc607154d661d06863265f?file=AnimePahe_Wonderful_Precure_-_26_360p_SubsPlease.mp4&token=pPtLlhILV8MmOfDH51hrZg&expires=1722145282"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/0b9b2e5977f70f0ca0854f87a57d0844c630afa1e1313543235f772425976373?file=AnimePahe_Wuliao_Jiu_Wanjie_-_06_720p_B-Global.mp4&token=nUpPa77K-7Hfqeobsfpuhg&expires=1722162447",
+                        "quality": "B-Global · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/0b9b2e5977f70f0ca0854f87a57d0844c630afa1e1313543235f772425976373?file=AnimePahe_Wuliao_Jiu_Wanjie_-_06_720p_B-Global.mp4&token=nUpPa77K-7Hfqeobsfpuhg&expires=1722162447"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/1e8540797ff95c9ce35ca8e4e4f42ee0dc024a16ea52bcfcf42dd67e14dbaf23?file=AnimePahe_Wuliao_Jiu_Wanjie_-_06_360p_B-Global.mp4&token=l1xYtGk2V811yb8CTKvlMg&expires=1722162445",
+                        "quality": "B-Global · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/1e8540797ff95c9ce35ca8e4e4f42ee0dc024a16ea52bcfcf42dd67e14dbaf23?file=AnimePahe_Wuliao_Jiu_Wanjie_-_06_360p_B-Global.mp4&token=l1xYtGk2V811yb8CTKvlMg&expires=1722162445"
                     }
                 ],
                 "passed": true
