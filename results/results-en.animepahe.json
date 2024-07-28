@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5495",
+                                "title": "Wonderful Precure!",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/ac1ade488321024848ba1edd0f64b3dab536e315d6b71a72b66f2da862ce3a01.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5534",
                                 "title": "The Fable",
                                 "artist": "Disney_Plus",
@@ -71,12 +77,6 @@
                                 "title": "Madougushi Dahliya wa Utsumukanai",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/dcca44975f44f5fce6fb81e7c85883654aa9e04725ba4f76e38817b38f2adb0b.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5612",
-                                "title": "Cardfight!! Vanguard: Divinez Season 2",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/8146f62f9f1bc5c693df278cb8dced4606e19def30027b6e140b6a77f85acbaa.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5495",
+                                "title": "Wonderful Precure!",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/ac1ade488321024848ba1edd0f64b3dab536e315d6b71a72b66f2da862ce3a01.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5534",
                                 "title": "The Fable",
                                 "artist": "Disney_Plus",
@@ -153,12 +159,6 @@
                                 "title": "Madougushi Dahliya wa Utsumukanai",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/dcca44975f44f5fce6fb81e7c85883654aa9e04725ba4f76e38817b38f2adb0b.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5612",
-                                "title": "Cardfight!! Vanguard: Divinez Season 2",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/8146f62f9f1bc5c693df278cb8dced4606e19def30027b6e140b6a77f85acbaa.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5534",
-                    "title": "The Fable",
-                    "author": "Tezuka Productions",
-                    "description": "Fable, an assassin who works in organized crime, has been raised to the legendary status of a ruthless killer capable of murdering any man within six seconds. Six years after his debut, his boss fears that Fable has started to attract too much attention from the legal authorities, and he orders him to hide in Osaka for a year. Accompanied by his driver who assumes the identity of his sister, Fable is bound by a special condition: he must act as a civilian and not murder anyone lest he and his partner lose their lives. However, the seemingly well-deserved holiday soon takes a grim turn. Takeshi Ebihara, the second-in-command of the Osaka mafia that officially protects the assassin, sees Fable's presence as a threat and wants to remove him. Constantly monitored by the yakuza and regularly put in life-or-death situations, Fable has no other choice but to outwit Takeshi's schemes if he wants to stay alive.",
-                    "genre": "Comedy, Suspense",
+                    "url": "/anime/?anime_id=5495",
+                    "title": "Wonderful Precure!",
+                    "author": "Toei Animation",
+                    "description": "The Wonderful Precure! anime is set in Animal Town, a town where animals and people live together in harmony. Second-year junior high school student Iroha Inukai is best friends with her dog named Komugi. Out for a walk one day, Iroha and Komugi encounter a mysterious creature named Garugaru, who goes on a rampage in the city. Komugi suddenly transforms into a Pretty Cure named Cure Wonderful, to protect Iroha.",
+                    "genre": "Action, Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/c50c927758f5c0ddc269b4521edadf7ed020a7fe2b8bd822926a470f80ba3748.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/e60f5ac3e90f911c585fe4e4857542a4e84b20049189ff28603808d52ae88b0d.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/de1619eb-297b-002b-dd47-5a5b829ef227/08532ed4e32003ebd41b84914fb8f3df9a1db0f38480446962d3facbcaea041d",
-                        "name": "Episode 17",
-                        "date_upload": 1722102425000,
-                        "episode_number": 17.0
+                        "url": "/play/0c270dc1-a1f4-815f-fdf5-1a9009413189/37be8e054659f0f114782e4a7bd0519323068a20e8f41deea16597106a04febe",
+                        "name": "Episode 26",
+                        "date_upload": 1722130592000,
+                        "episode_number": 26.0
                     },
                     {
-                        "url": "/play/de1619eb-297b-002b-dd47-5a5b829ef227/2332d462b4a6cb4f6bbdeca5e0577a22c6536c3457ee90cb313ef476d52e560c",
-                        "name": "Episode 16",
-                        "date_upload": 1721494790000,
-                        "episode_number": 16.0
+                        "url": "/play/0c270dc1-a1f4-815f-fdf5-1a9009413189/7ce6603cce22de621bf1613054c3aadc0f8da4cc627cea9b6a0563cebe0c83e3",
+                        "name": "Episode 25",
+                        "date_upload": 1721525795000,
+                        "episode_number": 25.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/267788e7a7ee1f295ddfb99dd8492ce9be91e755e482025382539f5a76396dc2?file=AnimePahe_The_Fable_-_17_1080p_Disney_Plus.mp4&token=cn6k-6Axu7gaEb1Jo_82hA&expires=1722119251",
-                        "quality": "Disney_Plus · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/267788e7a7ee1f295ddfb99dd8492ce9be91e755e482025382539f5a76396dc2?file=AnimePahe_The_Fable_-_17_1080p_Disney_Plus.mp4&token=cn6k-6Axu7gaEb1Jo_82hA&expires=1722119251"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/d26b25ffb798f5ffb5841bcb92b7f0e4b6b497645a1426b1d843991352a546b6?file=AnimePahe_Wonderful_Precure_-_26_720p_SubsPlease.mp4&token=YCgU0V8oD6kw-Xfh-0AB2w&expires=1722145283",
+                        "quality": "SubsPlease · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/d26b25ffb798f5ffb5841bcb92b7f0e4b6b497645a1426b1d843991352a546b6?file=AnimePahe_Wonderful_Precure_-_26_720p_SubsPlease.mp4&token=YCgU0V8oD6kw-Xfh-0AB2w&expires=1722145283"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/5cd5f1437f5dda767422114fd1ea898b6377a557affcadd5b6091ab96605ed85?file=AnimePahe_The_Fable_-_17_720p_Disney_Plus.mp4&token=4el_wBJ5V4QF261zJElPrw&expires=1722119249",
-                        "quality": "Disney_Plus · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/5cd5f1437f5dda767422114fd1ea898b6377a557affcadd5b6091ab96605ed85?file=AnimePahe_The_Fable_-_17_720p_Disney_Plus.mp4&token=4el_wBJ5V4QF261zJElPrw&expires=1722119249"
-                    },
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/6facb0526ace4e64eefa1e0017a7fca7d60acb9cdc684f16033c6fb544e1f0c5?file=AnimePahe_The_Fable_-_17_360p_Disney_Plus.mp4&token=gSBlPatfsBG15c7ZJteCdA&expires=1722119247",
-                        "quality": "Disney_Plus · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/6facb0526ace4e64eefa1e0017a7fca7d60acb9cdc684f16033c6fb544e1f0c5?file=AnimePahe_The_Fable_-_17_360p_Disney_Plus.mp4&token=gSBlPatfsBG15c7ZJteCdA&expires=1722119247"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/18a9b68dda9038ba7b97d81115f17ee8d108c93837bc607154d661d06863265f?file=AnimePahe_Wonderful_Precure_-_26_360p_SubsPlease.mp4&token=pPtLlhILV8MmOfDH51hrZg&expires=1722145282",
+                        "quality": "SubsPlease · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/18a9b68dda9038ba7b97d81115f17ee8d108c93837bc607154d661d06863265f?file=AnimePahe_Wonderful_Precure_-_26_360p_SubsPlease.mp4&token=pPtLlhILV8MmOfDH51hrZg&expires=1722145282"
                     }
                 ],
                 "passed": true
