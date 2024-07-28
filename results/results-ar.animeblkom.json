@@ -32,6 +32,11 @@
                                 "thumbnail_url": "https://animeblkom.net/uploads/75864/1661afcc8e1aee.jpg"
                             },
                             {
+                                "url": "/anime/gyakkyou-burai-kaiji-ultimate-survivor",
+                                "title": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+                                "thumbnail_url": "https://animeblkom.net/uploads/61772/Gyakkyou-Burai-Kaiji-Ultimate-Survivor-poster-286.jpg"
+                            },
+                            {
                                 "url": "/movie/kimetsu-no-yaiba-movie-mugen-ressha-hen",
                                 "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
                                 "thumbnail_url": "https://animeblkom.net/uploads/65247/kimetsu-no-yaiba-movie-mugen-ressha-hen-poster-3811.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/anime/sousou-no-frieren",
                                 "title": "Sousou no Frieren",
                                 "thumbnail_url": "https://animeblkom.net/uploads/73039/1651725a80ccfe.jpg"
-                            },
-                            {
-                                "url": "/movie/violet-evergarden-movie",
-                                "title": "Violet Evergarden Movie",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65250/violet-evergarden-movie-poster-3814.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -205,36 +205,36 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/720p.mp4?expires=1722191230&token=p7E3CLj2mOftRWVm1Qeqkg",
+                        "url": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/720p.mp4?expires=1722213378&token=c7ogiBOS_uALsSwvVkhnFA",
                         "quality": "Blkom - 720p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/720p.mp4?expires=1722191230&token=p7E3CLj2mOftRWVm1Qeqkg",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/720p.mp4?expires=1722213378&token=c7ogiBOS_uALsSwvVkhnFA",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://animeblkom.net"
                         }
                     },
                     {
-                        "url": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/1080p.mp4?expires=1722191230&token=mMx7I4eMUk2Rgk3SBIPqkA",
+                        "url": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/1080p.mp4?expires=1722213378&token=hf8BeOqQ1pS1z1_DPG9vXw",
                         "quality": "Blkom - 1080p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/1080p.mp4?expires=1722191230&token=mMx7I4eMUk2Rgk3SBIPqkA",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/1080p.mp4?expires=1722213378&token=hf8BeOqQ1pS1z1_DPG9vXw",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://animeblkom.net"
                         }
                     },
                     {
-                        "url": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/480p.mp4?expires=1722191230&token=Uqbi4Mu-Nc0JQtQ53EPvRQ",
+                        "url": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/480p.mp4?expires=1722213378&token=N1w9_MmVeL9j_D4H9biC7A",
                         "quality": "Blkom - 480p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/480p.mp4?expires=1722191230&token=Uqbi4Mu-Nc0JQtQ53EPvRQ",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/480p.mp4?expires=1722213378&token=N1w9_MmVeL9j_D4H9biC7A",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://animeblkom.net"
                         }
                     },
                     {
-                        "url": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/360p.mp4?expires=1722191230&token=_BqHRtrb41cIRkWe9K6Yww",
+                        "url": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/360p.mp4?expires=1722213378&token=wdXRvFVvH70gMoDIky6mpw",
                         "quality": "Blkom - 360p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/360p.mp4?expires=1722191230&token=_BqHRtrb41cIRkWe9K6Yww",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/151/667c8f1e127ce/360p.mp4?expires=1722213378&token=wdXRvFVvH70gMoDIky6mpw",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://animeblkom.net"
