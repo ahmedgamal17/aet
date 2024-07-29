@@ -255,19 +255,28 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/4-week-lovers/148509",
+                        "name": "Episode 9"
+                    },
+                    {
+                        "url": "/player/4-week-lovers/148508",
+                        "name": "Episode 8"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=IXYYrtDIuu76QNW%2FKmskSg%3D%3D",
+                        "url": "https://slothanime.com/player-url/148509?vrf=6jWIGHa7zcyIzA0T4RSGEg%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=IXYYrtDIuu76QNW%2FKmskSg%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/148509?vrf=6jWIGHa7zcyIzA0T4RSGEg%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/4-week-lovers/148509"
                         }
                     }
                 ],
