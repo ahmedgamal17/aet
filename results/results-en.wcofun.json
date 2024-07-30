@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/chained-soldier",
+                                "title": "Chained Soldier",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933689.jpg"
+                            },
+                            {
                                 "url": "/anime/makeine-too-many-losing-heroines",
                                 "title": "Makeine: Too Many Losing Heroines!",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933688.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/grendizer-u",
                                 "title": "Grendizer U",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933674.jpg"
-                            },
-                            {
-                                "url": "/anime/twilight-out-of-focus",
-                                "title": "Twilight Out of Focus",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933673.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/makeine-too-many-losing-heroines",
-                    "title": "Makeine: Too Many Losing Heroines!",
-                    "description": "Kazuhiko Nukumizu, a self-proclaimed “background character,” accidentally witnessed his popular classmate Anna Yanami being rejected by her childhood friend. Since then, Kazuhiko has become involved with several loser heroines, including Anna.",
-                    "genre": "Comedy, Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933688.jpg",
+                    "url": "/anime/chained-soldier",
+                    "title": "Chained Soldier",
+                    "description": "As his school days draw to an end, Yuuki Wakura worries about his future. While lamenting the prospect of living an ordinary life, he is suddenly drawn into the world of Mato: an alternate dimension filled with dangerous monsters called Shuuki. Over the years since the existence of Mato was first confirmed, incidents of people accidentally wandering into the other world have become commonplace. To combat the threat of the Shuuki and rescue victims like Yuuki, the all-female Demon Defense Force was established. Its members have been blessed with the power of “Peaches”—Mato fruits that grant supernatural abilities only to women.",
+                    "genre": "Action, Ecchi, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933689.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,7 +616,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/makeine-too-many-losing-heroines-episode-1-english-dubbed",
+                        "url": "/chained-soldier-episode-1-english-dubbed",
                         "name": "Season 1 - Episode 1",
                         "episode_number": 101.0
                     }
@@ -626,19 +626,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jLo5VPnFdcVruEC_8NzwHi7w2xs3xzCq7GM0X9N_m-hW9VHSUrpBAXJPR92bMf2DIMhUDToGn10R6a_7-6iZiHaOdRVVprYd3LhwJvDnBj9jd6olO3SC_s0xipo3WTDfUZysKY4NfCPi-wYDR-cembsTVItZqqESVPKaRJszAMi-YEsAi3M47c_I2IWGlU6n1smv8Wzd9v8xM2oKu1lqJmx1DY0jLoPLlsDxAZjU8H3FH0gf_ehEwzd-Jaqr_w6DD8dlD88CBUxjLtAacFIKowQgkHJHVwK8lvYRTmOX6C2Tbfu3Nd8JADRVuM70SZ_1oEh_Ie89IGX24rrHq5cGtFnp83k9G6doWN9fog5J9aHtLbvBu3VK7MgCxpuhcxTGqVRnyQOFdJJsqP9yAXNG7XsJkxJccOJMJMRlhoAP7r2U8vV6I70_JmVUuLwZT19uY",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hIxXJbn5GUTOBkpjU3mnHuUwNUqMHu8vAeoo_JnwoYQrtwDUBxyBDs5oPmx78hs5JojlBwydUdxSlYhXYDw1XKYdTv_P8Xg_6t2fUflCrrBI5A2M_XF3cgIQvhd7bv1eD3fESP0xvH6EnrZa2O0RW7-H3zwHV0qG_pVx8oS1-zTfB_qeSAX7CYerhkszkpVCSWc3--zRbV2XjWvATV-NazNjNFAAe8ESE6uzVN-YfTmRfPmXAxn6sUV_wME7WY3rwMLjJoubfeau3slaubneKLkPYQ9TaibYyLHeVzlp0WwYc3jIsLfjMxkLVkIrYkt5rGCMEbVvqrMgSk6db9-wzm17zMNrPJjsihflNq9ch46wyUVBZmPnFTQqHt0SmTOA-YziVD-hbcqyG_El-lr7Uq_V-Wseraak3mxNS9L46VYQ",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jLo5VPnFdcVruEC_8NzwHi7w2xs3xzCq7GM0X9N_m-hW9VHSUrpBAXJPR92bMf2DIMhUDToGn10R6a_7-6iZiHaOdRVVprYd3LhwJvDnBj9jd6olO3SC_s0xipo3WTDfUZysKY4NfCPi-wYDR-cembsTVItZqqESVPKaRJszAMi-YEsAi3M47c_I2IWGlU6n1smv8Wzd9v8xM2oKu1lqJmx1DY0jLoPLlsDxAZjU8H3FH0gf_ehEwzd-Jaqr_w6DD8dlD88CBUxjLtAacFIKowQgkHJHVwK8lvYRTmOX6C2Tbfu3Nd8JADRVuM70SZ_1oEh_Ie89IGX24rrHq5cGtFnp83k9G6doWN9fog5J9aHtLbvBu3VK7MgCxpuhcxTGqVRnyQOFdJJsqP9yAXNG7XsJkxJccOJMJMRlhoAP7r2U8vV6I70_JmVUuLwZT19uY"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hIxXJbn5GUTOBkpjU3mnHuUwNUqMHu8vAeoo_JnwoYQrtwDUBxyBDs5oPmx78hs5JojlBwydUdxSlYhXYDw1XKYdTv_P8Xg_6t2fUflCrrBI5A2M_XF3cgIQvhd7bv1eD3fESP0xvH6EnrZa2O0RW7-H3zwHV0qG_pVx8oS1-zTfB_qeSAX7CYerhkszkpVCSWc3--zRbV2XjWvATV-NazNjNFAAe8ESE6uzVN-YfTmRfPmXAxn6sUV_wME7WY3rwMLjJoubfeau3slaubneKLkPYQ9TaibYyLHeVzlp0WwYc3jIsLfjMxkLVkIrYkt5rGCMEbVvqrMgSk6db9-wzm17zMNrPJjsihflNq9ch46wyUVBZmPnFTQqHt0SmTOA-YziVD-hbcqyG_El-lr7Uq_V-Wseraak3mxNS9L46VYQ"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jLo5VPnFdcVruEC_8NzwHi7w2xs3xzCq7GM0X9N_m-hW9VHSUrpBAXJPR92bMf2DIMhUDToGn10R6a_7-6iZiHaOdRVVprYd3LhwJvDnBj9jd6olO3SC_s0xipo3WTDfUZysKY4NfCPi-wYDR-cembsTVItZqqESVPKaRJszAMi-KRk1GwHbGC07VSIqOGfLTq7I4hYV2pSK5TqOpTEuspiEqdPBqTF4PGbyfH4KP-hQHxnDc3jVAD0JaEyx7U23_jAphhdZYc_AX-ERrLsAI7HINrEqUZ8QsQKz_fsQkD3Vtdd16baGlIeCTNanlw1DbLstX4TbgVUpHh1UR8JeftWQTx5tkC92QiFTyUuAk1GXTETDENZKgCh3CMYd0Ttx6BC8ldkxp_kB0w3XCwbTHV5K9C8PRkIpaP7pBJijExlDTFbJvifcXIWejf000DZtw",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hIxXJbn5GUTOBkpjU3mnHuUwNUqMHu8vAeoo_JnwoYQrtwDUBxyBDs5oPmx78hs5JojlBwydUdxSlYhXYDw1XKYdTv_P8Xg_6t2fUflCrrBI5A2M_XF3cgIQvhd7bv1eCSYcxkCJeXD67nkkHEOk8C9uWMz4_RfBL1FE3-_Zg8TgTLNOktrzZ6uMY_oC3UDTqAbDZFq5Rk9qPQn-7bZQ7W7VlrDeTpU8qjQ06fENE6RQ92cK2WQHe9BUPYIm7qdOykoy3QPoiMFjgmoALkOyr0_EYhYOqfl48TKzqUv44Gmn7BgD3lUKSGNek9TED0Tyu7BeLgxr7Cq7j4T0faB9gf9BhFW_LuB5pS44SiLDTHHw-aqo5dKuSfSyMjZL7O3L4Stwjc4Y6-6uvCmMOxm8bv-mVFfU6ekf98pwivns88qQ",
                         "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jLo5VPnFdcVruEC_8NzwHi7w2xs3xzCq7GM0X9N_m-hW9VHSUrpBAXJPR92bMf2DIMhUDToGn10R6a_7-6iZiHaOdRVVprYd3LhwJvDnBj9jd6olO3SC_s0xipo3WTDfUZysKY4NfCPi-wYDR-cembsTVItZqqESVPKaRJszAMi-KRk1GwHbGC07VSIqOGfLTq7I4hYV2pSK5TqOpTEuspiEqdPBqTF4PGbyfH4KP-hQHxnDc3jVAD0JaEyx7U23_jAphhdZYc_AX-ERrLsAI7HINrEqUZ8QsQKz_fsQkD3Vtdd16baGlIeCTNanlw1DbLstX4TbgVUpHh1UR8JeftWQTx5tkC92QiFTyUuAk1GXTETDENZKgCh3CMYd0Ttx6BC8ldkxp_kB0w3XCwbTHV5K9C8PRkIpaP7pBJijExlDTFbJvifcXIWejf000DZtw"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hIxXJbn5GUTOBkpjU3mnHuUwNUqMHu8vAeoo_JnwoYQrtwDUBxyBDs5oPmx78hs5JojlBwydUdxSlYhXYDw1XKYdTv_P8Xg_6t2fUflCrrBI5A2M_XF3cgIQvhd7bv1eCSYcxkCJeXD67nkkHEOk8C9uWMz4_RfBL1FE3-_Zg8TgTLNOktrzZ6uMY_oC3UDTqAbDZFq5Rk9qPQn-7bZQ7W7VlrDeTpU8qjQ06fENE6RQ92cK2WQHe9BUPYIm7qdOykoy3QPoiMFjgmoALkOyr0_EYhYOqfl48TKzqUv44Gmn7BgD3lUKSGNek9TED0Tyu7BeLgxr7Cq7j4T0faB9gf9BhFW_LuB5pS44SiLDTHHw-aqo5dKuSfSyMjZL7O3L4Stwjc4Y6-6uvCmMOxm8bv-mVFfU6ekf98pwivns88qQ"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jLo5VPnFdcVruEC_8NzwHi7w2xs3xzCq7GM0X9N_m-hW9VHSUrpBAXJPR92bMf2DIMhUDToGn10R6a_7-6iZiHaOdRVVprYd3LhwJvDnBj9jd6olO3SC_s0xipo3WTDfUZysKY4NfCPi-wYDR-cembsTVItZqqESVPKaRJszAMi8uSaiHn9udNknIP_-DBpzzU_8mnjMGJ8Gbgv_nvsBKdS_q7zx-ME57griKKvJd8pYutHfCMO9MQHcNcjC-h6MvD4c3lhiYw0k3f-YGy5dWQ7qvs8bTL5xxIhvITOuA8rh4kD1QUJxda0DhNeFQ3yzudktEKH1RH9UxoxhQzfhyXV-Md30NGw5ATsWFgyAYrVeADhJyar5v5H-tl7eKrKnWJYkJ-GbRVovrP63a73zWJwbWowg14mgIqRLuv8XSBhcl4DtaL6tDFh9W3x5yFvNg",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hIxXJbn5GUTOBkpjU3mnHuUwNUqMHu8vAeoo_JnwoYQrtwDUBxyBDs5oPmx78hs5JojlBwydUdxSlYhXYDw1XKYdTv_P8Xg_6t2fUflCrrBI5A2M_XF3cgIQvhd7bv1eAJp3nw6W0AOaIr9dntL91-dllUOcGtL1214vQCS-YResxktjNUesIBD19Z4oLyYVFBg2J3rVpUzEn7MLf7tGJSmJXJCdGSmanu2395iTE6K-nV4kv1sA5TcX5EK9EPDXV7JJrsH5ouUYDJzQ_B4NAw9dpT1R_HIW0lOODEfbZ0rsf7Abk4MHd8xFTEZ4AQRWKK2kW27yYkhYIcOY3IzVWFt-5iH5inLQuEb1mtt_cjKy2Ay6YwfBiWVjQNY20uqy5m0DVsQ9AiXsAAU3bP1Ay4",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jLo5VPnFdcVruEC_8NzwHi7w2xs3xzCq7GM0X9N_m-hW9VHSUrpBAXJPR92bMf2DIMhUDToGn10R6a_7-6iZiHaOdRVVprYd3LhwJvDnBj9jd6olO3SC_s0xipo3WTDfUZysKY4NfCPi-wYDR-cembsTVItZqqESVPKaRJszAMi8uSaiHn9udNknIP_-DBpzzU_8mnjMGJ8Gbgv_nvsBKdS_q7zx-ME57griKKvJd8pYutHfCMO9MQHcNcjC-h6MvD4c3lhiYw0k3f-YGy5dWQ7qvs8bTL5xxIhvITOuA8rh4kD1QUJxda0DhNeFQ3yzudktEKH1RH9UxoxhQzfhyXV-Md30NGw5ATsWFgyAYrVeADhJyar5v5H-tl7eKrKnWJYkJ-GbRVovrP63a73zWJwbWowg14mgIqRLuv8XSBhcl4DtaL6tDFh9W3x5yFvNg"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hIxXJbn5GUTOBkpjU3mnHuUwNUqMHu8vAeoo_JnwoYQrtwDUBxyBDs5oPmx78hs5JojlBwydUdxSlYhXYDw1XKYdTv_P8Xg_6t2fUflCrrBI5A2M_XF3cgIQvhd7bv1eAJp3nw6W0AOaIr9dntL91-dllUOcGtL1214vQCS-YResxktjNUesIBD19Z4oLyYVFBg2J3rVpUzEn7MLf7tGJSmJXJCdGSmanu2395iTE6K-nV4kv1sA5TcX5EK9EPDXV7JJrsH5ouUYDJzQ_B4NAw9dpT1R_HIW0lOODEfbZ0rsf7Abk4MHd8xFTEZ4AQRWKK2kW27yYkhYIcOY3IzVWFt-5iH5inLQuEb1mtt_cjKy2Ay6YwfBiWVjQNY20uqy5m0DVsQ9AiXsAAU3bP1Ay4"
                     }
                 ],
                 "passed": true
