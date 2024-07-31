@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/no-longer-allowed-in-another-world",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933690.jpg"
+                            },
+                            {
                                 "url": "/anime/chained-soldier",
                                 "title": "Chained Soldier",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933689.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me",
                                 "title": "My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me!",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933675.jpg"
-                            },
-                            {
-                                "url": "/anime/grendizer-u",
-                                "title": "Grendizer U",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933674.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/chained-soldier",
-                    "title": "Chained Soldier",
-                    "description": "As his school days draw to an end, Yuuki Wakura worries about his future. While lamenting the prospect of living an ordinary life, he is suddenly drawn into the world of Mato: an alternate dimension filled with dangerous monsters called Shuuki. Over the years since the existence of Mato was first confirmed, incidents of people accidentally wandering into the other world have become commonplace. To combat the threat of the Shuuki and rescue victims like Yuuki, the all-female Demon Defense Force was established. Its members have been blessed with the power of “Peaches”—Mato fruits that grant supernatural abilities only to women.",
-                    "genre": "Action, Ecchi, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933689.jpg",
+                    "url": "/anime/no-longer-allowed-in-another-world",
+                    "title": "No Longer Allowed in Another World",
+                    "description": "An adventure in another world with cute girls by your side and video game-like powers—sounds like an anime fan’s dream, right? Not so for melancholic author Osamu Dazai, who would quite literally prefer to drop dead. Video games haven’t even been invented yet when he gets yanked into another world in 1948. Really, all the fantastical adventure he keeps running into is just getting in the way of his poetic dream of finding the perfect place to die. But no matter how much he risks his hide, everything seems to keep turning out okay. Follow a miserable hero like no other in this cheerfully bleak isekai comedy!",
+                    "genre": "Adventure, Comedy, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933690.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,7 +616,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/chained-soldier-episode-1-english-dubbed",
+                        "url": "/no-longer-allowed-in-another-world-episode-1-english-dubbed",
                         "name": "Season 1 - Episode 1",
                         "episode_number": 101.0
                     }
@@ -626,19 +626,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hIxXJbn5GUTOBkpjU3mnHuUwNUqMHu8vAeoo_JnwoYQrtwDUBxyBDs5oPmx78hs5JojlBwydUdxSlYhXYDw1XKYdTv_P8Xg_6t2fUflCrrBI5A2M_XF3cgIQvhd7bv1eD3fESP0xvH6EnrZa2O0RW7-H3zwHV0qG_pVx8oS1-zTfB_qeSAX7CYerhkszkpVCSWc3--zRbV2XjWvATV-NazNjNFAAe8ESE6uzVN-YfTmRfPmXAxn6sUV_wME7WY3rwMLjJoubfeau3slaubneKLez3YEMZOD4Rx9KJTkKk4SStz6JB3yDg-TuHO6DHAvayTmrm6SsqKqKvLao4yotQ7oUoN4LnxEy8nbNYsk4oi5X_ItrThN9ekLYXMM3uv0amYA9jgMumXv0PwbkDY20Rb",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j_hOcVyV3iaSf1N6_iv-bnfirBHqrn9FpCjK3Czb6BUP2o64EkddLYYfxjNd8y2qOJOymYZ4wQlGRen6PcPT7grdnzY0d_Zq_bbwbUIluhi8QQwZ3BuMFrcatTDcD-GtH3rIZ_0b02NIAf00MEy7OsoS4fYE3FEODhjR12OBE0dB1TzoDsW2G1wYoJxDOyxW-heFAf5IBRSqE2xtrNR83upX760IoiuI2CrbMn73nS5zwSGdtAPr-_RDSqALV1ZnQDSZ597p-OnKKFTojr5OhNr_ssttzo1Vtr5BmWjehDKwtpoBYR1WcWGV-LOGuy-u0xahTy2tdsQhD55tcsubWVJKWow7mMpL6yyvugiOKukNN_q9ruPYbH_b881c9cpXzOsGwy0hebzBVTbwMgc720n6yhhSiqoEGG-OLrjgkYY0pmEeq01zTj-_6RNsDkK7g",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hIxXJbn5GUTOBkpjU3mnHuUwNUqMHu8vAeoo_JnwoYQrtwDUBxyBDs5oPmx78hs5JojlBwydUdxSlYhXYDw1XKYdTv_P8Xg_6t2fUflCrrBI5A2M_XF3cgIQvhd7bv1eD3fESP0xvH6EnrZa2O0RW7-H3zwHV0qG_pVx8oS1-zTfB_qeSAX7CYerhkszkpVCSWc3--zRbV2XjWvATV-NazNjNFAAe8ESE6uzVN-YfTmRfPmXAxn6sUV_wME7WY3rwMLjJoubfeau3slaubneKLez3YEMZOD4Rx9KJTkKk4SStz6JB3yDg-TuHO6DHAvayTmrm6SsqKqKvLao4yotQ7oUoN4LnxEy8nbNYsk4oi5X_ItrThN9ekLYXMM3uv0amYA9jgMumXv0PwbkDY20Rb"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j_hOcVyV3iaSf1N6_iv-bnfirBHqrn9FpCjK3Czb6BUP2o64EkddLYYfxjNd8y2qOJOymYZ4wQlGRen6PcPT7grdnzY0d_Zq_bbwbUIluhi8QQwZ3BuMFrcatTDcD-GtH3rIZ_0b02NIAf00MEy7OsoS4fYE3FEODhjR12OBE0dB1TzoDsW2G1wYoJxDOyxW-heFAf5IBRSqE2xtrNR83upX760IoiuI2CrbMn73nS5zwSGdtAPr-_RDSqALV1ZnQDSZ597p-OnKKFTojr5OhNr_ssttzo1Vtr5BmWjehDKwtpoBYR1WcWGV-LOGuy-u0xahTy2tdsQhD55tcsubWVJKWow7mMpL6yyvugiOKukNN_q9ruPYbH_b881c9cpXzOsGwy0hebzBVTbwMgc720n6yhhSiqoEGG-OLrjgkYY0pmEeq01zTj-_6RNsDkK7g"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hIxXJbn5GUTOBkpjU3mnHuUwNUqMHu8vAeoo_JnwoYQrtwDUBxyBDs5oPmx78hs5JojlBwydUdxSlYhXYDw1XKYdTv_P8Xg_6t2fUflCrrBI5A2M_XF3cgIQvhd7bv1eCSYcxkCJeXD67nkkHEOk8C9uWMz4_RfBL1FE3-_Zg8TgTLNOktrzZ6uMY_oC3UDTqAbDZFq5Rk9qPQn-7bZQ7W7VlrDeTpU8qjQ06fENE6RQ92cK2WQHe9BUPYIm7qdOykoy3QPoiMFjgmoALkOyr0x4qoolfQ3GHU-6J_aYD1pcu12pz0zyg-r8av0rhYzSa0o3IcUxpKh0pKU_EQuefD6LwKpZMhGZXaO4HDD-GHIX9JhqTUpayFkNSWkf-so8b7erAIRswkuLXO2pd8l4ia",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j_hOcVyV3iaSf1N6_iv-bnfirBHqrn9FpCjK3Czb6BUP2o64EkddLYYfxjNd8y2qOJOymYZ4wQlGRen6PcPT7grdnzY0d_Zq_bbwbUIluhi8QQwZ3BuMFrcatTDcD-GtH3rIZ_0b02NIAf00MEy7OsoS4fYE3FEODhjR12OBE0dC3tlww0-27KRoFmVobSWlNe9gYZrKgZrP1kV8hekhr-PrM7A34UVZpNUgZio7LfJxjQrYmNMs0-pX3sWX-8dUAWWyRKcmVMyML_z1MsAJ5UW_zJQSjRPT0LivBDeujV8e0QxdKU2oMPlG_1HfMWGe2mgfnR8AcIyTYI5ZG65u0cYb6XUCd8acV4leDx1trjTgvSkb89fwqkxM-IIE5PR0porhcmyCNjkcs2Tb_5M6M1QY7CKlJ32aXJ3_4bEO8OPOC0nc8MQ8TZcXx8fXXaa-k",
                         "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hIxXJbn5GUTOBkpjU3mnHuUwNUqMHu8vAeoo_JnwoYQrtwDUBxyBDs5oPmx78hs5JojlBwydUdxSlYhXYDw1XKYdTv_P8Xg_6t2fUflCrrBI5A2M_XF3cgIQvhd7bv1eCSYcxkCJeXD67nkkHEOk8C9uWMz4_RfBL1FE3-_Zg8TgTLNOktrzZ6uMY_oC3UDTqAbDZFq5Rk9qPQn-7bZQ7W7VlrDeTpU8qjQ06fENE6RQ92cK2WQHe9BUPYIm7qdOykoy3QPoiMFjgmoALkOyr0x4qoolfQ3GHU-6J_aYD1pcu12pz0zyg-r8av0rhYzSa0o3IcUxpKh0pKU_EQuefD6LwKpZMhGZXaO4HDD-GHIX9JhqTUpayFkNSWkf-so8b7erAIRswkuLXO2pd8l4ia"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j_hOcVyV3iaSf1N6_iv-bnfirBHqrn9FpCjK3Czb6BUP2o64EkddLYYfxjNd8y2qOJOymYZ4wQlGRen6PcPT7grdnzY0d_Zq_bbwbUIluhi8QQwZ3BuMFrcatTDcD-GtH3rIZ_0b02NIAf00MEy7OsoS4fYE3FEODhjR12OBE0dC3tlww0-27KRoFmVobSWlNe9gYZrKgZrP1kV8hekhr-PrM7A34UVZpNUgZio7LfJxjQrYmNMs0-pX3sWX-8dUAWWyRKcmVMyML_z1MsAJ5UW_zJQSjRPT0LivBDeujV8e0QxdKU2oMPlG_1HfMWGe2mgfnR8AcIyTYI5ZG65u0cYb6XUCd8acV4leDx1trjTgvSkb89fwqkxM-IIE5PR0porhcmyCNjkcs2Tb_5M6M1QY7CKlJ32aXJ3_4bEO8OPOC0nc8MQ8TZcXx8fXXaa-k"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hIxXJbn5GUTOBkpjU3mnHuUwNUqMHu8vAeoo_JnwoYQrtwDUBxyBDs5oPmx78hs5JojlBwydUdxSlYhXYDw1XKYdTv_P8Xg_6t2fUflCrrBI5A2M_XF3cgIQvhd7bv1eAJp3nw6W0AOaIr9dntL91-dllUOcGtL1214vQCS-YResxktjNUesIBD19Z4oLyYVFBg2J3rVpUzEn7MLf7tGJSmJXJCdGSmanu2395iTE6K-nV4kv1sA5TcX5EK9EPDXV7JJrsH5ouUYDJzQ_B4NAwU7DzVuZDWmVybnX3hKjtQup6960wrsKEm6KvTq2T4NrQV8y4IDEIDyJk6plY5TfH0ajB5Gk0SzIGNNmALc4YkH26fW68pM8xQhQqCaFu8V6MxQBIgX68YFFV4CQC5zFe",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j_hOcVyV3iaSf1N6_iv-bnfirBHqrn9FpCjK3Czb6BUP2o64EkddLYYfxjNd8y2qOJOymYZ4wQlGRen6PcPT7grdnzY0d_Zq_bbwbUIluhi8QQwZ3BuMFrcatTDcD-GtH3rIZ_0b02NIAf00MEy7OsoS4fYE3FEODhjR12OBE0dKP2tj_A0axsB4cUT719Efp8_CeSfVaDiGJyySHCvQ_oYepYVcDpyMceDr_izgcTRh_W8f3OnnVAefvfr1ffEqqx0aH7x9RHMQAvoegCZblqOmqPvUsfi2ahoH22iVpxW8SdeN5-QoN6ePnI97aWnhnnh8Idc20khu4a5vlDvQwuc9rZRjlpFuBHR_Sq01QN_vc-aM9j2lgG1LUbvu6q5W0qz7xLNDDTzucDZCDHDAc2Z8YXUK5s3ApJHiieqZLk2xQzl01e6kM1OMHZAKLtM-s",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hIxXJbn5GUTOBkpjU3mnHuUwNUqMHu8vAeoo_JnwoYQrtwDUBxyBDs5oPmx78hs5JojlBwydUdxSlYhXYDw1XKYdTv_P8Xg_6t2fUflCrrBI5A2M_XF3cgIQvhd7bv1eAJp3nw6W0AOaIr9dntL91-dllUOcGtL1214vQCS-YResxktjNUesIBD19Z4oLyYVFBg2J3rVpUzEn7MLf7tGJSmJXJCdGSmanu2395iTE6K-nV4kv1sA5TcX5EK9EPDXV7JJrsH5ouUYDJzQ_B4NAwU7DzVuZDWmVybnX3hKjtQup6960wrsKEm6KvTq2T4NrQV8y4IDEIDyJk6plY5TfH0ajB5Gk0SzIGNNmALc4YkH26fW68pM8xQhQqCaFu8V6MxQBIgX68YFFV4CQC5zFe"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j_hOcVyV3iaSf1N6_iv-bnfirBHqrn9FpCjK3Czb6BUP2o64EkddLYYfxjNd8y2qOJOymYZ4wQlGRen6PcPT7grdnzY0d_Zq_bbwbUIluhi8QQwZ3BuMFrcatTDcD-GtH3rIZ_0b02NIAf00MEy7OsoS4fYE3FEODhjR12OBE0dKP2tj_A0axsB4cUT719Efp8_CeSfVaDiGJyySHCvQ_oYepYVcDpyMceDr_izgcTRh_W8f3OnnVAefvfr1ffEqqx0aH7x9RHMQAvoegCZblqOmqPvUsfi2ahoH22iVpxW8SdeN5-QoN6ePnI97aWnhnnh8Idc20khu4a5vlDvQwuc9rZRjlpFuBHR_Sq01QN_vc-aM9j2lgG1LUbvu6q5W0qz7xLNDDTzucDZCDHDAc2Z8YXUK5s3ApJHiieqZLk2xQzl01e6kM1OMHZAKLtM-s"
                     }
                 ],
                 "passed": true
