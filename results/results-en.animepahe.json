@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5599",
+                                "title": "Gimai Seikatsu",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c462607ec045000119e0f7d1447f8c6ba2dcd903aed52d0ca61d257b147e3724.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5588",
+                                "title": "Isekai Suicide Squad",
+                                "artist": "Amazon",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/e5c957feab8d43aa4aedc70b7142df39c03e2dab621f2287fe033bc0819c3a20.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5637",
                                 "title": "Sengoku Youko: Senma Konton-hen",
                                 "artist": "SubsPlease",
@@ -65,18 +77,6 @@
                                 "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/c75aba0380f23307a57411ffad7f09da47c8344d7b4acd549b99e02261577992.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5593",
-                                "title": "Shy 2nd Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7bd45106e7289d40808d9c60545de00c3bd7292aaf4663d3d1cefb3dab7beacf.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5623",
-                                "title": "Mayonaka Punch",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/07b12204fecd11cd18c3426c2fb5dac0474e23cc37412138fdee1c9e5e1469e8.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5599",
+                                "title": "Gimai Seikatsu",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c462607ec045000119e0f7d1447f8c6ba2dcd903aed52d0ca61d257b147e3724.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5588",
+                                "title": "Isekai Suicide Squad",
+                                "artist": "Amazon",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/e5c957feab8d43aa4aedc70b7142df39c03e2dab621f2287fe033bc0819c3a20.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5637",
                                 "title": "Sengoku Youko: Senma Konton-hen",
                                 "artist": "SubsPlease",
@@ -147,18 +159,6 @@
                                 "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/c75aba0380f23307a57411ffad7f09da47c8344d7b4acd549b99e02261577992.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5593",
-                                "title": "Shy 2nd Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7bd45106e7289d40808d9c60545de00c3bd7292aaf4663d3d1cefb3dab7beacf.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5623",
-                                "title": "Mayonaka Punch",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/07b12204fecd11cd18c3426c2fb5dac0474e23cc37412138fdee1c9e5e1469e8.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5637",
-                    "title": "Sengoku Youko: Senma Konton-hen",
-                    "author": "White Fox",
-                    "description": "Second part of Sengoku Youko.\n\nSynonyms: Sengoku Youko Part 2",
-                    "genre": "Action, Adventure, Fantasy",
+                    "url": "/anime/?anime_id=5599",
+                    "title": "Gimai Seikatsu",
+                    "author": "Studio Deen",
+                    "description": "Yuuta Asamura gets a new stepsister after his father remarries, Saki Ayase, who happens to be the number one beauty of the school year. They promise each other not to be too close, not to be too opposing, and to simply keep a vague and comfortable distance, having learned important values about men and women relationships from their parents' previous ones. Saki, who has worked alone for the sake of her family, doesn't know how to properly rely on others, whereas Yuuta is unsure of how to truly treat her. Standing on fairly equal ground, these two gradually learn the comfort of living together. Their relationship progresses from strangers to friends as the days pass. This is a story that may one day lead to love.",
+                    "genre": "Romance",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/016487197686e08b0e888db86c15d44558c7b8878c680cc28e2f42e9186d427f.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/fb01f875d738c2251a76d3993197e4c933398bd5eff9456391d2c7f67b94b39e.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/338c10cc-401b-747e-c2ec-9a8f8b00e82c/fa8add52f91f3cbd587259e7309a6ed427410c0b0ef8f36ef4a436223cd07756",
-                        "name": "Episode 16",
-                        "date_upload": 1722440275000,
-                        "episode_number": 16.0
+                        "url": "/play/327eb861-b847-863f-206f-0aea9c37c682/82b7145120e7efa151faabff6fe4cca029c72ac685ce4737a97bb7ab2242a10b",
+                        "name": "Episode 5",
+                        "date_upload": 1722515892000,
+                        "episode_number": 5.0
                     },
                     {
-                        "url": "/play/338c10cc-401b-747e-c2ec-9a8f8b00e82c/38e1bc899571d5cb67ee677889e64aa53ecaab385050da246da84437a0073031",
-                        "name": "Episode 15",
-                        "date_upload": 1721835478000,
-                        "episode_number": 15.0
+                        "url": "/play/327eb861-b847-863f-206f-0aea9c37c682/dd736c92d36007db12d9be4e151907302a224d8a1cf418e528102c5eeb800612",
+                        "name": "Episode 4",
+                        "date_upload": 1721910840000,
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/43abf8841b66f8e1e2a410da7e4df9d4edfe07c2c551cc7dcefe85c892db1856?file=AnimePahe_Sengoku_Youko_-_Senma_Konton-hen_-_16_1080p_SubsPlease.mp4&token=LeGoSziGZxBDe6JlyzbG-g&expires=1722508175",
-                        "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/43abf8841b66f8e1e2a410da7e4df9d4edfe07c2c551cc7dcefe85c892db1856?file=AnimePahe_Sengoku_Youko_-_Senma_Konton-hen_-_16_1080p_SubsPlease.mp4&token=LeGoSziGZxBDe6JlyzbG-g&expires=1722508175"
-                    },
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/45e694c6b046bfb6711090aa365324a0b952270a9cd7b8a456cd5e2ceca68f86?file=AnimePahe_Sengoku_Youko_-_Senma_Konton-hen_-_16_720p_SubsPlease.mp4&token=7rx6I9Q6WB4rDO6yUG_OGg&expires=1722508173",
-                        "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/45e694c6b046bfb6711090aa365324a0b952270a9cd7b8a456cd5e2ceca68f86?file=AnimePahe_Sengoku_Youko_-_Senma_Konton-hen_-_16_720p_SubsPlease.mp4&token=7rx6I9Q6WB4rDO6yUG_OGg&expires=1722508173"
-                    },
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/fad0d81850f01b763caf8d7d4b256226316526a9cb819cbe61ad8fd9ecd9aed1?file=AnimePahe_Sengoku_Youko_-_Senma_Konton-hen_-_16_360p_SubsPlease.mp4&token=sNJ_MuXoCW3Xjdi9zZF8JQ&expires=1722508172",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/5e0c9f3691d007fa4270d06d500fb3ba8a070ec7584a232792f44c262843838e?file=AnimePahe_Gimai_Seikatsu_-_05_360p_SubsPlease.mp4&token=ujDX2StMIXBP4e3U_7rv2Q&expires=1722530412",
                         "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/fad0d81850f01b763caf8d7d4b256226316526a9cb819cbe61ad8fd9ecd9aed1?file=AnimePahe_Sengoku_Youko_-_Senma_Konton-hen_-_16_360p_SubsPlease.mp4&token=sNJ_MuXoCW3Xjdi9zZF8JQ&expires=1722508172"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/5e0c9f3691d007fa4270d06d500fb3ba8a070ec7584a232792f44c262843838e?file=AnimePahe_Gimai_Seikatsu_-_05_360p_SubsPlease.mp4&token=ujDX2StMIXBP4e3U_7rv2Q&expires=1722530412"
                     }
                 ],
                 "passed": true
