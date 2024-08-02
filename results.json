@@ -206,7 +206,7 @@
   },
   {
     "pkg": "en.animepahe",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animepahe.json"
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "pkg": "en.bestdubbedanime",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.bestdubbedanime.json"
   },
   {

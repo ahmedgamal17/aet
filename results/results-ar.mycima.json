@@ -7,11 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/series/مسلسل-المناوبة-مترجم/",
-                                "title": "مسلسل المناوبة مترجم",
-                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2019/04/tt9540596--370x518.jpg"
-                            },
-                            {
                                 "url": "/series/loki/",
                                 "title": "Loki",
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/06/مسلسل-Loki-موسم-1.jpg"
@@ -52,6 +47,16 @@
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2022/07/مسلسل-The-Rehearsal-الموسم-الاول.jpg"
                             },
                             {
+                                "url": "/series/مسلسل-المناوبة-مترجم/",
+                                "title": "مسلسل المناوبة مترجم",
+                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2019/04/tt9540596--370x518.jpg"
+                            },
+                            {
+                                "url": "/series/navarasa/",
+                                "title": "Navarasa",
+                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/08/مسلسل-Navarasa-موسم-1.jpg"
+                            },
+                            {
                                 "url": "/series/the-takht-inc/",
                                 "title": "The Takht Inc",
                                 "thumbnail_url": "https://wecima.show/wp-content/uploads/2024/05/MV5BNGY4ZDFkYzUtZDM4MS00YTZlLThlYTctMmJkNDEwNjRkMTFiXkEyXkFqcGdeQXVyMTUxNDg3NTQ2._V1_FMjpg_UX1000_1695003927.jpg_UY12001695003927.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/series/who-rules-the-world/",
                                 "title": "Who Rules The World",
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2022/04/Who-Rules-The-World-2022.jpg"
-                            },
-                            {
-                                "url": "/series/navarasa/",
-                                "title": "Navarasa",
-                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/08/مسلسل-Navarasa-موسم-1.jpg"
                             },
                             {
                                 "url": "/series/sell-your-haunted-house/",
@@ -107,14 +107,14 @@
                                 "thumbnail_url": "https://cdn57.mycimaa1.boats/wp-content/uploads/2023/07/الوعد-الاطول.jpg"
                             },
                             {
-                                "url": "/series/inside-man-2022/",
-                                "title": "Inside Man 2022",
-                                "thumbnail_url": "https://mycimaa.work/wp-content/uploads/2022/09/مسلسل-Inside-Man.jpg"
-                            },
-                            {
                                 "url": "/series/where-dreams-begin/",
                                 "title": "Where Dreams Begin",
                                 "thumbnail_url": "https://mycima.wecima.cam/wp-content/uploads/2023/06/Where-Dreams-Begin-موسم-1.jpg"
+                            },
+                            {
+                                "url": "/series/inside-man-2022/",
+                                "title": "Inside Man 2022",
+                                "thumbnail_url": "https://mycimaa.work/wp-content/uploads/2022/09/مسلسل-Inside-Man.jpg"
                             },
                             {
                                 "url": "/series/the-starry-love/",
@@ -192,11 +192,6 @@
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/01/WandaVision-S01.jpg"
                             },
                             {
-                                "url": "/series/the-heavenly-idol/",
-                                "title": "The Heavenly Idol",
-                                "thumbnail_url": "https://weciima.autos/wp-content/uploads/2023/02/The-Heavenly-Idol.jpg"
-                            },
-                            {
                                 "url": "/series/مسلسل-dynasties/",
                                 "title": "مسلسل Dynasties",
                                 "thumbnail_url": "https://wecima.show/wp-content/uploads/2019/04/tt9130692--370x513.jpg"
@@ -225,6 +220,11 @@
                                 "url": "/series/chernobyl/",
                                 "title": "Chernobyl",
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2020/03/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UY12002127410560.jpg"
+                            },
+                            {
+                                "url": "/series/surrealestate/",
+                                "title": "SurrealEstate",
+                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/07/مسلسل-SurrealEstate-موسم-1.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -694,11 +694,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/مسلسل-المناوبة-مترجم/",
-                    "title": "مسلسل المناوبة ",
+                    "url": "/series/loki/",
+                    "title": "Loki",
                     "author": "",
-                    "description": "",
-                    "genre": "اكشن, دراما",
+                    "description": "Alternative Name: لوكي River Cruise (United States) | ロキ (Japan) | Локи: Бог Хаоса (Serbia) | Локи: Бог на хаоса (Bulgaria, Bulgarian title) | Локі (Ukraine)",
+                    "genre": "اكشن, مغامرات, فانتازيا, خيال علمي",
                     "initialized": true
                 },
                 "passed": true
@@ -706,14 +706,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/مشاهدة-مسلسل-المناوبة-موسم-1-حلقة-8-والا/",
-                        "name": "الموسم 1 : الحلقة 8",
-                        "episode_number": 1.8
+                        "url": "/watch/مشاهدة-مسلسل-loki-موسم-2-حلقة-6-مدبلجة/",
+                        "name": "الموسم 2 : الحلقة 6",
+                        "episode_number": 2.6
                     },
                     {
-                        "url": "/watch/مشاهدة-مسلسل-المناوبة-موسم-1-حلقة-7-مترج/",
-                        "name": "الموسم 1 : الحلقة 7",
-                        "episode_number": 1.7
+                        "url": "/watch/مشاهدة-مسلسل-loki-موسم-2-حلقة-5-مدبلجة/",
+                        "name": "الموسم 2 : الحلقة 5",
+                        "episode_number": 2.5
                     }
                 ],
                 "passed": true
@@ -721,17 +721,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://m130.uqload.ws/3rfk2ycmerw2q4drdikph5prbhd5oseavyxp6v2akrhkummnfsvmfg6ofspa/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m130.uqload.ws/3rfk2ycmerw2q4drdikph5prbhd5oseavyxp6v2akrhkummnfsvmfg6ofspa/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://wecima.show/run/18fdf24b02008c714d2da3d4b93223aa54a24fe132058b2ad02880b57b19c5344a772c5a387c9e74985af0cc7f6c422286f8aaf25bb2733b6af4a68b25af6318ef0173405e3e191cbc36206c24e1926f23aad8de5c7242b04c100190562bbeaff73407/?Key=IbDmCGMY4Zkisi0hzV2jxQ&Expires=1722573297&auto=true",
+                        "url": "https://wecima.show/run/46e3635f05c49bd72b2cdc6ea26a0cbed690f3991364a881542b2c46bd12a7feb131dff64f0915f8473c5ebf2080bf6130344a63da4f8bb962d0828986c42bf23eea9ca7e0fe404506d573719fb445c14219b760c3c2ffd810f965b9aeddcc83b2ec69/?Key=As4aBk2WsMwHqGz7rBA5pg&Expires=1722589494&auto=true",
                         "quality": "Default (may take a while)",
-                        "videoUrl": "https://wecima.show/run/18fdf24b02008c714d2da3d4b93223aa54a24fe132058b2ad02880b57b19c5344a772c5a387c9e74985af0cc7f6c422286f8aaf25bb2733b6af4a68b25af6318ef0173405e3e191cbc36206c24e1926f23aad8de5c7242b04c100190562bbeaff73407/?Key=IbDmCGMY4Zkisi0hzV2jxQ&Expires=1722573297&auto=true",
+                        "videoUrl": "https://wecima.show/run/46e3635f05c49bd72b2cdc6ea26a0cbed690f3991364a881542b2c46bd12a7feb131dff64f0915f8473c5ebf2080bf6130344a63da4f8bb962d0828986c42bf23eea9ca7e0fe404506d573719fb445c14219b760c3c2ffd810f965b9aeddcc83b2ec69/?Key=As4aBk2WsMwHqGz7rBA5pg&Expires=1722589494&auto=true",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://wecima.show/"
