@@ -22,6 +22,11 @@
                                 "thumbnail_url": "https://media.kitsu.io/anime/45857/poster_image/6a6b5472cd1b1414796c70733fe332b3.jpg"
                             },
                             {
+                                "url": "{\"slug\":\"kimetsu-no-yaiba\",\"id\":\"a49n4AuZawoJY7Wl\"}",
+                                "title": "Kimetsu no Yaiba",
+                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/41370/original.jpg"
+                            },
+                            {
                                 "url": "{\"slug\":\"kusuriya-no-hitorigoto\",\"id\":\"zrBglYXYh1rTMfWT\"}",
                                 "title": "Kusuriya no Hitorigoto",
                                 "thumbnail_url": "https://media.kitsu.io/anime/47083/poster_image/1e25d26e74707ada861514620f630da8.jpg"
@@ -57,6 +62,11 @@
                                 "thumbnail_url": "https://media.kitsu.io/anime/46300/poster_image/c8a7d985608494c388e9aa1a5fa66428.jpg"
                             },
                             {
+                                "url": "{\"slug\":\"shingeki-no-kyojin-the-final-season\",\"id\":\"kqxern3eddOVGAxv\"}",
+                                "title": "Attack on Titan The Final Season",
+                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/42422/original.png"
+                            },
+                            {
                                 "url": "{\"slug\":\"attack-on-titan\",\"id\":\"1eo7qphaV6XBgerx\"}",
                                 "title": "Attack on Titan",
                                 "thumbnail_url": "https://media.kitsu.io/anime/poster_images/7442/original.jpg"
@@ -67,19 +77,9 @@
                                 "thumbnail_url": "https://media.kitsu.io/anime/47694/poster_image/77936fa66d283d088a1b117b528283dc.jpg"
                             },
                             {
-                                "url": "{\"slug\":\"hibike-euphonium-kumiko-3-nensei-hen\",\"id\":\"PaGggqHvuPndtQqs\"}",
-                                "title": "Hibike! Euphonium: Kumiko 3 Nensei-hen",
-                                "thumbnail_url": "https://media.kitsu.io/anime/42372/poster_image/64a74f22b2d86d8ecdd719ced0246fcd.png"
-                            },
-                            {
-                                "url": "{\"slug\":\"Kimetsu-no-Yaiba-Hashira-Geikohen\",\"id\":\"n65FbTbSr8ul9KIH\"}",
-                                "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
-                                "thumbnail_url": "https://media.kitsu.io/anime/47635/poster_image/311548c1ed877347afe6e5684f5d213a.png"
-                            },
-                            {
-                                "url": "{\"slug\":\"boku-no-hero-academia-3rd-season\",\"id\":\"x4m6r5PbYi7pEFJX\"}",
-                                "title": "Boku no Hero Academia 3",
-                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/13881/original.jpg"
+                                "url": "{\"slug\":\"shingeki-no-kyojin-3-part-2\",\"id\":\"ydIBzzSKYB9hloZ2\"}",
+                                "title": "Attack on Titan Season 3 Part 2",
+                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/41982/original.jpg"
                             }
                         ],
                         "hasNextPage": false
