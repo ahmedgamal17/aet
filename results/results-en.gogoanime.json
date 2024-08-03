@@ -116,6 +116,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/category/grendizer-u",
+                                "title": "Grendizer U",
+                                "thumbnail_url": "https://gogocdn.net/cover/grendizer-u.png"
+                            },
+                            {
+                                "url": "/category/shadowverse-flame-arc-hen",
+                                "title": "Shadowverse Flame: Arc-hen",
+                                "thumbnail_url": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png"
+                            },
+                            {
                                 "url": "/category/cardfight-vanguard-divinez-season-2",
                                 "title": "Cardfight!! Vanguard: Divinez Season 2",
                                 "thumbnail_url": "https://gogocdn.net/cover/cardfight-vanguard-divinez-season-2.png"
@@ -204,16 +214,6 @@
                                 "url": "/category/giji-harem",
                                 "title": "Giji Harem",
                                 "thumbnail_url": "https://gogocdn.net/cover/giji-harem-1719513630.png"
-                            },
-                            {
-                                "url": "/category/tasogare-out-focus",
-                                "title": "Tasogare Out Focus",
-                                "thumbnail_url": "https://gogocdn.net/cover/tasogare-out-focus.png"
-                            },
-                            {
-                                "url": "/category/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
-                                "title": "Ore wa Subete wo ",
-                                "thumbnail_url": "https://gogocdn.net/cover/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai.png"
                             }
                         ],
                         "hasNextPage": true
@@ -367,13 +367,13 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=sz-08c8HkG552vxoFGPrBA&expires=1722655702"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=zmQI8cbVRkhvtcNx4YlIzg&expires=1722673676"
                         }
                     },
                     {
-                        "url": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfsfs7lpqhw4e3uclvvqazmrnnrqnot/video.mp4",
+                        "url": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfsfqvduhcrkhfzju5is6hbvomtulw5/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfsfs7lpqhw4e3uclvvqazmrnnrqnot/video.mp4",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfsfqvduhcrkhfzju5is6hbvomtulw5/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Origin": "https://anitaku.to",
@@ -397,7 +397,7 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=sz-08c8HkG552vxoFGPrBA&expires=1722655702"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=zmQI8cbVRkhvtcNx4YlIzg&expires=1722673676"
                         }
                     },
                     {
@@ -417,7 +417,7 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=sz-08c8HkG552vxoFGPrBA&expires=1722655702"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=zmQI8cbVRkhvtcNx4YlIzg&expires=1722673676"
                         }
                     },
                     {
@@ -437,7 +437,7 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=sz-08c8HkG552vxoFGPrBA&expires=1722655702"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=zmQI8cbVRkhvtcNx4YlIzg&expires=1722673676"
                         }
                     },
                     {
