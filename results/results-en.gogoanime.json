@@ -116,6 +116,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/category/fairy-tail-100-years-quest",
+                                "title": "Fairy Tail: 100 Years Quest",
+                                "thumbnail_url": "https://gogocdn.net/cover/fairy-tail-100-years-quest-1719513557.png"
+                            },
+                            {
+                                "url": "/category/tsue-to-tsurugi-no-wistoria",
+                                "title": "Tsue to Tsurugi no Wistoria",
+                                "thumbnail_url": "https://gogocdn.net/cover/tsue-to-tsurugi-no-wistoria.png"
+                            },
+                            {
                                 "url": "/category/one-piece",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://gogocdn.net/cover/one-piece-1708412053.png"
@@ -204,16 +214,6 @@
                                 "url": "/category/madougushi-dahliya-wa-utsumukanai",
                                 "title": "Madougushi Dahliya wa Utsumukanai",
                                 "thumbnail_url": "https://gogocdn.net/cover/madougushi-dahliya-wa-utsumukanai.png"
-                            },
-                            {
-                                "url": "/category/detective-conan",
-                                "title": "Detective Conan",
-                                "thumbnail_url": "https://gogocdn.net/cover/detective-conan.png"
-                            },
-                            {
-                                "url": "/category/boku-no-hero-academia-7th-season",
-                                "title": "Boku no Hero Academia 7th Season",
-                                "thumbnail_url": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png"
                             }
                         ],
                         "hasNextPage": true
@@ -367,13 +367,13 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=YkS0OTCYJGxGwbZczeGR5Q&expires=1722760035"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=KbP16AavNgutfz6BsBcptw&expires=1722782182"
                         }
                     },
                     {
-                        "url": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfsfs276wjgmzcu4yjmp5ed5br73zzy/video.mp4",
+                        "url": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqf3vfxkoypwnfcnysxhmgy7ci6wswee/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfsfs276wjgmzcu4yjmp5ed5br73zzy/video.mp4",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqf3vfxkoypwnfcnysxhmgy7ci6wswee/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Origin": "https://anitaku.to",
@@ -397,7 +397,7 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=YkS0OTCYJGxGwbZczeGR5Q&expires=1722760035"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=KbP16AavNgutfz6BsBcptw&expires=1722782182"
                         }
                     },
                     {
@@ -417,7 +417,7 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=YkS0OTCYJGxGwbZczeGR5Q&expires=1722760035"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=KbP16AavNgutfz6BsBcptw&expires=1722782182"
                         }
                     },
                     {
@@ -437,7 +437,7 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=YkS0OTCYJGxGwbZczeGR5Q&expires=1722760035"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=KbP16AavNgutfz6BsBcptw&expires=1722782182"
                         }
                     },
                     {
