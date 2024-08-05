@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/the-elusive-samurai-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jjixNk3AL2LSUMabBHlysG7ziHtPTRecihOBpjkrhVLo5JX2VPTlVM-OSKGA10p7gD5HpBssS0N53cXNe57-HFA1VoQVz_ftURQpSmSP2jQ5u7io2avf7Sq9ytuRLi03bimTnYH7kNfmKmAZeeuuEAVOEufnbY0jf_h-fb13xHML7vxVQmgBgsxRyJxlcHovEyjaVbJZ4xz3sBG8N66tF8vdxpMowqf7AphQ5y_oWvt1sNsuHeNhSKE9gP4p8l_YD7KJhtyReBdLIh-QmVVP_weAgRYMFW5spzl1AzP-nwfUcYvp6wxz7AYi6yZwU7uAFvYPPPpYBH6KjaT646dwrgW7aft9GFBux4sQYdXVlFLO3BCUNtwweaGGmAoqVy09IXDxqU5mZ4-nfvm3dagyPX",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jjixNk3AL2LSUMabBHlysG7ziHtPTRecihOBpjkrhVLo5JX2VPTlVM-OSKGA10p7gD5HpBssS0N53cXNe57-HFA1VoQVz_ftURQpSmSP2jQ5u7io2avf7Sq9ytuRLi03bimTnYH7kNfmKmAZeeuuEAVOEufnbY0jf_h-fb13xHML7vxVQmgBgsxRyJxlcHovEyjaVbJZ4xz3sBG8N66tF8vdxpMowqf7AphQ5y_oWvt1sNsuHeNhSKE9gP4p8l_YD7KJhtyReBdLIh-QmVVP_weAgRYMFW5spzl1AzP-nwfUcYvp6wxz7AYi6yZwU7uAFvYPPPpYBH6KjaT646dwrgW7aft9GFBux4sQYdXVlFLO3BCUNtwweaGGmAoqVy09IXDxqU5mZ4-nfvm3dagyPX"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jjixNk3AL2LSUMabBHlysG7ziHtPTRecihOBpjkrhVLo5JX2VPTlVM-OSKGA10p7gD5HpBssS0N53cXNe57-HFA1VoQVz_ftURQpSmSP2jQ5u7io2avf7Sq9ytuRLi03YNnAguOcGpCtK0BbuREIOWh_Y7mw6aYDJbENc-8G-1D_IEodowOgNtekVDpSOQd0hHug7fOs0AONQEGNF1RqLS8MuKAPHtzck5AC_sTyylLKNE82nSArlU3ZxiMPdjYdUYGdYhZEVPXkkM90kmr5EtFBkLUPhJ8mmy2aUizajz4Nsd5GjhAjWBspNpvsynNRkS-Q3KMLKvDj0P3fybkrR_WHvwV4x3UrpVfiXPu8hiYtEp3ia_GHR-dFdUGut1QIH3fwroDmU5GufiKGZY1POa",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jjixNk3AL2LSUMabBHlysG7ziHtPTRecihOBpjkrhVLo5JX2VPTlVM-OSKGA10p7gD5HpBssS0N53cXNe57-HFA1VoQVz_ftURQpSmSP2jQ5u7io2avf7Sq9ytuRLi03YNnAguOcGpCtK0BbuREIOWh_Y7mw6aYDJbENc-8G-1D_IEodowOgNtekVDpSOQd0hHug7fOs0AONQEGNF1RqLS8MuKAPHtzck5AC_sTyylLKNE82nSArlU3ZxiMPdjYdUYGdYhZEVPXkkM90kmr5EtFBkLUPhJ8mmy2aUizajz4Nsd5GjhAjWBspNpvsynNRkS-Q3KMLKvDj0P3fybkrR_WHvwV4x3UrpVfiXPu8hiYtEp3ia_GHR-dFdUGut1QIH3fwroDmU5GufiKGZY1POa"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jjixNk3AL2LSUMabBHlysG7ziHtPTRecihOBpjkrhVLo5JX2VPTlVM-OSKGA10p7gD5HpBssS0N53cXNe57-HFA1VoQVz_ftURQpSmSP2jQ5u7io2avf7Sq9ytuRLi03aYYXnGJziNIycwwlIw-2clikR1BYMmveHceShlsILH7TYTyKG7Kskjy_aKelzyTjlggLRjxagDQlGwDDusk8VZFsN9D2e4NO2LszyRt5YIgxxKtl4_dRzswoMa6q0kvLV5ImoFlPKExNK4veCQtlkNf4oslkJ7QlMu3M079ksaM_uiB0ptjoPBllJIiN4ykLHcDy5xR14BwKLCLqIanNMOwUaOOVBdXHS9MWUuFuXkd6xnz-K6Pq4p_ny5GIzzqjGu8ihzQ1jt48Dc2izjGFVO",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jjixNk3AL2LSUMabBHlysG7ziHtPTRecihOBpjkrhVLo5JX2VPTlVM-OSKGA10p7gD5HpBssS0N53cXNe57-HFA1VoQVz_ftURQpSmSP2jQ5u7io2avf7Sq9ytuRLi03aYYXnGJziNIycwwlIw-2clikR1BYMmveHceShlsILH7TYTyKG7Kskjy_aKelzyTjlggLRjxagDQlGwDDusk8VZFsN9D2e4NO2LszyRt5YIgxxKtl4_dRzswoMa6q0kvLV5ImoFlPKExNK4veCQtlkNf4oslkJ7QlMu3M079ksaM_uiB0ptjoPBllJIiN4ykLHcDy5xR14BwKLCLqIanNMOwUaOOVBdXHS9MWUuFuXkd6xnz-K6Pq4p_ny5GIzzqjGu8ihzQ1jt48Dc2izjGFVO"
+                    }
+                ],
+                "passed": true
             }
         }
     }

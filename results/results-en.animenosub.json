@@ -316,9 +316,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://str1.vtube.network/hls/x5s43wn6pzyki6cgaptmr6fjgvyd2whptr3cxwnclcuarxicnvzo6crpk64q/index-v1-a1.m3u8",
+                        "url": "https://str1.vtube.network/hls/x5s43wn6pzyki6cgaptmr6fjgvyd2whptr3cxwnclcuarxktju5ubhnfgelq/index-v1-a1.m3u8",
                         "quality": "RAW - Vtube - 1080p ",
-                        "videoUrl": "https://str1.vtube.network/hls/x5s43wn6pzyki6cgaptmr6fjgvyd2whptr3cxwnclcuarxicnvzo6crpk64q/index-v1-a1.m3u8",
+                        "videoUrl": "https://str1.vtube.network/hls/x5s43wn6pzyki6cgaptmr6fjgvyd2whptr3cxwnclcuarxktju5ubhnfgelq/index-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -328,9 +328,9 @@
                         }
                     },
                     {
-                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05826/4obk0gjv8g8m_o/index-v1-a1.m3u8?t=jeKkITE08nynTDrDokn7aCwoF3kOdv0ElI5cMfibK2g&s=1722795972&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/05826/4obk0gjv8g8m_o/index-v1-a1.m3u8?t=bEZSh0OEVNYbzGNnom75sGGqyAetTtF7aPDrvFkJUYI&s=1722821870&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
                         "quality": "RAW - FileMoon - 1080p",
-                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05826/4obk0gjv8g8m_o/index-v1-a1.m3u8?t=jeKkITE08nynTDrDokn7aCwoF3kOdv0ElI5cMfibK2g&s=1722795972&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/05826/4obk0gjv8g8m_o/index-v1-a1.m3u8?t=bEZSh0OEVNYbzGNnom75sGGqyAetTtF7aPDrvFkJUYI&s=1722821870&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -338,9 +338,9 @@
                         }
                     },
                     {
-                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05826/4obk0gjv8g8m_x/index-v1-a1.m3u8?t=jeKkITE08nynTDrDokn7aCwoF3kOdv0ElI5cMfibK2g&s=1722795972&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/05826/4obk0gjv8g8m_x/index-v1-a1.m3u8?t=bEZSh0OEVNYbzGNnom75sGGqyAetTtF7aPDrvFkJUYI&s=1722821870&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
                         "quality": "RAW - FileMoon - 1080p",
-                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05826/4obk0gjv8g8m_x/index-v1-a1.m3u8?t=jeKkITE08nynTDrDokn7aCwoF3kOdv0ElI5cMfibK2g&s=1722795972&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/05826/4obk0gjv8g8m_x/index-v1-a1.m3u8?t=bEZSh0OEVNYbzGNnom75sGGqyAetTtF7aPDrvFkJUYI&s=1722821870&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -348,9 +348,25 @@
                         }
                     },
                     {
-                        "url": "https://str1.vtube.network/hls/x5s4yqn5pzyki6cgaptmrof4gvfyg7uhvjxndj2o4wq7wa54a3hrzaalae6q/index-v1-a1.m3u8",
+                        "url": "https://box-1103-o.vmeas.cloud/hls/xqx2pb4kdfokjiqbtgdsliiwwln7denymaslxep2qevdgkwvp5jscv4rnjbq/index-v1-a1.m3u8",
+                        "quality": "RAW - Omega - 480p",
+                        "videoUrl": "https://box-1103-o.vmeas.cloud/hls/xqx2pb4kdfokjiqbtgdsliiwwln7denymaslxep2qevdgkwvp5jscv4rnjbq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    },
+                    {
+                        "url": "https://box-1103-o.vmeas.cloud/hls/xqx2pb4kdfokjiqbtgdsliiwwln7denymaslxep2qnhdgkwvp5j3jdgplcuq/index-v1-a1.m3u8",
+                        "quality": "RAW - Omega - 1080p",
+                        "videoUrl": "https://box-1103-o.vmeas.cloud/hls/xqx2pb4kdfokjiqbtgdsliiwwln7denymaslxep2qnhdgkwvp5j3jdgplcuq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    },
+                    {
+                        "url": "https://str1.vtube.network/hls/x5s4yqn5pzyki6cgaptmrof4gvfyg7uhvjxndj2o4wq7wa7ne2dcyetr5vaq/index-v1-a1.m3u8",
                         "quality": "Vtube - 1080p ",
-                        "videoUrl": "https://str1.vtube.network/hls/x5s4yqn5pzyki6cgaptmrof4gvfyg7uhvjxndj2o4wq7wa54a3hrzaalae6q/index-v1-a1.m3u8",
+                        "videoUrl": "https://str1.vtube.network/hls/x5s4yqn5pzyki6cgaptmrof4gvfyg7uhvjxndj2o4wq7wa7ne2dcyetr5vaq/index-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -360,13 +376,29 @@
                         }
                     },
                     {
-                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05826/ri5elyfkju8y_x/index-v1-a1.m3u8?t=YQlUHkUGywNQFdkCwxLWhdYAwuse4-1FhkRxRB9xGxQ&s=1722795971&e=10800&f=29133017&srv=26&asn=8075&sp=5500",
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/05826/ri5elyfkju8y_x/index-v1-a1.m3u8?t=OuZOWwG215w8BQyCdIVMs0WMYIdzAyLPHruYA95r8Nk&s=1722821870&e=10800&f=29133017&srv=26&asn=8075&sp=5500",
                         "quality": "FileMoon - 1080p",
-                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05826/ri5elyfkju8y_x/index-v1-a1.m3u8?t=YQlUHkUGywNQFdkCwxLWhdYAwuse4-1FhkRxRB9xGxQ&s=1722795971&e=10800&f=29133017&srv=26&asn=8075&sp=5500",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/05826/ri5elyfkju8y_x/index-v1-a1.m3u8?t=OuZOWwG215w8BQyCdIVMs0WMYIdzAyLPHruYA95r8Nk&s=1722821870&e=10800&f=29133017&srv=26&asn=8075&sp=5500",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
                             "Referer": "https://filemoon.sx/"
+                        }
+                    },
+                    {
+                        "url": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4mf3z5ljd3ovp5zarxyq/index-v1-a1.m3u8",
+                        "quality": "Omega - 480p",
+                        "videoUrl": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4mf3z5ljd3ovp5zarxyq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    },
+                    {
+                        "url": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4fx3z5ljd3o6wfrms4lq/index-v1-a1.m3u8",
+                        "quality": "Omega - 1080p",
+                        "videoUrl": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4fx3z5ljd3o6wfrms4lq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
                         }
                     }
                 ],
