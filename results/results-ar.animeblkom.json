@@ -62,11 +62,6 @@
                                 "thumbnail_url": "https://animeblkom.net/uploads/65464/jujutsu-kaisen-0-movie-poster-4028.jpg"
                             },
                             {
-                                "url": "/anime/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
-                                "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
-                                "thumbnail_url": "https://animeblkom.net/uploads/76966/16686e942eba55.jpg"
-                            },
-                            {
                                 "url": "/anime/sousou-no-frieren",
                                 "title": "Sousou no Frieren",
                                 "thumbnail_url": "https://animeblkom.net/uploads/73039/1651725a80ccfe.jpg"
@@ -105,6 +100,11 @@
                                 "url": "/movie/violet-evergarden-movie",
                                 "title": "Violet Evergarden Movie",
                                 "thumbnail_url": "https://animeblkom.net/uploads/65250/violet-evergarden-movie-poster-3814.jpg"
+                            },
+                            {
+                                "url": "/anime/shingeki-no-kyojin-season-3-part-2",
+                                "title": "Shingeki no Kyojin Season 3 Part 2",
+                                "thumbnail_url": "https://animeblkom.net/uploads/64451/shingeki-no-kyojin-season-3-part-2-poster-2987.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -203,27 +203,27 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/720p.mp4?expires=1722865045&token=khnnIiK04a9VyvkpLbSC3w",
+                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/720p.mp4?expires=1722882601&token=5IGYLh5Cnim-a8tORGB4sA",
                         "quality": "Blkom - 720p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/720p.mp4?expires=1722865045&token=khnnIiK04a9VyvkpLbSC3w",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/720p.mp4?expires=1722882601&token=5IGYLh5Cnim-a8tORGB4sA",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://animeblkom.net"
                         }
                     },
                     {
-                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/480p.mp4?expires=1722865045&token=UBUJKwqhPHK325TjeRcgbA",
+                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/480p.mp4?expires=1722882601&token=-yQMWuWpHBjGwZ6D4CjMBA",
                         "quality": "Blkom - 480p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/480p.mp4?expires=1722865045&token=UBUJKwqhPHK325TjeRcgbA",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/480p.mp4?expires=1722882601&token=-yQMWuWpHBjGwZ6D4CjMBA",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://animeblkom.net"
                         }
                     },
                     {
-                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/360p.mp4?expires=1722865045&token=3O00FUnR6duger9aWuOwfA",
+                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/360p.mp4?expires=1722882601&token=Vr8Cc8D5l09_RxjLrSnQ3Q",
                         "quality": "Blkom - 360p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/360p.mp4?expires=1722865045&token=3O00FUnR6duger9aWuOwfA",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/360p.mp4?expires=1722882601&token=Vr8Cc8D5l09_RxjLrSnQ3Q",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://animeblkom.net"
