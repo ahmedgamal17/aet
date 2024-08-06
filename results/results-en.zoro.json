@@ -587,11 +587,6 @@
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b97e75f9de748632c4458eefb3ec8d8.jpg"
                             },
                             {
-                                "url": "/why-does-nobody-remember-me-in-this-world-19240?ref=search",
-                                "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
-                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97c89c46e8abb9654a6aeeb0217d63f4.jpg"
-                            },
-                            {
                                 "url": "/i-parry-everything-19229?ref=search",
                                 "title": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/009a25ddb8db9e068e16effd7e93f30e.jpg"
@@ -605,6 +600,11 @@
                                 "url": "/quality-assurance-in-another-world-19221?ref=search",
                                 "title": "Kono Sekai wa Fukanzen Sugiru",
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38aefd81846638369e16a91700306000.jpg"
+                            },
+                            {
+                                "url": "/a-world-worth-protecting-18138?ref=search",
+                                "title": "San Cun Renjian",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a674cc92d332039ac34ec36547c182b.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -694,9 +694,9 @@
                         ]
                     },
                     {
-                        "url": "https://ef.netmagcdn.com:2228/hls-playback/0abce10cf6ce6766349d3b926e0dd026722226b8b829511e45d96da39711cec5d2c21249dc100d423a68411de3a3257c467f8928ac59351b43a22b48b39cc50d6b074c79e97f2f5909921d07d5b877f7c0368188485facb5114a87fbfe964b9ba03f2819d243f336c325c677cb01c7f9a3bb29380b2a1adf7ef3163346231ec1fc6d1b454cb6c5b9609d79599119f695/index-f1-v1-a1.m3u8",
+                        "url": "https://ed.netmagcdn.com:2228/hls-playback/0abce10cf6ce6766349d3b926e0dd026722226b8b829511e45d96da39711cec5d2c21249dc100d423a68411de3a3257cfa27536deb44d3e4c9fbcc2b5125a4dc58f1d5560a78c55a3450314abdebee9edb4be19e439ba226af551128fa2633ea7c42ef4bda302ffed810814c31d73b03fa8b194741dd8260ee42862a3359fbc86b202bf0b1f8cd2fd6c3551aea3399c9/index-f1-v1-a1.m3u8",
                         "quality": "HD-2 - 1080p - sub",
-                        "videoUrl": "https://ef.netmagcdn.com:2228/hls-playback/0abce10cf6ce6766349d3b926e0dd026722226b8b829511e45d96da39711cec5d2c21249dc100d423a68411de3a3257c467f8928ac59351b43a22b48b39cc50d6b074c79e97f2f5909921d07d5b877f7c0368188485facb5114a87fbfe964b9ba03f2819d243f336c325c677cb01c7f9a3bb29380b2a1adf7ef3163346231ec1fc6d1b454cb6c5b9609d79599119f695/index-f1-v1-a1.m3u8",
+                        "videoUrl": "https://ed.netmagcdn.com:2228/hls-playback/0abce10cf6ce6766349d3b926e0dd026722226b8b829511e45d96da39711cec5d2c21249dc100d423a68411de3a3257cfa27536deb44d3e4c9fbcc2b5125a4dc58f1d5560a78c55a3450314abdebee9edb4be19e439ba226af551128fa2633ea7c42ef4bda302ffed810814c31d73b03fa8b194741dd8260ee42862a3359fbc86b202bf0b1f8cd2fd6c3551aea3399c9/index-f1-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -711,9 +711,9 @@
                         ]
                     },
                     {
-                        "url": "https://ef.netmagcdn.com:2228/hls-playback/0abce10cf6ce6766349d3b926e0dd026722226b8b829511e45d96da39711cec5d2c21249dc100d423a68411de3a3257c467f8928ac59351b43a22b48b39cc50d6b074c79e97f2f5909921d07d5b877f7c0368188485facb5114a87fbfe964b9ba03f2819d243f336c325c677cb01c7f9a3bb29380b2a1adf7ef3163346231ec1fc6d1b454cb6c5b9609d79599119f695/index-f2-v1-a1.m3u8",
+                        "url": "https://ed.netmagcdn.com:2228/hls-playback/0abce10cf6ce6766349d3b926e0dd026722226b8b829511e45d96da39711cec5d2c21249dc100d423a68411de3a3257cfa27536deb44d3e4c9fbcc2b5125a4dc58f1d5560a78c55a3450314abdebee9edb4be19e439ba226af551128fa2633ea7c42ef4bda302ffed810814c31d73b03fa8b194741dd8260ee42862a3359fbc86b202bf0b1f8cd2fd6c3551aea3399c9/index-f2-v1-a1.m3u8",
                         "quality": "HD-2 - 720p - sub",
-                        "videoUrl": "https://ef.netmagcdn.com:2228/hls-playback/0abce10cf6ce6766349d3b926e0dd026722226b8b829511e45d96da39711cec5d2c21249dc100d423a68411de3a3257c467f8928ac59351b43a22b48b39cc50d6b074c79e97f2f5909921d07d5b877f7c0368188485facb5114a87fbfe964b9ba03f2819d243f336c325c677cb01c7f9a3bb29380b2a1adf7ef3163346231ec1fc6d1b454cb6c5b9609d79599119f695/index-f2-v1-a1.m3u8",
+                        "videoUrl": "https://ed.netmagcdn.com:2228/hls-playback/0abce10cf6ce6766349d3b926e0dd026722226b8b829511e45d96da39711cec5d2c21249dc100d423a68411de3a3257cfa27536deb44d3e4c9fbcc2b5125a4dc58f1d5560a78c55a3450314abdebee9edb4be19e439ba226af551128fa2633ea7c42ef4bda302ffed810814c31d73b03fa8b194741dd8260ee42862a3359fbc86b202bf0b1f8cd2fd6c3551aea3399c9/index-f2-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -728,9 +728,9 @@
                         ]
                     },
                     {
-                        "url": "https://ef.netmagcdn.com:2228/hls-playback/0abce10cf6ce6766349d3b926e0dd026722226b8b829511e45d96da39711cec5d2c21249dc100d423a68411de3a3257c467f8928ac59351b43a22b48b39cc50d6b074c79e97f2f5909921d07d5b877f7c0368188485facb5114a87fbfe964b9ba03f2819d243f336c325c677cb01c7f9a3bb29380b2a1adf7ef3163346231ec1fc6d1b454cb6c5b9609d79599119f695/index-f3-v1-a1.m3u8",
+                        "url": "https://ed.netmagcdn.com:2228/hls-playback/0abce10cf6ce6766349d3b926e0dd026722226b8b829511e45d96da39711cec5d2c21249dc100d423a68411de3a3257cfa27536deb44d3e4c9fbcc2b5125a4dc58f1d5560a78c55a3450314abdebee9edb4be19e439ba226af551128fa2633ea7c42ef4bda302ffed810814c31d73b03fa8b194741dd8260ee42862a3359fbc86b202bf0b1f8cd2fd6c3551aea3399c9/index-f3-v1-a1.m3u8",
                         "quality": "HD-2 - 360p - sub",
-                        "videoUrl": "https://ef.netmagcdn.com:2228/hls-playback/0abce10cf6ce6766349d3b926e0dd026722226b8b829511e45d96da39711cec5d2c21249dc100d423a68411de3a3257c467f8928ac59351b43a22b48b39cc50d6b074c79e97f2f5909921d07d5b877f7c0368188485facb5114a87fbfe964b9ba03f2819d243f336c325c677cb01c7f9a3bb29380b2a1adf7ef3163346231ec1fc6d1b454cb6c5b9609d79599119f695/index-f3-v1-a1.m3u8",
+                        "videoUrl": "https://ed.netmagcdn.com:2228/hls-playback/0abce10cf6ce6766349d3b926e0dd026722226b8b829511e45d96da39711cec5d2c21249dc100d423a68411de3a3257cfa27536deb44d3e4c9fbcc2b5125a4dc58f1d5560a78c55a3450314abdebee9edb4be19e439ba226af551128fa2633ea7c42ef4bda302ffed810814c31d73b03fa8b194741dd8260ee42862a3359fbc86b202bf0b1f8cd2fd6c3551aea3399c9/index-f3-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
