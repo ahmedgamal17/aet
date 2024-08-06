@@ -167,6 +167,21 @@
                     {
                         "animes": [
                             {
+                                "url": "6A39uiW7BsygpSaco",
+                                "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170938-kkeDCKGSUNaV.jpg"
+                            },
+                            {
+                                "url": "M3iES4TqWyp6YLPQJ",
+                                "title": "Isekai Shikkaku",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152137-DOCIkAiaWALu.jpg"
+                            },
+                            {
+                                "url": "xCedxSdE7Fnji5dMp",
+                                "title": "Egumi Legacy",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177097-Tg5huoY2rqdF.jpg"
+                            },
+                            {
                                 "url": "ox2opWHHwh2d663NG",
                                 "title": "Ling Jian Zun Season 4",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120272-v1UXPGEyyVDb.png"
@@ -300,21 +315,6 @@
                                 "url": "vvhSfZPeefzcswwFC",
                                 "title": "Decryption Game",
                                 "thumbnail_url": "https://gogocdn.net/cover/decryption-game.png"
-                            },
-                            {
-                                "url": "DStNxdv5N9Np2BckL",
-                                "title": "All Purpose Apocalyptic Upgrade System",
-                                "thumbnail_url": "https://gogocdn.net/cover/all-purpose-apocalyptic-upgrade-system.png"
-                            },
-                            {
-                                "url": "8S4McaLhHY7akSgNs",
-                                "title": "God Emperor Descends: I Have Billions of Attribute Points",
-                                "thumbnail_url": "https://gogocdn.net/cover/god-emperor-descends-i-have-billions-of-attribute-points.png"
-                            },
-                            {
-                                "url": "ZsRt2w5eXqN6zasSm",
-                                "title": "The Demon Queen Said I Am Too Strong",
-                                "thumbnail_url": "https://gogocdn.net/cover/the-demon-queen-said-i-am-too-strong.png"
                             }
                         ],
                         "hasNextPage": true
@@ -326,6 +326,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "M3iES4TqWyp6YLPQJ",
+                                "title": "Isekai Shikkaku",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152137-DOCIkAiaWALu.jpg"
+                            },
                             {
                                 "url": "d2PMyPbDAthsitf5x",
                                 "title": "Wan Jie Du Zun Season 2",
@@ -375,11 +380,6 @@
                                 "url": "oegpXaZ9fbejMgH3E",
                                 "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season 2",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139825-rFlrzdRZmlYK.jpg"
-                            },
-                            {
-                                "url": "M3iES4TqWyp6YLPQJ",
-                                "title": "Isekai Shikkaku",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152137-DOCIkAiaWALu.jpg"
                             },
                             {
                                 "url": "4C7xJbApR6LHo9rd9",
@@ -512,17 +512,6 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www112.anicdnstream.info/videos/hls/ZGf6rAUayF7pPihTGBsPSQ/1722961925/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.1080.m3u8",
-                        "quality": "Luf-mp4 - HLS1 - 1080p",
-                        "videoUrl": "https://www112.anicdnstream.info/videos/hls/ZGf6rAUayF7pPihTGBsPSQ/1722961925/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.1080.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://playtaku.net",
-                            "Referer": "https://playtaku.net/"
-                        }
-                    },
-                    {
                         "url": "https://www112.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1114.1722738999.1080.m3u8",
                         "quality": "Luf-mp4 - hls P - 1080p",
                         "videoUrl": "https://www112.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1114.1722738999.1080.m3u8",
@@ -534,31 +523,9 @@
                         }
                     },
                     {
-                        "url": "https://www112.anicdnstream.info/videos/hls/ZGf6rAUayF7pPihTGBsPSQ/1722961925/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.720.m3u8",
-                        "quality": "Luf-mp4 - HLS1 - 720p",
-                        "videoUrl": "https://www112.anicdnstream.info/videos/hls/ZGf6rAUayF7pPihTGBsPSQ/1722961925/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.720.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://playtaku.net",
-                            "Referer": "https://playtaku.net/"
-                        }
-                    },
-                    {
-                        "url": "https://www112.anicdnstream.info/videos/hls/ZGf6rAUayF7pPihTGBsPSQ/1722961925/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.480.m3u8",
-                        "quality": "Luf-mp4 - HLS1 - 480p",
-                        "videoUrl": "https://www112.anicdnstream.info/videos/hls/ZGf6rAUayF7pPihTGBsPSQ/1722961925/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.480.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://playtaku.net",
-                            "Referer": "https://playtaku.net/"
-                        }
-                    },
-                    {
-                        "url": "https://www112.anicdnstream.info/videos/hls/ZGf6rAUayF7pPihTGBsPSQ/1722961925/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.360.m3u8",
-                        "quality": "Luf-mp4 - HLS1 - 360p",
-                        "videoUrl": "https://www112.anicdnstream.info/videos/hls/ZGf6rAUayF7pPihTGBsPSQ/1722961925/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.360.m3u8",
+                        "url": "https://www112.anicdnstream.info/videos/hls/_VM-3gt4hHxu_LI_WLkung/1722983333/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.1080.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 1080p",
+                        "videoUrl": "https://www112.anicdnstream.info/videos/hls/_VM-3gt4hHxu_LI_WLkung/1722983333/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -592,6 +559,39 @@
                         "url": "https://www112.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1114.1722738999.360.m3u8",
                         "quality": "Luf-mp4 - hls P - 360p",
                         "videoUrl": "https://www112.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1114.1722738999.360.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www112.anicdnstream.info/videos/hls/_VM-3gt4hHxu_LI_WLkung/1722983333/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.720.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 720p",
+                        "videoUrl": "https://www112.anicdnstream.info/videos/hls/_VM-3gt4hHxu_LI_WLkung/1722983333/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www112.anicdnstream.info/videos/hls/_VM-3gt4hHxu_LI_WLkung/1722983333/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.480.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 480p",
+                        "videoUrl": "https://www112.anicdnstream.info/videos/hls/_VM-3gt4hHxu_LI_WLkung/1722983333/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.net",
+                            "Referer": "https://playtaku.net/"
+                        }
+                    },
+                    {
+                        "url": "https://www112.anicdnstream.info/videos/hls/_VM-3gt4hHxu_LI_WLkung/1722983333/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.360.m3u8",
+                        "quality": "Luf-mp4 - HLS1 - 360p",
+                        "videoUrl": "https://www112.anicdnstream.info/videos/hls/_VM-3gt4hHxu_LI_WLkung/1722983333/229112/0b594d900f47daabc194844092384914/ep.1114.1722738999.360.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
