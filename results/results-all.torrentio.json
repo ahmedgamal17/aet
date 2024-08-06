@@ -22,7 +22,7 @@
                                 "artist": "Emma Myers, Zain Iqbal, Asha Banks, Yasmin Al-Khudhairi",
                                 "author": "",
                                 "description": "Five years after the death of schoolgirl Andie Bell, Pippa Fitz-Amobi sets out to uncover what really happened to her. Sal Singh, Andie's boyfriend, admitted to the murder before taking his own life, but Pip doesn't believe he's responsible and teams up with Sal's brother Ravi to uncover the truth. If Sal Singh isn't a murderer and the real killer is still out there, how far will they go to keep Pip from finding out the truth?",
-                                "genre": "Mystery & Thriller, Crime",
+                                "genre": "Crime, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/319627173/s276/a-good-girls-guide-to-murder.webp",
                                 "initialized": true
                             },
@@ -32,7 +32,7 @@
                                 "artist": "Harold Perrineau, Catalina Sandino Moreno, Eion Bailey, Hannah Cheramy",
                                 "author": "",
                                 "description": "Unravel the mystery of a city in middle U.S.A. that imprisons everyone who enters. As the residents struggle to maintain a sense of normality and seek a way out, they must also survive the threats of the surrounding forest.",
-                                "genre": "Mystery & Thriller, Drama, Horror, Science-Fiction",
+                                "genre": "Science-Fiction, Mystery & Thriller, Drama, Horror",
                                 "thumbnail_url": "https://images.justwatch.com/poster/260563925/s276/from.webp",
                                 "initialized": true
                             },
@@ -42,7 +42,7 @@
                                 "artist": "Matt Smith, Emma D'Arcy, Olivia Cooke",
                                 "author": "",
                                 "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-                                "genre": "Drama, Action & Adventure, Science-Fiction, Fantasy, Romance",
+                                "genre": "Action & Adventure, Science-Fiction, Drama, Fantasy, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/301444667/s276/house-of-the-dragon.webp",
                                 "initialized": true
                             },
@@ -62,8 +62,8 @@
                                 "artist": "Lupita Nyong'o, Joseph Quinn, Alex Wolff, Djimon Hounsou",
                                 "author": "Michael Sarnoski",
                                 "description": "A young woman named Sam finds herself trapped in New York City during the early stages of an invasion by alien creatures with ultra-sensitive hearing.",
-                                "genre": "Drama, Horror, Science-Fiction, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/318280226/s276/a-quiet-place-day-one.webp",
+                                "genre": "Science-Fiction, Mystery & Thriller, Drama, Horror",
+                                "thumbnail_url": "https://images.justwatch.com/poster/315802082/s276/a-quiet-place-day-one.webp",
                                 "initialized": true
                             },
                             {
@@ -72,7 +72,7 @@
                                 "artist": "Ella Purnell, Aaron Moten, Moisés Arias, Walton Goggins",
                                 "author": "",
                                 "description": "In a future, post-apocalyptic Los Angeles brought about by nuclear decimation, citizens must live in underground bunkers to protect themselves from radiation, mutants and bandits.",
-                                "genre": "Drama, Science-Fiction, War & Military, Action & Adventure, Mystery & Thriller",
+                                "genre": "War & Military, Action & Adventure, Drama, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/313866771/s276/fallout-2023.webp",
                                 "initialized": true
                             },
@@ -127,16 +127,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt9100822,SHOW,/us/tv-show/valhalla-murders",
-                                "title": "The Valhalla Murders",
-                                "artist": "Nína Dögg Filippusdóttir, Björn Thors, Bergur Ebbi Benediktsson, Aldís Amah Hamilton",
-                                "author": "",
-                                "description": "Police profiler Arnar is sent back home from Oslo to his native Iceland to investigate the country's first serial killer case. He teams up with the local senior cop Kata.",
-                                "genre": "Crime, Drama, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/172402719/s276/valhalla-murders.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt11389872,MOVIE,/us/movie/kingdom-of-the-planet-of-the-apes",
                                 "title": "Kingdom of the Planet of the Apes",
                                 "artist": "Owen Teague, Freya Allan, Kevin Durand, Peter Macon",
@@ -144,6 +134,16 @@
                                 "description": "Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.",
                                 "genre": "Action & Adventure, Science-Fiction, Drama, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/314299423/s276/kingdom-of-the-planet-of-the-apes.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt9100822,SHOW,/us/tv-show/valhalla-murders",
+                                "title": "The Valhalla Murders",
+                                "artist": "Nína Dögg Filippusdóttir, Björn Thors, Bergur Ebbi Benediktsson, Aldís Amah Hamilton",
+                                "author": "",
+                                "description": "Police profiler Arnar is sent back home from Oslo to his native Iceland to investigate the country's first serial killer case. He teams up with the local senior cop Kata.",
+                                "genre": "Crime, Drama, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/172402719/s276/valhalla-murders.webp",
                                 "initialized": true
                             },
                             {
@@ -182,7 +182,7 @@
                                 "artist": "Ryan Gosling, Emily Blunt, Aaron Taylor-Johnson, Hannah Waddingham",
                                 "author": "David Leitch",
                                 "description": "A down-and-out stuntman must find the missing star of his ex-girlfriend's blockbuster film.",
-                                "genre": "Comedy, Drama, Romance, Action & Adventure",
+                                "genre": "Action & Adventure, Comedy, Drama, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/313201926/s276/the-fall-guy-2024.webp",
                                 "initialized": true
                             },
@@ -272,7 +272,7 @@
                                 "artist": "Adam Scott, Britt Lower, Zach Cherry, Tramell Tillman",
                                 "author": "",
                                 "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
-                                "genre": "Drama, Science-Fiction, Mystery & Thriller",
+                                "genre": "Science-Fiction, Drama, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/264516782/s276/severance.webp",
                                 "initialized": true
                             },
@@ -292,7 +292,7 @@
                                 "artist": "Ryan Reynolds, Morena Baccarin, Ed Skrein, T.J. Miller",
                                 "author": "Tim Miller",
                                 "description": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
-                                "genre": "Action & Adventure, Comedy",
+                                "genre": "Comedy, Action & Adventure",
                                 "thumbnail_url": "https://images.justwatch.com/poster/244252041/s276/deadpool.webp",
                                 "initialized": true
                             },
@@ -312,7 +312,7 @@
                                 "artist": "",
                                 "author": "",
                                 "description": "Follows a rookie FBI agent uncovering a multimillion-dollar money laundering scheme orchestrated by Mexico's ruthless Los Zetas cartel through the American Quarter Horse racing industry.",
-                                "genre": "Documentary, Crime",
+                                "genre": "Crime, Documentary",
                                 "thumbnail_url": "https://images.justwatch.com/poster/319587109/s276/cowboy-cartel.webp",
                                 "initialized": true
                             },
@@ -342,7 +342,7 @@
                                 "artist": "Jeremy Renner, Hugh Dillon, Tobi Bamtefa, Taylor Handley",
                                 "author": "",
                                 "description": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain.",
-                                "genre": "Drama, Crime, Mystery & Thriller",
+                                "genre": "Drama, Mystery & Thriller, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/302475058/s276/mayor-of-kingstown.webp",
                                 "initialized": true
                             },
@@ -382,7 +382,7 @@
                                 "artist": "Ryan Reynolds, Hugh Jackman, Emma Corrin, Matthew Macfadyen",
                                 "author": "Shawn Levy",
                                 "description": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
-                                "genre": "Action & Adventure, Comedy, Science-Fiction",
+                                "genre": "Comedy, Science-Fiction, Action & Adventure",
                                 "thumbnail_url": "https://images.justwatch.com/poster/318387357/s276/deadpool-3.webp",
                                 "initialized": true
                             },
@@ -392,7 +392,7 @@
                                 "artist": "Henry Cavill, Eiza González, Alan Ritchson, Henry Golding",
                                 "author": "Guy Ritchie",
                                 "description": "The British military recruits a small group of highly skilled soldiers to strike against German forces behind enemy lines during World War II.",
-                                "genre": "War & Military, Action & Adventure, Comedy",
+                                "genre": "Action & Adventure, Comedy, War & Military",
                                 "thumbnail_url": "https://images.justwatch.com/poster/315856885/s276/the-ministry-of-ungentlemanly-warfare.webp",
                                 "initialized": true
                             },
@@ -527,16 +527,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt32421227,SHOW,/us/tv-show/world-eats-bread",
-                                "title": "World Eats Bread",
-                                "artist": "",
-                                "author": "",
-                                "description": "Delectable documentary chronicling bread's roots across cultures. Each episode unveils a staple loaf's origins, mirroring homelands' history and identity.",
-                                "genre": "Documentary",
-                                "thumbnail_url": "https://images.justwatch.com/poster/316454723/s276/world-eats-bread.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt2069688,SHOW,/us/tv-show/world-war-ii-in-hd-colour",
                                 "title": "World War II in HD Colour",
                                 "artist": "Robert Powell, Adolf Hitler, Winston Churchill, Franklin D. Roosevelt",
@@ -557,6 +547,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt32421227,SHOW,/us/tv-show/world-eats-bread",
+                                "title": "World Eats Bread",
+                                "artist": "",
+                                "author": "",
+                                "description": "Delectable documentary chronicling bread's roots across cultures. Each episode unveils a staple loaf's origins, mirroring homelands' history and identity.",
+                                "genre": "Documentary",
+                                "thumbnail_url": "https://images.justwatch.com/poster/316454723/s276/world-eats-bread.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt2011840,SHOW,/us/tv-show/worlds-craziest-fools",
                                 "title": "World's Craziest Fools",
                                 "artist": "Rupert Vansittart, Mr. T",
@@ -567,23 +567,23 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt1001484,SHOW,/us/tv-show/world-of-quest",
-                                "title": "World of Quest",
-                                "artist": "Ron Pardo, Landon Norris, Kedar Brown, James Rankin",
-                                "author": "",
-                                "description": "World of Quest is a Canadian animated series based on the graphic novel story by Jason Kruse published by Komikwerks.",
-                                "genre": "Animation, Comedy, Science-Fiction, Kids & Family, Music & Musical, Action & Adventure",
-                                "thumbnail_url": "https://images.justwatch.com/poster/270309621/s276/world-of-quest.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0469641,MOVIE,/us/movie/september-2006",
                                 "title": "World Trade Center",
                                 "artist": "Nicolas Cage, Michael Peña, Maria Bello, Maggie Gyllenhaal",
                                 "author": "Oliver Stone",
                                 "description": "Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.",
-                                "genre": "Drama, History, Mystery & Thriller",
+                                "genre": "History, Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/250979950/s276/september-2006.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt1001484,SHOW,/us/tv-show/world-of-quest",
+                                "title": "World of Quest",
+                                "artist": "Ron Pardo, Landon Norris, Kedar Brown, James Rankin",
+                                "author": "",
+                                "description": "World of Quest is a Canadian animated series based on the graphic novel story by Jason Kruse published by Komikwerks.",
+                                "genre": "Animation, Comedy, Science-Fiction, Action & Adventure, Kids & Family, Music & Musical",
+                                "thumbnail_url": "https://images.justwatch.com/poster/270309621/s276/world-of-quest.webp",
                                 "initialized": true
                             },
                             {
@@ -637,16 +637,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
-                                "title": "World's End Harem",
-                                "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
-                                "author": "",
-                                "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
-                                "genre": "Animation, Drama, Science-Fiction, Mystery & Thriller, Romance",
-                                "thumbnail_url": "https://images.justwatch.com/poster/251915444/s276/worlds-end-harem.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt9738716,MOVIE,/us/movie/the-world-to-come",
                                 "title": "The World to Come",
                                 "artist": "Katherine Waterston, Casey Affleck, Vanessa Kirby, Christopher Abbott",
@@ -657,13 +647,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0184090,SHOW,/us/tv-show/abc-world-news",
-                                "title": "ABC World News Tonight With David Muir",
-                                "artist": "David Muir, Whit Johnson, Linsey Davis",
+                                "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
+                                "title": "World's End Harem",
+                                "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
                                 "author": "",
-                                "description": "ABC World News is the flagship daily evening television news program of ABC News, the news division of the American Broadcasting Company television network in the United States. Currently the weekday editions (going by title ABC World News Tonight with David Muir) are anchored by David Muir. ABC World News has been anchored at various times by a number of other people since its debut in 1953. It also has used various titles, including ABC Evening News from 1970 to 1978 and World News Tonight from 1978 to 2006.",
-                                "genre": "",
-                                "thumbnail_url": "https://images.justwatch.com/poster/272546979/s276/abc-world-news.webp",
+                                "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
+                                "genre": "Animation, Drama, Science-Fiction, Mystery & Thriller, Romance",
+                                "thumbnail_url": "https://images.justwatch.com/poster/251915444/s276/worlds-end-harem.webp",
                                 "initialized": true
                             },
                             {
@@ -677,12 +667,22 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt0184090,SHOW,/us/tv-show/abc-world-news",
+                                "title": "ABC World News Tonight With David Muir",
+                                "artist": "David Muir, Whit Johnson, Linsey Davis",
+                                "author": "",
+                                "description": "ABC World News is the flagship daily evening television news program of ABC News, the news division of the American Broadcasting Company television network in the United States. Currently the weekday editions (going by title ABC World News Tonight with David Muir) are anchored by David Muir. ABC World News has been anchored at various times by a number of other people since its debut in 1953. It also has used various titles, including ABC Evening News from 1970 to 1978 and World News Tonight from 1978 to 2006.",
+                                "genre": "",
+                                "thumbnail_url": "https://images.justwatch.com/poster/272546979/s276/abc-world-news.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt8001092,SHOW,/us/tv-show/world-on-fire",
                                 "title": "World on Fire",
                                 "artist": "Jonah Hauer-King, Julia Brown, Helen Hunt, Zofia Wichłacz",
                                 "author": "",
                                 "description": "World War II-era drama centered on the lives of ordinary people affected by the war.",
-                                "genre": "Romance, War & Military, Drama",
+                                "genre": "Drama, Romance, War & Military",
                                 "thumbnail_url": "https://images.justwatch.com/poster/148817724/s276/world-on-fire.webp",
                                 "initialized": true
                             },
@@ -717,6 +717,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
+                                "title": "Jurassic World",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
+                                "author": "Colin Trevorrow",
+                                "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+                                "genre": "Mystery & Thriller, Action & Adventure, Science-Fiction",
+                                "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
                                 "title": "World's Funniest Animals",
                                 "artist": "Elizabeth Stanton",
@@ -724,16 +734,6 @@
                                 "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
                                 "genre": "Reality TV, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
-                                "title": "Jurassic World",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
-                                "author": "Colin Trevorrow",
-                                "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
                                 "initialized": true
                             },
                             {
@@ -747,16 +747,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt4881806,MOVIE,/us/movie/jurassic-world-fallen-kingdom",
-                                "title": "Jurassic World: Fallen Kingdom",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith",
-                                "author": "J. A. Bayona",
-                                "description": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
-                                "genre": "Science-Fiction, Action & Adventure, Mystery & Thriller, Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/79976709/s276/jurassic-world-fallen-kingdom.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt3909336,MOVIE,/us/movie/worlds-apart-2015",
                                 "title": "Worlds Apart",
                                 "artist": "J.K. Simmons, Maria Kavoyianni, Andrea Osvárt, Christopher Papakaliatis",
@@ -764,6 +754,16 @@
                                 "description": "Three separate narratives each following a love story between a foreigner and a Greek. Each story represents a different generation falling in love during a time of socioeconomic turmoil that dominates Southern Europe as a whole, only to connect as a single story in the end.",
                                 "genre": "Romance, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/45122637/s276/worlds-apart-2015.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt15472028,SHOW,/us/tv-show/world-war-2-the-call-of-duty-a-complete-timeline",
+                                "title": "World War 2: The Call of Duty - A Complete Timeline",
+                                "artist": "",
+                                "author": "Liam Dale",
+                                "description": "Track the main events of World War II with the help of remarkable archive footage in this extensive 24 episode series, which shines a spotlight on this monumental period of history.",
+                                "genre": "Documentary, History, War & Military",
+                                "thumbnail_url": "https://images.justwatch.com/poster/298702672/s276/world-war-2-the-call-of-duty-a-complete-timeline.webp",
                                 "initialized": true
                             },
                             {
@@ -777,13 +777,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt15472028,SHOW,/us/tv-show/world-war-2-the-call-of-duty-a-complete-timeline",
-                                "title": "World War 2: The Call of Duty - A Complete Timeline",
-                                "artist": "",
-                                "author": "Liam Dale",
-                                "description": "Track the main events of World War II with the help of remarkable archive footage in this extensive 24 episode series, which shines a spotlight on this monumental period of history.",
-                                "genre": "Documentary, History, War & Military",
-                                "thumbnail_url": "https://images.justwatch.com/poster/298702672/s276/world-war-2-the-call-of-duty-a-complete-timeline.webp",
+                                "url": "tt4881806,MOVIE,/us/movie/jurassic-world-fallen-kingdom",
+                                "title": "Jurassic World: Fallen Kingdom",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith",
+                                "author": "J. A. Bayona",
+                                "description": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller, Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/79976709/s276/jurassic-world-fallen-kingdom.webp",
                                 "initialized": true
                             },
                             {
@@ -807,13 +807,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
-                                "title": "The World Wars",
-                                "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
-                                "author": "John Ealer",
-                                "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
-                                "genre": "War & Military, Documentary, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/306417970/s276/the-world-wars.webp",
+                                "url": ",MOVIE,/us/movie/world-of-tomorrow",
+                                "title": "World of Tomorrow",
+                                "artist": "Julia Pott, Winona Mae, Sara Cushman",
+                                "author": "Don Hertzfeldt",
+                                "description": "A little girl is taken on a mind-bending tour of her distant future.",
+                                "genre": "Animation, Drama, Science-Fiction",
+                                "thumbnail_url": "https://images.justwatch.com/poster/247284109/s276/world-of-tomorrow.webp",
                                 "initialized": true
                             }
                         ],
