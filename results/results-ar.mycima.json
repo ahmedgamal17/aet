@@ -7,16 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/series/1883/",
-                                "title": "1883",
-                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/12/مسلسل-1883-موسم-1.jpg"
-                            },
-                            {
-                                "url": "/series/the-book-of-boba-fett/",
-                                "title": "The Book of Boba Fett",
-                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/12/مسلسل-The-Book-of-Boba-Fett-موسم-1.jpg"
-                            },
-                            {
                                 "url": "/series/the-rehearsal/",
                                 "title": "The Rehearsal",
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2022/07/مسلسل-The-Rehearsal-الموسم-الاول.jpg"
@@ -42,14 +32,24 @@
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2022/01/مسلسل-Neymar-The-Perfect-Chaos-الموسم-الاول.jpg"
                             },
                             {
+                                "url": "/series/مسلسل-the-umbrella-academy/",
+                                "title": "مسلسل The Umbrella Academy",
+                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2019/04/tt1312171--351x520.jpg"
+                            },
+                            {
                                 "url": "/series/lets-fight-ghost/",
                                 "title": "Let's Fight Ghost",
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/03/Lets-Fight-Ghost.jpg"
                             },
                             {
-                                "url": "/series/مسلسل-the-umbrella-academy/",
-                                "title": "مسلسل The Umbrella Academy",
-                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2019/04/tt1312171--351x520.jpg"
+                                "url": "/series/1883/",
+                                "title": "1883",
+                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/12/مسلسل-1883-موسم-1.jpg"
+                            },
+                            {
+                                "url": "/series/the-book-of-boba-fett/",
+                                "title": "The Book of Boba Fett",
+                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/12/مسلسل-The-Book-of-Boba-Fett-موسم-1.jpg"
                             },
                             {
                                 "url": "/series/navarasa/",
@@ -65,11 +65,6 @@
                                 "url": "/series/who-rules-the-world/",
                                 "title": "Who Rules The World",
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2022/04/Who-Rules-The-World-2022.jpg"
-                            },
-                            {
-                                "url": "/series/prosecution-elite/",
-                                "title": "Prosecution Elite",
-                                "thumbnail_url": "https://mycima.wecima.cam/wp-content/uploads/2023/06/Prosecution-Elite-موسم-1.jpg"
                             },
                             {
                                 "url": "/series/sell-your-haunted-house/",
@@ -92,19 +87,19 @@
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2020/11/الكفارة.jpg"
                             },
                             {
-                                "url": "/series/the-longest-promise/",
-                                "title": "The Longest Promise",
-                                "thumbnail_url": "https://cdn57.mycimaa1.boats/wp-content/uploads/2023/07/الوعد-الاطول.jpg"
-                            },
-                            {
-                                "url": "/series/where-dreams-begin/",
-                                "title": "Where Dreams Begin",
-                                "thumbnail_url": "https://mycima.wecima.cam/wp-content/uploads/2023/06/Where-Dreams-Begin-موسم-1.jpg"
+                                "url": "/series/prosecution-elite/",
+                                "title": "Prosecution Elite",
+                                "thumbnail_url": "https://mycima.wecima.cam/wp-content/uploads/2023/06/Prosecution-Elite-موسم-1.jpg"
                             },
                             {
                                 "url": "/series/inside-man-2022/",
                                 "title": "Inside Man 2022",
                                 "thumbnail_url": "https://mycimaa.work/wp-content/uploads/2022/09/مسلسل-Inside-Man.jpg"
+                            },
+                            {
+                                "url": "/series/where-dreams-begin/",
+                                "title": "Where Dreams Begin",
+                                "thumbnail_url": "https://mycima.wecima.cam/wp-content/uploads/2023/06/Where-Dreams-Begin-موسم-1.jpg"
                             },
                             {
                                 "url": "/series/law-order-organized-crime/",
@@ -115,6 +110,11 @@
                                 "url": "/series/the-chosen/",
                                 "title": "The Chosen",
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2020/11/MV5BMmQ0YjhkOGYtMDFmZS00ZTY3LWIxODUtNDNiNjkxMmI1NTVmXkEyXkFqcGdeQXVyMjcyNjU5Mjg@._V1_UY12001497902709.jpg"
+                            },
+                            {
+                                "url": "/series/the-longest-promise/",
+                                "title": "The Longest Promise",
+                                "thumbnail_url": "https://cdn57.mycimaa1.boats/wp-content/uploads/2023/07/الوعد-الاطول.jpg"
                             },
                             {
                                 "url": "/series/the-starry-love/",
@@ -142,16 +142,6 @@
                                 "thumbnail_url": "https://mycima.movie:2096:2083/wp-content/uploads/2021/09/مسلسل-Midnight-Mass-موسم-1.jpg"
                             },
                             {
-                                "url": "/series/drops-of-god/",
-                                "title": "Drops of God",
-                                "thumbnail_url": "https://wecima.dev/wp-content/uploads/2023/04/مسلسل-Drops-of-God-الموسم-الاول.jpg"
-                            },
-                            {
-                                "url": "/series/مسلسل-breaking-bad/",
-                                "title": "مسلسل breaking bad",
-                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2019/04/breaking-bad-S03--351x520.jpg"
-                            },
-                            {
                                 "url": "/series/the-blood-of-youth/",
                                 "title": "The Blood of Youth",
                                 "thumbnail_url": "https://myciiima.autos/wp-content/uploads/2023/01/The-Blood-of-Youth-موسم-1.jpg"
@@ -162,14 +152,14 @@
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/01/WandaVision-S01.jpg"
                             },
                             {
-                                "url": "/series/scam-1992-the-harshad-mehta-story/",
-                                "title": "Scam 1992: The Harshad Mehta Story",
-                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2020/12/MV5BNjgxZTMxNmQtZGFkZS00NDUyLTllMzYtOTE0ZjdlMjM1ZWU0XkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_UY1200855823460.jpg"
-                            },
-                            {
                                 "url": "/series/مسلسل-band-of-brothers/",
                                 "title": "مسلسل Band of Brothers",
                                 "thumbnail_url": "https://wecima.show/wp-content/uploads/2019/04/5c8b38ff55111--360x520.jpg"
+                            },
+                            {
+                                "url": "/series/scam-1992-the-harshad-mehta-story/",
+                                "title": "Scam 1992: The Harshad Mehta Story",
+                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2020/12/MV5BNjgxZTMxNmQtZGFkZS00NDUyLTllMzYtOTE0ZjdlMjM1ZWU0XkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_UY1200855823460.jpg"
                             },
                             {
                                 "url": "/series/مسلسل-game-of-thrones-4/",
@@ -192,19 +182,14 @@
                                 "thumbnail_url": "https://wecima.show/wp-content/uploads/2020/09/Raised-by-Wolves-S01-351x520.jpg"
                             },
                             {
-                                "url": "/series/blue-planet-ii/",
-                                "title": "Blue Planet II",
-                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2020/03/MV5BYjg2ODk0MjUtNmMzZS00MjY0LWI1YWMtN2JhMjRmZGUwY2I3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY12001691204141.jpg"
+                                "url": "/series/drops-of-god/",
+                                "title": "Drops of God",
+                                "thumbnail_url": "https://wecima.dev/wp-content/uploads/2023/04/مسلسل-Drops-of-God-الموسم-الاول.jpg"
                             },
                             {
-                                "url": "/series/مسلسل-chernobyl/",
-                                "title": "مسلسل Chernobyl",
-                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2020/03/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UY12001292180475.jpg"
-                            },
-                            {
-                                "url": "/series/planet-earth/",
-                                "title": "Planet Earth",
-                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2020/03/MV5BNmZlYzIzMTItY2EzYS00YTEyLTg0ZjEtMDMzZjM3ODdhN2UzXkEyXkFqcGdeQXVyNjI0MDg2NzE@._V1_UY1200897166366.jpg"
+                                "url": "/series/مسلسل-breaking-bad/",
+                                "title": "مسلسل breaking bad",
+                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2019/04/breaking-bad-S03--351x520.jpg"
                             },
                             {
                                 "url": "/series/the-heavenly-idol/",
@@ -225,6 +210,21 @@
                                 "url": "/series/the-oath-of-love/",
                                 "title": "The Oath of Love",
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2022/03/مسلسل-The-Oath-of-Love-الموسم-الاول.jpg"
+                            },
+                            {
+                                "url": "/series/seven-worlds-one-planet/",
+                                "title": "Seven Worlds, One Planet",
+                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2020/03/MV5BMWQ3ZjIzNzItMDQ1Zi00ZDdjLWFiZWItNTc3M2NiOTk4MGI3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY1200867989555.jpg"
+                            },
+                            {
+                                "url": "/series/my-perfect-stranger/",
+                                "title": "My Perfect Stranger",
+                                "thumbnail_url": "https://wecima.best/wp-content/uploads/2023/05/Run-Into-You-موسم-1.jpg"
+                            },
+                            {
+                                "url": "/series/chernobyl/",
+                                "title": "Chernobyl",
+                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2020/03/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UY12002127410560.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -236,6 +236,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/watch/مشاهدة-مسلسل-brinda-موسم-1-حلقة-3/",
+                                "title": "مشاهدة مسلسل Brinda موسم 1 حلقة 3",
+                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2024/08/MV5BZWM3MTZiZTAtYjhjYy00MWQxLTk1NjItMGQ3YzIzMjZlOTdiXkEyXkFqcGc@._V1_FMjpg_UX1000_1663870493.jpg_UY12001663870493-296x520.jpg"
+                            },
+                            {
+                                "url": "/watch/مشاهدة-مسلسل-brinda-موسم-1-حلقة-2/",
+                                "title": "مشاهدة مسلسل Brinda موسم 1 حلقة 2",
+                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2024/08/MV5BZWM3MTZiZTAtYjhjYy00MWQxLTk1NjItMGQ3YzIzMjZlOTdiXkEyXkFqcGc@._V1_FMjpg_UX1000_1663870493.jpg_UY12001663870493-296x520.jpg"
+                            },
+                            {
+                                "url": "/watch/مشاهدة-مسلسل-brinda-موسم-1-حلقة-1/",
+                                "title": "مشاهدة مسلسل Brinda موسم 1 حلقة 1",
+                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2024/08/MV5BZWM3MTZiZTAtYjhjYy00MWQxLTk1NjItMGQ3YzIzMjZlOTdiXkEyXkFqcGc@._V1_FMjpg_UX1000_1663870493.jpg_UY12001663870493-296x520.jpg"
+                            },
+                            {
+                                "url": "/watch/مشاهدة-فيلم-lolo-and-the-kid-2024-مترجم/",
+                                "title": "مشاهدة فيلم Lolo and the Kid 2024 مترجم",
+                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2024/08/Lolo-and-the-Kid-2024-347x520.jpg"
+                            },
                             {
                                 "url": "/watch/مشاهدة-مسلسل-time-bandits-موسم-1-حلقة-6/",
                                 "title": "مشاهدة مسلسل Time Bandits موسم 1 حلقة 6",
@@ -435,26 +455,6 @@
                                 "url": "/watch/مشاهدة-مسلسل-first-marriage-موسم-1-حلقة-1/",
                                 "title": "مشاهدة مسلسل FIRST MARRIAGE موسم 1 حلقة 1",
                                 "thumbnail_url": "https://wecima.show/wp-content/uploads/2024/08/زواج-أول.jpg"
-                            },
-                            {
-                                "url": "/watch/مشاهدة-فيلم-nezha-demon-child-is-back-مترجم/",
-                                "title": "مشاهدة فيلم Nezha: Demon Child is Back مترجم",
-                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2024/08/Nezha-Demon-Child-is-Back.jpg"
-                            },
-                            {
-                                "url": "/watch/مشاهدة-مسلسل-as-husband-as-wife-موسم-1-حلقة-14/",
-                                "title": "مشاهدة مسلسل As husband As wife موسم 1 حلقة 14",
-                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2024/08/as-husband-as-wife.jpg"
-                            },
-                            {
-                                "url": "/watch/مشاهدة-مسلسل-as-husband-as-wife-موسم-1-حلقة-13/",
-                                "title": "مشاهدة مسلسل As husband As wife موسم 1 حلقة 13",
-                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2024/08/as-husband-as-wife.jpg"
-                            },
-                            {
-                                "url": "/watch/مشاهدة-مسلسل-go-beach-volleyball-girls-2024-موسم-1-حلقة-26/",
-                                "title": "مشاهدة مسلسل Go! Beach Volleyball Girls (2024) موسم 1 حلقة 26",
-                                "thumbnail_url": "https://wecima.show/wp-content/uploads/2024/07/Go.Beach_.Volleyball.Girls_-347x520.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -694,11 +694,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/1883/",
-                    "title": "1883",
-                    "author": "",
-                    "description": "Alternative Name: 1883 Y: 1883 (United States) | Y: 1883",
-                    "genre": "دراما, غربي",
+                    "url": "/series/the-rehearsal/",
+                    "title": "The Rehearsal",
+                    "author": "Rise Management",
+                    "description": "Alternative Name: ذا ريهيرسال Untitled Nathan Fielder/HBO Pilot (United States)",
+                    "genre": "كوميدي",
                     "initialized": true
                 },
                 "passed": true
@@ -706,14 +706,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/مشاهدة-مسلسل-1883-موسم-1-حلقة-10-والاخيرة/",
-                        "name": "الموسم 1 : الحلقة 10",
-                        "episode_number": 1.1
+                        "url": "/watch/مشاهدة-مسلسل-the-rehearsal-موسم-1-حلقة-6/",
+                        "name": "الموسم 1 : الحلقة 6",
+                        "episode_number": 1.6
                     },
                     {
-                        "url": "/watch/مشاهدة-مسلسل-1883-موسم-1-حلقة-9/",
-                        "name": "الموسم 1 : الحلقة 9",
-                        "episode_number": 1.9
+                        "url": "/watch/مشاهدة-مسلسل-the-rehearsal-موسم-1-حلقة-5/",
+                        "name": "الموسم 1 : الحلقة 5",
+                        "episode_number": 1.5
                     }
                 ],
                 "passed": true
@@ -721,27 +721,32 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://m40.uqload.ws/3rfkjveuqbw2q4drdko7nnpsdt3rsqo7ipqhlm3qjpqhdmlt7w6hbg6g6qqq/v.mp4",
+                        "url": "https://m170.uqload.ws/3rfkvachqnw2q4drdkfplnnwb4ccja447rkrvfilm2tlrfcx3y4mso2ygfaq/v.mp4",
                         "quality": "Uqload",
-                        "videoUrl": "https://m40.uqload.ws/3rfkjveuqbw2q4drdko7nnpsdt3rsqo7ipqhlm3qjpqhdmlt7w6hbg6g6qqq/v.mp4",
+                        "videoUrl": "https://m170.uqload.ws/3rfkvachqnw2q4drdkfplnnwb4ccja447rkrvfilm2tlrfcx3y4mso2ygfaq/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.co/"
                         }
                     },
                     {
-                        "url": "https://3g3xcvx1.zfghrew10.shop/to3q3mimjfvsy46b3u6gx6fqkxidda43tebw52xjin7hchxmzbamffjx23tq/v.mp4",
-                        "quality": "Vidbom: 640p",
-                        "videoUrl": "https://3g3xcvx1.zfghrew10.shop/to3q3mimjfvsy46b3u6gx6fqkxidda43tebw52xjin7hchxmzbamffjx23tq/v.mp4"
+                        "url": "https://wsxcvx6.zfghrew10.shop/to3q24vejfvsy46b3uzwxlfqileepheswu6jyrigyckohavp4wmjnvlvsxcq/v.mp4",
+                        "quality": "Vidbom: 720p",
+                        "videoUrl": "https://wsxcvx6.zfghrew10.shop/to3q24vejfvsy46b3uzwxlfqileepheswu6jyrigyckohavp4wmjnvlvsxcq/v.mp4"
                     },
                     {
-                        "url": "https://nox5-02.ukra1.shop/hls/,pdomb56hpgm4f4kmlewcd3zhekb5hc36nxgywyqc75a6vvnutoyrz32452zq,.urlset/master.m3u8",
+                        "url": "https://no6x-01.ukra1.shop/hls/,pdomnrojpcm4f4kmlhncfpzegwwzle6chljx3joyr2geb2xx7ohvhuk2bhta,.urlset/master.m3u8",
                         "quality": "Vidshare: 480p",
-                        "videoUrl": "https://nox5-02.ukra1.shop/hls/,pdomb56hpgm4f4kmlewcd3zhekb5hc36nxgywyqc75a6vvnutoyrz32452zq,.urlset/master.m3u8"
+                        "videoUrl": "https://no6x-01.ukra1.shop/hls/,pdomnrojpcm4f4kmlhncfpzegwwzle6chljx3joyr2geb2xx7ohvhuk2bhta,.urlset/master.m3u8"
                     },
                     {
-                        "url": "https://wecima.show/run/39794f108746b0dcc0af6aa7b0089908386ab6856b95b0693a6329b31e069c7d7e4f2df9aa0a1d28fc2058228efa33a8e7b43efd1fc892374b76ac6747fb79364e8584b0545270a36116f02c9fd0db3c156aa2959e3c4b65766a5f81ff408335037df1/?Key=3DB0ubZOjpQ9nsQxLbrIYg&Expires=1723022941&auto=true",
+                        "url": "https://nxxn53-14.times20qu20.shop/6jmnvjri3yazsalrixyqfy7zk5atots6qrz34a7y7vor6kfrmw7tiov5nzoa/v.mp4",
+                        "quality": "Vidbom: 720p",
+                        "videoUrl": "https://nxxn53-14.times20qu20.shop/6jmnvjri3yazsalrixyqfy7zk5atots6qrz34a7y7vor6kfrmw7tiov5nzoa/v.mp4"
+                    },
+                    {
+                        "url": "https://wecima.show/run/49e495977dc339c11d071e92a35992a1a1bdf4e41de89dd3a7ca599df7496374cf0809ceb2eda0895f30605f3c258eb3d6307eb80dd25c63ccdf2903799351a0db283c9acab60a9c53c8549be32da17a0985a6b2bbfb0c29a24092abf1842acdc6b308/?Key=bRogK7EXjk__vyNiBKOA4A&Expires=1723045279&auto=true",
                         "quality": "Default (may take a while)",
-                        "videoUrl": "https://wecima.show/run/39794f108746b0dcc0af6aa7b0089908386ab6856b95b0693a6329b31e069c7d7e4f2df9aa0a1d28fc2058228efa33a8e7b43efd1fc892374b76ac6747fb79364e8584b0545270a36116f02c9fd0db3c156aa2959e3c4b65766a5f81ff408335037df1/?Key=3DB0ubZOjpQ9nsQxLbrIYg&Expires=1723022941&auto=true",
+                        "videoUrl": "https://wecima.show/run/49e495977dc339c11d071e92a35992a1a1bdf4e41de89dd3a7ca599df7496374cf0809ceb2eda0895f30605f3c258eb3d6307eb80dd25c63ccdf2903799351a0db283c9acab60a9c53c8549be32da17a0985a6b2bbfb0c29a24092abf1842acdc6b308/?Key=bRogK7EXjk__vyNiBKOA4A&Expires=1723045279&auto=true",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://wecima.show/"
