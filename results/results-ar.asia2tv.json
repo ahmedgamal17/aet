@@ -43,12 +43,12 @@
                                 "title": "عاصفة التغيير The Whirlwind"
                             },
                             {
-                                "url": "/رجل-مهووس-وامرأة-تريد-ركله/",
-                                "title": "رجل مهووس وامرأة تريد ركله Hamaru Otoko ni Keritai Onna"
-                            },
-                            {
                                 "url": "/موجة-،-استمع-لي/",
                                 "title": "موجة ، استمع لي! Wave, Listen to Me"
+                            },
+                            {
+                                "url": "/رجل-مهووس-وامرأة-تريد-ركله/",
+                                "title": "رجل مهووس وامرأة تريد ركله Hamaru Otoko ni Keritai Onna"
                             },
                             {
                                 "url": "/زواج-الدلال-حب-زوج-شاب-لايعرف-الحدود/",
@@ -59,16 +59,16 @@
                                 "title": "فضيحة scandal"
                             },
                             {
-                                "url": "/الراكضة-اللطيفة/",
-                                "title": "الراكضة اللطيفة Lovely Runner"
-                            },
-                            {
                                 "url": "/تجرؤ-على-حبي/",
                                 "title": "تجرؤ على حبي Dare to Love Me"
                             },
                             {
                                 "url": "/رومانسية-منتصف-الليل-في-هاغوون/",
                                 "title": "رومانسية منتصف الليل في هاغوون The Midnight Romance In Hagwon"
+                            },
+                            {
+                                "url": "/الراكضة-اللطيفة/",
+                                "title": "الراكضة اللطيفة Lovely Runner"
                             },
                             {
                                 "url": "/إنها-مختلفة-ليلاً-ونهاراً/",
@@ -83,16 +83,16 @@
                                 "title": "حبيبتي العسكرية My Military Valentine"
                             },
                             {
+                                "url": "/تسلسل-هرمي/",
+                                "title": "تسلسل هرمي Hierarchy"
+                            },
+                            {
                                 "url": "/قبلة-المطر/",
                                 "title": "قبلة المطر Kissed By The Rain"
                             },
                             {
                                 "url": "/ليلة-الأحد،-على-الأقل…/",
                                 "title": "ليلة الأحد، على الأقل Nichiyo no Yoru Gurai wa"
-                            },
-                            {
-                                "url": "/تسلسل-هرمي/",
-                                "title": "تسلسل هرمي Hierarchy"
                             },
                             {
                                 "url": "/اللاعب-2-سيد-المحتالين/",
@@ -163,12 +163,12 @@
                                 "title": "أغنية قتال Fight Song"
                             },
                             {
-                                "url": "/بيت-البومة/",
-                                "title": "بيت البومة House of the Owl"
-                            },
-                            {
                                 "url": "/وداعا-كوكب-الأرض/",
                                 "title": "وداعا كوكب الأرض Goodbye Earth"
+                            },
+                            {
+                                "url": "/بيت-البومة/",
+                                "title": "بيت البومة House of the Owl"
                             },
                             {
                                 "url": "/",
@@ -305,18 +305,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://dood.li/e/66o97wb10n3z",
-                        "quality": "Doodstream mirror",
-                        "videoUrl": "https://xo247l.cloudatacdn.com/u5kj6mtidlclsdgge766ajazdn2c66e2kmpv4mj22etti2s5zd2ty3cv5myq/6jdjzuuxn7~19jaHtMVgc?token=3owcqtn6hjwr7w65qaxo2g36&expiry=1723034444215",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://dood.li/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=kZG9zaOkQlcOA3r&expires=1723104444&ip=GHEsDRqAKxSHDN&token=-SQb-l3DzpTK",
+                        "url": "https://streamtape.com/get_video?id=kZG9zaOkQlcOA3r&expires=1723125319&ip=F0qQKRWZD19XKxR&token=Wi0e8R3k58_4",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=kZG9zaOkQlcOA3r&expires=1723104444&ip=GHEsDRqAKxSHDN&token=-SQb-l3DzpTK"
+                        "videoUrl": "https://streamtape.com/get_video?id=kZG9zaOkQlcOA3r&expires=1723125319&ip=F0qQKRWZD19XKxR&token=Wi0e8R3k58_4"
                     }
                 ],
                 "passed": true
