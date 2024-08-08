@@ -173,89 +173,8 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "{\"slug\":\"dr-stone-new-world-part-2\",\"id\":\"PyufyZFkbG7ZB9VF\"}",
-                                "title": "Dr.STONE: NEW WORLD Part 2",
-                                "thumbnail_url": "https://media.kitsu.io/anime/47246/poster_image/b1fa85143151a24d0ae818d2c5907741.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru\",\"id\":\"vVz5FTSpXkxbDruQ\"}",
-                                "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
-                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/44393/original.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"rezero-season-2-part-2\",\"id\":\"hM0pROeVxa9mJ6lu\"}",
-                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
-                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/43247/original.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"arifureta-shokugyou-de-sekai-saikyou-2\",\"id\":\"5DNXi21k57zZ3tYp\"}",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou 2",
-                                "thumbnail_url": "https://media.kitsu.io/anime/42611/poster_image/95d869f45d41c5e8155deb6dacac82e3.png"
-                            },
-                            {
-                                "url": "{\"slug\":\"re-zero-kara-hajimeru-isekai-seikatsu-2\",\"id\":\"Df4z5nHsoZvwj2Yk\"}",
-                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2",
-                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/42198/original.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"dr-stone-three\",\"id\":\"TIRKno1OuZE2uozH\"}",
-                                "title": "Dr. STONE 3rd Season",
-                                "thumbnail_url": "https://media.kitsu.io/anime/44289/poster_image/5a688053ea687f40b9c01d77e591ff87.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"isekai-wa-smartphone-to-tomo-ni-2nd-season\",\"id\":\"TLSK41h9z4gvjgAn\"}",
-                                "title": "Isekai wa Smartphone to Tomo ni. 2nd Season",
-                                "thumbnail_url": "https://media.kitsu.io/anime/46057/poster_image/18a9ee25e8a8a2ee3aea4f32e9b7b8c9.png"
-                            },
-                            {
-                                "url": "{\"slug\":\"re-zero-kara-hajimeru-isekai-seikatsu\",\"id\":\"LtR5651P5LpQiLC8\"}",
-                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
-                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/11209/original.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"kono-subarashii-sekai-ni-shukufuku-wo-3\",\"id\":\"T3vKmE2biZQf2YDF\"}",
-                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-                                "thumbnail_url": "https://media.kitsu.io/anime/44911/poster_image/04af94f3b0c7fe47f1a28c5d45737fe1.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu\",\"id\":\"XVBCK3LPcOkJBrQD\"}",
-                                "title": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu",
-                                "thumbnail_url": "https://media.kitsu.io/anime/44982/poster_image/649d29311de97533f61cd00d3a0db103.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore\",\"id\":\"a5c2zKQ9vr2yQa6K\"}",
-                                "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
-                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/43612/original.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life\",\"id\":\"654ec068c05da78e2cf93f6f\"}",
-                                "title": "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
-                                "thumbnail_url": "https://media.kitsu.io/anime/48125/poster_image/5b24219ca70b781cce0ba1c2b3c55e76.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"Kono-Subarashii-Sekai-ni-Bakuen-wo\",\"id\":\"f8JwAsLEfWYuvLe8\"}",
-                                "title": "Kono Subarashii Sekai ni Bakuen wo!",
-                                "thumbnail_url": "https://media.kitsu.io/anime/46139/poster_image/55c0e00c8e27514262c4cf44b2c9c0d7.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita\",\"id\":\"nVtOvpWMM7wzilw9\"}",
-                                "title": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
-                                "thumbnail_url": "https://media.kitsu.io/anime/44015/poster_image/33e3a54903ef8e2510deae100e3c6863.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"choujin-koukousei-tachi-wa-isekai-demo-yoyuu-de-ikinuku-you-desu\",\"id\":\"BQ8Gh7NHwGun7oSw\"}",
-                                "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
-                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/42222/original.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "details": {
                 "result": {
@@ -282,53 +201,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://api.animeparadise.moe/stream/storage/4BP9Y4gYG7hKYq7",
-                        "quality": "1080p",
-                        "videoUrl": "https://api.animeparadise.moe/stream/storage/4BP9Y4gYG7hKYq7",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Host": "api.animeparadise.moe",
-                            "Referer": "https://www.animeparadise.moe/"
-                        }
-                    },
-                    {
-                        "url": "https://api.animeparadise.moe/stream/storage/Ma6wkP0KPeumX1D",
-                        "quality": "720p",
-                        "videoUrl": "https://api.animeparadise.moe/stream/storage/Ma6wkP0KPeumX1D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Host": "api.animeparadise.moe",
-                            "Referer": "https://www.animeparadise.moe/"
-                        }
-                    },
-                    {
-                        "url": "https://api.animeparadise.moe/stream/storage/K98a6Ap2dVUj3W",
-                        "quality": "480p",
-                        "videoUrl": "https://api.animeparadise.moe/stream/storage/K98a6Ap2dVUj3W",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Host": "api.animeparadise.moe",
-                            "Referer": "https://www.animeparadise.moe/"
-                        }
-                    },
-                    {
-                        "url": "https://api.animeparadise.moe/stream/storage/RjjKLDoxx9Sdgm1",
-                        "quality": "360p",
-                        "videoUrl": "https://api.animeparadise.moe/stream/storage/RjjKLDoxx9Sdgm1",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Host": "api.animeparadise.moe",
-                            "Referer": "https://www.animeparadise.moe/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             }
         }
     }

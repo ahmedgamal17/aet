@@ -81,7 +81,7 @@
   },
   {
     "pkg": "ar.animeblkom",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.animeblkom.json"
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "pkg": "en.animeparadise",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animeparadise.json"
   },
   {
@@ -256,7 +256,7 @@
   },
   {
     "pkg": "en.dramacool",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.dramacool.json"
   },
   {
@@ -401,7 +401,7 @@
   },
   {
     "pkg": "en.slothanime",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.slothanime.json"
   },
   {
