@@ -7,6 +7,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/حب-بطئ/",
+                                "title": "حب بطئ Love Andante"
+                            },
+                            {
                                 "url": "/من-المحيط-سوف-أبدأ/",
                                 "title": "من المحيط سوف أبدأ Umi no Hajimari"
                             },
@@ -67,16 +71,16 @@
                                 "title": "فضيحة scandal"
                             },
                             {
-                                "url": "/الراكضة-اللطيفة/",
-                                "title": "الراكضة اللطيفة Lovely Runner"
-                            },
-                            {
                                 "url": "/تجرؤ-على-حبي/",
                                 "title": "تجرؤ على حبي Dare to Love Me"
                             },
                             {
                                 "url": "/رومانسية-منتصف-الليل-في-هاغوون/",
                                 "title": "رومانسية منتصف الليل في هاغوون The Midnight Romance In Hagwon"
+                            },
+                            {
+                                "url": "/الراكضة-اللطيفة/",
+                                "title": "الراكضة اللطيفة Lovely Runner"
                             },
                             {
                                 "url": "/إنها-مختلفة-ليلاً-ونهاراً/",
@@ -169,10 +173,6 @@
                             {
                                 "url": "/أغنية-قتال/",
                                 "title": "أغنية قتال Fight Song"
-                            },
-                            {
-                                "url": "/بيت-البومة/",
-                                "title": "بيت البومة House of the Owl"
                             }
                         ],
                         "hasNextPage": true
@@ -280,11 +280,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/من-المحيط-سوف-أبدأ/",
-                    "title": "من المحيط سوف أبدأ Umi no Hajimari",
-                    "description": "تدور قصة الدراما حول رجل أعزب يعمل في شركة طباعة في طوكيو، والذي يُفاجأ بخبر وفاة حبيبته السابقة أثناء دراستها بالجامعة. وقد طلبت الحبيبة السابقة منه الانفصال بشكل مفاجئ. يذهب الرجل لحضور جنازتها، وهناك يجد طفلة تدعى “أومي”، وتخبره والدة حبيبته المتوفاة أن الطفلة “أو Meguro-Ren : في دور Tsukioka Natsu Izutani-Rana : في دور Nagumo Umi Arimura-Kasumi : في دور Momose Yayoi Otake-Shinobu : في دور Nagumo Akane Riju-Go : في دور Nagumo Shohei Ikematsu-Sosuke : في دور Tsuno Haruaki",
-                    "genre": "كوريا الجنوبية, حياة, عائلي, ميلودراما",
-                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/08/5083213.jpg",
+                    "url": "/حب-بطئ/",
+                    "title": "حب بطئ Love Andante",
+                    "description": "تبدأ الدراما بتنفيذ مشروع قرية السلام في منطقة منزوعة السلاح في جوسونغ، بعد إعلان كوريا الجنوبية والشمالية نهاية الحرب التي استمرت لمدة 70 عامًا. Hwang-Seung-Eon : في دور Ha Na Kyung Im-Seul-Ong : في دور Im Joo Hyung Oh-Ha-Nee : في دور Kim Joo Hee Kwon-Hyun-Bin : في دور Lim Joo Hyung Song-Ji-Woo : في دور Hana Kyung Ki-Hyun-Woo : في دور Nam Kyung Hod",
+                    "genre": "كوريا الجنوبية, خيالي, رومانسي كوميدي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/08/fullsizephoto1856540.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -292,12 +292,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/من-المحيط-سوف-أبدأ-الحلقة-05/",
-                        "name": "05 : الحلقة"
+                        "url": "/حب-بطئ-الحلقة-02/",
+                        "name": "02 : الحلقة"
                     },
                     {
-                        "url": "/من-المحيط-سوف-أبدأ-الحلقة-04/",
-                        "name": "04 : الحلقة"
+                        "url": "/حب-بطئ-الحلقة-01/",
+                        "name": "01 : الحلقة"
                     }
                 ],
                 "passed": true
@@ -305,17 +305,34 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=YPMXKmoedPHBjr&expires=1723211744&ip=F0qQKRWZD19XKxR&token=AgB-Wld92xkZ",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=YPMXKmoedPHBjr&expires=1723211744&ip=F0qQKRWZD19XKxR&token=AgB-Wld92xkZ"
+                        "url": "https://ok6-3.vkuser.net/?expires=1723253848621&srcIp=4.227.115.130&pr=10&srcAg=GECKO&ms=95.142.206.130&type=5&sig=4beJamJITWQ&ct=0&urls=185.226.53.88%3B45.136.22.61&clientType=0&zs=43&id=6652993014494",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://ok6-3.vkuser.net/?expires=1723253848621&srcIp=4.227.115.130&pr=10&srcAg=GECKO&ms=95.142.206.130&type=5&sig=4beJamJITWQ&ct=0&urls=185.226.53.88%3B45.136.22.61&clientType=0&zs=43&id=6652993014494"
                     },
                     {
-                        "url": "https://m10.uqload.ws/3rfkvgxqtvw2q4drdlbpvjvmac2upoggaxl3dg5s6v7xf7rjfklmvyfbhtta/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m10.uqload.ws/3rfkvgxqtvw2q4drdlbpvjvmac2upoggaxl3dg5s6v7xf7rjfklmvyfbhtta/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
+                        "url": "https://ok6-3.vkuser.net/?expires=1723253848621&srcIp=4.227.115.130&pr=10&srcAg=GECKO&ms=95.142.206.130&type=3&sig=3GVtJAllSIo&ct=0&urls=185.226.53.88%3B45.136.22.61&clientType=0&zs=43&id=6652993014494",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-3.vkuser.net/?expires=1723253848621&srcIp=4.227.115.130&pr=10&srcAg=GECKO&ms=95.142.206.130&type=3&sig=3GVtJAllSIo&ct=0&urls=185.226.53.88%3B45.136.22.61&clientType=0&zs=43&id=6652993014494"
+                    },
+                    {
+                        "url": "https://ok6-3.vkuser.net/?expires=1723253848621&srcIp=4.227.115.130&pr=10&srcAg=GECKO&ms=95.142.206.130&type=2&sig=_zLv3jjISkc&ct=0&urls=185.226.53.88%3B45.136.22.61&clientType=0&zs=43&id=6652993014494",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-3.vkuser.net/?expires=1723253848621&srcIp=4.227.115.130&pr=10&srcAg=GECKO&ms=95.142.206.130&type=2&sig=_zLv3jjISkc&ct=0&urls=185.226.53.88%3B45.136.22.61&clientType=0&zs=43&id=6652993014494"
+                    },
+                    {
+                        "url": "https://ok6-3.vkuser.net/?expires=1723253848621&srcIp=4.227.115.130&pr=10&srcAg=GECKO&ms=95.142.206.130&type=1&sig=Obi1ke9j_EY&ct=0&urls=185.226.53.88%3B45.136.22.61&clientType=0&zs=43&id=6652993014494",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-3.vkuser.net/?expires=1723253848621&srcIp=4.227.115.130&pr=10&srcAg=GECKO&ms=95.142.206.130&type=1&sig=Obi1ke9j_EY&ct=0&urls=185.226.53.88%3B45.136.22.61&clientType=0&zs=43&id=6652993014494"
+                    },
+                    {
+                        "url": "https://ok6-3.vkuser.net/?expires=1723253848621&srcIp=4.227.115.130&pr=10&srcAg=GECKO&ms=95.142.206.130&type=0&sig=ivYxfve4T8Y&ct=0&urls=185.226.53.88%3B45.136.22.61&clientType=0&zs=43&id=6652993014494",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-3.vkuser.net/?expires=1723253848621&srcIp=4.227.115.130&pr=10&srcAg=GECKO&ms=95.142.206.130&type=0&sig=ivYxfve4T8Y&ct=0&urls=185.226.53.88%3B45.136.22.61&clientType=0&zs=43&id=6652993014494"
+                    },
+                    {
+                        "url": "https://ok6-3.vkuser.net/?expires=1723253848621&srcIp=4.227.115.130&pr=10&srcAg=GECKO&ms=95.142.206.130&type=4&sig=D-pwEOlY0QM&ct=0&urls=185.226.53.88%3B45.136.22.61&clientType=0&zs=43&id=6652993014494",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-3.vkuser.net/?expires=1723253848621&srcIp=4.227.115.130&pr=10&srcAg=GECKO&ms=95.142.206.130&type=4&sig=D-pwEOlY0QM&ct=0&urls=185.226.53.88%3B45.136.22.61&clientType=0&zs=43&id=6652993014494"
                     }
                 ],
                 "passed": true
