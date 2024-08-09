@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/drama-detail/cross-",
+                                "title": "Mission Cross (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/cross--1723170340.png"
+                            },
+                            {
                                 "url": "/drama-detail/queen-woo",
                                 "title": "Queen Woo (2024)",
                                 "thumbnail_url": "https://asianimg.pro/cover/queen-woo-1723083984.png"
@@ -180,11 +185,6 @@
                                 "url": "/drama-detail/pyramid-game",
                                 "title": "Pyramid Game (2024)",
                                 "thumbnail_url": "https://asianimg.pro/cover/pyramid-game-1706596703.png"
-                            },
-                            {
-                                "url": "/drama-detail/queen-of-tears",
-                                "title": "Queen of Tears (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/queen-of-tears-1709700390.png"
                             }
                         ],
                         "hasNextPage": true
@@ -196,6 +196,36 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/kimi-to-yukite-saku-shinsengumi-seishunroku-2024-episode-12.html",
+                                "title": "Kimi to Yukite Saku: Shinsengumi Seishunroku (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/kimi-to-yukite-saku-shinsengumi-seishunroku-1711089348.png"
+                            },
+                            {
+                                "url": "/ayaka-chan-wa-hiroko-senpai-ni-koishiteru-2024-episode-6.html",
+                                "title": "Ayaka-chan wa Hiroko-senpai ni Koishiteru (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/ayaka-chan-wa-hiroko-senpai-ni-koishiteru-2024-1719580986.png"
+                            },
+                            {
+                                "url": "/business-kon-suki-ni-nattara-rikonshimasu-2024-episode-8.html",
+                                "title": "Business Kon: Suki ni Nattara Rikonshimasu (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/business-kon-suki-ni-nattara-rikonshimasu-1716267485.png"
+                            },
+                            {
+                                "url": "/embrace-in-the-dark-night-2024-episode-10.html",
+                                "title": "Embrace in the Dark Night (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/embrace-in-the-dark-night-2024-1722926213.png"
+                            },
+                            {
+                                "url": "/dashing-youth-2024-episode-32.html",
+                                "title": "Dashing Youth (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/dashing-youth-2024-1721341406.png"
+                            },
+                            {
+                                "url": "/the-unexpected-marriage-2024-episode-17.html",
+                                "title": "The Unexpected Marriage (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/fu-yu-an-1722307786.png"
+                            },
                             {
                                 "url": "/my-secret-zone-2024-episode-5.html",
                                 "title": "My Secret Zone (2024)",
@@ -302,16 +332,6 @@
                                 "thumbnail_url": "https://asianimg.pro/cover/tanabata-no-kuni-2024-1719580042.png"
                             },
                             {
-                                "url": "/dashing-youth-2024-episode-31.html",
-                                "title": "Dashing Youth (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/dashing-youth-2024-1721341406.png"
-                            },
-                            {
-                                "url": "/embrace-in-the-dark-night-2024-episode-8.html",
-                                "title": "Embrace in the Dark Night (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/embrace-in-the-dark-night-2024-1722926213.png"
-                            },
-                            {
                                 "url": "/rojo-no-ruka-2024-episode-1.html",
                                 "title": "Rojo no Ruka (2024)",
                                 "thumbnail_url": "https://asianimg.pro/cover/rojo-no-ruka-2024-1723085256.png"
@@ -342,11 +362,6 @@
                                 "thumbnail_url": "https://asianimg.pro/cover/i-saw-you-in-my-dream-1720491191.png"
                             },
                             {
-                                "url": "/the-unexpected-marriage-2024-episode-15.html",
-                                "title": "The Unexpected Marriage (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/fu-yu-an-1722307786.png"
-                            },
-                            {
                                 "url": "/you-are-my-secret-2024-episode-15.html",
                                 "title": "You Are My Secret (2024)",
                                 "thumbnail_url": "https://asianimg.pro/cover/you-are-my-secret-2024-1722380396.png"
@@ -360,21 +375,6 @@
                                 "url": "/kamen-rider-gotchard-2023-episode-47.html",
                                 "title": "Kamen Rider Gotchard (2023)",
                                 "thumbnail_url": "https://asianimg.pro/cover/kamen-rider-gotchard-1691563915.png"
-                            },
-                            {
-                                "url": "/no-way-out-the-roulette-2024-episode-4.html",
-                                "title": "No Way Out: The Roulette (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/open-murder-contract-1720405656.png"
-                            },
-                            {
-                                "url": "/minami-kun-ga-koibito-2024-episode-3.html",
-                                "title": "Minami-kun ga Koibito?! (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/minami-kun-ga-koibito-2024-1720650749.png"
-                            },
-                            {
-                                "url": "/an-empty-dream-2024-episode-20.html",
-                                "title": "An Empty Dream (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/an-empty-dream-2024-1722320189.png"
                             }
                         ],
                         "hasNextPage": true
@@ -494,12 +494,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/drama-detail/queen-woo",
-                    "title": "Queen Woo (2024)",
-                    "author": "TVING",
-                    "description": "Woo Hui is the empress of Goguryeo. A crisis ensues when her husband, the king of Goguryeo, dies suddenly. Woo Hui becomes the target of princes and the 5 tribes who all want to gain more power. To protect her family and her tribe, she uses levirate marriage. She struggles to marry one of her late husband's younger brothers and set them upon the throne. Woo Hui has to accomplish everything within 24 hours.\n(Source: AsianWiki)",
-                    "genre": "Action, Biography, Historical, melodrama, Miniseries, political, Power Struggle",
-                    "thumbnail_url": "https://asianimg.pro/cover/queen-woo-1723083984.png",
+                    "url": "/drama-detail/cross-",
+                    "title": "Mission Cross (2024)",
+                    "author": "Netflix",
+                    "description": "A man leaving his past behind and living as a househusband is chased by his wife for his secret life!\nA hardworking househusband and a former special forces officer Kang Moo is hiding his past from his wife Mi Sun who is a violent crime detective. One day, a mysterious woman, Hee Joo appears to Kang Moo and Mi Sun assumes that his husband is having an affair. Mi Sun is after Kang Moo and Kang Moo is after something else. It eventually leads both of them to unexpected situations! Kang Moo can no longer be a peaceful househusband after all...!\n(Source: HanCinema)",
+                    "genre": "Drama",
+                    "thumbnail_url": "https://asianimg.pro/cover/cross--1723170340.png",
                     "initialized": true
                 },
                 "passed": true
