@@ -3,23 +3,32 @@
         "name": "Aniwave (EN)",
         "results": {
             "popular": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
+            },
+            "latest": {
                 "result": [
                     {
                         "animes": [
                             {
-                                "url": "/watch/one-piece.x3ln",
-                                "title": "ONE PIECE",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/1/1b/1bb2150e9529b52995336d38e74e94b6.jpg"
+                                "url": "/watch/cardfight-vanguard-d-series-season-7.qqvon",
+                                "title": "CARDFIGHT!! VANGUARD Divinez Season 2",
+                                "thumbnail_url": "https://static.aniwave.to/71/i/6/6e/be53534a201fedaf778348947a70479e.jpg"
                             },
                             {
-                                "url": "/watch/rezero-kara-hajimeru-isekai-seikatsu-3rd-season.lpnp9",
-                                "title": "Re:ZERO -Starting Life in Another World- Season 3",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/e/eb/ebe27bf72477fd938b2a7ac77a148d11.jpg"
+                                "url": "/watch/yugioh-go-rush.oyp5z",
+                                "title": "Yu☆Gi☆Oh! Go Rush!!",
+                                "thumbnail_url": "https://static.aniwave.to/71/i/b/bd/bdc140e8ab536c269759a14923fce257.jpg"
                             },
                             {
-                                "url": "/watch/hazure-waku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made.lp3dr",
-                                "title": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/e/e7/78d5beee06025c204b4f6edf6bc34a1a.jpg"
+                                "url": "/watch/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-2nd-season-part-2.76l1",
+                                "title": "The Misfit of Demon King Academy II (Cour 2)",
+                                "thumbnail_url": "https://static.aniwave.to/71/i/1/1f/f86feea8acd01f07f7b483920ce0c95c.jpg"
+                            },
+                            {
+                                "url": "/watch/mahouka-koukou-no-rettousei-3.88gp9",
+                                "title": "The Irregular at Magic High School Season 3",
+                                "thumbnail_url": "https://static.aniwave.to/71/i/6/69/40775999616ba538de381fa6e1e03939.jpg"
                             },
                             {
                                 "url": "/watch/tensei-shitara-slime-datta-ken-3rd-season.dd3e3",
@@ -27,14 +36,14 @@
                                 "thumbnail_url": "https://static.aniwave.to/71/i/4/44/16e33c7b7271c6e4cbdb4340fb27186b.jpg"
                             },
                             {
-                                "url": "/watch/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai.e58rp",
-                                "title": "I Parry Everything",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/d/d1/0c618f34f28941bc61c46d3d908b7e3a.jpg"
+                                "url": "/watch/kono-sekai-wa-fukanzen-sugiru.ve6ek",
+                                "title": "Quality Assurance in Another World",
+                                "thumbnail_url": "https://static.aniwave.to/71/i/2/23/c03fc9f80e8496e58c5190ef32f50c92.jpg"
                             },
                             {
-                                "url": "/watch/25-jigen-no-ririsa.4dozd",
-                                "title": "2.5 Dimensional Seduction",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/b/b6/e02cfd5ec8a840625aeaf5e2b812f163.jpg"
+                                "url": "/watch/nierautomata-ver11a-part-2.pde5y",
+                                "title": "NieR:Automata Ver1.1a Cour 2",
+                                "thumbnail_url": "https://static.aniwave.to/71/i/8/8e/3a6f367107bae1fb746c39604b3d85f8.jpg"
                             },
                             {
                                 "url": "/watch/bye-bye-earth.691ok",
@@ -42,130 +51,10 @@
                                 "thumbnail_url": "https://static.aniwave.to/71/i/c/cb/a427ebe892d37bcb391c689d32e047a3.jpg"
                             },
                             {
-                                "url": "/watch/boku-no-hero-academia-7.m69vo",
-                                "title": "My Hero Academia Season 7",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/4/4e/9f0e7b6babcb6c4427b7a2f0ba814910.jpg"
+                                "url": "/watch/pretty-series-shinsaku-provisional-title.1o086",
+                                "title": "Himitsu no AiPri",
+                                "thumbnail_url": "https://static.aniwave.to/71/i/4/47/4c89921eff7572bca34d282fee9a97de.jpg"
                             },
-                            {
-                                "url": "/watch/tokidoki-bosotto-russiago-de-dereru-tonari-no-alya-san.qq5gn",
-                                "title": "Alya Sometimes Hides Her Feelings in Russian",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/b/ba/82964ffdc9e64d06d5d2262f610c0862.jpg"
-                            },
-                            {
-                                "url": "/watch/naruto-shippuden.xmkn",
-                                "title": "Naruto: Shippuden",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/2018/04/ef7eece108cfbe794eb505dc983f7fe4.jpg"
-                            },
-                            {
-                                "url": "/watch/dandadan.vendo",
-                                "title": "DAN DA DAN",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/7/73/17b62b39de369500e157934d355b6fab.jpg"
-                            },
-                            {
-                                "url": "/watch/bleach.jv3o",
-                                "title": "Bleach",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/e/e4/e41a915c3f2b1114ec093e7fc3b1442a.jpg"
-                            },
-                            {
-                                "url": "/watch/kimetsu-no-yaiba-hashira-geiko-hen.yr6q9",
-                                "title": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/1/11/f8afece6eff312ce165e22779b894708.jpg"
-                            },
-                            {
-                                "url": "/watch/oshi-no-ko-season-2.95mn6",
-                                "title": "Oshi no Ko Season 2",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/9/94/8cce06a58021a38ee6a3964340206741.jpg"
-                            },
-                            {
-                                "url": "/watch/black-clover.k0qr",
-                                "title": "Black Clover",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/2018/05/4c127405d9fa8f78a9d86052721cbefe.jpg"
-                            },
-                            {
-                                "url": "/watch/jujutsu-kaisen-2nd-season.qqo5o",
-                                "title": "JUJUTSU KAISEN Season 2",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/c/c2/c2c8b3ae50a1b5e71d792ce9cff52431.jpg"
-                            },
-                            {
-                                "url": "/watch/kami-no-tou-2nd-season.4d3ek",
-                                "title": "Tower of God Season 2",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/5/50/40a62a3208f523ccf0fa2bf7fba3ec70.jpg"
-                            },
-                            {
-                                "url": "/watch/rezero-starting-life-in-another-world.pd7z",
-                                "title": "Re:ZERO -Starting Life in Another World-",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/2018/01/34b7836dd70e8a10fb9a4d8e09e69744.jpg"
-                            },
-                            {
-                                "url": "/watch/naruto.e8rp",
-                                "title": "Naruto",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/2018/04/5a2a03c631d274622451643db250cf07.jpg"
-                            },
-                            {
-                                "url": "/watch/maou-gun-saikyou-no-majutsushi-wa-ningen-datta.gmp7r",
-                                "title": "The Strongest Magician in the Demon Lord's Army was a Human",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/0/09/3c3913349a1c9a8e87eb7c8e8e5b56aa.jpg"
-                            },
-                            {
-                                "url": "/watch/tsue-to-tsurugi-no-wistoria.gmp5n",
-                                "title": "Wistoria: Wand and Sword",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/1/1d/fea3de97c99f98f2f54673c51d7b2366.jpg"
-                            },
-                            {
-                                "url": "/watch/no-longer-humanin-another-world.oye9p",
-                                "title": "No Longer Allowed in Another World",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/8/89/1aa2f522b2013f36fa9424ca4da28af9.jpg"
-                            },
-                            {
-                                "url": "/watch/tensei-shitara-slime-datta-ken-kanwa-luminous-memories.69dp0",
-                                "title": "Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/7/7b/92773139643624e6f9e8c6e08f507e7c.jpg"
-                            },
-                            {
-                                "url": "/watch/jujutsu-kaisen.16dn",
-                                "title": "JUJUTSU KAISEN",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/6/69/69243987e9a44f1090062f56c213fce0.jpg"
-                            },
-                            {
-                                "url": "/watch/code-geass-dakkan-no-z.ez9l",
-                                "title": "Code Geass: Rozé of the Recapture",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/b/b7/5a575a38afefb72fbef260b2c5cab50c.jpg"
-                            },
-                            {
-                                "url": "/watch/gimai-seikatsu.gmrqr",
-                                "title": "Days with My Stepsister",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/d/dd/dd67c6c2ee169aac89ff8662dfffb0c8.jpg"
-                            },
-                            {
-                                "url": "/watch/demon-slayer-kimetsu-no-yaiba.vl9k",
-                                "title": "Demon Slayer: Kimetsu no Yaiba",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/2019/04/961fbb823be55a3f4310c7cc944ec585.jpg"
-                            },
-                            {
-                                "url": "/watch/attack-on-titan.2lpp",
-                                "title": "Attack on Titan",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/2018/04/a18b33f4d7af9d4ab1a3b0b7ec49c323.jpg"
-                            },
-                            {
-                                "url": "/watch/hunter-x-hunter-2011.x7mz",
-                                "title": "Hunter x Hunter (2011)",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/2018/04/a027cea51dd4df76c70ebf8ea93a8d75.jpg"
-                            },
-                            {
-                                "url": "/watch/kono-sekai-wa-fukanzen-sugiru.ve6ek",
-                                "title": "Quality Assurance in Another World",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/2/23/c03fc9f80e8496e58c5190ef32f50c92.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
-            },
-            "latest": {
-                "result": [
-                    {
-                        "animes": [
                             {
                                 "url": "/watch/dungeon-no-naka-no-hito.pde1y",
                                 "title": "Dungeon People",
@@ -182,19 +71,9 @@
                                 "thumbnail_url": "https://static.aniwave.to/71/i/7/7b/92773139643624e6f9e8c6e08f507e7c.jpg"
                             },
                             {
-                                "url": "/watch/nierautomata-ver11a-part-2.pde5y",
-                                "title": "NieR:Automata Ver1.1a Cour 2",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/8/8e/3a6f367107bae1fb746c39604b3d85f8.jpg"
-                            },
-                            {
                                 "url": "/watch/25-jigen-no-ririsa.4dozd",
                                 "title": "2.5 Dimensional Seduction",
                                 "thumbnail_url": "https://static.aniwave.to/71/i/b/b6/e02cfd5ec8a840625aeaf5e2b812f163.jpg"
-                            },
-                            {
-                                "url": "/watch/bye-bye-earth.691ok",
-                                "title": "Bye Bye, Earth",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/c/cb/a427ebe892d37bcb391c689d32e047a3.jpg"
                             },
                             {
                                 "url": "/watch/rezero-kara-hajimeru-isekai-seikatsu-3rd-season.lpnp9",
@@ -220,11 +99,6 @@
                                 "url": "/watch/dead-dead-demons-dededededestruction-zenshou.1o1oz",
                                 "title": "DEAD DEAD DEMONS DEDEDEDE DESTRUCTION",
                                 "thumbnail_url": "https://static.aniwave.to/71/i/5/59/0ad38151cb33b62a0b14c6eec625394f.jpg"
-                            },
-                            {
-                                "url": "/watch/kono-sekai-wa-fukanzen-sugiru.ve6ek",
-                                "title": "Quality Assurance in Another World",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/2/23/c03fc9f80e8496e58c5190ef32f50c92.jpg"
                             },
                             {
                                 "url": "/watch/tasogare-outfocus.npvln",
@@ -285,36 +159,6 @@
                                 "url": "/watch/zhe-tian.qq3m8",
                                 "title": "Shrouding the Heavens",
                                 "thumbnail_url": "https://static.aniwave.to/71/i/6/69/95de31dd0df4440d55590f0f6684944d.jpg"
-                            },
-                            {
-                                "url": "/watch/wushen-zhuzai-da-wei-pian.z6805",
-                                "title": "Wushen Zhuzai: Da Wei Pian",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/8/8c/8c04d1138a1af765a4e428aefa989380.jpg"
-                            },
-                            {
-                                "url": "/watch/wan-jie-duzun-2.4d364",
-                                "title": "Ten Thousand Worlds",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/5/56/562a120ae1734f586c19de72aea51982.jpg"
-                            },
-                            {
-                                "url": "/watch/tunshi-xingkong-4.0pl8e",
-                                "title": "Swallowed Star 4",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/f/f2/f2de85e5351a167bc5a5782e51e04076.jpg"
-                            },
-                            {
-                                "url": "/watch/shaonian-bai-ma-zui-chun-feng-2nd-season.7n3kr",
-                                "title": "The Young Brewmaster's Adventure 2nd Season",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/1/1e/68e9bafabeebe28599697b2f6b29fad8.jpg"
-                            },
-                            {
-                                "url": "/watch/yao-shen-ji-6.rzo3z",
-                                "title": "Tales of Demons and Gods Season 7",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/7/7d/61207d14b4e1a035ae90dfb5147abebb.jpg"
-                            },
-                            {
-                                "url": "/watch/ling-jian-zun-4.y769",
-                                "title": "Ling Jian Zun 4",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/2/2a/2a4ed26f7e58c3aca8f9c4c052bb84c3.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -484,11 +328,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/one-piece.x3ln",
-                    "title": "ONE PIECE",
-                    "author": "Toei Animation",
-                    "description": "Barely surviving in a barrel after passing through a terrible whirlpool at sea, carefree Monkey D. Luffy ends up aboard a ship under attack by fearsome pirates. Despite being a naive-looking teenager, he is not to be underestimated. Unmatched in battle, Luffy is a pirate himself who resolutely pursues the coveted One Piece treasure and the King of the Pirates title that comes with it. The late King of the Pirates, Gol D. Roger, stirred up the world before his death by disclosing the whereabouts of his hoard of riches and daring everyone to obtain it. Ever since then, countless powerful pirates have sailed dangerous seas for the prized One Piece only to never return. Although Luffy lacks a crew and a proper ship, he is endowed with a superhuman ability and an unbreakable spirit that make him not only a formidable adversary but also an inspiration to many. As he faces numerous challenges with a big smile on his face, Luffy gathers one-of-a-kind companions to join him in his ambitious endeavor, together embracing perils and wonders on their once-in-a-lifetime adventure.\n\nOther name(s): ONE PIECE",
-                    "genre": "Action, Adventure, Comedy, Drama, Fantasy, Shounen, Super Power",
+                    "url": "/watch/cardfight-vanguard-d-series-season-7.qqvon",
+                    "title": "CARDFIGHT!! VANGUARD Divinez Season 2",
+                    "author": "Kinema Citrus GIFTanimation Studio Jemi",
+                    "description": "Through his victory with Vanguard at the Fated Clash, Akina has his wish for the health of his sister Hikari fulfilled. Gabwelius, who assembled the owners of the Fated One cards, reveals the truth behind the Fated Clash. Another plush toy Sybilt has appeared as well, gathering the 6 owners of Destined One cards, and announcing the start of the “Destined Showdown” where the winner can have their wish fulfilled. Thus begins the fierce bout where motives and intentions cross, of Fate vs Destiny!\n\nOther name(s): Cardfight!! Vanguard: Divinez Season 2",
+                    "genre": "Action, Adventure",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -496,7 +340,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 23: Expected string literal but 'null' literal was found at path: $.result\nUse 'coerceInputValues = true' in 'Json {}' builder to coerce nulls to default values.\nJSON input: {\"status\":403,\"result\":null,\"message\":\"Request is invalid.\",\"messages\":[\"Request is invalid.\"]}",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "videos": {
