@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "KtzAempLzbL0cusC",
+                                "title": "Sabage-bu! Specials",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/KtzAempLzbL0cusC"
+                            },
+                            {
+                                "url": "a13BwtIQyK6cJzRq",
+                                "title": "Sabage-bu!",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/a13BwtIQyK6cJzRq"
+                            },
+                            {
                                 "url": "JBF453xkFYTvfElv",
                                 "title": "Shoushimin Series",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/JBF453xkFYTvfElv"
@@ -95,16 +105,6 @@
                                 "url": "iIp5feNrFjxu6iAN",
                                 "title": "Shinkalion: Change the World",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/iIp5feNrFjxu6iAN"
-                            },
-                            {
-                                "url": "E5QPb6ajWzZL5ZYz",
-                                "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/E5QPb6ajWzZL5ZYz"
-                            },
-                            {
-                                "url": "leFi5YKvkIUcO0dt",
-                                "title": "Megami no Café Terrace 2nd Season",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/leFi5YKvkIUcO0dt"
                             }
                         ],
                         "hasNextPage": true
@@ -299,14 +299,14 @@
             },
             "details": {
                 "result": {
-                    "url": "JBF453xkFYTvfElv",
-                    "title": "Shoushimin Series",
-                    "author": "Lapin Track",
-                    "description": "\"Let's help each other and aim to become perfect ordinary citizens.\"\n\nKobato, who once had a bitter experience through deduction activities known as \"wisdom work,\" was determined to become an honest and humble citizen. He secretly formed a reciprocal relationship with his classmate, Osanai, who shared the same aspiration, planning to make their high school debut as ordinary citizens and lead peaceful days. However, for some reason, mysterious incidents and misfortunes keep coming one after another into their school lives. Will Kobato and Osanai be able to achieve peaceful days as ordinary citizens?\n\n(Source: MAL News)",
-                    "genre": "Mystery, School",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/JBF453xkFYTvfElv",
+                    "url": "KtzAempLzbL0cusC",
+                    "title": "Sabage-bu! Specials",
+                    "author": "Pierrot Plus",
+                    "description": "Short specials bundled with the volumes 1 to 6 of the Blu-ray releases of Sabagebu!",
+                    "genre": "Action, CGDCT, Comedy, School, Shoujo",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/KtzAempLzbL0cusC",
                     "initialized": true
                 },
                 "passed": true
@@ -314,14 +314,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "JBF453xkFYTvfElv/video/5",
-                        "name": "Episode 5: Berliner Mystery",
-                        "episode_number": 5.0
+                        "url": "KtzAempLzbL0cusC/video/6",
+                        "name": "Episode 6: King's Game!",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "JBF453xkFYTvfElv/video/4",
-                        "name": "Episode 4: Mind of a Lone Wolf",
-                        "episode_number": 4.0
+                        "url": "KtzAempLzbL0cusC/video/5",
+                        "name": "Episode 5: Return of the Saba Shorts",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -329,49 +329,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/JBF453xkFYTvfElv/5/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/KtzAempLzbL0cusC/6/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/JBF453xkFYTvfElv/5/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/KtzAempLzbL0cusC/6/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/JBF453xkFYTvfElv/en-US/5",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/KtzAempLzbL0cusC/en-US/6",
                                 "lang": "English"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/JBF453xkFYTvfElv/ru-RU/5",
-                                "lang": "Русский"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/JBF453xkFYTvfElv/pt-BR/5",
-                                "lang": "Português (Brasil)"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/JBF453xkFYTvfElv/it-IT/5",
-                                "lang": "Italiano"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/JBF453xkFYTvfElv/fr-FR/5",
-                                "lang": "Français"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/JBF453xkFYTvfElv/es-LA/5",
-                                "lang": "Español"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/JBF453xkFYTvfElv/es-ES/5",
-                                "lang": "Español (Spain)"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/JBF453xkFYTvfElv/de-DE/5",
-                                "lang": "Deutsch"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/JBF453xkFYTvfElv/ar-ME/5",
-                                "lang": "العربية"
                             }
                         ]
                     }
