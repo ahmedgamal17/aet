@@ -77,6 +77,56 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/immortality-4th-season",
+                                "title": "Immortality 4th Season",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12165.png"
+                            },
+                            {
+                                "url": "/anime/nian-wushuang",
+                                "title": "Nian Wushuang",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12177.png"
+                            },
+                            {
+                                "url": "/anime/slay-the-gods",
+                                "title": "Slay the Gods",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12176.png"
+                            },
+                            {
+                                "url": "/anime/theatre-of-darkness-yamishibai-13",
+                                "title": "Theatre of Darkness: Yamishibai 13",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12144.png"
+                            },
+                            {
+                                "url": "/anime/fairy-tail-100-years-quest",
+                                "title": "FAIRY TAIL 100 YEARS QUEST",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12143.png"
+                            },
+                            {
+                                "url": "/anime/keyboard-immortal",
+                                "title": "Keyboard Immortal",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12166.png"
+                            },
+                            {
+                                "url": "/anime/cardfight-vanguard-divinez-season-2",
+                                "title": "CARDFIGHT!! VANGUARD Divinez Season 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12142.png"
+                            },
+                            {
+                                "url": "/anime/back-to-the-great-ming",
+                                "title": "Back to the Great Ming",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12141.png"
+                            },
+                            {
+                                "url": "/anime/apotheosis-2",
+                                "title": "Apotheosis 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12148.png"
+                            },
+                            {
+                                "url": "/anime/glorious-revenge-of-ye-feng-season-2",
+                                "title": "Glorious Revenge of Ye Feng Season 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12154.png"
+                            },
+                            {
                                 "url": "/anime/big-brother-2",
                                 "title": "Big Brother 2",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12137.png"
@@ -85,56 +135,6 @@
                                 "url": "/anime/perfect-world-4",
                                 "title": "Perfect World 4",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12146.png"
-                            },
-                            {
-                                "url": "/anime/the-peak-of-true-martial-arts-3",
-                                "title": "The Peak of True Martial Arts 3",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12145.png"
-                            },
-                            {
-                                "url": "/anime/the-sovereigns-ascension",
-                                "title": "The Sovereign's Ascension",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12175.png"
-                            },
-                            {
-                                "url": "/anime/the-young-brewmasters-adventure-2nd-season",
-                                "title": "The Young Brewmaster's Adventure 2nd Season",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12136.png"
-                            },
-                            {
-                                "url": "/anime/wushen-zhuzai-da-wei-pian",
-                                "title": "Wushen Zhuzai: Da Wei Pian",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12152.png"
-                            },
-                            {
-                                "url": "/anime/days-with-my-stepsister",
-                                "title": "Days with My Stepsister",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12158.png"
-                            },
-                            {
-                                "url": "/anime/ramen-akaneko",
-                                "title": "Ramen Akaneko",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12156.png"
-                            },
-                            {
-                                "url": "/anime/ninjala-the-animation",
-                                "title": "Ninjala the Animation",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12162.png"
-                            },
-                            {
-                                "url": "/anime/tensei-shitara-slime-datta-ken-kanwa-luminous-memories",
-                                "title": "Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12174.png"
-                            },
-                            {
-                                "url": "/anime/run-for-money-the-great-mission",
-                                "title": "Run For Money: The Great Mission",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12150.png"
-                            },
-                            {
-                                "url": "/anime/sengoku-youko-the-thousandfold-chaos-arc",
-                                "title": "Sengoku Youko: The Thousandfold Chaos Arc",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12160.png"
                             }
                         ],
                         "hasNextPage": true
@@ -254,19 +254,28 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/RFV4TTBsdzF6NVc2ZFRWSm1QUDJMQmxiVlB6SDlodEF3b0pVSENWMlpYYmhQdHdyVklJWGpiYVc0RXdQdG1qenpoT0tMeGNLWnBMYTg5TnIraHBXQy9Fd25wTzJpMy9JMFRsdDEzc3J3ZkZJQVdZbnBnMjY4cG4xRUQ0K2xjL1A6Otn1M+ez4fGj6pcy0BX8nq8=",
+                        "name": "Episode 3"
+                    },
+                    {
+                        "url": "/player/Y3ZsOWNpSGpYVklFd2YrM3pZSEtsOFVWNWxmbVU4dUpmUjdGY1dkaWNOcG45WFhRRW1CTGxtTmRzYm1aU2V6M2hJQ2tUQTVqeGdjTzVCVTFjRk55aThTbFpjY2hqV1U5TEcwM0FXaDkvT05HSEp3MEtLL0RPRGY1RkFIaXFUZkI6OjmaURO37Zq4aCT3b8iNqqc=",
+                        "name": "Episode 2"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=Ux0JIy7yuTuq8H5VcS1DvA%3D%3D",
+                        "url": "https://slothanime.com/player-url/RFV4TTBsdzF6NVc2ZFRWSm1QUDJMQmxiVlB6SDlodEF3b0pVSENWMlpYYmhQdHdyVklJWGpiYVc0RXdQdG1qenpoT0tMeGNLWnBMYTg5TnIraHBXQy9Fd25wTzJpMy9JMFRsdDEzc3J3ZkZJQVdZbnBnMjY4cG4xRUQ0K2xjL1A6Otn1M+ez4fGj6pcy0BX8nq8=?vrf=ZhkHPx4bmX9z2M3cs6smQQ%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=Ux0JIy7yuTuq8H5VcS1DvA%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/RFV4TTBsdzF6NVc2ZFRWSm1QUDJMQmxiVlB6SDlodEF3b0pVSENWMlpYYmhQdHdyVklJWGpiYVc0RXdQdG1qenpoT0tMeGNLWnBMYTg5TnIraHBXQy9Fd25wTzJpMy9JMFRsdDEzc3J3ZkZJQVdZbnBnMjY4cG4xRUQ0K2xjL1A6Otn1M+ez4fGj6pcy0BX8nq8=?vrf=ZhkHPx4bmX9z2M3cs6smQQ%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/RFV4TTBsdzF6NVc2ZFRWSm1QUDJMQmxiVlB6SDlodEF3b0pVSENWMlpYYmhQdHdyVklJWGpiYVc0RXdQdG1qenpoT0tMeGNLWnBMYTg5TnIraHBXQy9Fd25wTzJpMy9JMFRsdDEzc3J3ZkZJQVdZbnBnMjY4cG4xRUQ0K2xjL1A6Otn1M+ez4fGj6pcy0BX8nq8="
                         }
                     }
                 ],

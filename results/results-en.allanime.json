@@ -42,9 +42,9 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162804-TBeptcAfvqTd.jpg"
                             },
                             {
-                                "url": "M3iES4TqWyp6YLPQJ<&sep><&sep>isekai-shikkaku",
-                                "title": "Isekai Shikkaku",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152137-DOCIkAiaWALu.jpg"
+                                "url": "vbr4nDimxwKrNzbWg<&sep><&sep>kami-no-tou-ouji-no-kikan",
+                                "title": "Kami no Tou: Ouji no Kikan",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153406-dU2RLKgMUF2U.jpg"
                             },
                             {
                                 "url": "vDTSJHSpYnrkZnAvG<&sep><&sep>nato-shippuuden",
@@ -52,9 +52,9 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
                             },
                             {
-                                "url": "vbr4nDimxwKrNzbWg<&sep><&sep>kami-no-tou-ouji-no-kikan",
-                                "title": "Kami no Tou: Ouji no Kikan",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153406-dU2RLKgMUF2U.jpg"
+                                "url": "M3iES4TqWyp6YLPQJ<&sep><&sep>isekai-shikkaku",
+                                "title": "Isekai Shikkaku",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152137-DOCIkAiaWALu.jpg"
                             },
                             {
                                 "url": "cskJzx6rseAgcGcAe<&sep><&sep>boku-no-hero-academia-7th-season",
@@ -117,14 +117,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg"
                             },
                             {
-                                "url": "9baNLXs8eEENdWtDs<&sep><&sep>fairy-tail",
-                                "title": "Fairy Tail",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6702-4cW6E5AqQqqB.png"
-                            },
-                            {
                                 "url": "edPKR5wfPHapavFQQ<&sep><&sep>fairy-tail-100-nen-quest",
                                 "title": "Fairy Tail: 100-nen Quest",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139095-xXcToL6L4vuv.jpg"
+                            },
+                            {
+                                "url": "9baNLXs8eEENdWtDs<&sep><&sep>fairy-tail",
+                                "title": "Fairy Tail",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6702-4cW6E5AqQqqB.png"
                             },
                             {
                                 "url": "6v8MgBNsJQWGavdWz<&sep><&sep>make-heroine-ga-oosugiru-",
@@ -143,8 +143,144 @@
                 "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "jfr9ssEaetLsuZTF4<&sep><&sep>jian-yu-feng-yun-3",
+                                "title": "Jian Yu Feng Yun 3",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174715-PIRowicSKp2X.jpg"
+                            },
+                            {
+                                "url": "WyLENXHRBaWvwJbFL<&sep><&sep>xian-ni",
+                                "title": "Xian Ni",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137653-1wHbCVvABGOr.png"
+                            },
+                            {
+                                "url": "ZDxMfy9mmxEbjryKP<&sep><&sep>ni-tian-zhizun",
+                                "title": "Ni Tian Zhizun",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1099/117046.jpg"
+                            },
+                            {
+                                "url": "phZ8DNbvRKnxmhnwd<&sep><&sep>my-beloved-wife-is-actually-the-villain",
+                                "title": "My Beloved Wife Is Actually the Villain",
+                                "thumbnail_url": "https://gogocdn.net/cover/my-beloved-wife-is-actually-the-villain.png"
+                            },
+                            {
+                                "url": "6qEPZgnCodN2yEugp<&sep><&sep>i-really-don-t-want-to-be-a-fairy",
+                                "title": "I Really Don't Want to Be a Fairy",
+                                "thumbnail_url": "https://cdnimg.xyz/cover/i-really-dont-want-to-be-a-fairy.png"
+                            },
+                            {
+                                "url": "6GSAYAGKneAdCo3e2<&sep><&sep>disciples-say-i-m-invincible",
+                                "title": "Disciples Say I'm Invincible",
+                                "thumbnail_url": "https://gogocdn.net/cover/disciples-say-im-invincible.png"
+                            },
+                            {
+                                "url": "dyeJbCM8LBpE8u4PY<&sep><&sep>super-god-is-my-master",
+                                "title": "Super God is My Master",
+                                "thumbnail_url": "https://gogocdn.net/cover/super-god-is-my-master.png"
+                            },
+                            {
+                                "url": "onZWwWDDTRi44ZZYG<&sep><&sep>wo-tian-m-ng-da-fanpai-2",
+                                "title": "Wo! Tian Mìng Da Fanpai 2",
+                                "thumbnail_url": "https://gogocdn.net/cover/wo-tian-ming-da-fanpai-2.png"
+                            },
+                            {
+                                "url": "GFCNsvNQwFHfwLHTK<&sep><&sep>i-am-the-strongest-boss",
+                                "title": "I Am the Strongest Boss",
+                                "thumbnail_url": "https://gogocdn.net/cover/i-am-the-strongest-boss.png"
+                            },
+                            {
+                                "url": "C9eQr7DerCd2XhafF<&sep><&sep>immortals-are-slaves-gods-are-servants-and-the-emperor-is-a-watchdog",
+                                "title": "Immortals Are Slaves, Gods Are Servants, And the Emperor is a Watchdog",
+                                "thumbnail_url": "https://gogocdn.net/cover/immortals-are-slaves-gods-are-servants-and-the-emperor-is-a-watchdog.png"
+                            },
+                            {
+                                "url": "rZy2mrA8Jnq44fJXR<&sep><&sep>i-took-over-the-system-players",
+                                "title": "I Took Over the System Players",
+                                "thumbnail_url": "https://gogocdn.net/cover/i-took-over-the-system-players.png"
+                            },
+                            {
+                                "url": "gEsxGDCHyY4LKXnbL<&sep><&sep>my-seven-sisters-are-unparalleled",
+                                "title": "My Seven Sisters Are Unparalleled",
+                                "thumbnail_url": "https://gogocdn.net/cover/my-seven-sisters-are-unparalleled.png"
+                            },
+                            {
+                                "url": "fFBKmggdmsCRkSAzL<&sep><&sep>terror-hunter",
+                                "title": "Terror Hunter",
+                                "thumbnail_url": "https://gogocdn.net/cover/terror-hunter.png"
+                            },
+                            {
+                                "url": "F8w2RNBPseog2LphT<&sep><&sep>the-strongest-immortal-lord-chen-luoxuan",
+                                "title": "The Strongest Immortal Lord Chen Luoxuan",
+                                "thumbnail_url": "https://gogocdn.net/cover/the-strongest-immortal-lord-chen-luoxuan.png"
+                            },
+                            {
+                                "url": "c3u6FjsPri8P72ktr<&sep><&sep>i-m-stuck-on-the-same-day-for-a-thousand-years",
+                                "title": "I'm Stuck on the Same Day for a Thousand Years",
+                                "thumbnail_url": "https://gogocdn.net/cover/im-stuck-on-the-same-day-for-a-thousand-years.png"
+                            },
+                            {
+                                "url": "A4a3uwnedEZsrCYHt<&sep><&sep>the-frenzy-of-evolution",
+                                "title": "THE FRENZY OF EVOLUTION",
+                                "thumbnail_url": "https://gogocdn.net/cover/the-frenzy-of-evolution.png"
+                            },
+                            {
+                                "url": "6HfY2fsLGhtLv9tGX<&sep><&sep>i-am-the-monster-overlord",
+                                "title": "I Am the Monster Overlord",
+                                "thumbnail_url": "https://gogocdn.net/cover/i-am-the-monster-overlord.png"
+                            },
+                            {
+                                "url": "uwwvBujGRsjCQ8kKM<&sep><&sep>cong-gu-huo-niao-kaishi-long-cheng-fengyun",
+                                "title": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg"
+                            },
+                            {
+                                "url": "657gwR8WxZEF7c3on<&sep><&sep>my-wife-is-a-heavenly-big-shot",
+                                "title": "My Wife Is a Heavenly Big Shot",
+                                "thumbnail_url": "https://gogocdn.net/cover/my-wife-is-a-heavenly-big-shot.png"
+                            },
+                            {
+                                "url": "uAcLqrDzdyFFzG6Q2<&sep><&sep>i-was-invincible-long-ago",
+                                "title": "I was invincible long ago",
+                                "thumbnail_url": "https://gogocdn.net/cover/i-was-invincible-long-ago.png"
+                            },
+                            {
+                                "url": "4C7xJbApR6LHo9rd9<&sep><&sep>unparalleled-in-the-online-gaming-world",
+                                "title": "Unparalleled in the Online Gaming World",
+                                "thumbnail_url": "https://gogocdn.net/cover/unparalleled-in-the-online-gaming-world.png"
+                            },
+                            {
+                                "url": "e8zTqB3JwJXMc9Lsu<&sep><&sep>fanren-xiu-xian-chuan-season-3",
+                                "title": "Fanren Xiu Xian Chuan Season 3",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1716/140496.jpg"
+                            },
+                            {
+                                "url": "d8DiEpFr37soJeNcX<&sep><&sep>yami-shibai-13",
+                                "title": "Yami Shibai 13",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177922-0o3zOw8QXYvE.jpg"
+                            },
+                            {
+                                "url": "gNqtezWx6oKaanQEm<&sep><&sep>isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
+                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171031-7RJll3TJnVFA.jpg"
+                            },
+                            {
+                                "url": "LL3bLCEHKd7gPWYjE<&sep><&sep>getter-robo-go",
+                                "title": "Getter Robo Go",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5292-DLiutsWESCEr.jpg"
+                            },
+                            {
+                                "url": "cCCroE6RoAQ98cbPy<&sep><&sep>na-nare-hana-nare",
+                                "title": "Na Nare Hana Nare",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170891-Bhxn5y4a86Q0.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -316,18 +452,6 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www119.anicdnstream.info/videos/hls/0dINguVCiHxMfA7rECEQ2w/1723458323/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.1080.m3u8",
-                        "quality": "1080p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/0dINguVCiHxMfA7rECEQ2w/1723458323/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.1080.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.anicdnstream.info",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
                         "url": "https://www119.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1115.1723344022.1080.m3u8",
                         "quality": "1080p (internal Luf-mp4 - hls P)",
                         "videoUrl": "https://www119.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1115.1723344022.1080.m3u8",
@@ -340,33 +464,9 @@
                         }
                     },
                     {
-                        "url": "https://www119.anicdnstream.info/videos/hls/0dINguVCiHxMfA7rECEQ2w/1723458323/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.720.m3u8",
-                        "quality": "720p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/0dINguVCiHxMfA7rECEQ2w/1723458323/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.720.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.anicdnstream.info",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.anicdnstream.info/videos/hls/0dINguVCiHxMfA7rECEQ2w/1723458323/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.480.m3u8",
-                        "quality": "480p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/0dINguVCiHxMfA7rECEQ2w/1723458323/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.480.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.anicdnstream.info",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.anicdnstream.info/videos/hls/0dINguVCiHxMfA7rECEQ2w/1723458323/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.360.m3u8",
-                        "quality": "360p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/0dINguVCiHxMfA7rECEQ2w/1723458323/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.360.m3u8",
+                        "url": "https://www119.anicdnstream.info/videos/hls/fUaNecUPw3cDFuXSvdTXcw/1723480893/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.1080.m3u8",
+                        "quality": "1080p (internal Luf-mp4 - HLS1)",
+                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/fUaNecUPw3cDFuXSvdTXcw/1723480893/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -407,6 +507,42 @@
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Host": "www119.vipanicdn.net",
+                            "Origin": "https://allanime.day",
+                            "Referer": "https://allanime.day/"
+                        }
+                    },
+                    {
+                        "url": "https://www119.anicdnstream.info/videos/hls/fUaNecUPw3cDFuXSvdTXcw/1723480893/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.720.m3u8",
+                        "quality": "720p (internal Luf-mp4 - HLS1)",
+                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/fUaNecUPw3cDFuXSvdTXcw/1723480893/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Host": "www119.anicdnstream.info",
+                            "Origin": "https://allanime.day",
+                            "Referer": "https://allanime.day/"
+                        }
+                    },
+                    {
+                        "url": "https://www119.anicdnstream.info/videos/hls/fUaNecUPw3cDFuXSvdTXcw/1723480893/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.480.m3u8",
+                        "quality": "480p (internal Luf-mp4 - HLS1)",
+                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/fUaNecUPw3cDFuXSvdTXcw/1723480893/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Host": "www119.anicdnstream.info",
+                            "Origin": "https://allanime.day",
+                            "Referer": "https://allanime.day/"
+                        }
+                    },
+                    {
+                        "url": "https://www119.anicdnstream.info/videos/hls/fUaNecUPw3cDFuXSvdTXcw/1723480893/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.360.m3u8",
+                        "quality": "360p (internal Luf-mp4 - HLS1)",
+                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/fUaNecUPw3cDFuXSvdTXcw/1723480893/229639/0b594d900f47daabc194844092384914/ep.1115.1723344022.360.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Host": "www119.anicdnstream.info",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
