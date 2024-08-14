@@ -182,7 +182,7 @@
                                 "artist": "Steve Carell, Kristen Wiig, Will Ferrell, Sofía Vergara",
                                 "author": "Chris Renaud",
                                 "description": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
-                                "genre": "Animation, Kids & Family, Comedy, Action & Adventure, Crime, Science-Fiction",
+                                "genre": "Comedy, Action & Adventure, Animation, Kids & Family, Crime, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/317954832/s276/despicable-me-4-2024.webp",
                                 "initialized": true
                             },
@@ -262,7 +262,7 @@
                                 "artist": "Kirsten Dunst, Wagner Moura, Cailee Spaeny, Stephen McKinley Henderson",
                                 "author": "Alex Garland",
                                 "description": "A journey across a dystopian future America, following a team of military-embedded journalists as they race against time to reach DC before rebel factions descend upon the White House.",
-                                "genre": "Mystery & Thriller, Action & Adventure, Drama, War & Military",
+                                "genre": "Mystery & Thriller, Action & Adventure, War & Military, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/312434812/s276/civil-war-2024.webp",
                                 "initialized": true
                             },
@@ -342,7 +342,7 @@
                                 "artist": "Jeremy Renner, Hugh Dillon, Tobi Bamtefa, Taylor Handley",
                                 "author": "",
                                 "description": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain.",
-                                "genre": "Drama, Crime, Mystery & Thriller",
+                                "genre": "Drama, Mystery & Thriller, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/302475058/s276/mayor-of-kingstown.webp",
                                 "initialized": true
                             },
@@ -587,6 +587,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt2639756,SHOW,/us/tv-show/the-world-from-above",
+                                "title": "The World from Above",
+                                "artist": "Philippe Sollier, Richard Mervyn",
+                                "author": "",
+                                "description": "The World from Above is a unique continuing series of aerial programmes offering an entirely different view of the world. From 10,000ft, down to just a few feet the stabilised high definition aerial camera seeks out the beautiful, as well as the dramatic, on journeys across very different parts of the world including Europe, Africa and the United States.",
+                                "genre": "Documentary",
+                                "thumbnail_url": "https://images.justwatch.com/poster/318909896/s276/the-world-from-above.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt4219244,SHOW,/us/tv-show/world-break-aria-of-curse-for-a-holy-swordsman",
                                 "title": "World Break: Aria of Curse for a Holy Swordsman",
                                 "artist": "Aoi Yuki, Ayana Taketatsu, Kaito Ishikawa, Maaya Uchida",
@@ -604,16 +614,6 @@
                                 "description": "Delectable documentary chronicling bread's roots across cultures. Each episode unveils a staple loaf's origins, mirroring homelands' history and identity.",
                                 "genre": "Documentary",
                                 "thumbnail_url": "https://images.justwatch.com/poster/316454723/s276/world-eats-bread.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt2639756,SHOW,/us/tv-show/the-world-from-above",
-                                "title": "The World from Above",
-                                "artist": "Philippe Sollier, Richard Mervyn",
-                                "author": "",
-                                "description": "The World from Above is a unique continuing series of aerial programmes offering an entirely different view of the world. From 10,000ft, down to just a few feet the stabilised high definition aerial camera seeks out the beautiful, as well as the dramatic, on journeys across very different parts of the world including Europe, Africa and the United States.",
-                                "genre": "Documentary",
-                                "thumbnail_url": "https://images.justwatch.com/poster/318909896/s276/the-world-from-above.webp",
                                 "initialized": true
                             },
                             {
@@ -687,16 +687,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt9738716,MOVIE,/us/movie/the-world-to-come",
-                                "title": "The World to Come",
-                                "artist": "Katherine Waterston, Casey Affleck, Vanessa Kirby, Christopher Abbott",
-                                "author": "Mona Fastvold",
-                                "description": "In 1856, two women forge a close connection despite their isolation on the American frontier.",
-                                "genre": "Romance, Drama, Western, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/301898205/s276/the-world-to-come.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
                                 "title": "Jurassic World Dominion",
                                 "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
@@ -712,8 +702,18 @@
                                 "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
                                 "author": "Colin Trevorrow",
                                 "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-                                "genre": "Mystery & Thriller, Action & Adventure, Science-Fiction",
+                                "genre": "Science-Fiction, Mystery & Thriller, Action & Adventure",
                                 "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt9738716,MOVIE,/us/movie/the-world-to-come",
+                                "title": "The World to Come",
+                                "artist": "Katherine Waterston, Casey Affleck, Vanessa Kirby, Christopher Abbott",
+                                "author": "Mona Fastvold",
+                                "description": "In 1856, two women forge a close connection despite their isolation on the American frontier.",
+                                "genre": "Romance, Drama, Western, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/301898205/s276/the-world-to-come.webp",
                                 "initialized": true
                             },
                             {
@@ -744,6 +744,16 @@
                                 "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
                                 "genre": "Reality TV, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0103520,SHOW,/us/tv-show/the-real-world",
+                                "title": "The Real World",
+                                "artist": "",
+                                "author": "",
+                                "description": "Each year, seven strangers in their twenties, from different backgrounds and countries, are chosen to come live together in a major city.",
+                                "genre": "Reality TV, Comedy, Drama",
+                                "thumbnail_url": "https://images.justwatch.com/poster/267056478/s276/the-real-world.webp",
                                 "initialized": true
                             },
                             {
@@ -787,26 +797,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0103520,SHOW,/us/tv-show/the-real-world",
-                                "title": "The Real World",
-                                "artist": "",
-                                "author": "",
-                                "description": "Each year, seven strangers in their twenties, from different backgrounds and countries, are chosen to come live together in a major city.",
-                                "genre": "Reality TV, Comedy, Drama",
-                                "thumbnail_url": "https://images.justwatch.com/poster/267056478/s276/the-real-world.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt0412080,MOVIE,/us/movie/the-worlds-fastest-indian",
-                                "title": "The World's Fastest Indian",
-                                "artist": "Anthony Hopkins, Walton Goggins, Diane Ladd, Bruce Greenwood",
-                                "author": "Roger Donaldson",
-                                "description": "The life story of New Zealander Burt Munro, who spent years building a 1920 Indian motorcycle—a bike which helped him set the land-speed world record at Utah's Bonneville Salt Flats in 1967.",
-                                "genre": "History, Drama, Action & Adventure, Sport",
-                                "thumbnail_url": "https://images.justwatch.com/poster/301578498/s276/the-worlds-fastest-indian.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0070904,SHOW,/us/tv-show/world-on-a-wire",
                                 "title": "World on a Wire",
                                 "artist": "Klaus Löwitsch, Mascha Rabben, Karl-Heinz Vosgerau, Adrian Hoven",
@@ -814,6 +804,16 @@
                                 "description": "Cybernetics engineer Fred Stiller uncovers a massive corporate conspiracy involving a virtual reality computer project.",
                                 "genre": "Science-Fiction, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/248776527/s276/world-on-a-wire.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
+                                "title": "The World Wars",
+                                "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
+                                "author": "John Ealer",
+                                "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
+                                "genre": "War & Military, Documentary, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/306417970/s276/the-world-wars.webp",
                                 "initialized": true
                             }
                         ],
