@@ -12,7 +12,7 @@
                                 "artist": "Aidan Gallagher, Elliot Page, Tom Hopper, Emmy Raver-Lampman",
                                 "author": "",
                                 "description": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
-                                "genre": "Action & Adventure, Comedy, Drama, Fantasy, Science-Fiction",
+                                "genre": "Comedy, Drama, Fantasy, Science-Fiction, Action & Adventure",
                                 "thumbnail_url": "https://images.justwatch.com/poster/286305959/s276/the-umbrella-academy.webp",
                                 "initialized": true
                             },
@@ -182,7 +182,7 @@
                                 "artist": "Steve Carell, Kristen Wiig, Will Ferrell, Sofía Vergara",
                                 "author": "Chris Renaud",
                                 "description": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
-                                "genre": "Comedy, Action & Adventure, Animation, Kids & Family, Crime, Science-Fiction",
+                                "genre": "Animation, Kids & Family, Comedy, Action & Adventure, Crime, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/317954832/s276/despicable-me-4-2024.webp",
                                 "initialized": true
                             },
@@ -192,7 +192,7 @@
                                 "artist": "Karl Urban, Jack Quaid, Antony Starr, Erin Moriarty",
                                 "author": "",
                                 "description": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-                                "genre": "Science-Fiction, Action & Adventure, Comedy, Crime, Drama",
+                                "genre": "Science-Fiction, Action & Adventure, Crime, Drama, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/139452660/s276/the-boys.webp",
                                 "initialized": true
                             },
@@ -202,7 +202,7 @@
                                 "artist": "David Boreanaz, Neil Brown Jr., A.J. Buckley, Toni Trucks",
                                 "author": "",
                                 "description": "The lives of the elite Navy SEALs as they train, plan, and execute the most dangerous, high-stakes missions the United States of America can ask.",
-                                "genre": "Action & Adventure, Drama, War & Military",
+                                "genre": "War & Military, Action & Adventure, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/300729265/s276/seal-team.webp",
                                 "initialized": true
                             },
@@ -447,16 +447,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0363391,SHOW,/us/tv-show/world-poker-tour",
-                                "title": "World Poker Tour",
-                                "artist": "",
-                                "author": "",
-                                "description": "Poker players from around the world compete for large cash prizes",
-                                "genre": "Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/262158762/s276/world-poker-tour.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt3950102,SHOW,/us/tv-show/world-trigger",
                                 "title": "World Trigger",
                                 "artist": "Nao Tamura, Yuichi Nakamura, Tomo Muranaka, Yûki Kaji",
@@ -464,6 +454,16 @@
                                 "description": "A gate to another dimension has burst open, and from it emerge gigantic invincible creatures that threaten all of humanity. Earth's only defense is a mysterious group of warriors who have co-opted the alien technology in order to fight back!",
                                 "genre": "Animation, Action & Adventure, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/260841834/s276/world-trigger.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0363391,SHOW,/us/tv-show/world-poker-tour",
+                                "title": "World Poker Tour",
+                                "artist": "",
+                                "author": "",
+                                "description": "Poker players from around the world compete for large cash prizes",
+                                "genre": "Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/262158762/s276/world-poker-tour.webp",
                                 "initialized": true
                             },
                             {
@@ -522,18 +522,8 @@
                                 "artist": "Carole Baillien, Alice Ley, Esther Aflalo, Mélanie Dermont",
                                 "author": "",
                                 "description": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
-                                "genre": "Animation, Action & Adventure, Comedy, Kids & Family, Fantasy, Made in Europe",
+                                "genre": "Action & Adventure, Animation, Kids & Family, Fantasy, Comedy, Made in Europe",
                                 "thumbnail_url": "https://images.justwatch.com/poster/309927594/s276/world-of-winx.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt1262981,MOVIE,/us/movie/worlds-greatest-dad",
-                                "title": "World's Greatest Dad",
-                                "artist": "Robin Williams, Alexie Gilmore, Daryl Sabara, Evan Martin",
-                                "author": "Bobcat Goldthwait",
-                                "description": "In the wake of a freak accident, Lance suffers the worst tragedy and the greatest opportunity of his life. He is suddenly faced with the possibility of fame, fortune and popularity, if he can only live with the knowledge of how he got there.",
-                                "genre": "Romance, Drama, Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/261334509/s276/worlds-greatest-dad.webp",
                                 "initialized": true
                             },
                             {
@@ -544,6 +534,16 @@
                                 "description": "World War II In HD Colour is a 13-episode television documentary miniseries recounting the events of World War II narrated by Robert Powell. The show covers the Western Front, Eastern Front, and the Pacific War. It is on syndication in America on the Military Channel. This series is in full color, combining both original and colorized footage.",
                                 "genre": "Reality TV, War & Military, Documentary, History, Made in Europe",
                                 "thumbnail_url": "https://images.justwatch.com/poster/53556250/s276/world-war-ii-in-hd-colour.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt1262981,MOVIE,/us/movie/worlds-greatest-dad",
+                                "title": "World's Greatest Dad",
+                                "artist": "Robin Williams, Alexie Gilmore, Daryl Sabara, Evan Martin",
+                                "author": "Bobcat Goldthwait",
+                                "description": "In the wake of a freak accident, Lance suffers the worst tragedy and the greatest opportunity of his life. He is suddenly faced with the possibility of fame, fortune and popularity, if he can only live with the knowledge of how he got there.",
+                                "genre": "Romance, Drama, Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/261334509/s276/worlds-greatest-dad.webp",
                                 "initialized": true
                             },
                             {
@@ -582,7 +582,7 @@
                                 "artist": "Ryohei Arai, Azusa Tadokoro, Akari Uehara, Satomi Sato",
                                 "author": "",
                                 "description": "The fleeting and sad story about little girls known as fairy weapons and an associate hero that survived. This is a world after it was attacked by unidentified monsters known as beasts and many of the species in the world, including humans, had been destroyed. The species that had managed to survived left the ground and were living on a floating island called Regal Ele. Willem Kmetsch wakes up above the clouds 500 years later and couldn’t protect the ones who he wanted to protect. Actually, he was living in despair because he was the only survivor.",
-                                "genre": "Animation, Action & Adventure, Science-Fiction, Drama, Fantasy, Romance",
+                                "genre": "Action & Adventure, Science-Fiction, Drama, Animation, Fantasy, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/307402070/s276/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us.webp",
                                 "initialized": true
                             },
@@ -652,7 +652,7 @@
                                 "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
                                 "author": "",
                                 "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
-                                "genre": "Animation, Drama, Science-Fiction, Mystery & Thriller, Romance",
+                                "genre": "Science-Fiction, Mystery & Thriller, Animation, Drama, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/251915444/s276/worlds-end-harem.webp",
                                 "initialized": true
                             },
@@ -702,7 +702,7 @@
                                 "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
                                 "author": "Colin Trevorrow",
                                 "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-                                "genre": "Science-Fiction, Mystery & Thriller, Action & Adventure",
+                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
                                 "initialized": true
                             },
@@ -747,16 +747,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0103520,SHOW,/us/tv-show/the-real-world",
-                                "title": "The Real World",
-                                "artist": "",
-                                "author": "",
-                                "description": "Each year, seven strangers in their twenties, from different backgrounds and countries, are chosen to come live together in a major city.",
-                                "genre": "Reality TV, Comedy, Drama",
-                                "thumbnail_url": "https://images.justwatch.com/poster/267056478/s276/the-real-world.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt3909336,MOVIE,/us/movie/worlds-apart-2015",
                                 "title": "Worlds Apart",
                                 "artist": "J.K. Simmons, Maria Kavoyianni, Andrea Osvárt, Christopher Papakaliatis",
@@ -764,6 +754,16 @@
                                 "description": "Three separate narratives each following a love story between a foreigner and a Greek. Each story represents a different generation falling in love during a time of socioeconomic turmoil that dominates Southern Europe as a whole, only to connect as a single story in the end.",
                                 "genre": "Drama, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/45122637/s276/worlds-apart-2015.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0103520,SHOW,/us/tv-show/the-real-world",
+                                "title": "The Real World",
+                                "artist": "",
+                                "author": "",
+                                "description": "Each year, seven strangers in their twenties, from different backgrounds and countries, are chosen to come live together in a major city.",
+                                "genre": "Reality TV, Comedy, Drama",
+                                "thumbnail_url": "https://images.justwatch.com/poster/267056478/s276/the-real-world.webp",
                                 "initialized": true
                             },
                             {
@@ -829,7 +829,7 @@
                     "artist": "Aidan Gallagher, Elliot Page, Tom Hopper, Emmy Raver-Lampman",
                     "author": "",
                     "description": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
-                    "genre": "Action & Adventure, Comedy, Drama, Fantasy, Science-Fiction",
+                    "genre": "Comedy, Drama, Fantasy, Science-Fiction, Action & Adventure",
                     "thumbnail_url": "https://images.justwatch.com/poster/286305959/s718/the-umbrella-academy.webp",
                     "initialized": true
                 },
