@@ -117,9 +117,49 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/perfect-world/",
+                                "title": "Perfect World",
+                                "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2021/09/perfect-world.webp"
+                            },
+                            {
                                 "url": "/anime/jian-lai-sword-of-coming/",
                                 "title": "Jian Lai (Sword Of Coming)",
                                 "thumbnail_url": "https://i0.wp.com/comicxy.com/wp-content/uploads/2024/08/Jian-Lai.jpg"
+                            },
+                            {
+                                "url": "/anime/dubu_xiaoyao/",
+                                "title": "Dubu Xiaoyao",
+                                "thumbnail_url": "https://i0.wp.com/comicxy.com/wp-content/uploads/2021/08/108132-1.jpg"
+                            },
+                            {
+                                "url": "/anime/tales-of-demons-and-gods-season-6/",
+                                "title": "Tales of Demons and Gods Season 6",
+                                "thumbnail_url": "https://i0.wp.com/comicxy.com/wp-content/uploads/2023/01/tales-6.webp"
+                            },
+                            {
+                                "url": "/anime/myth-of-the-ancients-wangu-shenhua/",
+                                "title": "Myth of The Ancients (Wangu Shenhua)",
+                                "thumbnail_url": "https://i2.wp.com/comicxy.com/wp-content/uploads/2022/08/Myth-of-The-Ancients.jpg"
+                            },
+                            {
+                                "url": "/anime/martial-master/",
+                                "title": "Martial Master",
+                                "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2021/09/1630825565-martial-master-new.png"
+                            },
+                            {
+                                "url": "/anime/big-brother-season-2-shixiong-a-shixiong-2nd-season/",
+                                "title": "Big Brother Season 2 (Shixiong A Shixiong 2nd Season)",
+                                "thumbnail_url": "https://i0.wp.com/comicxy.com/wp-content/uploads/2023/12/Big-Brother-Season-2-Shixiong-A-Shixiong-2nd-Season.jpg"
+                            },
+                            {
+                                "url": "/anime/spirit-sword-sovereign-season-4/",
+                                "title": "Spirit Sword Sovereign Season 4",
+                                "thumbnail_url": "https://i0.wp.com/comicxy.com/wp-content/uploads/2021/09/1630642897-sss-s4-new.png"
+                            },
+                            {
+                                "url": "/anime/against-the-sky-supreme/",
+                                "title": "Against the Sky Supreme",
+                                "thumbnail_url": "https://i0.wp.com/comicxy.com/wp-content/uploads/2021/09/117031.jpg"
                             },
                             {
                                 "url": "/anime/yuan-zun-dragon-prince-yuan/",
@@ -175,46 +215,6 @@
                                 "url": "/anime/the-island-of-siliang-2-juan-siliang-feng-yan-dieqi/",
                                 "title": "The Island of Siliang 2 (Juan Siliang: Feng Yan Dieqi)",
                                 "thumbnail_url": "https://i3.wp.com/comicxy.com/wp-content/uploads/2024/06/The-Island-of-Siliang-2-Juan-Siliang-Feng-Yan-Dieqi.png"
-                            },
-                            {
-                                "url": "/anime/peerless-martial-spirit/",
-                                "title": "Peerless Martial Spirit",
-                                "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2021/09/1630489397-110438.jpg"
-                            },
-                            {
-                                "url": "/anime/tales-of-demons-and-gods-season-6/",
-                                "title": "Tales of Demons and Gods Season 6",
-                                "thumbnail_url": "https://i0.wp.com/comicxy.com/wp-content/uploads/2023/01/tales-6.webp"
-                            },
-                            {
-                                "url": "/anime/martial-master/",
-                                "title": "Martial Master",
-                                "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2021/09/1630825565-martial-master-new.png"
-                            },
-                            {
-                                "url": "/anime/my-heroic-husband-zhuixu/",
-                                "title": "My Heroic Husband (Zhuixu)",
-                                "thumbnail_url": "https://i3.wp.com/comicxy.com/wp-content/uploads/2023/04/My-Heroic-Husband-Zhuixu.png"
-                            },
-                            {
-                                "url": "/anime/a-will-eternal-season-3/",
-                                "title": "A Will Eternal Season 3",
-                                "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2024/07/A-Will-Eternal-Season-3.jpg"
-                            },
-                            {
-                                "url": "/anime/shrounding-the-heavens-zhe-tian/",
-                                "title": "Shrounding the Heavens (Zhe Tian)",
-                                "thumbnail_url": "https://i2.wp.com/comicxy.com/wp-content/uploads/2023/05/Shrounding-the-Heavens-Zhe-Tian.webp"
-                            },
-                            {
-                                "url": "/anime/glorious-revenge-of-ye-feng/",
-                                "title": "Glorious Revenge of Ye Feng",
-                                "thumbnail_url": "https://i0.wp.com/comicxy.com/wp-content/uploads/2023/09/Glorious-Revenge-of-Ye-Feng-22.jpg"
-                            },
-                            {
-                                "url": "/anime/hundred-refining-soaring-record/",
-                                "title": "Hundred Refining Soaring Record",
-                                "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2023/03/Hundred-refining-soaring-record.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,9 +316,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vod.cf.dmcdn.net/sec2(8-Sbf3enMktLlIvmDRc5Fm2K4feswzOmlapNZvD8NOj5k6nvWxtpxcONkgLNMn4axe2iIdv6yQLvlL5sv2FMyiL-dupkIKf4WdWlBKITlxht2WdrmBYP2S_WwSV4ktSY6rVMhYhR795b5bpzzrmAnw)/video/596/493/520394695_mp4_h264_aac_fhd_5.m3u8#cell=cf",
+                        "url": "https://vod.cf.dmcdn.net/sec2(4TUyojtJzXzjfzVyrTO830yjkHqJeX3CmJbtXOetxfzjPAMq_Ow5ZGI-WJEsN_Iav48AAgFGdBC1213QpY2rv6Jlke7uhvtgnPvuMbxcLtkErXfBQP_aNe5Zz9Dt8r38I5Tnn00Ub_lUw7e2qudz-A)/video/596/493/520394695_mp4_h264_aac_fhd_5.m3u8#cell=cf",
                         "quality": "All Subtitle player 2 - 808p",
-                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(8-Sbf3enMktLlIvmDRc5Fm2K4feswzOmlapNZvD8NOj5k6nvWxtpxcONkgLNMn4axe2iIdv6yQLvlL5sv2FMyiL-dupkIKf4WdWlBKITlxht2WdrmBYP2S_WwSV4ktSY6rVMhYhR795b5bpzzrmAnw)/video/596/493/520394695_mp4_h264_aac_fhd_5.m3u8#cell=cf",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(4TUyojtJzXzjfzVyrTO830yjkHqJeX3CmJbtXOetxfzjPAMq_Ow5ZGI-WJEsN_Iav48AAgFGdBC1213QpY2rv6Jlke7uhvtgnPvuMbxcLtkErXfBQP_aNe5Zz9Dt8r38I5Tnn00Ub_lUw7e2qudz-A)/video/596/493/520394695_mp4_h264_aac_fhd_5.m3u8#cell=cf",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -407,9 +407,9 @@
                         ]
                     },
                     {
-                        "url": "https://vod.cf.dmcdn.net/sec2(gOeIj4ESWO9j9Pok0fpNz7wghBbSD5sdXtlrw9QXVYEzYDHspw-dxdtZPCfqPyWNZ00xtHbnKU-KLs-b-aSowmMq4kN_Ldf02HN-oeFDEaGcdGAC7ewKDD_uNkzKld8GX2u_R6piU_mBVh59uVeRNA)/video/596/493/520394695_mp4_h264_aac_hq_5.m3u8#cell=cf",
+                        "url": "https://vod.cf.dmcdn.net/sec2(Ppeytuy9NVpJ0z_3Ffmzb-nilb1T9ldl5Q2oDeWn3StsxCX9xj9MjxKNOajEqH4ix9Od4bv48nZW9k_IjY3FHUAHWXH25oANb1Rlwf_mRU2_vl00ZIqKOq45aTv_-Y9nFK47ml1wMytMNbzIm9GEYQ)/video/596/493/520394695_mp4_h264_aac_hq_5.m3u8#cell=cf",
                         "quality": "All Subtitle player 2 - 352p",
-                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(gOeIj4ESWO9j9Pok0fpNz7wghBbSD5sdXtlrw9QXVYEzYDHspw-dxdtZPCfqPyWNZ00xtHbnKU-KLs-b-aSowmMq4kN_Ldf02HN-oeFDEaGcdGAC7ewKDD_uNkzKld8GX2u_R6piU_mBVh59uVeRNA)/video/596/493/520394695_mp4_h264_aac_hq_5.m3u8#cell=cf",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(Ppeytuy9NVpJ0z_3Ffmzb-nilb1T9ldl5Q2oDeWn3StsxCX9xj9MjxKNOajEqH4ix9Od4bv48nZW9k_IjY3FHUAHWXH25oANb1Rlwf_mRU2_vl00ZIqKOq45aTv_-Y9nFK47ml1wMytMNbzIm9GEYQ)/video/596/493/520394695_mp4_h264_aac_hq_5.m3u8#cell=cf",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -498,9 +498,9 @@
                         ]
                     },
                     {
-                        "url": "https://vod.cf.dmcdn.net/sec2(jVG-04Ih7BFdf2a0HuEuaG6uja9jvmXEvoxSJEjB4UVCy1jSGFp0VKfd24jd5WIihBo9ja-v41ZORAExHEbDPnIO41wnxMGxeXOGqoJV6LsSsXwkizQziO1Law5S7S2QI60QxJVYEREmdJchWLUsDw)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=cf",
+                        "url": "https://vod.cf.dmcdn.net/sec2(TqnBP5RYBapJqmOu1xwpuVs4mN1X4aMRmb9CotEslD13M5PwSHWyKw8IK_NEHQVOn0vy2ONATNkTNTqn1XOwiw34UrxFmLfGo4XlPQYGo38KkJVw7oo-qir3ML-f9PCZxzbCVV2t1VTu142Svmp19w)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=cf",
                         "quality": "All Subtitle player 2 - 216p",
-                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(jVG-04Ih7BFdf2a0HuEuaG6uja9jvmXEvoxSJEjB4UVCy1jSGFp0VKfd24jd5WIihBo9ja-v41ZORAExHEbDPnIO41wnxMGxeXOGqoJV6LsSsXwkizQziO1Law5S7S2QI60QxJVYEREmdJchWLUsDw)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=cf",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(TqnBP5RYBapJqmOu1xwpuVs4mN1X4aMRmb9CotEslD13M5PwSHWyKw8IK_NEHQVOn0vy2ONATNkTNTqn1XOwiw34UrxFmLfGo4XlPQYGo38KkJVw7oo-qir3ML-f9PCZxzbCVV2t1VTu142Svmp19w)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=cf",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -589,9 +589,9 @@
                         ]
                     },
                     {
-                        "url": "https://vod.cf.dmcdn.net/sec2(o__PcdoZ0PCfGSL4A2v64H21hhQSlnd9fEG5ztmbO3JZgJ7p4bf_kJy47P9qlfclojSNWFATybeCPzfwftLP0WX5IgPh52z4PF0Ebbmtb_PFZsORa6XZwG2d_uNMxIw_4kKfkxajB2Pt9C_ZSrREog)/video/596/493/520394695_mp4_h264_aac_hd_5.m3u8#cell=cf",
+                        "url": "https://vod.cf.dmcdn.net/sec2(VPivcnJgTEVjEt0M1nbrA7DKc0uLWzfLBNcfcJXnDQiAfKaZkaMWXMZudKHH9tVYdx6p6KrkHYK7aR9clb3S1l7lTcDKoQGdLjaJVO7641M-GzvRIlGdDQZCRrEVq2E8m3E2O6SmrIe1CcIyw-KOTw)/video/596/493/520394695_mp4_h264_aac_hd_5.m3u8#cell=cf",
                         "quality": "All Subtitle player 2 - 536p",
-                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(o__PcdoZ0PCfGSL4A2v64H21hhQSlnd9fEG5ztmbO3JZgJ7p4bf_kJy47P9qlfclojSNWFATybeCPzfwftLP0WX5IgPh52z4PF0Ebbmtb_PFZsORa6XZwG2d_uNMxIw_4kKfkxajB2Pt9C_ZSrREog)/video/596/493/520394695_mp4_h264_aac_hd_5.m3u8#cell=cf",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(VPivcnJgTEVjEt0M1nbrA7DKc0uLWzfLBNcfcJXnDQiAfKaZkaMWXMZudKHH9tVYdx6p6KrkHYK7aR9clb3S1l7lTcDKoQGdLjaJVO7641M-GzvRIlGdDQZCRrEVq2E8m3E2O6SmrIe1CcIyw-KOTw)/video/596/493/520394695_mp4_h264_aac_hd_5.m3u8#cell=cf",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
