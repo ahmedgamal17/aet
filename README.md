@@ -22,7 +22,7 @@
 | ar.anime4up          |     ✅     | [results-ar.anime4up.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.anime4up.json)                   |
 | ar.animeblkom        | ❌<br>0/5  | [results-ar.animeblkom.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.animeblkom.json)               |
 | ar.animeiat          |     ✅     | [results-ar.animeiat.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.animeiat.json)                   |
-| ar.animelek          | ❌<br>5/6  | [results-ar.animelek.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.animelek.json)                   |
+| ar.animelek          | ❌<br>0/6  | [results-ar.animelek.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.animelek.json)                   |
 | ar.animerco          | ❌<br>3/5  | [results-ar.animerco.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.animerco.json)                   |
 | ar.arabanime         | ❌<br>0/6  | [results-ar.arabanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.arabanime.json)                 |
 | ar.arabseed          | ❌<br>4/5  | [results-ar.arabseed.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.arabseed.json)                   |
@@ -56,7 +56,7 @@
 | en.donghuastream     | ❌<br>0/6  | [results-en.donghuastream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.donghuastream.json)         |
 | en.dopebox           | ❌<br>5/6  | [results-en.dopebox.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.dopebox.json)                     |
 | en.dramacool         | ❌<br>4/6  | [results-en.dramacool.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.dramacool.json)                 |
-| en.edytjedhgmdhm     | ❌<br>2/5  | [results-en.edytjedhgmdhm.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.edytjedhgmdhm.json)         |
+| en.edytjedhgmdhm     | ❌<br>4/5  | [results-en.edytjedhgmdhm.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.edytjedhgmdhm.json)         |
 | en.fmovies           | ❌<br>0/6  | [results-en.fmovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.fmovies.json)                     |
 | en.genoanime         | ❌<br>0/6  | [results-en.genoanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.genoanime.json)                 |
 | en.gogoanime         |     ✅     | [results-en.gogoanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.gogoanime.json)                 |
