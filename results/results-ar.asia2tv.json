@@ -7,6 +7,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/عائلة-مثالية/",
+                                "title": "عائلة مثالية Perfect Family"
+                            },
+                            {
                                 "url": "/الطاغية/",
                                 "title": "الطاغية The Tyrant"
                             },
@@ -83,16 +87,16 @@
                                 "title": "فضيحة scandal"
                             },
                             {
+                                "url": "/الراكضة-اللطيفة/",
+                                "title": "الراكضة اللطيفة Lovely Runner"
+                            },
+                            {
                                 "url": "/تجرؤ-على-حبي/",
                                 "title": "تجرؤ على حبي Dare to Love Me"
                             },
                             {
                                 "url": "/رومانسية-منتصف-الليل-في-هاغوون/",
                                 "title": "رومانسية منتصف الليل في هاغوون The Midnight Romance In Hagwon"
-                            },
-                            {
-                                "url": "/الراكضة-اللطيفة/",
-                                "title": "الراكضة اللطيفة Lovely Runner"
                             },
                             {
                                 "url": "/إنها-مختلفة-ليلاً-ونهاراً/",
@@ -169,10 +173,6 @@
                             {
                                 "url": "/عائلة-استثنائية/",
                                 "title": "عائلة استثنائية The Atypical Family"
-                            },
-                            {
-                                "url": "/",
-                                "title": "كلام على المكشوف"
                             }
                         ],
                         "hasNextPage": true
@@ -280,11 +280,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/الطاغية/",
-                    "title": "الطاغية The Tyrant",
-                    "description": "تبدأ الدراما عندما تختفي آخر عينة من برنامج “الطاغية” أثناء تسليمها، وتبدأ مجموعات مختلفة من الناس بالبحث عنها. “أم سانغ” هو عميل سابق تم تكليفه بالتخلص من الأشخاص المرتبطين ببرنامج الطاغية، وفي الوقت نفسه، “تشووي كوك جانغ” هو مدير مكتب في وكالة حكومية يدير البرنامج بشكل غير رسم Jo-Yoon-Soo : في دور Ja Kyung Cha-Seung-Won : في دور Lim Sang Kim-Seon-Ho : في دور Choi Gook Jang Kim-Kang-Woo : في دور Paul",
-                    "genre": "كوريا الجنوبية, أكشن, جريمة, خيالي",
-                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/08/largephoto1855487.jpg",
+                    "url": "/عائلة-مثالية/",
+                    "title": "عائلة مثالية Perfect Family",
+                    "description": "تدور الدراما حول عائلة “سيون هي” السعيدة والمثالية في نظر الجميع، لكن في يوم من الأيام، تتلقى “سيون هي” خبر وفاة صديقتها الصادم. في نفس الوقت، يعمل “تشوي جين هيوك” كمحامي ناجح في شركة كبيرة، وهو متزوج من “ها ايون جو” ولديهما ابنة تبنوها. Park-Ju-Hyun : في دور Choi Seon Hui Yoon-Se-Ah : في دور Ha Eun Ju Kim-Byung-Chul : في دور Choi Jin Hyeok Lee-Shi-Woo : في دور Ji Hyeon U Yoon-Sang-Hyun : في دور Choi Hyeon Min Choi-Ye-Bin : في دور Lee Su Yeon",
+                    "genre": "كوريا الجنوبية, إثارة, درامي, عائلي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/08/ezgif-7-1703991c5c.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -292,12 +292,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/الطاغية-الحلقة-04-والأخيرة/",
-                        "name": "%D9%88%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9 : الحلقة"
+                        "url": "/عائلة-مثالية-الحلقة-02/",
+                        "name": "02 : الحلقة"
                     },
                     {
-                        "url": "/الطاغية-الحلقة-03/",
-                        "name": "03 : الحلقة"
+                        "url": "/عائلة-مثالية-الحلقة-01/",
+                        "name": "01 : الحلقة"
                     }
                 ],
                 "passed": true
@@ -305,14 +305,34 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=wYqJBpxv4rIJ0GR&expires=1723816530&ip=FROsD0AAKxSHDN&token=R9VJ7-N-b-p8",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=wYqJBpxv4rIJ0GR&expires=1723816530&ip=FROsD0AAKxSHDN&token=R9VJ7-N-b-p8"
+                        "url": "https://vd485.mycdn.me/?expires=1723858567733&srcIp=172.183.106.196&pr=10&srcAg=GECKO&ms=45.136.22.29&type=3&sig=rRpR8NuhIzQ&ct=0&urls=185.226.53.43&clientType=0&zs=43&id=6769157606045",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd485.mycdn.me/?expires=1723858567733&srcIp=172.183.106.196&pr=10&srcAg=GECKO&ms=45.136.22.29&type=3&sig=rRpR8NuhIzQ&ct=0&urls=185.226.53.43&clientType=0&zs=43&id=6769157606045"
                     },
                     {
-                        "url": "https://mega99.uqload.ws/3rfkwvzrtvw2q4drdk67vp7zlw3v4pfmcqh435zufc7vavju6tnqpmymta5a/v.mp4",
+                        "url": "https://vd485.mycdn.me/?expires=1723858567733&srcIp=172.183.106.196&pr=10&srcAg=GECKO&ms=45.136.22.29&type=2&sig=avcwUBEae_E&ct=0&urls=185.226.53.43&clientType=0&zs=43&id=6769157606045",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd485.mycdn.me/?expires=1723858567733&srcIp=172.183.106.196&pr=10&srcAg=GECKO&ms=45.136.22.29&type=2&sig=avcwUBEae_E&ct=0&urls=185.226.53.43&clientType=0&zs=43&id=6769157606045"
+                    },
+                    {
+                        "url": "https://vd485.mycdn.me/?expires=1723858567733&srcIp=172.183.106.196&pr=10&srcAg=GECKO&ms=45.136.22.29&type=1&sig=XsWCDFZitNo&ct=0&urls=185.226.53.43&clientType=0&zs=43&id=6769157606045",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd485.mycdn.me/?expires=1723858567733&srcIp=172.183.106.196&pr=10&srcAg=GECKO&ms=45.136.22.29&type=1&sig=XsWCDFZitNo&ct=0&urls=185.226.53.43&clientType=0&zs=43&id=6769157606045"
+                    },
+                    {
+                        "url": "https://vd485.mycdn.me/?expires=1723858567733&srcIp=172.183.106.196&pr=10&srcAg=GECKO&ms=45.136.22.29&type=0&sig=bt1D7QvQwWY&ct=0&urls=185.226.53.43&clientType=0&zs=43&id=6769157606045",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd485.mycdn.me/?expires=1723858567733&srcIp=172.183.106.196&pr=10&srcAg=GECKO&ms=45.136.22.29&type=0&sig=bt1D7QvQwWY&ct=0&urls=185.226.53.43&clientType=0&zs=43&id=6769157606045"
+                    },
+                    {
+                        "url": "https://vd485.mycdn.me/?expires=1723858567733&srcIp=172.183.106.196&pr=10&srcAg=GECKO&ms=45.136.22.29&type=4&sig=EBefJLcg1wI&ct=0&urls=185.226.53.43&clientType=0&zs=43&id=6769157606045",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd485.mycdn.me/?expires=1723858567733&srcIp=172.183.106.196&pr=10&srcAg=GECKO&ms=45.136.22.29&type=4&sig=EBefJLcg1wI&ct=0&urls=185.226.53.43&clientType=0&zs=43&id=6769157606045"
+                    },
+                    {
+                        "url": "https://mega99.uqload.ws/3rfkxabatvw2q4drdk7pvp7udlfycrv4rvkan5yhwogkxcczmhvppzxoyzwa/v.mp4",
                         "quality": "Uqload",
-                        "videoUrl": "https://mega99.uqload.ws/3rfkwvzrtvw2q4drdk67vp7zlw3v4pfmcqh435zufc7vavju6tnqpmymta5a/v.mp4",
+                        "videoUrl": "https://mega99.uqload.ws/3rfkxabatvw2q4drdk7pvp7udlfycrv4rvkan5yhwogkxcczmhvppzxoyzwa/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.co/"
                         }

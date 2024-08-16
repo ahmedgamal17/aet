@@ -243,24 +243,17 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/anime/nian-wushuang",
-                    "title": "Nian Wushuang",
-                    "author": "Oriental Creative Color",
-                    "genre": "Fantasy, Romance",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12177.png",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/player/YUtZM3I1enlkMDJPanZkVXNUVGxnVWJ6N2dJVkNrYkxlNWxqb1c3WXp3N3QydHkzekRBN1hpRU1WdjFyQU1KZ3dNSDViTEtML3A5TWIvNWd6S1dYRWRFOGtKbklnSHV1c29BWjRERDYyRGRBcTBsQVdqejZPdUJWQjlSOWNTVzU6OvNFyJwR+ry6sekOiFufyTk=",
+                        "url": "/player/ZERtK1VIbFM4YUlHOHJlL3FsSlJMNnFjcW8yNjNPeVJ2MjM0SGNEZjJBZm5TcjUyU3dNRnIxNEtUQnR5K0hCL2ZvWDJRK0M0STJFYkpnajZDcVlyd04rdHBuYlJuaXhEVldRR0YvWERhZnhjOUd2UjRiNkgzSnBNQisyN2R5ZTk6Oq88Cq/cRcKkoDWs86x0Ahk=",
                         "name": "Episode 3"
                     },
                     {
-                        "url": "/player/bGhvZ1AxYis3Y21DbjV1UkcxL3cxMThvVTJzK3BPdG9qTm9mSEJvSlQvOEUyeEErWkpFUGVmOU50emVxYzUyN1ZZK0R2ZUhMZ1lQK0ErWTdoSGJ1Q1Y2aGpBOWdnTTByK1d0VWVqY1dORWtvTkIwNUZ6dVdYVWRvTDhjOHRnUlI6OmMPJ8GrydqXx4Wbl0IlcjM=",
+                        "url": "/player/S1NBbTVXNDhKeVBXWUFocmFuR21rNmZMMDJVWXNhWDI0dUU2Z0pmTTBxaUc3RmE3TjZjVi9OYVRNN01rNHBsRTdVL3hOTEVMeW1VYTloclFQUFIzMkRRRmR1TEV3WkN5OS9xdmtKRnQ0K1A5Kzc2Zm40NVlscHNTU3IyZm1VRUw6OsQmcjI77ZpUKzys3ca4iVI=",
                         "name": "Episode 2"
                     }
                 ],
@@ -269,13 +262,13 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/YUtZM3I1enlkMDJPanZkVXNUVGxnVWJ6N2dJVkNrYkxlNWxqb1c3WXp3N3QydHkzekRBN1hpRU1WdjFyQU1KZ3dNSDViTEtML3A5TWIvNWd6S1dYRWRFOGtKbklnSHV1c29BWjRERDYyRGRBcTBsQVdqejZPdUJWQjlSOWNTVzU6OvNFyJwR+ry6sekOiFufyTk=?vrf=yUCrUgqkwtW4%2BglTIvvqlA%3D%3D",
+                        "url": "https://slothanime.com/player-url/cRcKkoDWs86x0Ahk=?vrf=jfflg6Rt4KWTv6z%2F7GgIqQ%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/YUtZM3I1enlkMDJPanZkVXNUVGxnVWJ6N2dJVkNrYkxlNWxqb1c3WXp3N3QydHkzekRBN1hpRU1WdjFyQU1KZ3dNSDViTEtML3A5TWIvNWd6S1dYRWRFOGtKbklnSHV1c29BWjRERDYyRGRBcTBsQVdqejZPdUJWQjlSOWNTVzU6OvNFyJwR+ry6sekOiFufyTk=?vrf=yUCrUgqkwtW4%2BglTIvvqlA%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/cRcKkoDWs86x0Ahk=?vrf=jfflg6Rt4KWTv6z%2F7GgIqQ%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/YUtZM3I1enlkMDJPanZkVXNUVGxnVWJ6N2dJVkNrYkxlNWxqb1c3WXp3N3QydHkzekRBN1hpRU1WdjFyQU1KZ3dNSDViTEtML3A5TWIvNWd6S1dYRWRFOGtKbklnSHV1c29BWjRERDYyRGRBcTBsQVdqejZPdUJWQjlSOWNTVzU6OvNFyJwR+ry6sekOiFufyTk="
+                            "Referer": "https://slothanime.com/player/ZERtK1VIbFM4YUlHOHJlL3FsSlJMNnFjcW8yNjNPeVJ2MjM0SGNEZjJBZm5TcjUyU3dNRnIxNEtUQnR5K0hCL2ZvWDJRK0M0STJFYkpnajZDcVlyd04rdHBuYlJuaXhEVldRR0YvWERhZnhjOUd2UjRiNkgzSnBNQisyN2R5ZTk6Oq88Cq/cRcKkoDWs86x0Ahk="
                         }
                     }
                 ],
