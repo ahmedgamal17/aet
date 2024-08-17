@@ -167,6 +167,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/26243/Owari_no_Seraph",
+                                "title": "Owari no Seraph",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/5/73474l.jpg"
+                            },
+                            {
+                                "url": "/anime/37799/Tokyo_Ghoulre_2nd_Season",
+                                "title": "Tokyo Ghoul:re 2nd Season",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1545/121995l.jpg"
+                            },
+                            {
+                                "url": "/anime/36511/Tokyo_Ghoulre",
+                                "title": "Tokyo Ghoul:re",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1063/95086l.jpg"
+                            },
+                            {
                                 "url": "/anime/30458/Tokyo_Ghoul_Jack",
                                 "title": "Tokyo Ghoul: \"Jack\"",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1739/123152l.jpg"
@@ -300,21 +315,6 @@
                                 "url": "/anime/50602/Spy_x_Family_Part_2",
                                 "title": "Spy x Family Part 2",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1111/127508l.jpg"
-                            },
-                            {
-                                "url": "/anime/50265/Spy_x_Family",
-                                "title": "Spy x Family",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1441/122795l.jpg"
-                            },
-                            {
-                                "url": "/anime/53888/Spy_x_Family_Movie_Code_White",
-                                "title": "Spy x Family Movie: Code: White",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1426/139388l.jpg"
-                            },
-                            {
-                                "url": "/anime/48735/Chibi_Revenger",
-                                "title": "Chibi Revenger",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1975/114442l.jpg"
                             }
                         ],
                         "hasNextPage": true
