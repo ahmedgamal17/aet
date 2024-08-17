@@ -167,6 +167,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/31918/Owaranai_Seraph_Nagoya-hen",
+                                "title": "Owaranai Seraph: Nagoya-hen",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/10/77545l.jpg"
+                            },
+                            {
+                                "url": "/anime/31378/Owari_no_Seraph_Kyuuketsuki_Shahar",
+                                "title": "Owari no Seraph: Kyuuketsuki Shahar",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1272/121985l.jpg"
+                            },
+                            {
+                                "url": "/anime/30714/Owaranai_Seraph",
+                                "title": "Owaranai Seraph",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/6/76505l.jpg"
+                            },
+                            {
                                 "url": "/anime/28927/Owari_no_Seraph_Nagoya_Kessen-hen",
                                 "title": "Owari no Seraph: Nagoya Kessen-hen",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/9/76632l.jpg"
@@ -300,21 +315,6 @@
                                 "url": "/anime/36456/Boku_no_Hero_Academia_3rd_Season",
                                 "title": "Boku no Hero Academia 3rd Season",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1319/92084l.jpg"
-                            },
-                            {
-                                "url": "/anime/33486/Boku_no_Hero_Academia_2nd_Season",
-                                "title": "Boku no Hero Academia 2nd Season",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/12/85221l.jpg"
-                            },
-                            {
-                                "url": "/anime/31964/Boku_no_Hero_Academia",
-                                "title": "Boku no Hero Academia",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
-                            },
-                            {
-                                "url": "/anime/53887/Spy_x_Family_Season_2",
-                                "title": "Spy x Family Season 2",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1506/138982l.jpg"
                             }
                         ],
                         "hasNextPage": true

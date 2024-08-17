@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5608",
+                                "title": "Madougushi Dahliya wa Utsumukanai",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/66e9198342ba3de6193c022b912449b474d025870a84b28692313e86f0a3a298.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=3",
+                                "title": "Meitantei Conan",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/ee49f550e9ff738b1d656e971b592f74ff4c54e381e18accb76145fd336232e0.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5509",
+                                "title": "Boku no Hero Academia 7th Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/4ec11bd60cf624d5b2c3e841c4d46053e13fe141586365b5c04ac94cd3598472.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5255",
                                 "title": "Pokemon (2023)",
                                 "artist": "Some-Stuffs",
@@ -59,24 +77,6 @@
                                 "title": "2.5-jigen no Ririsa",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/1b666bbb5b5888b47503c8b335d62a7de7bf24b9b656179a90445fbf6483724f.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5587",
-                                "title": "Code Geass: Dakkan no Rozé",
-                                "artist": "Disney_Plus",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/3c8740c2fa6630e8a96db63d63e7e21a4ec3d8ba3a429df0a393690de6abc82c.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5584",
-                                "title": "Dead Dead Demons Dededede Destruction (ONA)",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7ac832382caf39e53677ca8df68a859d49c2ceb616f2ef062314395ecfe7ad3a.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5606",
-                                "title": "Senpai wa Otokonoko",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/299c44601c664ff79eead2e1560afa518a682ef1269560449198b0d8afa1c398.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5608",
+                                "title": "Madougushi Dahliya wa Utsumukanai",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/66e9198342ba3de6193c022b912449b474d025870a84b28692313e86f0a3a298.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=3",
+                                "title": "Meitantei Conan",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/ee49f550e9ff738b1d656e971b592f74ff4c54e381e18accb76145fd336232e0.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5509",
+                                "title": "Boku no Hero Academia 7th Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/4ec11bd60cf624d5b2c3e841c4d46053e13fe141586365b5c04ac94cd3598472.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5255",
                                 "title": "Pokemon (2023)",
                                 "artist": "Some-Stuffs",
@@ -141,24 +159,6 @@
                                 "title": "2.5-jigen no Ririsa",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/1b666bbb5b5888b47503c8b335d62a7de7bf24b9b656179a90445fbf6483724f.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5587",
-                                "title": "Code Geass: Dakkan no Rozé",
-                                "artist": "Disney_Plus",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/3c8740c2fa6630e8a96db63d63e7e21a4ec3d8ba3a429df0a393690de6abc82c.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5584",
-                                "title": "Dead Dead Demons Dededede Destruction (ONA)",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7ac832382caf39e53677ca8df68a859d49c2ceb616f2ef062314395ecfe7ad3a.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5606",
-                                "title": "Senpai wa Otokonoko",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/299c44601c664ff79eead2e1560afa518a682ef1269560449198b0d8afa1c398.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5255",
-                    "title": "Pokemon (2023)",
-                    "author": "OLM",
-                    "description": "In a world filled with strange yet majestic creatures known as Pokémon, a new adventure begins! Hailing from the pristine region of Paldea, the timid Liko travels to the Kanto region to attend the Indigo Academy and become a Pokémon trainer—a person who forms relationships with Pokémon and trains them to participate in battles. Soon, Liko acquires Nyahoja, a fickle Grass-type cat Pokémon, as her first partner. Prior to Liko's transfer to Kanto, her grandmother gives her a uniquely patterned and gleaming pendant as a protective charm. However, an enigmatic organization—The Explorers—seems to know a secret about the pendant and nearly succeeds in stealing it from Liko. Fortunately, she is rescued by the Rising Volt Tacklers, a group of adventurers led by a Lizardon-riding trainer named Friede. After a series of encounters with The Explorers, Liko decides to join Friede's team, accompanying him and his crew members on a grand journey across the regions. Along the way, they aim to unravel not only the mysteries of the world of Pokémon, but also the power that resides within her pendant.\n\nSynonyms: Pokémon: Liko to Roy no Tabidachi, Pocket Monsters: Liko to Roy no Tabidachi, Pokémon: Terapagos no Kagayaki, Pocket Monsters: Terapagos no Kagayaki, Pokemon Horizons: Liko and Roy's Departure, Pokemon Horizons: Terapagos' Gleam",
-                    "genre": "Action, Adventure, Comedy, Fantasy",
+                    "url": "/anime/?anime_id=5608",
+                    "title": "Madougushi Dahliya wa Utsumukanai",
+                    "author": "Typhoon Graphics, Imagica Infos",
+                    "description": "After dying of overwork in Japan, Dahlia is reborn into a world filled with magic. Raised by a master of magical toolmaking, she develops a passion for the craft and becomes engaged to her father's apprentice. Before her father can see her wed, however, he suddenly passes away. As if this weren't enough, on the day before their wedding, her fiancé announces that he's in love—but not with her! Dahlia finally realizes she needs to live for herself. She vows to be her own woman from now on and devote herself to her craft, even if it's not quite the quiet life she was hoping for! From a chance encounter with a knight to starting her own company, there are challenges aplenty on the horizon. But this young craftswoman is no longer a shrinking violet—she's Dahlia, and she's ready to bloom.\n\nSynonyms: Dahlia in Bloom, Dahliya in Bloom, Madougushi Dahliya wa Utsumukanai: Kyou kara Jiyuu na Shokunin Life",
+                    "genre": "Fantasy, Slice of Life",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/953b72f3f33aab88eb5929aac777c1c47043110fd8bb29d8ec35cac7045d478d.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/8b2f518935557d71cbd0e3ebdc0a4f1683352a582bb9e21979b5ee87fdf8f67f.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/e82771d8-9236-3845-020b-2a17b91b0af4/93b7b007b6eec7c0e6fb7351608d90df79fbb29527e9602c7ea4dfcbe0156110",
-                        "name": "Episode 61",
-                        "date_upload": 1723874701000,
-                        "episode_number": 61.0
+                        "url": "/play/b012316b-4780-515c-e7ca-bac06d6a3a64/09a29e29692101ccb22266a00ab9573154ee923532f1c7ecc1e47304945cec64",
+                        "name": "Episode 7",
+                        "date_upload": 1723898087000,
+                        "episode_number": 7.0
                     },
                     {
-                        "url": "/play/e82771d8-9236-3845-020b-2a17b91b0af4/5e48af79fb2a52097c6e83c4e73263bca2657e809df76ca91b7b777987bd6812",
-                        "name": "Episode 60",
-                        "date_upload": 1723260672000,
-                        "episode_number": 60.0
+                        "url": "/play/b012316b-4780-515c-e7ca-bac06d6a3a64/114be2503f4c6b1305b47e9c5276b30f1bf83db95c4750a3ed203e66a1b9a73f",
+                        "name": "Episode 6",
+                        "date_upload": 1723293341000,
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/61e35a4574f54d2fd0488a9628f8dab2b2b3ff954b8de9d6f253392543947446?file=AnimePahe_Pokemon_2023_-_061_1080p_Some-Stuffs.mp4&token=O6voLjs7NCNoElL-Ghz92Q&expires=1723890441",
-                        "quality": "Some-Stuffs · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/61e35a4574f54d2fd0488a9628f8dab2b2b3ff954b8de9d6f253392543947446?file=AnimePahe_Pokemon_2023_-_061_1080p_Some-Stuffs.mp4&token=O6voLjs7NCNoElL-Ghz92Q&expires=1723890441"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/e9b1d325656726142a8ab8912648f38cc7df76556e41fd1612e1516a693167a6?file=AnimePahe_Madougushi_Dahliya_wa_Utsumukanai_-_07_720p_SubsPlease.mp4&token=t2NQhJllFqJBYFD50SbUsw&expires=1723912586",
+                        "quality": "SubsPlease · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/e9b1d325656726142a8ab8912648f38cc7df76556e41fd1612e1516a693167a6?file=AnimePahe_Madougushi_Dahliya_wa_Utsumukanai_-_07_720p_SubsPlease.mp4&token=t2NQhJllFqJBYFD50SbUsw&expires=1723912586"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/56e419d6c97f63100ba396cc9d3343fd67a4c96ea95e6ac76ec9ddbaa9690e4f?file=AnimePahe_Pokemon_2023_-_061_720p_Some-Stuffs.mp4&token=t7bfz-crMmhW8dP3azC3eQ&expires=1723890440",
-                        "quality": "Some-Stuffs · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/56e419d6c97f63100ba396cc9d3343fd67a4c96ea95e6ac76ec9ddbaa9690e4f?file=AnimePahe_Pokemon_2023_-_061_720p_Some-Stuffs.mp4&token=t7bfz-crMmhW8dP3azC3eQ&expires=1723890440"
-                    },
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/46d5fb4bf8add2783deb456cb4fa34852e5982720e0f61be89b284b4a0ee7012?file=AnimePahe_Pokemon_2023_-_061_360p_Some-Stuffs.mp4&token=NYCfsBJraTPj7u_IOf15Jw&expires=1723890439",
-                        "quality": "Some-Stuffs · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/46d5fb4bf8add2783deb456cb4fa34852e5982720e0f61be89b284b4a0ee7012?file=AnimePahe_Pokemon_2023_-_061_360p_Some-Stuffs.mp4&token=NYCfsBJraTPj7u_IOf15Jw&expires=1723890439"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/ab1808e5762178cee0a33f8ae4419e91f1b5e9cf476638ea6a6358f3f56a7799?file=AnimePahe_Madougushi_Dahliya_wa_Utsumukanai_-_07_360p_SubsPlease.mp4&token=kZZIQk9w7caQD12zmJ_9sQ&expires=1723912585",
+                        "quality": "SubsPlease · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/ab1808e5762178cee0a33f8ae4419e91f1b5e9cf476638ea6a6358f3f56a7799?file=AnimePahe_Madougushi_Dahliya_wa_Utsumukanai_-_07_360p_SubsPlease.mp4&token=kZZIQk9w7caQD12zmJ_9sQ&expires=1723912585"
                     }
                 ],
                 "passed": true

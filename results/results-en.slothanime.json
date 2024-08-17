@@ -73,8 +73,74 @@
                 "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/immortality-4th-season",
+                                "title": "Immortality 4th Season",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12165.png"
+                            },
+                            {
+                                "url": "/anime/nian-wushuang",
+                                "title": "Nian Wushuang",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12177.png"
+                            },
+                            {
+                                "url": "/anime/slay-the-gods",
+                                "title": "Slay the Gods",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12176.png"
+                            },
+                            {
+                                "url": "/anime/theatre-of-darkness-yamishibai-13",
+                                "title": "Theatre of Darkness: Yamishibai 13",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12144.png"
+                            },
+                            {
+                                "url": "/anime/fairy-tail-100-years-quest",
+                                "title": "FAIRY TAIL 100 YEARS QUEST",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12143.png"
+                            },
+                            {
+                                "url": "/anime/keyboard-immortal",
+                                "title": "Keyboard Immortal",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12166.png"
+                            },
+                            {
+                                "url": "/anime/cardfight-vanguard-divinez-season-2",
+                                "title": "CARDFIGHT!! VANGUARD Divinez Season 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12142.png"
+                            },
+                            {
+                                "url": "/anime/back-to-the-great-ming",
+                                "title": "Back to the Great Ming",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12141.png"
+                            },
+                            {
+                                "url": "/anime/apotheosis-2",
+                                "title": "Apotheosis 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12148.png"
+                            },
+                            {
+                                "url": "/anime/glorious-revenge-of-ye-feng-season-2",
+                                "title": "Glorious Revenge of Ye Feng Season 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12154.png"
+                            },
+                            {
+                                "url": "/anime/big-brother-2",
+                                "title": "Big Brother 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12137.png"
+                            },
+                            {
+                                "url": "/anime/perfect-world-4",
+                                "title": "Perfect World 4",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12146.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -188,19 +254,28 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/bE04eElPenRuTUlDTGdlN1dlK3pwTzFraVBmUmlGZG1iZDI4Y0p3VkFWWDg1ZlliS0FRcXVYRDNhdVlVQWxKZjRQUmRRa09rZWJXNEVCS2hWT21KOTVaZHN3QUJRVXpPU1RWWW9qRTl1ajdPSzBRd2k1NVBZZlVMQXBUbkpNd0o6Ok7tTFwj3wPfI82C5U/SrZs=",
+                        "name": "Episode 3"
+                    },
+                    {
+                        "url": "/player/NVJwU1dXNktiT0hhN3ZXQjFoZmZMTUdQMXp5cWFta1R6aW96dUJVWTRZOS9HZEdQMnpZQWRsaFdpUWhwNG1xWW9XM01OVmpjWmhPMHllSlpOSldteHJSMGVoaXhKM0p5Y3NCdXFKMHIvT041bUlyMkRmNHFkRWlKWDA1cXozOHI6Oj3l/eVMBYuY5HszH3mvMuk=",
+                        "name": "Episode 2"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=MtFat4Sj6zDkp6VhpWDaog%3D%3D",
+                        "url": "https://slothanime.com/player-url/SrZs=?vrf=8o1%2FncYZt9qrtArwfdFlEw%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=MtFat4Sj6zDkp6VhpWDaog%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/SrZs=?vrf=8o1%2FncYZt9qrtArwfdFlEw%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/bE04eElPenRuTUlDTGdlN1dlK3pwTzFraVBmUmlGZG1iZDI4Y0p3VkFWWDg1ZlliS0FRcXVYRDNhdVlVQWxKZjRQUmRRa09rZWJXNEVCS2hWT21KOTVaZHN3QUJRVXpPU1RWWW9qRTl1ajdPSzBRd2k1NVBZZlVMQXBUbkpNd0o6Ok7tTFwj3wPfI82C5U/SrZs="
                         }
                     }
                 ],
