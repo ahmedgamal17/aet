@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5255",
+                                "title": "Pokemon (2023)",
+                                "artist": "Some-Stuffs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2511cc61b2f3e3216a163f9ba214032dc6a42a580f7544966a284c7644f758e7.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5614",
                                 "title": "Kono Sekai wa Fukanzen Sugiru",
                                 "artist": "SubsPlease",
@@ -71,12 +77,6 @@
                                 "title": "Senpai wa Otokonoko",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/299c44601c664ff79eead2e1560afa518a682ef1269560449198b0d8afa1c398.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=4889",
-                                "title": "Chiikawa",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/db3e1fd5d0d7f40a1ccdb04fecd7ace749d064112c7579112f179c635edf7270.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5255",
+                                "title": "Pokemon (2023)",
+                                "artist": "Some-Stuffs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2511cc61b2f3e3216a163f9ba214032dc6a42a580f7544966a284c7644f758e7.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5614",
                                 "title": "Kono Sekai wa Fukanzen Sugiru",
                                 "artist": "SubsPlease",
@@ -153,12 +159,6 @@
                                 "title": "Senpai wa Otokonoko",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/299c44601c664ff79eead2e1560afa518a682ef1269560449198b0d8afa1c398.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=4889",
-                                "title": "Chiikawa",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/db3e1fd5d0d7f40a1ccdb04fecd7ace749d064112c7579112f179c635edf7270.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5614",
-                    "title": "Kono Sekai wa Fukanzen Sugiru",
-                    "author": "Studio Palette, 100studio",
-                    "description": "Nikola is just a village girl working at the inn...until the day dragons invade, and she meets Haga, a scholar of everything around him. He's a part of an elite society called \"Seeker,\" created to address a series of maladies plaguing their usually peaceful world. But both Nikola and Haga have secrets they hide...ones that will change each other's very existence...\n\nSynonyms: Konofuka",
-                    "genre": "Adventure, Fantasy",
+                    "url": "/anime/?anime_id=5255",
+                    "title": "Pokemon (2023)",
+                    "author": "OLM",
+                    "description": "In a world filled with strange yet majestic creatures known as Pokémon, a new adventure begins! Hailing from the pristine region of Paldea, the timid Liko travels to the Kanto region to attend the Indigo Academy and become a Pokémon trainer—a person who forms relationships with Pokémon and trains them to participate in battles. Soon, Liko acquires Nyahoja, a fickle Grass-type cat Pokémon, as her first partner. Prior to Liko's transfer to Kanto, her grandmother gives her a uniquely patterned and gleaming pendant as a protective charm. However, an enigmatic organization—The Explorers—seems to know a secret about the pendant and nearly succeeds in stealing it from Liko. Fortunately, she is rescued by the Rising Volt Tacklers, a group of adventurers led by a Lizardon-riding trainer named Friede. After a series of encounters with The Explorers, Liko decides to join Friede's team, accompanying him and his crew members on a grand journey across the regions. Along the way, they aim to unravel not only the mysteries of the world of Pokémon, but also the power that resides within her pendant.\n\nSynonyms: Pokémon: Liko to Roy no Tabidachi, Pocket Monsters: Liko to Roy no Tabidachi, Pokémon: Terapagos no Kagayaki, Pocket Monsters: Terapagos no Kagayaki, Pokemon Horizons: Liko and Roy's Departure, Pokemon Horizons: Terapagos' Gleam",
+                    "genre": "Action, Adventure, Comedy, Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/8b1e3f5a8faaa5fbfeffda8a6550680387480f0deae684ebc332529440527582.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/953b72f3f33aab88eb5929aac777c1c47043110fd8bb29d8ec35cac7045d478d.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/ca54815e-48a8-5cd8-0858-1c986edbc0e5/bf902db62445bb279fdcbb5e6fd0d01be541ec2316419cf03be60acb67b9149c",
-                        "name": "Episode 7",
-                        "date_upload": 1723833397000,
-                        "episode_number": 7.0
+                        "url": "/play/e82771d8-9236-3845-020b-2a17b91b0af4/93b7b007b6eec7c0e6fb7351608d90df79fbb29527e9602c7ea4dfcbe0156110",
+                        "name": "Episode 61",
+                        "date_upload": 1723874701000,
+                        "episode_number": 61.0
                     },
                     {
-                        "url": "/play/ca54815e-48a8-5cd8-0858-1c986edbc0e5/4061ac4ebe05874f7585678a1efb138ea390e5a5612f10d85a4e4fc75346019c",
-                        "name": "Episode 6",
-                        "date_upload": 1723228551000,
-                        "episode_number": 6.0
+                        "url": "/play/e82771d8-9236-3845-020b-2a17b91b0af4/5e48af79fb2a52097c6e83c4e73263bca2657e809df76ca91b7b777987bd6812",
+                        "name": "Episode 60",
+                        "date_upload": 1723260672000,
+                        "episode_number": 60.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/7b6c6eca0e71e16d71bad80e59459a6ac618b30938c8d8d1a46ca0d3684a1d86?file=AnimePahe_Kono_Sekai_wa_Fukanzen_Sugiru_-_07_1080p_SubsPlease.mp4&token=N13wG-uNQ_klitQS2LjpaQ&expires=1723872451",
-                        "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/7b6c6eca0e71e16d71bad80e59459a6ac618b30938c8d8d1a46ca0d3684a1d86?file=AnimePahe_Kono_Sekai_wa_Fukanzen_Sugiru_-_07_1080p_SubsPlease.mp4&token=N13wG-uNQ_klitQS2LjpaQ&expires=1723872451"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/61e35a4574f54d2fd0488a9628f8dab2b2b3ff954b8de9d6f253392543947446?file=AnimePahe_Pokemon_2023_-_061_1080p_Some-Stuffs.mp4&token=O6voLjs7NCNoElL-Ghz92Q&expires=1723890441",
+                        "quality": "Some-Stuffs · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/61e35a4574f54d2fd0488a9628f8dab2b2b3ff954b8de9d6f253392543947446?file=AnimePahe_Pokemon_2023_-_061_1080p_Some-Stuffs.mp4&token=O6voLjs7NCNoElL-Ghz92Q&expires=1723890441"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/9963d1cc6be3fda74c958c6cda0e2d5bb7cb5c23b4b7cb657fd565d10df017ed?file=AnimePahe_Kono_Sekai_wa_Fukanzen_Sugiru_-_07_720p_SubsPlease.mp4&token=p81JDNYVaSaH9-PgOheVpQ&expires=1723872450",
-                        "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/9963d1cc6be3fda74c958c6cda0e2d5bb7cb5c23b4b7cb657fd565d10df017ed?file=AnimePahe_Kono_Sekai_wa_Fukanzen_Sugiru_-_07_720p_SubsPlease.mp4&token=p81JDNYVaSaH9-PgOheVpQ&expires=1723872450"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/56e419d6c97f63100ba396cc9d3343fd67a4c96ea95e6ac76ec9ddbaa9690e4f?file=AnimePahe_Pokemon_2023_-_061_720p_Some-Stuffs.mp4&token=t7bfz-crMmhW8dP3azC3eQ&expires=1723890440",
+                        "quality": "Some-Stuffs · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/56e419d6c97f63100ba396cc9d3343fd67a4c96ea95e6ac76ec9ddbaa9690e4f?file=AnimePahe_Pokemon_2023_-_061_720p_Some-Stuffs.mp4&token=t7bfz-crMmhW8dP3azC3eQ&expires=1723890440"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/267a263bfcbd105ff66868e7470baaf1ac2c5b0021f64642ab42978111e1edab?file=AnimePahe_Kono_Sekai_wa_Fukanzen_Sugiru_-_07_360p_SubsPlease.mp4&token=-pbkcoPsVsbYjRdDRRbuYA&expires=1723872448",
-                        "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/267a263bfcbd105ff66868e7470baaf1ac2c5b0021f64642ab42978111e1edab?file=AnimePahe_Kono_Sekai_wa_Fukanzen_Sugiru_-_07_360p_SubsPlease.mp4&token=-pbkcoPsVsbYjRdDRRbuYA&expires=1723872448"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/46d5fb4bf8add2783deb456cb4fa34852e5982720e0f61be89b284b4a0ee7012?file=AnimePahe_Pokemon_2023_-_061_360p_Some-Stuffs.mp4&token=NYCfsBJraTPj7u_IOf15Jw&expires=1723890439",
+                        "quality": "Some-Stuffs · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/46d5fb4bf8add2783deb456cb4fa34852e5982720e0f61be89b284b4a0ee7012?file=AnimePahe_Pokemon_2023_-_061_360p_Some-Stuffs.mp4&token=NYCfsBJraTPj7u_IOf15Jw&expires=1723890439"
                     }
                 ],
                 "passed": true

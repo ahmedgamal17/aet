@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/28927/Owari_no_Seraph_Nagoya_Kessen-hen",
+                                "title": "Owari no Seraph: Nagoya Kessen-hen",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/9/76632l.jpg"
+                            },
+                            {
                                 "url": "/anime/26243/Owari_no_Seraph",
                                 "title": "Owari no Seraph",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/5/73474l.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/53887/Spy_x_Family_Season_2",
                                 "title": "Spy x Family Season 2",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1506/138982l.jpg"
-                            },
-                            {
-                                "url": "/anime/50602/Spy_x_Family_Part_2",
-                                "title": "Spy x Family Part 2",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1111/127508l.jpg"
                             }
                         ],
                         "hasNextPage": true
