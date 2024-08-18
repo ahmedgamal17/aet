@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5495",
+                                "title": "Wonderful Precure!",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/dadf68543fd9642801b40d8705c31d96d0e5b43c4583378cf9faccf9d891f4a4.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5550",
+                                "title": "Karasu wa Aruji wo Erabanai",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/9b6b12cfd1b964a31d8be637b41cc8efdf3c351b03f9276ffa761be3b132fe99.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5616",
                                 "title": "Shoushimin Series",
                                 "artist": "SubsPlease",
@@ -65,18 +77,6 @@
                                 "title": "Elf-san wa Yaserarenai.",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/633d0793317aa65b4aadb65f3923fcb37d108892933c50090e07024aeb786ffa.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5610",
-                                "title": "Mob kara Hajimaru Tansaku Eiyuutan",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/d17e4947ffc7ec85451482fe0e9a7b6c16e50b8e9af6719d188f52fc6b38c35d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5608",
-                                "title": "Madougushi Dahliya wa Utsumukanai",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/66e9198342ba3de6193c022b912449b474d025870a84b28692313e86f0a3a298.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5495",
+                                "title": "Wonderful Precure!",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/dadf68543fd9642801b40d8705c31d96d0e5b43c4583378cf9faccf9d891f4a4.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5550",
+                                "title": "Karasu wa Aruji wo Erabanai",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/9b6b12cfd1b964a31d8be637b41cc8efdf3c351b03f9276ffa761be3b132fe99.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5616",
                                 "title": "Shoushimin Series",
                                 "artist": "SubsPlease",
@@ -147,18 +159,6 @@
                                 "title": "Elf-san wa Yaserarenai.",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/633d0793317aa65b4aadb65f3923fcb37d108892933c50090e07024aeb786ffa.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5610",
-                                "title": "Mob kara Hajimaru Tansaku Eiyuutan",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/d17e4947ffc7ec85451482fe0e9a7b6c16e50b8e9af6719d188f52fc6b38c35d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5608",
-                                "title": "Madougushi Dahliya wa Utsumukanai",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/66e9198342ba3de6193c022b912449b474d025870a84b28692313e86f0a3a298.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5616",
-                    "title": "Shoushimin Series",
-                    "author": "Lapin Track",
-                    "description": "\"Let's help each other and aim to become perfect ordinary citizens.\" Kobato, who once had a bitter experience through deduction activities known as \"wisdom work,\" was determined to become an honest and humble citizen. He secretly formed a reciprocal relationship with his classmate, Osanai, who shared the same aspiration, planning to make their high school debut as ordinary citizens and lead peaceful days. However, for some reason, mysterious incidents and misfortunes keep coming one after another into their school lives. Will Kobato and Osanai be able to achieve peaceful days as ordinary citizens?",
-                    "genre": "Mystery",
+                    "url": "/anime/?anime_id=5495",
+                    "title": "Wonderful Precure!",
+                    "author": "Toei Animation",
+                    "description": "The Wonderful Precure! anime is set in Animal Town, a town where animals and people live together in harmony. Second-year junior high school student Iroha Inukai is best friends with her dog named Komugi. Out for a walk one day, Iroha and Komugi encounter a mysterious creature named Garugaru, who goes on a rampage in the city. Komugi suddenly transforms into a Pretty Cure named Cure Wonderful, to protect Iroha.",
+                    "genre": "Action, Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/4a586c74cbb130d2d02807f89be43c2210717467b284556d1b8b5e7c161e71ca.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/e60f5ac3e90f911c585fe4e4857542a4e84b20049189ff28603808d52ae88b0d.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/ee7f63de-ee4c-b50a-59f8-c05450fa5f95/6a4a463b8ffa84f41cad0ba95bb7d024fe519d0cb4e3fa4de370d110258c4a89",
-                        "name": "Episode 6",
-                        "date_upload": 1723917897000,
-                        "episode_number": 6.0
+                        "url": "/play/6f511d82-e9cf-a1e2-1480-8ea89e9d2014/eea216a48491fbad7822acf1925bf37762504630b4da2314ba2572ed535a8733",
+                        "name": "Episode 29",
+                        "date_upload": 1723944987000,
+                        "episode_number": 29.0
                     },
                     {
-                        "url": "/play/ee7f63de-ee4c-b50a-59f8-c05450fa5f95/8f4582339d6f856f7b9acec5c04a50b514c1b05da66d476e89f24ca3ff2e9caf",
-                        "name": "Episode 5",
-                        "date_upload": 1723313093000,
-                        "episode_number": 5.0
+                        "url": "/play/6f511d82-e9cf-a1e2-1480-8ea89e9d2014/50dc17f7a45f15f6b40cfec9b15b1c36c7926e5d0a923b1809ea483860197cbc",
+                        "name": "Episode 28",
+                        "date_upload": 1723340128000,
+                        "episode_number": 28.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/c9d3e4b755ac01a69fd8594a33b79a9c9f392d854337f5f55a13be40f78923e1?file=AnimePahe_Shoushimin_Series_-_06_1080p_SubsPlease.mp4&token=bUJvFIFf6j8FmRJKhvWGUg&expires=1723933607",
-                        "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/c9d3e4b755ac01a69fd8594a33b79a9c9f392d854337f5f55a13be40f78923e1?file=AnimePahe_Shoushimin_Series_-_06_1080p_SubsPlease.mp4&token=bUJvFIFf6j8FmRJKhvWGUg&expires=1723933607"
-                    },
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/898e2fcf9ceb8f5127615c75aa6cbca982a02177c95faa1919cae5b9351ac5e9?file=AnimePahe_Shoushimin_Series_-_06_720p_SubsPlease.mp4&token=uK7TlajJ4HKuScgcK-rHNA&expires=1723933605",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/8e7c73a6b3dd3fe8d2c6f1f7c1f5ead6b35993798a3ecf96685197d831024e65?file=AnimePahe_Wonderful_Precure_-_29_720p_SubsPlease.mp4&token=NSJfvHwEgiaNCPR-SroO0Q&expires=1723959675",
                         "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/898e2fcf9ceb8f5127615c75aa6cbca982a02177c95faa1919cae5b9351ac5e9?file=AnimePahe_Shoushimin_Series_-_06_720p_SubsPlease.mp4&token=uK7TlajJ4HKuScgcK-rHNA&expires=1723933605"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/8e7c73a6b3dd3fe8d2c6f1f7c1f5ead6b35993798a3ecf96685197d831024e65?file=AnimePahe_Wonderful_Precure_-_29_720p_SubsPlease.mp4&token=NSJfvHwEgiaNCPR-SroO0Q&expires=1723959675"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/0743bcba410c096c26b5f774b138461c01771b863b4638a632a3d46b1c8858a3?file=AnimePahe_Shoushimin_Series_-_06_360p_SubsPlease.mp4&token=zLvGlw_CnU1AhMFHSrPWhA&expires=1723933603",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/8e9d9591299e629ace912dc3d34a3270fb76204800c6579aec500c34980a6913?file=AnimePahe_Wonderful_Precure_-_29_360p_SubsPlease.mp4&token=95lBiA4CUq350SyncuIlVg&expires=1723959674",
                         "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/0743bcba410c096c26b5f774b138461c01771b863b4638a632a3d46b1c8858a3?file=AnimePahe_Shoushimin_Series_-_06_360p_SubsPlease.mp4&token=zLvGlw_CnU1AhMFHSrPWhA&expires=1723933603"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/8e9d9591299e629ace912dc3d34a3270fb76204800c6579aec500c34980a6913?file=AnimePahe_Wonderful_Precure_-_29_360p_SubsPlease.mp4&token=95lBiA4CUq350SyncuIlVg&expires=1723959674"
                     }
                 ],
                 "passed": true
