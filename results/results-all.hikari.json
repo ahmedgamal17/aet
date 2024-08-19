@@ -57,6 +57,11 @@
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1279/131078l.jpg"
                             },
                             {
+                                "url": "/anime/54492/Kusuriya_no_Hitorigoto",
+                                "title": "Kusuriya no Hitorigoto",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1708/138033l.jpg"
+                            },
+                            {
                                 "url": "/anime/37987/Violet_Evergarden_Movie",
                                 "title": "Violet Evergarden Movie",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1825/110716l.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/anime/50172/Mob_Psycho_100_III",
                                 "title": "Mob Psycho 100 III",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1228/125011l.jpg"
-                            },
-                            {
-                                "url": "/anime/48569/86_Part_2",
-                                "title": "86 Part 2",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1321/117508l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,6 +166,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/54492/Kusuriya_no_Hitorigoto",
+                                "title": "Kusuriya no Hitorigoto",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1708/138033l.jpg"
+                            },
                             {
                                 "url": "/anime/31240/ReZero_kara_Hajimeru_Isekai_Seikatsu",
                                 "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
@@ -310,11 +315,6 @@
                                 "url": "/anime/40221/Kami_no_Tou",
                                 "title": "Kami no Tou",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1702/106229l.jpg"
-                            },
-                            {
-                                "url": "/anime/34134/One_Punch_Man_2nd_Season",
-                                "title": "One Punch Man 2nd Season",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1247/122044l.jpg"
                             }
                         ],
                         "hasNextPage": true

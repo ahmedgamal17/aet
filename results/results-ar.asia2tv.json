@@ -305,14 +305,23 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=x36xgmprMRSk6aD&expires=1724101503&ip=F0qQKRWZD19XKxR&token=brAYi2e0VNZy",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=x36xgmprMRSk6aD&expires=1724101503&ip=F0qQKRWZD19XKxR&token=brAYi2e0VNZy"
+                        "url": "https://dood.li/e/daf4u16t7vfu",
+                        "quality": "Doodstream mirror",
+                        "videoUrl": "https://dp596vl.cloudatacdn.com/u5kj7s4hexclsdgge5t6mzsgd4mtrgskhw5pdj7a4fklovjhedhgrfaflywq/ljuul65rfk~5BY6XB7kNX?token=bhtzseqfd03sfjr59h4kcdn7&expiry=1724049016751",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://dood.li/"
+                        }
                     },
                     {
-                        "url": "https://m60.uqload.ws/3rfkoot3tvw2q4drdk4pv75cdjykztaqkhvycangdalyotb645rhn2s5j5ja/v.mp4",
+                        "url": "https://streamtape.com/get_video?id=x36xgmprMRSk6aD&expires=1724119021&ip=GHEsDRqAKxSHDN&token=yo03MMDL5Kxm",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=x36xgmprMRSk6aD&expires=1724119021&ip=GHEsDRqAKxSHDN&token=yo03MMDL5Kxm"
+                    },
+                    {
+                        "url": "https://m60.uqload.ws/3rfkoot3tvw2q4drdk4pv75cdjykztaqkhvycangdalypktqwhlkv5ceg3pa/v.mp4",
                         "quality": "Uqload",
-                        "videoUrl": "https://m60.uqload.ws/3rfkoot3tvw2q4drdk4pv75cdjykztaqkhvycangdalyotb645rhn2s5j5ja/v.mp4",
+                        "videoUrl": "https://m60.uqload.ws/3rfkoot3tvw2q4drdk4pv75cdjykztaqkhvycangdalypktqwhlkv5ceg3pa/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.co/"
                         }
