@@ -242,7 +242,7 @@
                                 "artist": "David Boreanaz, Neil Brown Jr., A.J. Buckley, Toni Trucks",
                                 "author": "",
                                 "description": "The lives of the elite Navy SEALs as they train, plan, and execute the most dangerous, high-stakes missions the United States of America can ask.",
-                                "genre": "War & Military, Action & Adventure, Drama",
+                                "genre": "Action & Adventure, Drama, War & Military",
                                 "thumbnail_url": "https://images.justwatch.com/poster/300729265/s276/seal-team.webp",
                                 "initialized": true
                             },
@@ -272,7 +272,7 @@
                                 "artist": "Karl Urban, Jack Quaid, Antony Starr, Erin Moriarty",
                                 "author": "",
                                 "description": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-                                "genre": "Science-Fiction, Action & Adventure, Crime, Drama, Comedy",
+                                "genre": "Action & Adventure, Science-Fiction, Comedy, Crime, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/139452660/s276/the-boys.webp",
                                 "initialized": true
                             },
@@ -302,7 +302,7 @@
                                 "artist": "Jovan Adepo, Rosalind Chao, Liam Cunningham, Eiza González",
                                 "author": "",
                                 "description": "Across continents and decades, five brilliant friends make earth-shattering discoveries as the laws of science unravel and an existential threat emerges.",
-                                "genre": "Drama, Science-Fiction, Mystery & Thriller, Fantasy",
+                                "genre": "Mystery & Thriller, Drama, Science-Fiction, Fantasy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/313070678/s276/3-body-problem.webp",
                                 "initialized": true
                             },
@@ -312,7 +312,7 @@
                                 "artist": "Jeff Bridges",
                                 "author": "",
                                 "description": "Dan Chase absconded from the CIA decades ago and now lives off the grid. When an assassin arrives and tries to take Chase out, the old operative learns that to ensure his future he now must reconcile his past.",
-                                "genre": "Drama, Action & Adventure, Mystery & Thriller",
+                                "genre": "Action & Adventure, Drama, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/283944641/s276/the-old-man.webp",
                                 "initialized": true
                             },
@@ -637,16 +637,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": ",SHOW,/us/tv-show/world-war-ii-from-the-frontlines",
-                                "title": "World War II: From the Frontlines",
-                                "artist": "John Boyega",
-                                "author": "",
-                                "description": "Through vividly enhanced archival footage and voices from all sides of the conflict, this docuseries brings WWII to life like never before.",
-                                "genre": "War & Military",
-                                "thumbnail_url": "https://images.justwatch.com/poster/310063837/s276/world-war-ii-from-the-frontlines.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
                                 "title": "World's End Harem",
                                 "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
@@ -654,6 +644,16 @@
                                 "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
                                 "genre": "Animation, Drama, Science-Fiction, Mystery & Thriller, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/251915444/s276/worlds-end-harem.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": ",SHOW,/us/tv-show/world-war-ii-from-the-frontlines",
+                                "title": "World War II: From the Frontlines",
+                                "artist": "John Boyega",
+                                "author": "",
+                                "description": "Through vividly enhanced archival footage and voices from all sides of the conflict, this docuseries brings WWII to life like never before.",
+                                "genre": "War & Military",
+                                "thumbnail_url": "https://images.justwatch.com/poster/310063837/s276/world-war-ii-from-the-frontlines.webp",
                                 "initialized": true
                             },
                             {
@@ -717,16 +717,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
-                                "title": "Jurassic World Dominion",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
-                                "author": "Colin Trevorrow",
-                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
-                                "genre": "Science-Fiction, Action & Adventure, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt3909336,MOVIE,/us/movie/worlds-apart-2015",
                                 "title": "Worlds Apart",
                                 "artist": "J.K. Simmons, Maria Kavoyianni, Andrea Osvárt, Christopher Papakaliatis",
@@ -747,13 +737,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0105793,MOVIE,/us/movie/waynes-world",
-                                "title": "Wayne's World",
-                                "artist": "Mike Myers, Dana Carvey, Rob Lowe, Tia Carrere",
-                                "author": "Penelope Spheeris",
-                                "description": "The adventures of two amiably aimless metal-head friends, Wayne and Garth. From Wayne's basement, the pair broadcast a talk-show called \"Wayne's World\" on local public access television. The show comes to the attention of a sleazy network executive who wants to produce a big-budget version of \"Wayne's World\"—and he also wants Wayne's girlfriend, a rock singer named Cassandra. Wayne and Garth have to battle the executive not only to save their show, but also Cassandra.",
-                                "genre": "Comedy, Music & Musical",
-                                "thumbnail_url": "https://images.justwatch.com/poster/256489966/s276/waynes-world.webp",
+                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
+                                "title": "Jurassic World Dominion",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
+                                "author": "Colin Trevorrow",
+                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
+                                "genre": "Science-Fiction, Action & Adventure, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
                                 "initialized": true
                             },
                             {
@@ -777,16 +767,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
-                                "title": "Jurassic World",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
-                                "author": "Colin Trevorrow",
-                                "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0070904,SHOW,/us/tv-show/world-on-a-wire",
                                 "title": "World on a Wire",
                                 "artist": "Klaus Löwitsch, Mascha Rabben, Karl-Heinz Vosgerau, Adrian Hoven",
@@ -794,6 +774,16 @@
                                 "description": "Cybernetics engineer Fred Stiller uncovers a massive corporate conspiracy involving a virtual reality computer project.",
                                 "genre": "Science-Fiction, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/248776527/s276/world-on-a-wire.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0105793,MOVIE,/us/movie/waynes-world",
+                                "title": "Wayne's World",
+                                "artist": "Mike Myers, Dana Carvey, Rob Lowe, Tia Carrere",
+                                "author": "Penelope Spheeris",
+                                "description": "The adventures of two amiably aimless metal-head friends, Wayne and Garth. From Wayne's basement, the pair broadcast a talk-show called \"Wayne's World\" on local public access television. The show comes to the attention of a sleazy network executive who wants to produce a big-budget version of \"Wayne's World\"—and he also wants Wayne's girlfriend, a rock singer named Cassandra. Wayne and Garth have to battle the executive not only to save their show, but also Cassandra.",
+                                "genre": "Comedy, Music & Musical",
+                                "thumbnail_url": "https://images.justwatch.com/poster/256489966/s276/waynes-world.webp",
                                 "initialized": true
                             },
                             {
@@ -814,6 +804,16 @@
                                 "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
                                 "genre": "War & Military, Documentary, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/306417970/s276/the-world-wars.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
+                                "title": "Jurassic World",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
+                                "author": "Colin Trevorrow",
+                                "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
                                 "initialized": true
                             }
                         ],
