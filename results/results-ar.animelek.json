@@ -62,6 +62,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tasuuketsu/",
+                                "title": "Tasuuketsu",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Tasuuketsu-668713ee8ed6c.jpg"
+                            },
+                            {
                                 "url": "/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita/",
                                 "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
                                 "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Katsute-Mahou-Shoujo-to-Aku-wa-Tekitai-shiteita--668d75ba30e94.jpg"
@@ -175,11 +180,6 @@
                                 "url": "/anime/tensui-no-sakuna-hime/",
                                 "title": "Tensui no Sakuna-hime",
                                 "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Tensui-no-Sakuna-hime-66897a1248520.jpg"
-                            },
-                            {
-                                "url": "/anime/atri-my-dear-moments/",
-                                "title": "Atri: My Dear Moments",
-                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Atri-My-Dear-Moments-6692b029ea69c.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -305,12 +305,12 @@
                     {
                         "url": "https://www.4shared.com/web/embed/file/rqpnQdOMfa",
                         "quality": "4shared FHD",
-                        "videoUrl": "https://dc596.4shared.com/img/rqpnQdOMfa/4eca9a80/dlink__2Fdownload_2FrqpnQdOMfa_3Fsbsr_3D2a60eb96a3cbaed130816cb541edd02cb22_26bip_3DMjAuNTUuMjEzLjE3OA_26lgfp_3D66_26bip_3DMjAuNTUuMjEzLjE3OA_26bip_3DMjAuNTUuMjEzLjE3OA/preview.mp4"
+                        "videoUrl": "https://dc596.4shared.com/img/rqpnQdOMfa/4eca9a80/dlink__2Fdownload_2FrqpnQdOMfa_3Fsbsr_3D461866f96daca61a58ce81c17a14cdccb22_26bip_3DMjAuNTUuMTQuMjMx_26lgfp_3D66_26bip_3DMjAuNTUuMTQuMjMx_26bip_3DMjAuNTUuMTQuMjMx/preview.mp4"
                     },
                     {
                         "url": "https://www.4shared.com/web/embed/file/NMeikXM-jq",
                         "quality": "4shared HD",
-                        "videoUrl": "https://dc689.4shared.com/img/NMeikXM-jq/b4defa6c/dlink__2Fdownload_2FNMeikXM-jq_3Fsbsr_3Db224d3f87a9afee3e62fefeb9ba6688fb22_26bip_3DMjAuNTUuMjEzLjE3OA_26lgfp_3D66_26bip_3DMjAuNTUuMjEzLjE3OA_26bip_3DMjAuNTUuMjEzLjE3OA/preview.mp4"
+                        "videoUrl": "https://dc689.4shared.com/img/NMeikXM-jq/b4defa6c/dlink__2Fdownload_2FNMeikXM-jq_3Fsbsr_3D7dbf59ec108d70b91b1c8d9fa6920c23b22_26bip_3DMjAuNTUuMTQuMjMx_26lgfp_3D66_26bip_3DMjAuNTUuMTQuMjMx_26bip_3DMjAuNTUuMTQuMjMx/preview.mp4"
                     }
                 ],
                 "passed": true

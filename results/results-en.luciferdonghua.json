@@ -72,14 +72,14 @@
                                 "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2021/12/the-magic-chef-of-ice-and-fire-lucifer-donghua-chinese-anime.webp.webp"
                             },
                             {
-                                "url": "/anime/ten-thousand-worlds-season-2/",
-                                "title": "Ten Thousand Worlds Season 2",
-                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2022/08/ten-thousand-worlds-season-2-lucifer-donghua-768x1078.webp"
-                            },
-                            {
                                 "url": "/anime/martial-master/",
                                 "title": "Martial Master",
                                 "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2021/11/martial-master-lucifer-donghua-chinese-anime.webp"
+                            },
+                            {
+                                "url": "/anime/ten-thousand-worlds-season-2/",
+                                "title": "Ten Thousand Worlds Season 2",
+                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2022/08/ten-thousand-worlds-season-2-lucifer-donghua-768x1078.webp"
                             },
                             {
                                 "url": "/anime/shrouding-the-heavens/",
@@ -167,14 +167,19 @@
                     {
                         "animes": [
                             {
-                                "url": "/anime/throne-of-seal-shen-yin-wang-zuo/",
-                                "title": "Throne of Seal [Shen Yin Wang Zuo]",
-                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2023/09/throne-of-seal-shen-yin-wang-zuo-lucifer-donghua-768x1077.webp"
-                            },
-                            {
                                 "url": "/anime/sword-of-coming-jian-lai-2024/",
                                 "title": "Sword of Coming (Jian Lai) [2024]",
                                 "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2024/08/sword-of-coming-jian-lai-2024-lucifer-donghua-1.webp"
+                            },
+                            {
+                                "url": "/anime/dragon-prince-yuan-yuan-zun-2024/",
+                                "title": "Dragon Prince Yuan [Yuan Zun] (2024)",
+                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2024/05/dragon-prince-yuan-yuan-zun-2024-lucifer-donghua-2.webp"
+                            },
+                            {
+                                "url": "/anime/throne-of-seal-shen-yin-wang-zuo/",
+                                "title": "Throne of Seal [Shen Yin Wang Zuo]",
+                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2023/09/throne-of-seal-shen-yin-wang-zuo-lucifer-donghua-768x1077.webp"
                             },
                             {
                                 "url": "/anime/slay-the-gods-3d-2024/",
@@ -310,11 +315,6 @@
                                 "url": "/anime/renegade-immortal-xian-ni/",
                                 "title": "Renegade Immortal [Xian Ni] (2023)",
                                 "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2023/09/renegade-immortal-xian-ni-lucifer-donghua-2-768x1540.webp"
-                            },
-                            {
-                                "url": "/anime/the-charm-of-soul-pets-huan-chong-shi-2024/",
-                                "title": "The Charm of Soul Pets [Huan Chong Shi] (2024)",
-                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2024/05/the-charm-of-soul-pets-huan-chong-shi-2024-lucifer-donghua-1.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -417,8 +417,85 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(SNxijvLlek7cp9P1UFEb71vuB1m33NY01bdlUtQEhXn2fuN1KZoNo9PyWRc-g3LKd7Y_o62cR_32XBJFYINSj3LANOSrFH8EAB5zpREljDXbbir7xe1qSMnpEJunF0Q81plkXCUzrHGBuHZinx5NBQ)/video/624/452/551254426_mp4_h264_aac_hd_3.m3u8#cell=cf",
+                        "quality": "WITH ADS #1 - 720p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(SNxijvLlek7cp9P1UFEb71vuB1m33NY01bdlUtQEhXn2fuN1KZoNo9PyWRc-g3LKd7Y_o62cR_32XBJFYINSj3LANOSrFH8EAB5zpREljDXbbir7xe1qSMnpEJunF0Q81plkXCUzrHGBuHZinx5NBQ)/video/624/452/551254426_mp4_h264_aac_hd_3.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://static2.dmcdn.net/static/video/624/452/551254426_subtitle_en-auto.srt?rev=0",
+                                "lang": "English (autogenerated)"
+                            },
+                            {
+                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x947amy/en-auto.m3u8",
+                                "lang": "English (autogenerated)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(hFfozAEhKVmMA_tgiAxB2UpmSq2fDFmXKxSxc4jp6nSiv4PgG4c2hjd1o4euRuCHDbJhizGH9vP7mXWbMp7z8Epbin3EfRJc0SFmUzJRazmtZS-_eRrJUmbDXHh6TNkvxV_EhnfOXZmygVIpj1RtVg)/video/624/452/551254426_mp4_h264_aac_fhd_3.m3u8#cell=cf",
+                        "quality": "WITH ADS #1 - 1080p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(hFfozAEhKVmMA_tgiAxB2UpmSq2fDFmXKxSxc4jp6nSiv4PgG4c2hjd1o4euRuCHDbJhizGH9vP7mXWbMp7z8Epbin3EfRJc0SFmUzJRazmtZS-_eRrJUmbDXHh6TNkvxV_EhnfOXZmygVIpj1RtVg)/video/624/452/551254426_mp4_h264_aac_fhd_3.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://static2.dmcdn.net/static/video/624/452/551254426_subtitle_en-auto.srt?rev=0",
+                                "lang": "English (autogenerated)"
+                            },
+                            {
+                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x947amy/en-auto.m3u8",
+                                "lang": "English (autogenerated)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(PFO6RZmLwQ1eX9qEfHyXrX8mh7IMGXff1pg2-FnlDZNStoYBuZ3v5LDicyHLP51eB55-tQy7XZ1GCFU7DtBA9y0QbcrhrXCt_NBkKnGeq3Vwsd8-0x_2zxRZxRZVNe6sNaQXscEMeDYRr6NSbT-ZRg)/video/624/452/551254426_mp4_h264_aac_hq_3.m3u8#cell=cf",
+                        "quality": "WITH ADS #1 - 480p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(PFO6RZmLwQ1eX9qEfHyXrX8mh7IMGXff1pg2-FnlDZNStoYBuZ3v5LDicyHLP51eB55-tQy7XZ1GCFU7DtBA9y0QbcrhrXCt_NBkKnGeq3Vwsd8-0x_2zxRZxRZVNe6sNaQXscEMeDYRr6NSbT-ZRg)/video/624/452/551254426_mp4_h264_aac_hq_3.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://static2.dmcdn.net/static/video/624/452/551254426_subtitle_en-auto.srt?rev=0",
+                                "lang": "English (autogenerated)"
+                            },
+                            {
+                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x947amy/en-auto.m3u8",
+                                "lang": "English (autogenerated)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(1Hs0QvSxtWnVIrc25TadQxIa9EUoyinQg6PwxyObgLo8C3tOeooLLxeR3Gb_KbqSuFdulRgprmY9roQCzK2DiN4JfFdh1NH_-c3y0t_tx94oi5WSw_g2sFOIqHvwPsRIo3yte3NPr2m_A3DsfAs_RA)/video/624/452/551254426_mp4_h264_aac_3.m3u8#cell=cf",
+                        "quality": "WITH ADS #1 - 288p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(1Hs0QvSxtWnVIrc25TadQxIa9EUoyinQg6PwxyObgLo8C3tOeooLLxeR3Gb_KbqSuFdulRgprmY9roQCzK2DiN4JfFdh1NH_-c3y0t_tx94oi5WSw_g2sFOIqHvwPsRIo3yte3NPr2m_A3DsfAs_RA)/video/624/452/551254426_mp4_h264_aac_3.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://static2.dmcdn.net/static/video/624/452/551254426_subtitle_en-auto.srt?rev=0",
+                                "lang": "English (autogenerated)"
+                            },
+                            {
+                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x947amy/en-auto.m3u8",
+                                "lang": "English (autogenerated)"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

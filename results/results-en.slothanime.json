@@ -73,74 +73,8 @@
                 "passed": true
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/immortality-4th-season",
-                                "title": "Immortality 4th Season",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12165.png"
-                            },
-                            {
-                                "url": "/anime/nian-wushuang",
-                                "title": "Nian Wushuang",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12177.png"
-                            },
-                            {
-                                "url": "/anime/slay-the-gods",
-                                "title": "Slay the Gods",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12176.png"
-                            },
-                            {
-                                "url": "/anime/theatre-of-darkness-yamishibai-13",
-                                "title": "Theatre of Darkness: Yamishibai 13",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12144.png"
-                            },
-                            {
-                                "url": "/anime/fairy-tail-100-years-quest",
-                                "title": "FAIRY TAIL 100 YEARS QUEST",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12143.png"
-                            },
-                            {
-                                "url": "/anime/keyboard-immortal",
-                                "title": "Keyboard Immortal",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12166.png"
-                            },
-                            {
-                                "url": "/anime/cardfight-vanguard-divinez-season-2",
-                                "title": "CARDFIGHT!! VANGUARD Divinez Season 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12142.png"
-                            },
-                            {
-                                "url": "/anime/back-to-the-great-ming",
-                                "title": "Back to the Great Ming",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12141.png"
-                            },
-                            {
-                                "url": "/anime/apotheosis-2",
-                                "title": "Apotheosis 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12148.png"
-                            },
-                            {
-                                "url": "/anime/glorious-revenge-of-ye-feng-season-2",
-                                "title": "Glorious Revenge of Ye Feng Season 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12154.png"
-                            },
-                            {
-                                "url": "/anime/big-brother-2",
-                                "title": "Big Brother 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12137.png"
-                            },
-                            {
-                                "url": "/anime/perfect-world-4",
-                                "title": "Perfect World 4",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12146.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -243,24 +177,17 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/anime/nian-wushuang",
-                    "title": "Nian Wushuang",
-                    "author": "Oriental Creative Color",
-                    "genre": "Fantasy, Romance",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/12177.png",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/player/ditqbUxvWDR6TjF6NmQ4OWF6dTNYZURWOVNObEF1N21FanhmbkRMR3I3aWNWbiswV0NBVXUwcHkzWUJlY0Y0NkVuM0MwMkpsK3h1Yk5HZCsrUWVTK1gzUmZ6Ni9vQWpqdFdTOXhUc2x6WTlQUGpjaXBzc1pKVVJzMEZrME5mQUU6OtRpc+DwYSzmsJD9fVKrZcc=",
+                        "url": "/player/VDZ3eXNMZ21tMTczWFJ3VjJKUlFNbG03S0dHbFV5QnZ4K0ROdFZ3UXV6bk1kdk5uT1JDRmtGVWd3RTZmcFpCaWhzeHk2bWt5VFp6Q25EeFgxM0VUUjF1T29EMGg2elFEUGRuNGN4eVhweG5aRXgvTnZ5RVE2em1aZGhJVWY4OGk6Oph8DOQfyJacSYPNCGEhCiA=",
                         "name": "Episode 3"
                     },
                     {
-                        "url": "/player/QWsrcDNBRytiQllNVWRvTjNqNk1WQStnTmg4TXhXRDFiSngyaFZmRVUremJtYzB6WDV5N28ranBNbS9sL2dQMGFUR1RVWHRrRUtRa1V4aGZ6V1JvdmU0KzZsNms3Zk9VTTZrdng3Z0ZoTmxNRjI2RGgwVEQvcGt6V2ZaaVRPZmc6Orh67oMffD0k7/xVo/2X+aI=",
+                        "url": "/player/cDBndzZtTkNVb1NiTkZES0RLMW03bFpyNnNWSmVjUlFtMWdBc2JPT2VFQ3FpZk5pTTFiajYvN0xPWFhqT3FXcXhTbGpPeVVYemxpV3g3R0JvMXloMVRLYXlZVDF3M1NyaTBrdGNiT01yWWtnTEtkMkMyZS9WS2hsKy9NU242ZEQ6OhaA3n0B8to+qpA357lSdV4=",
                         "name": "Episode 2"
                     }
                 ],
@@ -269,13 +196,13 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/ditqbUxvWDR6TjF6NmQ4OWF6dTNYZURWOVNObEF1N21FanhmbkRMR3I3aWNWbiswV0NBVXUwcHkzWUJlY0Y0NkVuM0MwMkpsK3h1Yk5HZCsrUWVTK1gzUmZ6Ni9vQWpqdFdTOXhUc2x6WTlQUGpjaXBzc1pKVVJzMEZrME5mQUU6OtRpc+DwYSzmsJD9fVKrZcc=?vrf=Xe7%2B5Dcqx212XWHxe1VlVA%3D%3D",
+                        "url": "https://slothanime.com/player-url/VDZ3eXNMZ21tMTczWFJ3VjJKUlFNbG03S0dHbFV5QnZ4K0ROdFZ3UXV6bk1kdk5uT1JDRmtGVWd3RTZmcFpCaWhzeHk2bWt5VFp6Q25EeFgxM0VUUjF1T29EMGg2elFEUGRuNGN4eVhweG5aRXgvTnZ5RVE2em1aZGhJVWY4OGk6Oph8DOQfyJacSYPNCGEhCiA=?vrf=ghkSoVLpRNuPNtNuMtlzfQ%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/ditqbUxvWDR6TjF6NmQ4OWF6dTNYZURWOVNObEF1N21FanhmbkRMR3I3aWNWbiswV0NBVXUwcHkzWUJlY0Y0NkVuM0MwMkpsK3h1Yk5HZCsrUWVTK1gzUmZ6Ni9vQWpqdFdTOXhUc2x6WTlQUGpjaXBzc1pKVVJzMEZrME5mQUU6OtRpc+DwYSzmsJD9fVKrZcc=?vrf=Xe7%2B5Dcqx212XWHxe1VlVA%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/VDZ3eXNMZ21tMTczWFJ3VjJKUlFNbG03S0dHbFV5QnZ4K0ROdFZ3UXV6bk1kdk5uT1JDRmtGVWd3RTZmcFpCaWhzeHk2bWt5VFp6Q25EeFgxM0VUUjF1T29EMGg2elFEUGRuNGN4eVhweG5aRXgvTnZ5RVE2em1aZGhJVWY4OGk6Oph8DOQfyJacSYPNCGEhCiA=?vrf=ghkSoVLpRNuPNtNuMtlzfQ%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/ditqbUxvWDR6TjF6NmQ4OWF6dTNYZURWOVNObEF1N21FanhmbkRMR3I3aWNWbiswV0NBVXUwcHkzWUJlY0Y0NkVuM0MwMkpsK3h1Yk5HZCsrUWVTK1gzUmZ6Ni9vQWpqdFdTOXhUc2x6WTlQUGpjaXBzc1pKVVJzMEZrME5mQUU6OtRpc+DwYSzmsJD9fVKrZcc="
+                            "Referer": "https://slothanime.com/player/VDZ3eXNMZ21tMTczWFJ3VjJKUlFNbG03S0dHbFV5QnZ4K0ROdFZ3UXV6bk1kdk5uT1JDRmtGVWd3RTZmcFpCaWhzeHk2bWt5VFp6Q25EeFgxM0VUUjF1T29EMGg2elFEUGRuNGN4eVhweG5aRXgvTnZ5RVE2em1aZGhJVWY4OGk6Oph8DOQfyJacSYPNCGEhCiA="
                         }
                     }
                 ],
