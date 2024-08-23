@@ -167,6 +167,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/32981/Hand_Shakers",
+                                "title": "Hand Shakers",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/7/83395l.jpg"
+                            },
+                            {
+                                "url": "/anime/1234/Hand_Maid_Mai",
+                                "title": "Hand Maid Mai",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/12/2903l.jpg"
+                            },
+                            {
+                                "url": "/anime/2217/Hand_Maid_May_Akiramemasen",
+                                "title": "Hand Maid May: Akiramemasen",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/3/34485l.jpg"
+                            },
+                            {
+                                "url": "/anime/318/Hand_Maid_May",
+                                "title": "Hand Maid May",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/13/19241l.jpg"
+                            },
+                            {
                                 "url": "/anime/797/Hanaukyou_Maid-tai_OVA",
                                 "title": "Hanaukyou Maid-tai OVA",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1573/119819l.jpg"
@@ -295,26 +315,6 @@
                                 "url": "/anime/26243/Owari_no_Seraph",
                                 "title": "Owari no Seraph",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/5/73474l.jpg"
-                            },
-                            {
-                                "url": "/anime/37799/Tokyo_Ghoulre_2nd_Season",
-                                "title": "Tokyo Ghoul:re 2nd Season",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1545/121995l.jpg"
-                            },
-                            {
-                                "url": "/anime/36511/Tokyo_Ghoulre",
-                                "title": "Tokyo Ghoul:re",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1063/95086l.jpg"
-                            },
-                            {
-                                "url": "/anime/30458/Tokyo_Ghoul_Jack",
-                                "title": "Tokyo Ghoul: \"Jack\"",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1739/123152l.jpg"
-                            },
-                            {
-                                "url": "/anime/27899/Tokyo_Ghoul_A",
-                                "title": "Tokyo Ghoul √A",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1889/123307l.jpg"
                             }
                         ],
                         "hasNextPage": true
