@@ -1,10 +1,10 @@
 ## Extension status
 
-### 39/88(44%) are working
+### 40/88(45%) are working
 
 | Extension            |  Status   | Log                                                                                                                                       |
 | :------------------- | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| all.animeonsen       | ❌<br>0/5  | [results-all.animeonsen.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.animeonsen.json)             |
+| all.animeonsen       |     ✅     | [results-all.animeonsen.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.animeonsen.json)             |
 | all.animexin         |     ✅     | [results-all.animexin.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.animexin.json)                 |
 | all.chineseanime     |     ✅     | [results-all.chineseanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.chineseanime.json)         |
 | all.googledrive      | ❌<br>1/5  | [results-all.googledrive.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.googledrive.json)           |
@@ -33,11 +33,11 @@
 | ar.mycima            |     ✅     | [results-ar.mycima.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.mycima.json)                       |
 | ar.okanime           |     ✅     | [results-ar.okanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.okanime.json)                     |
 | ar.tuktukcinema      | ❌<br>5/6  | [results-ar.tuktukcinema.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.tuktukcinema.json)           |
-| ar.witanime          | ❌<br>1/6  | [results-ar.witanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.witanime.json)                   |
+| ar.witanime          |     ✅     | [results-ar.witanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.witanime.json)                   |
 | ar.xsanime           | ❌<br>0/5  | [results-ar.xsanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.xsanime.json)                     |
 | ar.xsmovie           | ❌<br>0/5  | [results-ar.xsmovie.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.xsmovie.json)                     |
 | en.allanime          |     ✅     | [results-en.allanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanime.json)                   |
-| en.allanimechi       |     ✅     | [results-en.allanimechi.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanimechi.json)             |
+| en.allanimechi       | ❌<br>5/6  | [results-en.allanimechi.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanimechi.json)             |
 | en.allmovies         | ❌<br>2/5  | [results-en.allmovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allmovies.json)                 |
 | en.animeflix         | ❌<br>0/6  | [results-en.animeflix.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animeflix.json)                 |
 | en.animeflixlive     | ❌<br>0/6  | [results-en.animeflixlive.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animeflixlive.json)         |
@@ -86,7 +86,7 @@
 | en.sflix             | ❌<br>5/6  | [results-en.sflix.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.sflix.json)                         |
 | en.slothanime        |     ✅     | [results-en.slothanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.slothanime.json)               |
 | en.superstream       | ❌<br>0/6  | [results-en.superstream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.superstream.json)             |
-| en.tokuzilla         | ❌<br>1/5  | [results-en.tokuzilla.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.tokuzilla.json)                 |
+| en.tokuzilla         | ❌<br>4/5  | [results-en.tokuzilla.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.tokuzilla.json)                 |
 | en.uhdmovies         | ❌<br>1/5  | [results-en.uhdmovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.uhdmovies.json)                 |
 | en.uniquestream      | ❌<br>1/6  | [results-en.uniquestream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.uniquestream.json)           |
 | en.wcofun            |     ✅     | [results-en.wcofun.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.wcofun.json)                       |
