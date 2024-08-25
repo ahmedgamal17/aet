@@ -7,6 +7,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/سندريلا-الثانية-صباحاَ/",
+                                "title": "سندريلا الثانية صباحاَ Cinderella at 2 AM"
+                            },
+                            {
                                 "url": "/الضفدع/",
                                 "title": "الضفدع The Frog"
                             },
@@ -107,16 +111,16 @@
                                 "title": "فضيحة scandal"
                             },
                             {
-                                "url": "/الراكضة-اللطيفة/",
-                                "title": "الراكضة اللطيفة Lovely Runner"
-                            },
-                            {
                                 "url": "/تجرؤ-على-حبي/",
                                 "title": "تجرؤ على حبي Dare to Love Me"
                             },
                             {
                                 "url": "/رومانسية-منتصف-الليل-في-هاغوون/",
                                 "title": "رومانسية منتصف الليل في هاغوون The Midnight Romance In Hagwon"
+                            },
+                            {
+                                "url": "/الراكضة-اللطيفة/",
+                                "title": "الراكضة اللطيفة Lovely Runner"
                             },
                             {
                                 "url": "/إنها-مختلفة-ليلاً-ونهاراً/",
@@ -131,16 +135,16 @@
                                 "title": "حبيبتي العسكرية My Military Valentine"
                             },
                             {
-                                "url": "/ليلة-الأحد،-على-الأقل…/",
-                                "title": "ليلة الأحد، على الأقل Nichiyo no Yoru Gurai wa"
-                            },
-                            {
                                 "url": "/تسلسل-هرمي/",
                                 "title": "تسلسل هرمي Hierarchy"
                             },
                             {
                                 "url": "/قبلة-المطر/",
                                 "title": "قبلة المطر Kissed By The Rain"
+                            },
+                            {
+                                "url": "/ليلة-الأحد،-على-الأقل…/",
+                                "title": "ليلة الأحد، على الأقل Nichiyo no Yoru Gurai wa"
                             },
                             {
                                 "url": "/اللاعب-2-سيد-المحتالين/",
@@ -169,10 +173,6 @@
                             {
                                 "url": "/الغيرة-المتجسدة/",
                                 "title": "الغيرة المتجسدة Jealousy Incarnate"
-                            },
-                            {
-                                "url": "/عرض-الـ8/",
-                                "title": "عرض الـ8 The 8 Show"
                             }
                         ],
                         "hasNextPage": true
@@ -280,70 +280,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/الضفدع/",
-                    "title": "الضفدع The Frog",
-                    "description": "تبدأ الدراما في صيف هادئ عندما تحجز امرأة غامضة منزل عطلات للايجار، وتتدخل في حياة المالك والمحيطين به. يدير “جون يونغ ها” كوخاً لقضاء العطلات في أعماق الغابة، وتهزه حياته الهادئة عندما تظهر امرأة غامضة تدعى “يو سونغ آه” في أوائل العقد الأول من القرن الواحد والعشرين. Yoon-Kye-Sang : في دور Goo Sang Joon Kim-Yoon-Seok : في دور Jeon Young Ha Go-Min-Si : في دور Yoo Seong Ha Lee-Jung-Eun : في دور Yoon Bo Min Ryu-Hyun-Kyung : في دور Seo Eun Kyung Park-Ji-Hwan : في دور Jong Du",
-                    "genre": "كوريا الجنوبية, إثارة, درامي, غموض",
-                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/08/MV5BZDliMjEwMDAtM2Q3YS00NzM1LWJjZWQtMTQyZTBjNTljYTAzXkEyXkFqcGdeQXVyOTAzMDU4NQ@@._V1_.jpg",
+                    "url": "/سندريلا-الثانية-صباحاَ/",
+                    "title": "سندريلا الثانية صباحاَ Cinderella at 2 AM",
+                    "description": "تدور أحداث الدراما حول قصة “ها يون سيو”، وهي فتاة عازبة تعمل في منصب قائدة فريق في شركة كبيرة. تتمتع ها يون سيو بجاذبية وشخصية لطيفة وتحظى بالاحترام في الشركة. في صغرها، قامت ها يون سيو بأخذ شقيقها الأصغر والفرار من المنزل بسبب العنف الذي كانت تتعرض له. وبمرور الوقت، نضجت ها يو Shin-Hyun-Been : في دور Ha Yun Seo Moon-Sang-Min : في دور Seo Ju Won Yoon-Park : في دور Seo Si Won Park-So-Jin : في دور Lee Mi Jin Kim-Tae-Jung : في دور Ha Ji Suk Hong-Bi-Ra : في دور Support Role",
+                    "genre": "كوريا الجنوبية, رومانسي, كوميدي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/08/coupang-play-drama-cinderella-at-2-am-teaser-poster-240802-01-1413x2024-1.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/الضفدع-الحلقة-08-الأخيرة/",
-                        "name": "%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9 : الحلقة"
-                    },
-                    {
-                        "url": "/الضفدع-الحلقة-07/",
-                        "name": "07 : الحلقة"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd236.mycdn.me/?expires=1724610381150&srcIp=4.227.115.143&pr=10&srcAg=GECKO&ms=45.136.22.44&type=5&sig=DAw1dOqwg60&ct=0&urls=45.136.20.32&clientType=0&zs=43&id=6804575619741",
-                        "quality": "Okru:1080p",
-                        "videoUrl": "https://vd236.mycdn.me/?expires=1724610381150&srcIp=4.227.115.143&pr=10&srcAg=GECKO&ms=45.136.22.44&type=5&sig=DAw1dOqwg60&ct=0&urls=45.136.20.32&clientType=0&zs=43&id=6804575619741"
-                    },
-                    {
-                        "url": "https://vd236.mycdn.me/?expires=1724610381150&srcIp=4.227.115.143&pr=10&srcAg=GECKO&ms=45.136.22.44&type=3&sig=haJMAtdyfrw&ct=0&urls=45.136.20.32&clientType=0&zs=43&id=6804575619741",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd236.mycdn.me/?expires=1724610381150&srcIp=4.227.115.143&pr=10&srcAg=GECKO&ms=45.136.22.44&type=3&sig=haJMAtdyfrw&ct=0&urls=45.136.20.32&clientType=0&zs=43&id=6804575619741"
-                    },
-                    {
-                        "url": "https://vd236.mycdn.me/?expires=1724610381150&srcIp=4.227.115.143&pr=10&srcAg=GECKO&ms=45.136.22.44&type=2&sig=EuvB4rOrXF8&ct=0&urls=45.136.20.32&clientType=0&zs=43&id=6804575619741",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd236.mycdn.me/?expires=1724610381150&srcIp=4.227.115.143&pr=10&srcAg=GECKO&ms=45.136.22.44&type=2&sig=EuvB4rOrXF8&ct=0&urls=45.136.20.32&clientType=0&zs=43&id=6804575619741"
-                    },
-                    {
-                        "url": "https://vd236.mycdn.me/?expires=1724610381150&srcIp=4.227.115.143&pr=10&srcAg=GECKO&ms=45.136.22.44&type=1&sig=ycP12D6p2Zk&ct=0&urls=45.136.20.32&clientType=0&zs=43&id=6804575619741",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd236.mycdn.me/?expires=1724610381150&srcIp=4.227.115.143&pr=10&srcAg=GECKO&ms=45.136.22.44&type=1&sig=ycP12D6p2Zk&ct=0&urls=45.136.20.32&clientType=0&zs=43&id=6804575619741"
-                    },
-                    {
-                        "url": "https://vd236.mycdn.me/?expires=1724610381150&srcIp=4.227.115.143&pr=10&srcAg=GECKO&ms=45.136.22.44&type=0&sig=p0z1XYsKRlw&ct=0&urls=45.136.20.32&clientType=0&zs=43&id=6804575619741",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd236.mycdn.me/?expires=1724610381150&srcIp=4.227.115.143&pr=10&srcAg=GECKO&ms=45.136.22.44&type=0&sig=p0z1XYsKRlw&ct=0&urls=45.136.20.32&clientType=0&zs=43&id=6804575619741"
-                    },
-                    {
-                        "url": "https://vd236.mycdn.me/?expires=1724610381150&srcIp=4.227.115.143&pr=10&srcAg=GECKO&ms=45.136.22.44&type=4&sig=YL8gaSIoEjg&ct=0&urls=45.136.20.32&clientType=0&zs=43&id=6804575619741",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd236.mycdn.me/?expires=1724610381150&srcIp=4.227.115.143&pr=10&srcAg=GECKO&ms=45.136.22.44&type=4&sig=YL8gaSIoEjg&ct=0&urls=45.136.20.32&clientType=0&zs=43&id=6804575619741"
-                    },
-                    {
-                        "url": "https://m20.uqload.ws/3rfk2pcptvw2q4drdk5pvifql52qbuqnxy45xr6omau56aiht2gsbkstuvra/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m20.uqload.ws/3rfk2pcptvw2q4drdk5pvifql52qbuqnxy45xr6omau56aiht2gsbkstuvra/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

@@ -282,53 +282,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://api.animeparadise.moe/stream/storage/4BP9Y4gYG7hKYq7",
-                        "quality": "1080p",
-                        "videoUrl": "https://api.animeparadise.moe/stream/storage/4BP9Y4gYG7hKYq7",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Host": "api.animeparadise.moe",
-                            "Referer": "https://www.animeparadise.moe/"
-                        }
-                    },
-                    {
-                        "url": "https://api.animeparadise.moe/stream/storage/Ma6wkP0KPeumX1D",
-                        "quality": "720p",
-                        "videoUrl": "https://api.animeparadise.moe/stream/storage/Ma6wkP0KPeumX1D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Host": "api.animeparadise.moe",
-                            "Referer": "https://www.animeparadise.moe/"
-                        }
-                    },
-                    {
-                        "url": "https://api.animeparadise.moe/stream/storage/K98a6Ap2dVUj3W",
-                        "quality": "480p",
-                        "videoUrl": "https://api.animeparadise.moe/stream/storage/K98a6Ap2dVUj3W",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Host": "api.animeparadise.moe",
-                            "Referer": "https://www.animeparadise.moe/"
-                        }
-                    },
-                    {
-                        "url": "https://api.animeparadise.moe/stream/storage/RjjKLDoxx9Sdgm1",
-                        "quality": "360p",
-                        "videoUrl": "https://api.animeparadise.moe/stream/storage/RjjKLDoxx9Sdgm1",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Host": "api.animeparadise.moe",
-                            "Referer": "https://www.animeparadise.moe/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Anime: 'Sousou no Frieren' episode: '28' streaming link not found",
+                "passed": false
             }
         }
     }

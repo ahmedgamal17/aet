@@ -62,6 +62,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/detective-conan/",
+                                "title": "Detective Conan",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Detective-Conan-5f08ee93df2fb.jpg"
+                            },
+                            {
+                                "url": "/anime/the-fable/",
+                                "title": "The Fable",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-The-Fable-661196f42fe27.jpg"
+                            },
+                            {
+                                "url": "/anime/karasu-wa-aruji-wo-erabanai/",
+                                "title": "Karasu wa Aruji wo Erabanai",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Karasu-wa-Aruji-wo-Erabanai-661b02da74c46.jpg"
+                            },
+                            {
+                                "url": "/anime/shoushimin-series/",
+                                "title": "Shoushimin Series",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Shoushimin-Series-66899183ac15e.jpg"
+                            },
+                            {
                                 "url": "/anime/make-heroine-ga-oosugiru/",
                                 "title": "Make Heroine ga Oosugiru!",
                                 "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Make-Heroine-ga-Oosugiru--6692b98a8bd8b.jpg"
@@ -160,26 +180,6 @@
                                 "url": "/anime/shikanoko-nokonoko-koshitantan/",
                                 "title": "Shikanoko Nokonoko Koshitantan",
                                 "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Shikanoko-Nokonoko-Koshitantan-668a58c159482.jpg"
-                            },
-                            {
-                                "url": "/anime/tasuuketsu/",
-                                "title": "Tasuuketsu",
-                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Tasuuketsu-668713ee8ed6c.jpg"
-                            },
-                            {
-                                "url": "/anime/megami-no-caf-terrace-2nd-season/",
-                                "title": "Megami no Café Terrace 2nd Season",
-                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Megami-no-Caf-Terrace-2nd-Season-6686f0c5402b7.jpg"
-                            },
-                            {
-                                "url": "/anime/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made/",
-                                "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
-                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Hazurewaku-no-Joutai-Ijou-Skill-de-Saikyou-ni-Natta-Ore-ga-Subete-wo-Juurin-suru-made-6686e9bd1a3a0.jpg"
-                            },
-                            {
-                                "url": "/anime/giji-harem/",
-                                "title": "Giji Harem",
-                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Giji-Harem-6686d24cb5b06.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -305,12 +305,12 @@
                     {
                         "url": "https://www.4shared.com/web/embed/file/rqpnQdOMfa",
                         "quality": "4shared FHD",
-                        "videoUrl": "https://dc596.4shared.com/img/rqpnQdOMfa/4eca9a80/dlink__2Fdownload_2FrqpnQdOMfa_3Fsbsr_3D533be7d01f35a766d620c5ee36d52814b23_26bip_3DNDAuNjUuMTk2LjE0NQ_26lgfp_3D66_26bip_3DNDAuNjUuMTk2LjE0NQ_26bip_3DNDAuNjUuMTk2LjE0NQ/preview.mp4"
+                        "videoUrl": "https://dc427.4shared.com/img/rqpnQdOMfa/4eca9a80/dlink__2Fdownload_2FrqpnQdOMfa_3Fsbsr_3D38d1fb763c401e75209cb1841b05fd93b23_26bip_3DNTIuMjM0LjMzLjEyMg_26lgfp_3D66_26bip_3DNTIuMjM0LjMzLjEyMg_26bip_3DNTIuMjM0LjMzLjEyMg/preview.mp4"
                     },
                     {
                         "url": "https://www.4shared.com/web/embed/file/NMeikXM-jq",
                         "quality": "4shared HD",
-                        "videoUrl": "https://dc689.4shared.com/img/NMeikXM-jq/b4defa6c/dlink__2Fdownload_2FNMeikXM-jq_3Fsbsr_3D79a6945edf03b4405a0890ff7fa85416b23_26bip_3DNDAuNjUuMTk2LjE0NQ_26lgfp_3D66_26bip_3DNDAuNjUuMTk2LjE0NQ_26bip_3DNDAuNjUuMTk2LjE0NQ/preview.mp4"
+                        "videoUrl": "https://dc689.4shared.com/img/NMeikXM-jq/b4defa6c/dlink__2Fdownload_2FNMeikXM-jq_3Fsbsr_3D8fb03911b941c84fbd7c7903732d40dfb23_26bip_3DNTIuMjM0LjMzLjEyMg_26lgfp_3D66_26bip_3DNTIuMjM0LjMzLjEyMg_26bip_3DNTIuMjM0LjMzLjEyMg/preview.mp4"
                     }
                 ],
                 "passed": true
