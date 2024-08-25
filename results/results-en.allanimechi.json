@@ -87,6 +87,11 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171031-7RJll3TJnVFA.jpg"
                             },
                             {
+                                "url": "LYKSutL2PaAjYyXWz",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg"
+                            },
+                            {
                                 "url": "orNA54BecxDNf2NbY",
                                 "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173584-nyZElmr8218W.jpg"
@@ -97,24 +102,19 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166240-PBV7zukIHW7V.png"
                             },
                             {
-                                "url": "LYKSutL2PaAjYyXWz",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg"
-                            },
-                            {
                                 "url": "pxoBGA54cmpk56MLA",
                                 "title": "\"Oshi no Ko\" Season 2",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166531-dAL5MsqDHUkj.jpg"
                             },
                             {
-                                "url": "QdcDzpRCfcjqHCNNg",
-                                "title": "Yozakura-san Chi no Daisakusen",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png"
-                            },
-                            {
                                 "url": "6v8MgBNsJQWGavdWz",
                                 "title": "Make Heroine ga Oosugiru!",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171457-Z8tZRk7LhcZk.jpg"
+                            },
+                            {
+                                "url": "QdcDzpRCfcjqHCNNg",
+                                "title": "Yozakura-san Chi no Daisakusen",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png"
                             },
                             {
                                 "url": "YeWtc8REZAGKPeb6q",
@@ -142,6 +142,11 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139095-xXcToL6L4vuv.jpg"
                             },
                             {
+                                "url": "B5EBSAariAGcmLYud",
+                                "title": "Dan Dao Zhizun",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174706-ICXnfFWkiJ3f.jpg"
+                            },
+                            {
                                 "url": "sav3h2CXtpHtP2c5x",
                                 "title": "Shikanoko Nokonoko Koshitantan",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175977-Pgrtv3p3ROe9.jpg"
@@ -150,11 +155,6 @@
                                 "url": "DdTHXmTjwHji2aApQ",
                                 "title": "Ore dake Level Up na Ken",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-yxY3olrjZH4k.png"
-                            },
-                            {
-                                "url": "B5EBSAariAGcmLYud",
-                                "title": "Dan Dao Zhizun",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174706-ICXnfFWkiJ3f.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,6 +166,41 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "w4w7kjeaW6dbWpJRZ",
+                                "title": "The Fable",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166910-pdgLmHMLdzUR.jpg"
+                            },
+                            {
+                                "url": "JqtBBEomGLm6Kcp2G",
+                                "title": "Wuliao Jiu Wanjie",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156087-0LAtkHTAafoP.jpg"
+                            },
+                            {
+                                "url": "Whq7eSyEiwEh4mCp5",
+                                "title": "Toushi Gordian",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5022-Ew1V697rQJft.jpg"
+                            },
+                            {
+                                "url": "4naBmmnk5hGRJNy7R",
+                                "title": "Uchuu Ace",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6989-YW7d39OwaYgd.png"
+                            },
+                            {
+                                "url": "Ld9pjcEvuifjbJaad",
+                                "title": "One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun!",
+                                "thumbnail_url": "https://gogocdn.net/cover/one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun.png"
+                            },
+                            {
+                                "url": "zZLPHFxwEWKmY9qCJ",
+                                "title": "Wonderful Precure!",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171030-U7zjkqv8pQFq.jpg"
+                            },
+                            {
+                                "url": "kErrH6QwGtbYi8YSk",
+                                "title": "Elf-san wa Yaserarenai",
+                                "thumbnail_url": "https://gogocdn.net/cover/elf-san-wa-yaserarenai-uncensored.png"
+                            },
                             {
                                 "url": "54QXLa5bTNaaPjsfg",
                                 "title": "Karasu wa Aruji wo Erabanai",
@@ -185,11 +220,6 @@
                                 "url": "dNqXzJGW2qR8hrKa9",
                                 "title": "Atri: My Dear Moments",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154963-Ju6Ey3P5YHs2.jpg"
-                            },
-                            {
-                                "url": "w4w7kjeaW6dbWpJRZ",
-                                "title": "The Fable",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166910-pdgLmHMLdzUR.jpg"
                             },
                             {
                                 "url": "x8k9P88s9fFCG35hd",
@@ -285,36 +315,6 @@
                                 "url": "bRHb3ESC56EXco7hn",
                                 "title": "Zhu Xian Season 2",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1433/145012.jpg"
-                            },
-                            {
-                                "url": "6rQw3KRxagqh42hwk",
-                                "title": "Douluo Dalu 2: Jueshi Tangmen",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137683-IMuvIECdZNBh.png"
-                            },
-                            {
-                                "url": "oCYNhMf2R6t9MxLm5",
-                                "title": "Yao Shen Ji 8th Season (2024)",
-                                "thumbnail_url": "https://gogocdn.net/cover/yao-shen-ji-8th-season-2024-1714457740.png"
-                            },
-                            {
-                                "url": "rqsZXkyFop3t5AnAm",
-                                "title": "Xiehou Ta de Shaonu Shidai",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177512-45VoCybTlIFj.jpg"
-                            },
-                            {
-                                "url": "B5EBSAariAGcmLYud",
-                                "title": "Dan Dao Zhizun",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174706-ICXnfFWkiJ3f.jpg"
-                            },
-                            {
-                                "url": "Xk4cv9i5gwxwkdmzK",
-                                "title": "Bai Lian Feisheng Lu Season 2",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1787/143628.webp"
-                            },
-                            {
-                                "url": "Pn6MQpE9fGsPNZcJZ",
-                                "title": "Lingwu Continent",
-                                "thumbnail_url": "https://gogocdn.net/cover/lingwu-continent.png"
                             }
                         ],
                         "hasNextPage": true
@@ -510,49 +510,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www116.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1116.1723949303.1080.m3u8",
-                        "quality": "Vidstreaming - 1080p",
-                        "videoUrl": "https://www116.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1116.1723949303.1080.m3u8",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://embtaku.pro",
-                            "Referer": "https://embtaku.pro/streaming.php?id=MjMwMDc2&title=One+Piece+Episode+1116&typesub=SUB"
-                        }
-                    },
-                    {
-                        "url": "https://www116.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1116.1723949303.720.m3u8",
-                        "quality": "Vidstreaming - 720p",
-                        "videoUrl": "https://www116.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1116.1723949303.720.m3u8",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://embtaku.pro",
-                            "Referer": "https://embtaku.pro/streaming.php?id=MjMwMDc2&title=One+Piece+Episode+1116&typesub=SUB"
-                        }
-                    },
-                    {
-                        "url": "https://www116.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1116.1723949303.480.m3u8",
-                        "quality": "Vidstreaming - 480p",
-                        "videoUrl": "https://www116.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1116.1723949303.480.m3u8",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://embtaku.pro",
-                            "Referer": "https://embtaku.pro/streaming.php?id=MjMwMDc2&title=One+Piece+Episode+1116&typesub=SUB"
-                        }
-                    },
-                    {
-                        "url": "https://www116.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1116.1723949303.360.m3u8",
-                        "quality": "Vidstreaming - 360p",
-                        "videoUrl": "https://www116.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1116.1723949303.360.m3u8",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://embtaku.pro",
-                            "Referer": "https://embtaku.pro/streaming.php?id=MjMwMDc2&title=One+Piece+Episode+1116&typesub=SUB"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.EpisodeResult', but it was missing at path: $",
+                "passed": false
             }
         }
     }
