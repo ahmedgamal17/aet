@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "{\"title\":\"One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun! English Subbed\",\"url\":\"/one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/60334.jpg\"}",
+                                "title": "One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun! English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/60334.jpg"
+                            },
+                            {
                                 "url": "{\"title\":\"Yozakura-san Chi no Daisakusen\",\"url\":\"/yozakura-san-chi-no-daisakusen-episode-21-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933561.jpg\"}",
                                 "title": "Yozakura-san Chi no Daisakusen",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933561.jpg"
@@ -80,11 +85,6 @@
                                 "url": "{\"title\":\"Atri: My Dear Moments\",\"url\":\"/atri-my-dear-moments-episode-7-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933667.jpg\"}",
                                 "title": "Atri: My Dear Moments",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933667.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"The Fable\",\"url\":\"/the-fable-episode-20-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933562.jpg\"}",
-                                "title": "The Fable",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933562.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -97,6 +97,11 @@
                     {
                         "animes": [
                             {
+                                "url": "{\"title\":\"One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun! English Subbed\",\"url\":\"/one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/60334.jpg\"}",
+                                "title": "One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun! English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/60334.jpg"
+                            },
+                            {
                                 "url": "{\"title\":\"Yozakura-san Chi no Daisakusen\",\"url\":\"/yozakura-san-chi-no-daisakusen-episode-21-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933561.jpg\"}",
                                 "title": "Yozakura-san Chi no Daisakusen",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933561.jpg"
@@ -170,11 +175,6 @@
                                 "url": "{\"title\":\"Atri: My Dear Moments\",\"url\":\"/atri-my-dear-moments-episode-7-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933667.jpg\"}",
                                 "title": "Atri: My Dear Moments",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933667.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"The Fable\",\"url\":\"/the-fable-episode-20-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933562.jpg\"}",
-                                "title": "The Fable",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933562.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -188,11 +188,11 @@
             },
             "details": {
                 "result": {
-                    "url": "{\"title\":\"Yozakura-san Chi no Daisakusen\",\"url\":\"/yozakura-san-chi-no-daisakusen-episode-21-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933561.jpg\"}",
-                    "title": "Yozakura-san Chi no Daisakusen",
+                    "url": "{\"title\":\"One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun! English Subbed\",\"url\":\"/one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/60334.jpg\"}",
+                    "title": "One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun! English Subbed",
                     "description": "",
                     "genre": "",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933561.jpg",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/60334.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -200,14 +200,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/yozakura-san-chi-no-daisakusen-episode-21-english-subbed",
-                        "name": "Episode: Yozakura-san Chi no Daisakusen Episode 21 English Subbed",
-                        "episode_number": 21.0
+                        "url": "/one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun-english-subbed",
+                        "name": "Episode: One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun! English Subbed",
+                        "episode_number": 1.0
                     },
                     {
-                        "url": "/yozakura-san-chi-no-daisakusen-episode-20-english-subbed",
-                        "name": "Episode: Yozakura-san Chi no Daisakusen Episode 20 English Subbed",
-                        "episode_number": 20.0
+                        "url": "/one-piece-episode-1116-english-subbed",
+                        "name": "Episode: One Piece Episode 1116 English Subbed",
+                        "episode_number": 1116.0
                     }
                 ],
                 "passed": true
