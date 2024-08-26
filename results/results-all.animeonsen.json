@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "EQYWatIybecPmI6S",
+                                "title": "Tsue to Tsurugi no Wistoria",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/EQYWatIybecPmI6S"
+                            },
+                            {
                                 "url": "AKRn9tuo9XGpNV4y",
                                 "title": "Quanzhi Gaoshou 3rd Season",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/AKRn9tuo9XGpNV4y"
@@ -100,11 +105,6 @@
                                 "url": "PNYtfirZGuS1TOXa",
                                 "title": "Tensei shitara Slime Datta Ken 3rd Season",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/PNYtfirZGuS1TOXa"
-                            },
-                            {
-                                "url": "62dMbmyRMDUzEYUY",
-                                "title": "Bye Bye, Earth",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/62dMbmyRMDUzEYUY"
                             }
                         ],
                         "hasNextPage": true
@@ -299,14 +299,14 @@
             },
             "details": {
                 "result": {
-                    "url": "AKRn9tuo9XGpNV4y",
-                    "title": "Quanzhi Gaoshou 3rd Season",
-                    "author": "Colored Pencil Animation",
-                    "description": "Third season of Quanzhi Gaoshou.",
-                    "genre": "Action, Video Game",
+                    "url": "EQYWatIybecPmI6S",
+                    "title": "Tsue to Tsurugi no Wistoria",
+                    "author": "Actas, Bandai Namco Pictures",
+                    "description": "Will Serfort dreams of keeping his promise to a childhood friend by becoming a Magia Vander, one of the mighty magicians who sit atop the Wizard's Tower. However, he is unable to cast even the simplest of spells, leaving him to fight dungeon monsters to earn credits at Regarden Magical Academy. As if that weren't enough, he finds himself putting his sword skills to the test against a bullying professor!\n\n(Source: Kodansha USA)",
+                    "genre": "Action, Adventure, Fantasy, School, Shounen",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/AKRn9tuo9XGpNV4y",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/EQYWatIybecPmI6S",
                     "initialized": true
                 },
                 "passed": true
@@ -314,14 +314,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "AKRn9tuo9XGpNV4y/video/13",
-                        "name": "Episode 13: Episode 13",
-                        "episode_number": 13.0
+                        "url": "EQYWatIybecPmI6S/video/7",
+                        "name": "Episode 7: Twelve Secret Ice Magics, El Glace Frosse",
+                        "episode_number": 7.0
                     },
                     {
-                        "url": "AKRn9tuo9XGpNV4y/video/12",
-                        "name": "Episode 12: Episode 12",
-                        "episode_number": 12.0
+                        "url": "EQYWatIybecPmI6S/video/6",
+                        "name": "Episode 6: Between Pride and Passion",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
@@ -329,124 +329,48 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/AKRn9tuo9XGpNV4y/13/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/EQYWatIybecPmI6S/7/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/AKRn9tuo9XGpNV4y/13/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/EQYWatIybecPmI6S/7/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/en-US/13",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/en-US/7",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/vi-VN/13",
-                                "lang": "Vietnamese"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/ur-PK/13",
-                                "lang": "اُردُو"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/tr-TR/13",
-                                "lang": "Türkçe"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/tl-PH/13",
-                                "lang": "Tagalog"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/th-TH/13",
-                                "lang": "ไทย"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/ta-IN/13",
-                                "lang": "தமிழ்"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/si-LK/13",
-                                "lang": "සිංහල"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/ru-RU/13",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/ru-RU/7",
                                 "lang": "Русский"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/ro-RO/13",
-                                "lang": "Romanian"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/pt-BR/13",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/pt-BR/7",
                                 "lang": "Português (Brasil)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/pl-PL/13",
-                                "lang": "Polish"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/ne-NP/13",
-                                "lang": "नेपाली"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/my-MM/13",
-                                "lang": "မြန်မာဘာသာ"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/ms-MY/13",
-                                "lang": "Malay"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/lo-LO/13",
-                                "lang": "ພາສາລາວ"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/la-VA/13",
-                                "lang": "Latin"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/ko-KR/13",
-                                "lang": "한국어"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/km-KH/13",
-                                "lang": "ខ្មែរ"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/ja-JP/13",
-                                "lang": "日本語"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/it-IT/13",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/it-IT/7",
                                 "lang": "Italiano"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/id-ID/13",
-                                "lang": "Indonesian"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/hi-IN/13",
-                                "lang": "Hindi"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/fr-FR/13",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/fr-FR/7",
                                 "lang": "Français"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/es-LA/13",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/es-LA/7",
                                 "lang": "Español"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/de-DE/13",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/es-ES/7",
+                                "lang": "Español (Spain)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/de-DE/7",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/bn-BD/13",
-                                "lang": "বাংলা"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/AKRn9tuo9XGpNV4y/ar-ME/13",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/ar-ME/7",
                                 "lang": "العربية"
                             }
                         ]
