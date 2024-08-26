@@ -7,6 +7,31 @@
                     {
                         "animes": [
                             {
+                                "url": "OazX6onUQgL1t9vm",
+                                "title": "Yozakura-san Chi no Daisakusen",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/OazX6onUQgL1t9vm"
+                            },
+                            {
+                                "url": "CVchub0m900eo3xj",
+                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/CVchub0m900eo3xj"
+                            },
+                            {
+                                "url": "W5kN96IH3A4GoXJm",
+                                "title": "Na Nare Hana Nare",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/W5kN96IH3A4GoXJm"
+                            },
+                            {
+                                "url": "Su6VIZqXbyJOoE22",
+                                "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/Su6VIZqXbyJOoE22"
+                            },
+                            {
+                                "url": "zoDAB6rPB6t8xVPW",
+                                "title": "Kami no Tou: Ouji no Kikan",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/zoDAB6rPB6t8xVPW"
+                            },
+                            {
                                 "url": "EQYWatIybecPmI6S",
                                 "title": "Tsue to Tsurugi no Wistoria",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/EQYWatIybecPmI6S"
@@ -80,31 +105,6 @@
                                 "url": "ovBLzy1ncMeooNL3",
                                 "title": "Madougushi Dahliya wa Utsumukanai",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/ovBLzy1ncMeooNL3"
-                            },
-                            {
-                                "url": "XUuAIQPIkrVPfIfr",
-                                "title": "Boku no Hero Academia 7th Season",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/XUuAIQPIkrVPfIfr"
-                            },
-                            {
-                                "url": "leuVVArR5TeUXOwL",
-                                "title": "Kono Sekai wa Fukanzen Sugiru",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/leuVVArR5TeUXOwL"
-                            },
-                            {
-                                "url": "OJqyBSbIHptKxN1L",
-                                "title": "Dungeon no Naka no Hito",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/OJqyBSbIHptKxN1L"
-                            },
-                            {
-                                "url": "D0tfjxt7DM9iK0nE",
-                                "title": "NieR:Automata Ver1.1a Part 2",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/D0tfjxt7DM9iK0nE"
-                            },
-                            {
-                                "url": "PNYtfirZGuS1TOXa",
-                                "title": "Tensei shitara Slime Datta Ken 3rd Season",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/PNYtfirZGuS1TOXa"
                             }
                         ],
                         "hasNextPage": true
@@ -299,14 +299,14 @@
             },
             "details": {
                 "result": {
-                    "url": "EQYWatIybecPmI6S",
-                    "title": "Tsue to Tsurugi no Wistoria",
-                    "author": "Actas, Bandai Namco Pictures",
-                    "description": "Will Serfort dreams of keeping his promise to a childhood friend by becoming a Magia Vander, one of the mighty magicians who sit atop the Wizard's Tower. However, he is unable to cast even the simplest of spells, leaving him to fight dungeon monsters to earn credits at Regarden Magical Academy. As if that weren't enough, he finds himself putting his sword skills to the test against a bullying professor!\n\n(Source: Kodansha USA)",
-                    "genre": "Action, Adventure, Fantasy, School, Shounen",
+                    "url": "OazX6onUQgL1t9vm",
+                    "title": "Yozakura-san Chi no Daisakusen",
+                    "author": "SILVER LINK.",
+                    "description": "After losing his entire family in a car crash, Taiyou Asano tries to pull away from his childhood friend, Mutsumi Yozakura, but she assures him she is not going anywhere. Nevertheless, Taiyou becomes socially awkward, struggling to make friends at school despite the efforts of his persistent classmates.\n\nOne day, the vice principal calls Taiyou to his office, only to begin threatening the boy's life. Taiyou is swept away by a stranger and eventually awakens to Mutsumi, who introduces him to her siblings—a family of spies who harbor superhuman abilities. Every generation produces one ordinary human who becomes the family head. Mutsumi is one of these, and the family's mission is to protect her with their lives. \n\nThe vice principal's real name is Kyoichiro Yozakura, and he is the eldest son of the family. As Kyouichiro believes that Taiyou is a threat to Mutsumi's life, the only way to keep both Taiyou and Mutsumi safe is for them to get married; the family has a rule that prevents them from killing within the Yozakura household. Though at first reluctant, Taiyou agrees in order to protect Mutsumi. Now he must train as a Yozakura spy to ward off the constant threats on the lives of both Mutsumi and himself.\n\n[Written by MAL Rewrite]",
+                    "genre": "Action, Comedy, Shounen",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/EQYWatIybecPmI6S",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/OazX6onUQgL1t9vm",
                     "initialized": true
                 },
                 "passed": true
@@ -314,14 +314,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "EQYWatIybecPmI6S/video/7",
-                        "name": "Episode 7: Twelve Secret Ice Magics, El Glace Frosse",
-                        "episode_number": 7.0
+                        "url": "OazX6onUQgL1t9vm/video/21",
+                        "name": "Episode 21: Yozakura Front Lines / The Blooming",
+                        "episode_number": 21.0
                     },
                     {
-                        "url": "EQYWatIybecPmI6S/video/6",
-                        "name": "Episode 6: Between Pride and Passion",
-                        "episode_number": 6.0
+                        "url": "OazX6onUQgL1t9vm/video/20",
+                        "name": "Episode 20: Sun Earrings",
+                        "episode_number": 20.0
                     }
                 ],
                 "passed": true
@@ -329,49 +329,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/EQYWatIybecPmI6S/7/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/OazX6onUQgL1t9vm/21/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/EQYWatIybecPmI6S/7/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/OazX6onUQgL1t9vm/21/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/en-US/7",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/en-US/21",
                                 "lang": "English"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/ru-RU/7",
-                                "lang": "Русский"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/pt-BR/7",
-                                "lang": "Português (Brasil)"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/it-IT/7",
-                                "lang": "Italiano"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/fr-FR/7",
-                                "lang": "Français"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/es-LA/7",
-                                "lang": "Español"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/es-ES/7",
-                                "lang": "Español (Spain)"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/de-DE/7",
-                                "lang": "Deutsch"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/EQYWatIybecPmI6S/ar-ME/7",
-                                "lang": "العربية"
                             }
                         ]
                     }

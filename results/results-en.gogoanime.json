@@ -116,6 +116,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/category/ookami-to-koushinryou-merchant-meets-the-wise-wolf",
+                                "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+                                "thumbnail_url": "https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png"
+                            },
+                            {
+                                "url": "/category/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru",
+                                "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+                                "thumbnail_url": "https://gogocdn.net/cover/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-1719517433.png"
+                            },
+                            {
+                                "url": "/category/shy-2nd-season",
+                                "title": "Shy 2nd Season",
+                                "thumbnail_url": "https://gogocdn.net/cover/shy-2nd-season.png"
+                            },
+                            {
+                                "url": "/category/mayonaka-punch",
+                                "title": "Mayonaka Punch",
+                                "thumbnail_url": "https://gogocdn.net/cover/mayonaka-punch.png"
+                            },
+                            {
+                                "url": "/category/dr-slump-arale-chan",
+                                "title": "Dr. Slump: Arale-chan",
+                                "thumbnail_url": "https://gogocdn.net/cover/dr-slump-arale-chan.png"
+                            },
+                            {
                                 "url": "/category/yami-shibai-13",
                                 "title": "Yami Shibai 13",
                                 "thumbnail_url": "https://gogocdn.net/cover/yami-shibai-13.png"
@@ -189,31 +214,6 @@
                                 "url": "/category/toushi-gordian",
                                 "title": "Toushi Gordian",
                                 "thumbnail_url": "https://gogocdn.net/cover/toushi-gordian.png"
-                            },
-                            {
-                                "url": "/category/uchuu-ace",
-                                "title": "Uchuu Ace",
-                                "thumbnail_url": "https://gogocdn.net/cover/uchuu-ace.png"
-                            },
-                            {
-                                "url": "/category/one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun",
-                                "title": "One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun!",
-                                "thumbnail_url": "https://gogocdn.net/cover/one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun.png"
-                            },
-                            {
-                                "url": "/category/wonderful-precure",
-                                "title": "Wonderful Precure!",
-                                "thumbnail_url": "https://gogocdn.net/cover/wonderful-precure.png"
-                            },
-                            {
-                                "url": "/category/elf-san-wa-yaserarenai-uncensored",
-                                "title": "Elf-san wa Yaserarenai (Uncensored)",
-                                "thumbnail_url": "https://gogocdn.net/cover/elf-san-wa-yaserarenai-uncensored.png"
-                            },
-                            {
-                                "url": "/category/karasu-wa-aruji-wo-erabanai",
-                                "title": "Karasu wa Aruji wo Erabanai",
-                                "thumbnail_url": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png"
                             }
                         ],
                         "hasNextPage": true
@@ -367,28 +367,17 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=RRzzre8fmqkbUvfkn5Niiw&expires=1724683247"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=vM-Jd0RNuQ532P__at8ORg&expires=1724704098"
                         }
                     },
                     {
-                        "url": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqf3vyocsht6qsxy3gavexpjkueyvqcf/video.mp4",
+                        "url": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfygpf7tsjhce6azctgjtztogo3vcso/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqf3vyocsht6qsxy3gavexpjkueyvqcf/video.mp4",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfygpf7tsjhce6azctgjtztogo3vcso/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Origin": "https://anitaku.to",
                             "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://in1rhjc5cqhz.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=jpLpWwsMCJjFf2QrKLhYUTdpvyOgUpvAJBxLSw_HXNc&s=1724676050&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
-                        "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://in1rhjc5cqhz.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=jpLpWwsMCJjFf2QrKLhYUTdpvyOgUpvAJBxLSw_HXNc&s=1724676050&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://awish.pro",
-                            "Referer": "https://awish.pro/e/p1x555csdopn"
                         }
                     },
                     {
@@ -408,18 +397,7 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=RRzzre8fmqkbUvfkn5Niiw&expires=1724683247"
-                        }
-                    },
-                    {
-                        "url": "https://in1rhjc5cqhz.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=jpLpWwsMCJjFf2QrKLhYUTdpvyOgUpvAJBxLSw_HXNc&s=1724676050&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
-                        "quality": "StreamWish - 720p",
-                        "videoUrl": "https://in1rhjc5cqhz.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=jpLpWwsMCJjFf2QrKLhYUTdpvyOgUpvAJBxLSw_HXNc&s=1724676050&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://awish.pro",
-                            "Referer": "https://awish.pro/e/p1x555csdopn"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=vM-Jd0RNuQ532P__at8ORg&expires=1724704098"
                         }
                     },
                     {
@@ -439,18 +417,7 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=RRzzre8fmqkbUvfkn5Niiw&expires=1724683247"
-                        }
-                    },
-                    {
-                        "url": "https://in1rhjc5cqhz.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=jpLpWwsMCJjFf2QrKLhYUTdpvyOgUpvAJBxLSw_HXNc&s=1724676050&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
-                        "quality": "StreamWish - 480p",
-                        "videoUrl": "https://in1rhjc5cqhz.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=jpLpWwsMCJjFf2QrKLhYUTdpvyOgUpvAJBxLSw_HXNc&s=1724676050&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://awish.pro",
-                            "Referer": "https://awish.pro/e/p1x555csdopn"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=vM-Jd0RNuQ532P__at8ORg&expires=1724704098"
                         }
                     },
                     {
@@ -470,7 +437,7 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=RRzzre8fmqkbUvfkn5Niiw&expires=1724683247"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=vM-Jd0RNuQ532P__at8ORg&expires=1724704098"
                         }
                     },
                     {
