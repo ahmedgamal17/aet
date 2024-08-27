@@ -137,6 +137,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodes/مسلسل-murders-building-الموسم-الرابع-الحلقة-1",
+                                "title": "مسلسل Only Murders in the Building الموسم الرابع – الحلقة 1",
+                                "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/08/62bcfa1da3bedc24aedd954068cecf77-400x600.jpeg?resize=400%2C600"
+                            },
+                            {
+                                "url": "/series/مسلسل-murders-building-الموسم-الرابع",
+                                "title": "مسلسل Only Murders in the Building الموسم الرابع",
+                                "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/08/62bcfa1da3bedc24aedd954068cecf77-400x600.jpeg?resize=400%2C600"
+                            },
+                            {
                                 "url": "/asian-movies/فيلم-escape-2024-مترجم",
                                 "title": "فيلم Escape 2024 مترجم",
                                 "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/08/1227882de60c4e76d32d48b749142b38.jpg?resize=400%2C600"
@@ -245,16 +255,6 @@
                                 "url": "/movies/فيلم-supremes-earls-can-eat-2024-مترجم",
                                 "title": "فيلم The Supremes at Earl’s All-You-Can-Eat 2024 مترجم",
                                 "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/08/d0d2c99313f72055b203bc7e69e10b72.jpg?resize=400%2C600"
-                            },
-                            {
-                                "url": "/movies/فيلم-killer-2024-مترجم",
-                                "title": "فيلم The Killer 2024 مترجم",
-                                "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/08/211af7eae1696ae9141a820399d34157.jpg?resize=400%2C600"
-                            },
-                            {
-                                "url": "/asian-movies/فيلم-cursed-2024-مترجم",
-                                "title": "فيلم The Cursed 2024 مترجم",
-                                "thumbnail_url": "https://faselhd.center/wp-content/uploads/2024/08/2ac834e3d52d22f1d08445580d7c6074.jpg?resize=400%2C600"
                             }
                         ],
                         "hasNextPage": true
@@ -421,39 +421,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://r465--8katnn5p.c.scdns.io/stream/v1/hls/0c_yrgl25ZnGOGppCuSGng/1724761797/www.faselhd.center/all/172.183.147.204/no/US/0/08-02/1/32dcb0f34aeb49acf454c28b765ca2a2/160_hd1080b_playlist.m3u8",
-                        "quality": "1080p",
-                        "videoUrl": "https://r465--8katnn5p.c.scdns.io/stream/v1/hls/0c_yrgl25ZnGOGppCuSGng/1724761797/www.faselhd.center/all/172.183.147.204/no/US/0/08-02/1/32dcb0f34aeb49acf454c28b765ca2a2/160_hd1080b_playlist.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://www.faselhd.pro",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://r465--8katnn5p.c.scdns.io/stream/v1/hls/OTzMj6AQrxHvc8TzaAbbEw/1724761797/www.faselhd.center/all/172.183.147.204/no/US/0/08-02/1/32dcb0f34aeb49acf454c28b765ca2a2/140_sd360b_playlist.m3u8",
-                        "quality": "360p",
-                        "videoUrl": "https://r465--8katnn5p.c.scdns.io/stream/v1/hls/OTzMj6AQrxHvc8TzaAbbEw/1724761797/www.faselhd.center/all/172.183.147.204/no/US/0/08-02/1/32dcb0f34aeb49acf454c28b765ca2a2/140_sd360b_playlist.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://www.faselhd.pro",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://r465--8katnn5p.c.scdns.io/stream/v1/hls/VNfVP0Ht4G7lngJF8tYhJg/1724761797/www.faselhd.center/all/172.183.147.204/no/US/0/08-02/1/32dcb0f34aeb49acf454c28b765ca2a2/155_hd720b_playlist.m3u8",
-                        "quality": "720p",
-                        "videoUrl": "https://r465--8katnn5p.c.scdns.io/stream/v1/hls/VNfVP0Ht4G7lngJF8tYhJg/1724761797/www.faselhd.center/all/172.183.147.204/no/US/0/08-02/1/32dcb0f34aeb49acf454c28b765ca2a2/155_hd720b_playlist.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://www.faselhd.pro",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
