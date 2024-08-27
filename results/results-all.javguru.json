@@ -399,9 +399,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn2.turboviplay.com/data1/66cb47a724b38/66cb47a724b38720.m3u8",
+                        "url": "https://cdn1.turboviplay.com/data1/66cb47a724b38/66cb47a724b38720.m3u8",
                         "quality": "EmTurboVid: 720p",
-                        "videoUrl": "https://cdn2.turboviplay.com/data1/66cb47a724b38/66cb47a724b38720.m3u8",
+                        "videoUrl": "https://cdn1.turboviplay.com/data1/66cb47a724b38/66cb47a724b38720.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -410,9 +410,20 @@
                         }
                     },
                     {
-                        "url": "https://e9vfjuh4kw5l5.cdn-jupiter.com/hls2/01/04764/lzsrbhuoym1c_h/index-v1-a1.m3u8?t=lKW6nCNogtIIihKxm7F_uvmT0gCg54TG-C7pPiUuuXQ&s=1724762419&e=129600&f=23831652&srv=VvKuuqfQVz&i=0.4&sp=500&p1=VvKuuqfQVz&p2=VvKuuqfQVz&asn=8075",
+                        "url": "https://s6.maxstream.org/hls2/01/00007/f55sgoyfh4qg_n/index-v1-a1.m3u8?t=Qxel1X_1DzDFUkfFQQO7hKB4olziF4IpeUDumlXNL9w&s=1724783305&e=43200&f=39562&i=20.102",
+                        "quality": "MaxStream: 480p",
+                        "videoUrl": "https://s6.maxstream.org/hls2/01/00007/f55sgoyfh4qg_n/index-v1-a1.m3u8?t=Qxel1X_1DzDFUkfFQQO7hKB4olziF4IpeUDumlXNL9w&s=1724783305&e=43200&f=39562&i=20.102",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://maxstream.org",
+                            "Referer": "https://maxstream.org/embed-f55sgoyfh4qg.html"
+                        }
+                    },
+                    {
+                        "url": "https://kjm2uxhl6gjm.cdn-jupiter.com/hls2/01/04764/lzsrbhuoym1c_h/index-v1-a1.m3u8?t=nxygHHVC5gzRzsif8R8XYMYZx7tAyUkAbqT-hQUWseY&s=1724783306&e=129600&f=23831652&srv=VvKuuqfQVz&i=0.4&sp=500&p1=VvKuuqfQVz&p2=VvKuuqfQVz&asn=8075",
                         "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://e9vfjuh4kw5l5.cdn-jupiter.com/hls2/01/04764/lzsrbhuoym1c_h/index-v1-a1.m3u8?t=lKW6nCNogtIIihKxm7F_uvmT0gCg54TG-C7pPiUuuXQ&s=1724762419&e=129600&f=23831652&srv=VvKuuqfQVz&i=0.4&sp=500&p1=VvKuuqfQVz&p2=VvKuuqfQVz&asn=8075",
+                        "videoUrl": "https://kjm2uxhl6gjm.cdn-jupiter.com/hls2/01/04764/lzsrbhuoym1c_h/index-v1-a1.m3u8?t=nxygHHVC5gzRzsif8R8XYMYZx7tAyUkAbqT-hQUWseY&s=1724783306&e=129600&f=23831652&srv=VvKuuqfQVz&i=0.4&sp=500&p1=VvKuuqfQVz&p2=VvKuuqfQVz&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -421,14 +432,14 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=7qe94OG9m3FAgv9&expires=1724832418&ip=F0qQKRWZD19XKxR&token=TNK7OuqqjTvD",
+                        "url": "https://streamtape.com/get_video?id=7qe94OG9m3FAgv9&expires=1724853306&ip=FROsD0ATKxSHDN&token=rvVoQf5PH_C6",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=7qe94OG9m3FAgv9&expires=1724832418&ip=F0qQKRWZD19XKxR&token=TNK7OuqqjTvD"
+                        "videoUrl": "https://streamtape.com/get_video?id=7qe94OG9m3FAgv9&expires=1724853306&ip=FROsD0ATKxSHDN&token=rvVoQf5PH_C6"
                     },
                     {
-                        "url": "https://cdn2.turboviplay.com/data1/66cb47a724b38/66cb47a724b381080.m3u8",
+                        "url": "https://cdn1.turboviplay.com/data1/66cb47a724b38/66cb47a724b381080.m3u8",
                         "quality": "EmTurboVid: 1080p",
-                        "videoUrl": "https://cdn2.turboviplay.com/data1/66cb47a724b38/66cb47a724b381080.m3u8",
+                        "videoUrl": "https://cdn1.turboviplay.com/data1/66cb47a724b38/66cb47a724b381080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -437,9 +448,9 @@
                         }
                     },
                     {
-                        "url": "https://cdn2.turboviplay.com/data1/66cb47a724b38/66cb47a724b38480.m3u8",
+                        "url": "https://cdn1.turboviplay.com/data1/66cb47a724b38/66cb47a724b38480.m3u8",
                         "quality": "EmTurboVid: 480p",
-                        "videoUrl": "https://cdn2.turboviplay.com/data1/66cb47a724b38/66cb47a724b38480.m3u8",
+                        "videoUrl": "https://cdn1.turboviplay.com/data1/66cb47a724b38/66cb47a724b38480.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
