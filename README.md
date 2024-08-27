@@ -29,7 +29,7 @@
 | ar.asia2tv           | ❌<br>3/5  | [results-ar.asia2tv.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.asia2tv.json)                     |
 | ar.cimaleek          | ❌<br>0/6  | [results-ar.cimaleek.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.cimaleek.json)                   |
 | ar.egydead           | ❌<br>0/6  | [results-ar.egydead.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.egydead.json)                     |
-| ar.faselhd           | ❌<br>5/6  | [results-ar.faselhd.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.faselhd.json)                     |
+| ar.faselhd           |     ✅     | [results-ar.faselhd.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.faselhd.json)                     |
 | ar.mycima            |     ✅     | [results-ar.mycima.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.mycima.json)                       |
 | ar.okanime           |     ✅     | [results-ar.okanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.okanime.json)                     |
 | ar.tuktukcinema      | ❌<br>5/6  | [results-ar.tuktukcinema.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.tuktukcinema.json)           |
@@ -37,7 +37,7 @@
 | ar.xsanime           | ❌<br>0/5  | [results-ar.xsanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.xsanime.json)                     |
 | ar.xsmovie           | ❌<br>0/5  | [results-ar.xsmovie.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.xsmovie.json)                     |
 | en.allanime          |     ✅     | [results-en.allanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanime.json)                   |
-| en.allanimechi       | ❌<br>5/6  | [results-en.allanimechi.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanimechi.json)             |
+| en.allanimechi       | ❌<br>3/6  | [results-en.allanimechi.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanimechi.json)             |
 | en.allmovies         | ❌<br>2/5  | [results-en.allmovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allmovies.json)                 |
 | en.animeflix         | ❌<br>0/6  | [results-en.animeflix.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animeflix.json)                 |
 | en.animeflixlive     | ❌<br>0/6  | [results-en.animeflixlive.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animeflixlive.json)         |
@@ -60,7 +60,7 @@
 | en.fmovies           | ❌<br>0/6  | [results-en.fmovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.fmovies.json)                     |
 | en.genoanime         | ❌<br>0/6  | [results-en.genoanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.genoanime.json)                 |
 | en.gogoanime         |     ✅     | [results-en.gogoanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.gogoanime.json)                 |
-| en.hahomoe           |     ✅     | [results-en.hahomoe.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hahomoe.json)                     |
+| en.hahomoe           | ❌<br>0/6  | [results-en.hahomoe.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hahomoe.json)                     |
 | en.hanime            |     ✅     | [results-en.hanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hanime.json)                       |
 | en.hentaimama        |     ✅     | [results-en.hentaimama.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hentaimama.json)               |
 | en.hstream           |     ✅     | [results-en.hstream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hstream.json)                     |

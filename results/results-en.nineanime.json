@@ -122,14 +122,14 @@
                                 "thumbnail_url": "https://static.aniwave.to/71/i/2018/04/5a2a03c631d274622451643db250cf07.jpg"
                             },
                             {
-                                "url": "/watch/jujutsu-kaisen.16dn",
-                                "title": "JUJUTSU KAISEN",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/6/69/69243987e9a44f1090062f56c213fce0.jpg"
-                            },
-                            {
                                 "url": "/watch/oshi-no-ko-season-2.95mn6",
                                 "title": "Oshi no Ko Season 2",
                                 "thumbnail_url": "https://static.aniwave.to/71/i/9/94/8cce06a58021a38ee6a3964340206741.jpg"
+                            },
+                            {
+                                "url": "/watch/jujutsu-kaisen.16dn",
+                                "title": "JUJUTSU KAISEN",
+                                "thumbnail_url": "https://static.aniwave.to/71/i/6/69/69243987e9a44f1090062f56c213fce0.jpg"
                             },
                             {
                                 "url": "/watch/the-eminence-in-shadow.67no",
@@ -142,19 +142,19 @@
                                 "thumbnail_url": "https://static.aniwave.to/71/i/2018/04/a027cea51dd4df76c70ebf8ea93a8d75.jpg"
                             },
                             {
-                                "url": "/watch/no-longer-humanin-another-world.oye9p",
-                                "title": "No Longer Allowed in Another World",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/8/89/1aa2f522b2013f36fa9424ca4da28af9.jpg"
-                            },
-                            {
                                 "url": "/watch/fairy-tail.xd8v",
                                 "title": "Fairy Tail",
                                 "thumbnail_url": "https://static.aniwave.to/71/i/2018/04/565d854f9ecc32bd4e257738e99db970.jpg"
                             },
                             {
-                                "url": "/watch/nige-jouzu-no-wakagimi.0pl5q",
-                                "title": "The Elusive Samurai",
-                                "thumbnail_url": "https://static.aniwave.to/71/i/b/be/5855deca4e4b2ace5dd6f86d48917cda.jpg"
+                                "url": "/watch/no-longer-humanin-another-world.oye9p",
+                                "title": "No Longer Allowed in Another World",
+                                "thumbnail_url": "https://static.aniwave.to/71/i/8/89/1aa2f522b2013f36fa9424ca4da28af9.jpg"
+                            },
+                            {
+                                "url": "/watch/shy-2nd-season.69on0",
+                                "title": "SHY Season 2",
+                                "thumbnail_url": "https://static.aniwave.to/71/i/d/d9/527c3fa9b72dead66d9168c011e82ecd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -485,22 +485,19 @@
             "details": {
                 "result": {
                     "url": "/watch/shinmai-ossan-bouken-sha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru.yr6n0",
-                    "title": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
-                    "author": "Yumeta Company",
-                    "description": "It is common knowledge that it is best to become an adventurer when you are as young as possible because the magical power that is the basis of an adventurer's strength will hardly grow if you don't train it while you are young. But this man, Rick Gladiator, who became an adventurer when he was over thirty years old, had the combat power of an S-rank adventurer, the highest rank in the world. In fact, Rick has lived an unimaginable life with the members of the legendary Orihalcon Fist, a party of the continent's strongest adventurers. From dragons to vampires, Rick's fighting prowess, trained by his literal \"monster\" mentors, allows him to defeat elite adventurers one after another who try to underestimate him.\n\nOther name(s): Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.",
-                    "genre": "Action, Adventure, Comedy, Fantasy, Parody, Vampire, Magic",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "author": "",
+                    "description": "",
+                    "genre": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 23: Expected string literal but 'null' literal was found at path: $.result\nUse 'coerceInputValues = true' in 'Json {}' builder to coerce nulls to default values.\nJSON input: {\"status\":403,\"result\":null,\"message\":\"Request is invalid.\",\"messages\":[\"Request is invalid.\"]}",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 23: Expected string literal but 'null' literal was found at path: $.result\nUse 'coerceInputValues = true' in 'Json {}' builder to coerce nulls to default values.\nJSON input: {\"status\":403,\"result\":null,\"message\":\"Request is invalid.\",\"messages\":[\"Request is invalid.\"]}",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 23: Expected string literal but 'null' literal was found at path: $.result\nUse 'coerceInputValues = true' in 'Json {}' builder to coerce nulls to default values.\nJSON input: {\"status\":404,\"result\":null,\"message\":\"Page not found.\",\"messages\":[\"Page not found.\"]}",
                 "passed": false
             }
         }
