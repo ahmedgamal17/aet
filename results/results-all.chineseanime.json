@@ -117,6 +117,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/yuan-zun-dragon-prince-yuan/",
+                                "title": "Yuan Zun (Dragon Prince Yuan)",
+                                "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2024/05/Yuan-Zun-Dragon-Prince-Yuan.png"
+                            },
+                            {
+                                "url": "/anime/throne-of-seal/",
+                                "title": "Throne of Seal",
+                                "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2022/03/THRONE-OF-SEAL.webp"
+                            },
+                            {
                                 "url": "/anime/jian-lai-sword-of-coming/",
                                 "title": "Jian Lai (Sword Of Coming)",
                                 "thumbnail_url": "https://i0.wp.com/comicxy.com/wp-content/uploads/2024/08/Jian-Lai.jpg"
@@ -205,16 +215,6 @@
                                 "url": "/anime/the-sovereign-of-all-realms-season-2/",
                                 "title": "The Sovereign of All Realms Season 2",
                                 "thumbnail_url": "https://i0.wp.com/comicxy.com/wp-content/uploads/2022/08/the-sovergien-of-all-relam.jpg"
-                            },
-                            {
-                                "url": "/anime/alchemy-supreme/",
-                                "title": "Alchemy Supreme",
-                                "thumbnail_url": "https://i3.wp.com/comicxy.com/wp-content/uploads/2023/12/Alchemy-Supreme.webp"
-                            },
-                            {
-                                "url": "/anime/spirit-sword-sovereign-season-4/",
-                                "title": "Spirit Sword Sovereign Season 4",
-                                "thumbnail_url": "https://i0.wp.com/comicxy.com/wp-content/uploads/2021/09/1630642897-sss-s4-new.png"
                             }
                         ],
                         "hasNextPage": true
@@ -316,191 +316,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vod.cf.dmcdn.net/sec2(RqtEvaYWUYm5S2Q4L8zMku1pktH6EwA-1g23E1qinEW8yyI9RiCKKMQ-qSfB4IF8_UsqiJvTVKq2eVA3UeRcnixr7n1Rr9F1CnuTVyvl5SF59LheQUUhupfYjIptK6dgoNRcvonRmx2IROkFCnTufw)/video/596/493/520394695_mp4_h264_aac_fhd_5.m3u8#cell=cf",
-                        "quality": "All Subtitle player 2 - 808p",
-                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(RqtEvaYWUYm5S2Q4L8zMku1pktH6EwA-1g23E1qinEW8yyI9RiCKKMQ-qSfB4IF8_UsqiJvTVKq2eVA3UeRcnixr7n1Rr9F1CnuTVyvl5SF59LheQUUhupfYjIptK6dgoNRcvonRmx2IROkFCnTufw)/video/596/493/520394695_mp4_h264_aac_fhd_5.m3u8#cell=cf",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_en.srt?rev=0",
-                                "lang": "English"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_es.srt?rev=0",
-                                "lang": "Español"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_pt.srt?rev=0",
-                                "lang": "Português"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_pl.srt?rev=0",
-                                "lang": "Polski"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_ar.srt?rev=0",
-                                "lang": "العربية"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_ms.srt?rev=0",
-                                "lang": "Bahasa melayu"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_fa.srt?rev=0",
-                                "lang": "فارسى"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_th.srt?rev=0",
-                                "lang": "ภาษาไทย"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_vi.srt?rev=0",
-                                "lang": "tiếng việt"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_id.srt?rev=0",
-                                "lang": "Bahasa Indonesia"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/en.m3u8",
-                                "lang": "English"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/es.m3u8",
-                                "lang": "Español"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/pt.m3u8",
-                                "lang": "Português"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/pl.m3u8",
-                                "lang": "Polski"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/ar.m3u8",
-                                "lang": "العربية"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/ms.m3u8",
-                                "lang": "Bahasa melayu"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/fa.m3u8",
-                                "lang": "فارسى"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/th.m3u8",
-                                "lang": "ภาษาไทย"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/vi.m3u8",
-                                "lang": "tiếng việt"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/id.m3u8",
-                                "lang": "Bahasa Indonesia"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vod.cf.dmcdn.net/sec2(etlMbgpA3Zll1ch17Hk0JKKFxL0wdCeXYGZYLOSRIpmSTqpOoi_I5ciRcqkVKYTtu0v--XuHJAshH8uWuznHfEdtZM97XOfwBYTnhNwM82Jz3m_RDtt8bMnr85Wm_SoD9Z-M8_rcc6hH6Cl9f6FgfQ)/video/596/493/520394695_mp4_h264_aac_hq_5.m3u8#cell=cf",
-                        "quality": "All Subtitle player 2 - 352p",
-                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(etlMbgpA3Zll1ch17Hk0JKKFxL0wdCeXYGZYLOSRIpmSTqpOoi_I5ciRcqkVKYTtu0v--XuHJAshH8uWuznHfEdtZM97XOfwBYTnhNwM82Jz3m_RDtt8bMnr85Wm_SoD9Z-M8_rcc6hH6Cl9f6FgfQ)/video/596/493/520394695_mp4_h264_aac_hq_5.m3u8#cell=cf",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_en.srt?rev=0",
-                                "lang": "English"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_es.srt?rev=0",
-                                "lang": "Español"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_pt.srt?rev=0",
-                                "lang": "Português"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_pl.srt?rev=0",
-                                "lang": "Polski"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_ar.srt?rev=0",
-                                "lang": "العربية"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_ms.srt?rev=0",
-                                "lang": "Bahasa melayu"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_fa.srt?rev=0",
-                                "lang": "فارسى"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_th.srt?rev=0",
-                                "lang": "ภาษาไทย"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_vi.srt?rev=0",
-                                "lang": "tiếng việt"
-                            },
-                            {
-                                "url": "https://static2.dmcdn.net/static/video/596/493/520394695_subtitle_id.srt?rev=0",
-                                "lang": "Bahasa Indonesia"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/en.m3u8",
-                                "lang": "English"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/es.m3u8",
-                                "lang": "Español"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/pt.m3u8",
-                                "lang": "Português"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/pl.m3u8",
-                                "lang": "Polski"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/ar.m3u8",
-                                "lang": "العربية"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/ms.m3u8",
-                                "lang": "Bahasa melayu"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/fa.m3u8",
-                                "lang": "فارسى"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/th.m3u8",
-                                "lang": "ภาษาไทย"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/vi.m3u8",
-                                "lang": "tiếng việt"
-                            },
-                            {
-                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x8ltv47/id.m3u8",
-                                "lang": "Bahasa Indonesia"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vod.cf.dmcdn.net/sec2(OcmUX41zFWajudKIeZ_Q2J2YtYM92z0iayoVYX8Xb8iGZXkLKlfXlljfAKqs4dhjMMnRJ1kr5pTUJ_gYDTgGIkZZCFJnNsidVF5rgvpYwXTawPFlBWYlpV_x2c5OvTPrFlesTy43pvu2xat-jBVeWA)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=cf",
+                        "url": "https://proxy-005.ix7.dailymotion.com/sec(jRUWpB4i4BTcBhaSBTsVmxw1j5Nx8cKpvkQ7vXOOBmObXsGhDRxEzFlc7hloLmoUlTWGFsrJFNB635FY6HjZr_SyizvuUSRxaiNvSwPKo9Q)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "quality": "All Subtitle player 2 - 216p",
-                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(OcmUX41zFWajudKIeZ_Q2J2YtYM92z0iayoVYX8Xb8iGZXkLKlfXlljfAKqs4dhjMMnRJ1kr5pTUJ_gYDTgGIkZZCFJnNsidVF5rgvpYwXTawPFlBWYlpV_x2c5OvTPrFlesTy43pvu2xat-jBVeWA)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=cf",
+                        "videoUrl": "https://proxy-005.ix7.dailymotion.com/sec(jRUWpB4i4BTcBhaSBTsVmxw1j5Nx8cKpvkQ7vXOOBmObXsGhDRxEzFlc7hloLmoUlTWGFsrJFNB635FY6HjZr_SyizvuUSRxaiNvSwPKo9Q)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -589,9 +407,9 @@
                         ]
                     },
                     {
-                        "url": "https://vod.cf.dmcdn.net/sec2(Al7hwXCWwzdbAQLGTX0clA17BCqr4xV2gS3U7DEbvF7wVmw4zpj0c5Gk8CUxKzzeMD5vaIlVVeA9E5K2RaT6XbNSb3cAJjiZltSKIf9Qmn2iS0KmNSZGV8lkliD4dSYFzmINZoG5vplLQ-G5Yj4_4g)/video/596/493/520394695_mp4_h264_aac_hd_5.m3u8#cell=cf",
-                        "quality": "All Subtitle player 2 - 536p",
-                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(Al7hwXCWwzdbAQLGTX0clA17BCqr4xV2gS3U7DEbvF7wVmw4zpj0c5Gk8CUxKzzeMD5vaIlVVeA9E5K2RaT6XbNSb3cAJjiZltSKIf9Qmn2iS0KmNSZGV8lkliD4dSYFzmINZoG5vplLQ-G5Yj4_4g)/video/596/493/520394695_mp4_h264_aac_hd_5.m3u8#cell=cf",
+                        "url": "https://proxy-001.dc3.dailymotion.com/sec(jRUWpB4i4BTcBhaSBTsVmxw1j5Nx8cKpvkQ7vXOOBmObXsGhDRxEzFlc7hloLmoUlTWGFsrJFNB635FY6HjZr_SyizvuUSRxaiNvSwPKo9Q)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "quality": "All Subtitle player 2 - 216p",
+                        "videoUrl": "https://proxy-001.dc3.dailymotion.com/sec(jRUWpB4i4BTcBhaSBTsVmxw1j5Nx8cKpvkQ7vXOOBmObXsGhDRxEzFlc7hloLmoUlTWGFsrJFNB635FY6HjZr_SyizvuUSRxaiNvSwPKo9Q)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"

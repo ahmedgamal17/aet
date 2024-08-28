@@ -52,7 +52,7 @@
                                 "artist": "Maika Monroe, Nicolas Cage, Blair Underwood, Alicia Witt",
                                 "author": "Oz Perkins",
                                 "description": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
-                                "genre": "Mystery & Thriller, Crime, Horror",
+                                "genre": "Crime, Horror, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/311450894/s276/longlegs.webp",
                                 "initialized": true
                             },
@@ -72,7 +72,7 @@
                                 "artist": "Harold Perrineau, Catalina Sandino Moreno, Eion Bailey, Hannah Cheramy",
                                 "author": "",
                                 "description": "Unravel the mystery of a city in middle U.S.A. that imprisons everyone who enters. As the residents struggle to maintain a sense of normality and seek a way out, they must also survive the threats of the surrounding forest.",
-                                "genre": "Horror, Science-Fiction, Mystery & Thriller, Drama",
+                                "genre": "Science-Fiction, Mystery & Thriller, Drama, Horror",
                                 "thumbnail_url": "https://images.justwatch.com/poster/260563925/s276/from.webp",
                                 "initialized": true
                             },
@@ -92,7 +92,7 @@
                                 "artist": "Steve Martin, Martin Short, Selena Gomez",
                                 "author": "",
                                 "description": "Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one.",
-                                "genre": "Comedy, Mystery & Thriller, Crime, Drama",
+                                "genre": "Crime, Comedy, Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/306764050/s276/only-murders-in-the-building.webp",
                                 "initialized": true
                             },
@@ -112,7 +112,7 @@
                                 "artist": "Amy Poehler, Maya Hawke, Kensington Tallman, Grace Lu",
                                 "author": "Kelsey Mann",
                                 "description": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
-                                "genre": "Comedy, Animation, Kids & Family, Action & Adventure, Drama, Fantasy",
+                                "genre": "Kids & Family, Action & Adventure, Comedy, Animation, Drama, Fantasy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/317102237/s276/inside-out-2.webp",
                                 "initialized": true
                             },
@@ -212,7 +212,7 @@
                                 "artist": "Lupita Nyong'o, Joseph Quinn, Alex Wolff, Djimon Hounsou",
                                 "author": "Michael Sarnoski",
                                 "description": "A young woman named Sam finds herself trapped in New York City during the early stages of an invasion by alien creatures with ultra-sensitive hearing.",
-                                "genre": "Horror, Science-Fiction, Mystery & Thriller, Drama",
+                                "genre": "Drama, Horror, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/318336616/s276/a-quiet-place-day-one.webp",
                                 "initialized": true
                             },
@@ -282,7 +282,7 @@
                                 "artist": "Brandon Lee, Rochelle Davis, Ernie Hudson, Michael Wincott",
                                 "author": "Alex Proyas",
                                 "description": "Exactly one year after young rock guitarist Eric Draven and his fiancée are brutally killed by a ruthless gang of criminals, Draven—watched over by a hypnotic crow—returns from the grave to exact revenge.",
-                                "genre": "Fantasy, Action & Adventure, Mystery & Thriller, Crime, Drama, Horror",
+                                "genre": "Mystery & Thriller, Fantasy, Action & Adventure, Horror, Crime, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/243662817/s276/the-crow.webp",
                                 "initialized": true
                             },
@@ -337,16 +337,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt12637874,SHOW,/us/tv-show/fallout-2023",
-                                "title": "Fallout",
-                                "artist": "Ella Purnell, Aaron Moten, Moisés Arias, Walton Goggins",
-                                "author": "",
-                                "description": "In a future, post-apocalyptic Los Angeles brought about by nuclear decimation, citizens must live in underground bunkers to protect themselves from radiation, mutants and bandits.",
-                                "genre": "War & Military, Action & Adventure, Drama, Science-Fiction, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/313866771/s276/fallout-2023.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0094721,MOVIE,/us/movie/beetlejuice",
                                 "title": "Beetlejuice",
                                 "artist": "Alec Baldwin, Geena Davis, Winona Ryder, Catherine O'Hara",
@@ -364,6 +354,16 @@
                                 "description": "A ranching family in Montana faces off against others encroaching on their land.",
                                 "genre": "Drama, Western",
                                 "thumbnail_url": "https://images.justwatch.com/poster/301671886/s276/yellowstone-2018.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt12637874,SHOW,/us/tv-show/fallout-2023",
+                                "title": "Fallout",
+                                "artist": "Ella Purnell, Aaron Moten, Moisés Arias, Walton Goggins",
+                                "author": "",
+                                "description": "In a future, post-apocalyptic Los Angeles brought about by nuclear decimation, citizens must live in underground bunkers to protect themselves from radiation, mutants and bandits.",
+                                "genre": "Action & Adventure, Drama, Science-Fiction, War & Military",
+                                "thumbnail_url": "https://images.justwatch.com/poster/313866771/s276/fallout-2023.webp",
                                 "initialized": true
                             },
                             {
@@ -432,7 +432,7 @@
                                 "artist": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
                                 "author": "Marc Forster",
                                 "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                "genre": "Science-Fiction, Horror, Action & Adventure",
+                                "genre": "Action & Adventure, Horror, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/291193041/s276/world-war-z-3d.webp",
                                 "initialized": true
                             },
@@ -617,16 +617,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": ",SHOW,/us/tv-show/world-war-ii-from-the-frontlines",
-                                "title": "World War II: From the Frontlines",
-                                "artist": "John Boyega",
-                                "author": "",
-                                "description": "Through vividly enhanced archival footage and voices from all sides of the conflict, this docuseries brings WWII to life like never before.",
-                                "genre": "War & Military",
-                                "thumbnail_url": "https://images.justwatch.com/poster/310063837/s276/world-war-ii-from-the-frontlines.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
                                 "title": "World's End Harem",
                                 "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
@@ -637,13 +627,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt32421227,SHOW,/us/tv-show/world-eats-bread",
-                                "title": "World Eats Bread",
-                                "artist": "",
+                                "url": ",SHOW,/us/tv-show/world-war-ii-from-the-frontlines",
+                                "title": "World War II: From the Frontlines",
+                                "artist": "John Boyega",
                                 "author": "",
-                                "description": "Delectable documentary chronicling bread's roots across cultures. Each episode unveils a staple loaf's origins, mirroring homelands' history and identity.",
-                                "genre": "Documentary",
-                                "thumbnail_url": "https://images.justwatch.com/poster/316454723/s276/world-eats-bread.webp",
+                                "description": "Through vividly enhanced archival footage and voices from all sides of the conflict, this docuseries brings WWII to life like never before.",
+                                "genre": "War & Military",
+                                "thumbnail_url": "https://images.justwatch.com/poster/310063837/s276/world-war-ii-from-the-frontlines.webp",
                                 "initialized": true
                             },
                             {
@@ -662,7 +652,7 @@
                                 "artist": "Oliver Maltman, David Bradley, Ben Chaplin, Charlotte Riley",
                                 "author": "Michael Caton-Jones",
                                 "description": "Two hundred years after the construction of the great cathedral, the medieval town of Kingsbridge is  taken under siege by Queen Isabella. Caris, a visionary young woman, inspires her people to stand up for their rights and revolt against to the most powerful forces of her time, the Church and the Crown.",
-                                "genre": "Drama, Romance, Mystery & Thriller",
+                                "genre": "Drama, Mystery & Thriller, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/240897308/s276/world-without-end.webp",
                                 "initialized": true
                             },
@@ -687,16 +677,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt4854976,SHOW,/us/tv-show/worlds-deadliest",
-                                "title": "World's Deadliest",
-                                "artist": "Jeremy Davidson",
-                                "author": "",
-                                "description": "The Animal Kingdom is rife with deadly snakes.",
-                                "genre": "Documentary, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/306897307/s276/worlds-deadliest.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
                                 "title": "Jurassic World Dominion",
                                 "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
@@ -704,6 +684,16 @@
                                 "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
                                 "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt4854976,SHOW,/us/tv-show/worlds-deadliest",
+                                "title": "World's Deadliest",
+                                "artist": "Jeremy Davidson",
+                                "author": "",
+                                "description": "The Animal Kingdom is rife with deadly snakes.",
+                                "genre": "Documentary, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/306897307/s276/worlds-deadliest.webp",
                                 "initialized": true
                             },
                             {
@@ -717,16 +707,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
-                                "title": "World's Funniest Animals",
-                                "artist": "Elizabeth Stanton",
-                                "author": "",
-                                "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
-                                "genre": "Reality TV, Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt9738716,MOVIE,/us/movie/the-world-to-come",
                                 "title": "The World to Come",
                                 "artist": "Katherine Waterston, Casey Affleck, Vanessa Kirby, Christopher Abbott",
@@ -737,13 +717,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt15472028,SHOW,/us/tv-show/world-war-2-the-call-of-duty-a-complete-timeline",
-                                "title": "World War 2: The Call of Duty - A Complete Timeline",
-                                "artist": "",
-                                "author": "Liam Dale",
-                                "description": "Track the main events of World War II with the help of remarkable archive footage in this extensive 24 episode series, which shines a spotlight on this monumental period of history.",
-                                "genre": "History, War & Military, Documentary",
-                                "thumbnail_url": "https://images.justwatch.com/poster/298702672/s276/world-war-2-the-call-of-duty-a-complete-timeline.webp",
+                                "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
+                                "title": "World's Funniest Animals",
+                                "artist": "Elizabeth Stanton",
+                                "author": "",
+                                "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
+                                "genre": "Reality TV, Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
                                 "initialized": true
                             },
                             {
@@ -757,6 +737,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt15472028,SHOW,/us/tv-show/world-war-2-the-call-of-duty-a-complete-timeline",
+                                "title": "World War 2: The Call of Duty - A Complete Timeline",
+                                "artist": "",
+                                "author": "Liam Dale",
+                                "description": "Track the main events of World War II with the help of remarkable archive footage in this extensive 24 episode series, which shines a spotlight on this monumental period of history.",
+                                "genre": "War & Military, Documentary, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/298702672/s276/world-war-2-the-call-of-duty-a-complete-timeline.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": ",SHOW,/us/tv-show/world-series",
                                 "title": "MLB World Series",
                                 "artist": "Joe Buck, Jeanne Zelasko, Tim McCarver, Chris Myers",
@@ -764,6 +754,16 @@
                                 "description": "",
                                 "genre": "",
                                 "thumbnail_url": "https://images.justwatch.com/poster/300523048/s276/world-series.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0070904,SHOW,/us/tv-show/world-on-a-wire",
+                                "title": "World on a Wire",
+                                "artist": "Klaus Löwitsch, Mascha Rabben, Karl-Heinz Vosgerau, Adrian Hoven",
+                                "author": "",
+                                "description": "Cybernetics engineer Fred Stiller uncovers a massive corporate conspiracy involving a virtual reality computer project.",
+                                "genre": "Science-Fiction, Crime",
+                                "thumbnail_url": "https://images.justwatch.com/poster/248776527/s276/world-on-a-wire.webp",
                                 "initialized": true
                             },
                             {
@@ -777,13 +777,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0070904,SHOW,/us/tv-show/world-on-a-wire",
-                                "title": "World on a Wire",
-                                "artist": "Klaus Löwitsch, Mascha Rabben, Karl-Heinz Vosgerau, Adrian Hoven",
+                                "url": "tt32421227,SHOW,/us/tv-show/world-eats-bread",
+                                "title": "World Eats Bread",
+                                "artist": "",
                                 "author": "",
-                                "description": "Cybernetics engineer Fred Stiller uncovers a massive corporate conspiracy involving a virtual reality computer project.",
-                                "genre": "Science-Fiction, Crime",
-                                "thumbnail_url": "https://images.justwatch.com/poster/248776527/s276/world-on-a-wire.webp",
+                                "description": "Delectable documentary chronicling bread's roots across cultures. Each episode unveils a staple loaf's origins, mirroring homelands' history and identity.",
+                                "genre": "Documentary",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320017257/s276/world-eats-bread.webp",
                                 "initialized": true
                             },
                             {
@@ -812,7 +812,7 @@
                                 "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
                                 "author": "John Ealer",
                                 "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
-                                "genre": "Documentary, War & Military, History",
+                                "genre": "War & Military, Documentary, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/306417970/s276/the-world-wars.webp",
                                 "initialized": true
                             }
@@ -868,7 +868,7 @@
                     },
                     {
                         "url": "magnet:?xt=urn:btih:512e9c88a41871457261c460085e3706a145604e&dn=512e9c88a41871457261c460085e3706a145604e&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=8",
-                        "quality": "1080p\nThe Frog (2024) S01 (WEBRip 1080p HEVC AAC)\nThe Frog - S01E08.mkv\n👤 69 💾 1.22 GB ⚙️ TorrentGalaxy\n🇰🇷",
+                        "quality": "1080p\nThe Frog (2024) S01 (WEBRip 1080p HEVC AAC)\nThe Frog - S01E08.mkv\n👤 57 💾 1.22 GB ⚙️ TorrentGalaxy\n🇰🇷",
                         "videoUrl": "magnet:?xt=urn:btih:512e9c88a41871457261c460085e3706a145604e&dn=512e9c88a41871457261c460085e3706a145604e&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=8"
                     },
                     {
