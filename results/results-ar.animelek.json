@@ -62,6 +62,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tasuuketsu/",
+                                "title": "Tasuuketsu",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Tasuuketsu-668713ee8ed6c.jpg"
+                            },
+                            {
+                                "url": "/anime/delico-s-nursery/",
+                                "title": "Delico's Nursery",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Delico-s-Nursery-66b3b1b78d3c9.jpg"
+                            },
+                            {
+                                "url": "/anime/yeosin-gangnim/",
+                                "title": "Yeosin Gangnim",
+                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Yeosin-Gangnim-66b3b6667906a.jpg"
+                            },
+                            {
                                 "url": "/anime/sengoku-youko-senma-konton-hen/",
                                 "title": "Sengoku Youko: Senma Konton-hen",
                                 "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Sengoku-Youko-Senma-Konton-hen-66858d92e26d4.jpg"
@@ -165,21 +180,6 @@
                                 "url": "/anime/karasu-wa-aruji-wo-erabanai/",
                                 "title": "Karasu wa Aruji wo Erabanai",
                                 "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Karasu-wa-Aruji-wo-Erabanai-661b02da74c46.jpg"
-                            },
-                            {
-                                "url": "/anime/shoushimin-series/",
-                                "title": "Shoushimin Series",
-                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Shoushimin-Series-66899183ac15e.jpg"
-                            },
-                            {
-                                "url": "/anime/make-heroine-ga-oosugiru/",
-                                "title": "Make Heroine ga Oosugiru!",
-                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Make-Heroine-ga-Oosugiru--6692b98a8bd8b.jpg"
-                            },
-                            {
-                                "url": "/anime/atri-my-dear-moments/",
-                                "title": "Atri: My Dear Moments",
-                                "thumbnail_url": "https://animelek.pro/uploads/posters/thumbnail-Atri-My-Dear-Moments-6692b029ea69c.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -305,12 +305,12 @@
                     {
                         "url": "https://www.4shared.com/web/embed/file/rqpnQdOMfa",
                         "quality": "4shared FHD",
-                        "videoUrl": "https://dc596.4shared.com/img/rqpnQdOMfa/4eca9a80/dlink__2Fdownload_2FrqpnQdOMfa_3Fsbsr_3Dde0c8828fdfb497827e9143ad798511ab23_26bip_3DMTMuODMuMjIxLjE3OA_26lgfp_3D66_26bip_3DMTMuODMuMjIxLjE3OA_26bip_3DMTMuODMuMjIxLjE3OA/preview.mp4"
+                        "videoUrl": "https://dc596.4shared.com/img/rqpnQdOMfa/4eca9a80/dlink__2Fdownload_2FrqpnQdOMfa_3Fsbsr_3Db1b780b68b4040076e38710e060b3582b24_26bip_3DMTMuODguOTkuMTI5_26lgfp_3D66_26bip_3DMTMuODguOTkuMTI5_26bip_3DMTMuODguOTkuMTI5/preview.mp4"
                     },
                     {
                         "url": "https://www.4shared.com/web/embed/file/NMeikXM-jq",
                         "quality": "4shared HD",
-                        "videoUrl": "https://dc689.4shared.com/img/NMeikXM-jq/b4defa6c/dlink__2Fdownload_2FNMeikXM-jq_3Fsbsr_3Dcacdbd5e1affd55b6be38b8ffbd04955b23_26bip_3DMTMuODMuMjIxLjE3OA_26lgfp_3D66_26bip_3DMTMuODMuMjIxLjE3OA_26bip_3DMTMuODMuMjIxLjE3OA/preview.mp4"
+                        "videoUrl": "https://dc689.4shared.com/img/NMeikXM-jq/b4defa6c/dlink__2Fdownload_2FNMeikXM-jq_3Fsbsr_3D7de177c73ec2fb94f66db26f4b14277cb24_26bip_3DMTMuODguOTkuMTI5_26lgfp_3D66_26bip_3DMTMuODguOTkuMTI5_26bip_3DMTMuODguOTkuMTI5/preview.mp4"
                     }
                 ],
                 "passed": true
