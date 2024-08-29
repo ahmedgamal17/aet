@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "{\"title\":\"Delico's Nursery\",\"url\":\"/delicos-nursery-episode-2-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933712.jpg\"}",
+                                "title": "Delico's Nursery",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933712.jpg"
+                            },
+                            {
+                                "url": "{\"title\":\"Alya Sometimes Hides Her Feelings in Russian\",\"url\":\"/alya-sometimes-hides-her-feelings-in-russian-episode-7-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933679.jpg\"}",
+                                "title": "Alya Sometimes Hides Her Feelings in Russian",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933679.jpg"
+                            },
+                            {
                                 "url": "{\"title\":\"My Deer Friend Nokotan\",\"url\":\"/my-deer-friend-nokotan-episode-9-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933658.jpg\"}",
                                 "title": "My Deer Friend Nokotan",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933658.jpg"
@@ -75,16 +85,6 @@
                                 "url": "{\"title\":\"No Longer Allowed in Another World\",\"url\":\"/no-longer-allowed-in-another-world-episode-5-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933690.jpg\"}",
                                 "title": "No Longer Allowed in Another World",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933690.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"Tasuuketsu\",\"url\":\"/tasuuketsu-episode-7-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933629.jpg\"}",
-                                "title": "Tasuuketsu",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933629.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"Isekai Shikkaku\",\"url\":\"/isekai-shikkaku-episode-8-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933662.jpg\"}",
-                                "title": "Isekai Shikkaku",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933662.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -97,6 +97,16 @@
                     {
                         "animes": [
                             {
+                                "url": "{\"title\":\"Delico's Nursery\",\"url\":\"/delicos-nursery-episode-2-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933712.jpg\"}",
+                                "title": "Delico's Nursery",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933712.jpg"
+                            },
+                            {
+                                "url": "{\"title\":\"Alya Sometimes Hides Her Feelings in Russian\",\"url\":\"/alya-sometimes-hides-her-feelings-in-russian-episode-7-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933679.jpg\"}",
+                                "title": "Alya Sometimes Hides Her Feelings in Russian",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933679.jpg"
+                            },
+                            {
                                 "url": "{\"title\":\"My Deer Friend Nokotan\",\"url\":\"/my-deer-friend-nokotan-episode-9-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933658.jpg\"}",
                                 "title": "My Deer Friend Nokotan",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933658.jpg"
@@ -165,16 +175,6 @@
                                 "url": "{\"title\":\"No Longer Allowed in Another World\",\"url\":\"/no-longer-allowed-in-another-world-episode-5-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933690.jpg\"}",
                                 "title": "No Longer Allowed in Another World",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933690.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"Tasuuketsu\",\"url\":\"/tasuuketsu-episode-7-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933629.jpg\"}",
-                                "title": "Tasuuketsu",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933629.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"Isekai Shikkaku\",\"url\":\"/isekai-shikkaku-episode-8-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933662.jpg\"}",
-                                "title": "Isekai Shikkaku",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933662.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -188,11 +188,11 @@
             },
             "details": {
                 "result": {
-                    "url": "{\"title\":\"My Deer Friend Nokotan\",\"url\":\"/my-deer-friend-nokotan-episode-9-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933658.jpg\"}",
-                    "title": "My Deer Friend Nokotan",
+                    "url": "{\"title\":\"Delico's Nursery\",\"url\":\"/delicos-nursery-episode-2-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933712.jpg\"}",
+                    "title": "Delico's Nursery",
                     "description": "",
                     "genre": "",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933658.jpg",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933712.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -200,14 +200,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/my-deer-friend-nokotan-episode-9-english-dubbed",
-                        "name": "Episode: My Deer Friend Nokotan Episode 9 English Dubbed",
-                        "episode_number": 9.0
+                        "url": "/delicos-nursery-episode-2-english-dubbed",
+                        "name": "Episode: Delico’s Nursery Episode 2 English Dubbed",
+                        "episode_number": 2.0
                     },
                     {
-                        "url": "/my-deer-friend-nokotan-episode-8-english-dubbed",
-                        "name": "Episode: My Deer Friend Nokotan Episode 8 English Dubbed",
-                        "episode_number": 8.0
+                        "url": "/delicos-nursery-episode-1-english-dubbed",
+                        "name": "Episode: Delico’s Nursery Episode 1 English Dubbed",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
