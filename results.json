@@ -166,7 +166,7 @@
   },
   {
     "pkg": "en.allanimechi",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanimechi.json"
   },
   {
@@ -248,6 +248,31 @@
     "pkg": "en.donghuastream",
     "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.donghuastream.json"
+  },
+  {
+    "pkg": "en.dopebox",
+    "passed": false,
+    "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.dopebox.json"
+  },
+  {
+    "pkg": "en.dramacool",
+    "passed": false,
+    "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.dramacool.json"
+  },
+  {
+    "pkg": "en.edytjedhgmdhm",
+    "passed": false,
+    "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.edytjedhgmdhm.json"
+  },
+  {
+    "pkg": "en.fmovies",
+    "passed": false,
+    "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.fmovies.json"
+  },
+  {
+    "pkg": "en.genoanime",
+    "passed": false,
+    "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.genoanime.json"
   },
   {
     "pkg": "en.gogoanime",

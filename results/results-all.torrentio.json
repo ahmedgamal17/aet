@@ -22,7 +22,7 @@
                                 "artist": "George Takei, Kiki Sukezane, Shingo Usami, Naoko Mori",
                                 "author": "",
                                 "description": "A chilling anthology series featuring stories of people in terrifying situations inspired by true historical events.",
-                                "genre": "Drama, Science-Fiction, Mystery & Thriller, Horror",
+                                "genre": "Mystery & Thriller, Drama, Science-Fiction, Horror",
                                 "thumbnail_url": "https://images.justwatch.com/poster/50267520/s276/the-terror.webp",
                                 "initialized": true
                             },
@@ -52,7 +52,7 @@
                                 "artist": "Maika Monroe, Nicolas Cage, Blair Underwood, Alicia Witt",
                                 "author": "Oz Perkins",
                                 "description": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
-                                "genre": "Horror, Mystery & Thriller, Crime",
+                                "genre": "Crime, Horror, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/311450894/s276/longlegs.webp",
                                 "initialized": true
                             },
@@ -82,7 +82,7 @@
                                 "artist": "Harold Perrineau, Catalina Sandino Moreno, Eion Bailey, Hannah Cheramy",
                                 "author": "",
                                 "description": "Unravel the mystery of a city in middle U.S.A. that imprisons everyone who enters. As the residents struggle to maintain a sense of normality and seek a way out, they must also survive the threats of the surrounding forest.",
-                                "genre": "Drama, Horror, Science-Fiction, Mystery & Thriller",
+                                "genre": "Horror, Science-Fiction, Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/260563925/s276/from.webp",
                                 "initialized": true
                             },
@@ -117,7 +117,7 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt18265220,MOVIE,/us/movie/a-quiet-place-day-one",
+                                "url": "tt13433802,MOVIE,/us/movie/a-quiet-place-day-one",
                                 "title": "A Quiet Place: Day One",
                                 "artist": "Lupita Nyong'o, Joseph Quinn, Alex Wolff, Djimon Hounsou",
                                 "author": "Michael Sarnoski",
@@ -142,7 +142,7 @@
                                 "artist": "Carolyn Bracken, Jonathan French, Steve Wall, Joe Rooney",
                                 "author": "Damian Mc Carthy",
                                 "description": "A psychic medium attempts to uncover the truth behind her sister's murder at the site of the crime.",
-                                "genre": "Horror, Mystery & Thriller",
+                                "genre": "Mystery & Thriller, Horror",
                                 "thumbnail_url": "https://images.justwatch.com/poster/319810126/s276/oddity.webp",
                                 "initialized": true
                             },
@@ -172,7 +172,7 @@
                                 "artist": "Jacob Anderson, Sam Reid, Assad Zaman, Delainey Hayles",
                                 "author": "",
                                 "description": "Louis de Pointe's epic story of love, blood, and the perils of immortality, as told to the journalist Daniel Molloy. Chafing at the limitations of life as a black man in 1900s New Orleans, Louis finds it impossible to resist the rakish Lestat De Lioncourt's offer of the ultimate escape: joining him as his vampire companion.",
-                                "genre": "Science-Fiction, Horror, Romance, Drama, Fantasy",
+                                "genre": "Science-Fiction, Drama, Fantasy, Horror, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/300933349/s276/interview-with-the-vampire.webp",
                                 "initialized": true
                             },
@@ -242,7 +242,7 @@
                                 "artist": "Amitabh Bachchan, Prabhas, Deepika Padukone, Kamal Haasan",
                                 "author": "Nag Ashwin",
                                 "description": "In the year 2898 AD, around 6000 years after Kurukshetra war, Ashwatthama gears up for his final battle of redemption at the sign of hope in a dystopian world and Bhairava, a wisecracking and self-interested bounty hunter, tired of the perilous life becomes the hurdle in the process.",
-                                "genre": "Science-Fiction, Drama, Action & Adventure, Fantasy, Mystery & Thriller",
+                                "genre": "Drama, Action & Adventure, Fantasy, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/318017051/s276/project-k.webp",
                                 "initialized": true
                             },
@@ -282,7 +282,7 @@
                                 "artist": "Morfydd Clark, Charlie Vickers, Robert Aramayo, Owain Arthur",
                                 "author": "",
                                 "description": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
-                                "genre": "Action & Adventure, Drama, Fantasy, Science-Fiction",
+                                "genre": "Fantasy, Action & Adventure, Drama, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/260075695/s276/the-lord-of-the-rings-the-rings-of-power.webp",
                                 "initialized": true
                             },
@@ -292,7 +292,7 @@
                                 "artist": "Nathalie Emmanuel, Omar Sy, Sam Worthington, Diana Silvers",
                                 "author": "John Woo",
                                 "description": "Zee is a feared contract killer known as \"the Queen of the Dead,\" but when she refuses to murder a young blind woman, she finds herself hunted both by criminal colleagues and a determined police detective.",
-                                "genre": "Crime, Action & Adventure, Mystery & Thriller",
+                                "genre": "Action & Adventure, Mystery & Thriller, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/319097440/s276/the-killer-0.webp",
                                 "initialized": true
                             },
@@ -337,16 +337,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt11558684,SHOW,/us/tv-show/the-thaw",
-                                "title": "The Thaw",
-                                "artist": "Katarzyna Wajda, Bartłomiej Kotschedoff, Juliusz Chrząstowski, Andrzej Grabowski",
-                                "author": "Xawery Żuławski",
-                                "description": "Set in Szczecin, Poland, the series begins after the body of a young woman is discovered under the melting ice. It asks ‘Who was she? Why did she die? Who did she leave behind?",
-                                "genre": "Drama, Crime",
-                                "thumbnail_url": "https://images.justwatch.com/poster/270904973/s276/the-thaw.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt12637874,SHOW,/us/tv-show/fallout-2023",
                                 "title": "Fallout",
                                 "artist": "Ella Purnell, Aaron Moten, Moisés Arias, Walton Goggins",
@@ -382,7 +372,7 @@
                                 "artist": "Daveed Diggs, Mickey Sumner, Alison Wright, Iddo Goldberg",
                                 "author": "",
                                 "description": "More than seven years after the world has become a frozen wasteland, the remnants of humanity inhabit a gigantic, perpetually-moving train that circles the globe as class warfare, social injustice and the politics of survival play out.",
-                                "genre": "Science-Fiction, Action & Adventure, Drama, Mystery & Thriller",
+                                "genre": "Science-Fiction, Mystery & Thriller, Action & Adventure, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/319140562/s276/snowpiercer.webp",
                                 "initialized": true
                             },
@@ -402,8 +392,18 @@
                                 "artist": "Emma Stone, Jesse Plemons, Willem Dafoe, Margaret Qualley",
                                 "author": "Yorgos Lanthimos",
                                 "description": "A man seeks to break free from his predetermined path, a cop questions his wife's demeanor after her return from a supposed drowning, and a woman searches for an extraordinary individual prophesied to become a renowned spiritual guide.",
-                                "genre": "Comedy, Drama",
+                                "genre": "Drama, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/316333916/s276/kinds-of-kindness.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": ",MOVIE,/us/movie/twisters",
+                                "title": "Twisters",
+                                "artist": "Daisy Edgar-Jones, Glen Powell, Anthony Ramos, Brandon Perea",
+                                "author": "Lee Isaac Chung",
+                                "description": "As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
+                                "genre": "Action & Adventure, Drama",
+                                "thumbnail_url": "https://images.justwatch.com/poster/315736719/s276/twisters.webp",
                                 "initialized": true
                             }
                         ],
@@ -522,8 +522,18 @@
                                 "artist": "Carole Baillien, Alice Ley, Esther Aflalo, Mélanie Dermont",
                                 "author": "",
                                 "description": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
-                                "genre": "Animation, Action & Adventure, Kids & Family, Fantasy, Comedy, Made in Europe",
+                                "genre": "Animation, Action & Adventure, Comedy, Kids & Family, Fantasy, Made in Europe",
                                 "thumbnail_url": "https://images.justwatch.com/poster/309927594/s276/world-of-winx.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt2069688,SHOW,/us/tv-show/world-war-ii-in-hd-colour",
+                                "title": "World War II in HD Colour",
+                                "artist": "Robert Powell, Adolf Hitler, Winston Churchill, Franklin D. Roosevelt",
+                                "author": "",
+                                "description": "World War II In HD Colour is a 13-episode television documentary miniseries recounting the events of World War II narrated by Robert Powell. The show covers the Western Front, Eastern Front, and the Pacific War. It is on syndication in America on the Military Channel. This series is in full color, combining both original and colorized footage.",
+                                "genre": "War & Military, Documentary, Reality TV, History, Made in Europe",
+                                "thumbnail_url": "https://images.justwatch.com/poster/53556250/s276/world-war-ii-in-hd-colour.webp",
                                 "initialized": true
                             },
                             {
@@ -534,16 +544,6 @@
                                 "description": "In the wake of a freak accident, Lance suffers the worst tragedy and the greatest opportunity of his life. He is suddenly faced with the possibility of fame, fortune and popularity, if he can only live with the knowledge of how he got there.",
                                 "genre": "Romance, Drama, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/261334509/s276/worlds-greatest-dad.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt2069688,SHOW,/us/tv-show/world-war-ii-in-hd-colour",
-                                "title": "World War II in HD Colour",
-                                "artist": "Robert Powell, Adolf Hitler, Winston Churchill, Franklin D. Roosevelt",
-                                "author": "",
-                                "description": "World War II In HD Colour is a 13-episode television documentary miniseries recounting the events of World War II narrated by Robert Powell. The show covers the Western Front, Eastern Front, and the Pacific War. It is on syndication in America on the Military Channel. This series is in full color, combining both original and colorized footage.",
-                                "genre": "Documentary, Reality TV, War & Military, History, Made in Europe",
-                                "thumbnail_url": "https://images.justwatch.com/poster/53556250/s276/world-war-ii-in-hd-colour.webp",
                                 "initialized": true
                             },
                             {
@@ -572,7 +572,7 @@
                                 "artist": "Ryohei Arai, Azusa Tadokoro, Akari Uehara, Satomi Sato",
                                 "author": "",
                                 "description": "The fleeting and sad story about little girls known as fairy weapons and an associate hero that survived. This is a world after it was attacked by unidentified monsters known as beasts and many of the species in the world, including humans, had been destroyed. The species that had managed to survived left the ground and were living on a floating island called Regal Ele. Willem Kmetsch wakes up above the clouds 500 years later and couldn’t protect the ones who he wanted to protect. Actually, he was living in despair because he was the only survivor.",
-                                "genre": "Science-Fiction, Drama, Animation, Action & Adventure, Fantasy, Romance",
+                                "genre": "Animation, Action & Adventure, Science-Fiction, Drama, Fantasy, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/307402070/s276/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us.webp",
                                 "initialized": true
                             },
@@ -597,16 +597,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0469641,MOVIE,/us/movie/september-2006",
-                                "title": "World Trade Center",
-                                "artist": "Nicolas Cage, Michael Peña, Maria Bello, Maggie Gyllenhaal",
-                                "author": "Oliver Stone",
-                                "description": "Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.",
-                                "genre": "Drama, Mystery & Thriller, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/250979950/s276/september-2006.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt8888656,SHOW,/us/tv-show/worlds-most-evil-killers",
                                 "title": "World's Most Evil Killers",
                                 "artist": "Geoffrey Wansell, Elizabeth Yardley, Fred Dinenage",
@@ -614,6 +604,16 @@
                                 "description": "World’s Most Evil Killers delves into the gripping real-life stories of the world’s most terrifying and prolific killers. From Fred and Rose West to Ed Gein – The Clown Killer – and even to The Milwaukee Cannibal. Each episode focuses on one notorious killer and features authentic first-hand accounts of their behavior, from detectives who ran the case, journalists who reported on the stories, relatives, and at times survivors, alongside series experts who provide analysis. These criminologists, crime journalists and psychologists examine how the infamous killers made headlines both nationally and internationally and why they still continue to evoke fear and fascination in the public eye.",
                                 "genre": "Documentary, Crime, Made in Europe",
                                 "thumbnail_url": "https://images.justwatch.com/poster/164294366/s276/worlds-most-evil-killers.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0469641,MOVIE,/us/movie/september-2006",
+                                "title": "World Trade Center",
+                                "artist": "Nicolas Cage, Michael Peña, Maria Bello, Maggie Gyllenhaal",
+                                "author": "Oliver Stone",
+                                "description": "Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.",
+                                "genre": "Drama, Mystery & Thriller, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/250979950/s276/september-2006.webp",
                                 "initialized": true
                             },
                             {
@@ -637,16 +637,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0184090,SHOW,/us/tv-show/abc-world-news",
-                                "title": "ABC World News Tonight With David Muir",
-                                "artist": "David Muir, Whit Johnson, Linsey Davis",
-                                "author": "",
-                                "description": "ABC World News is the flagship daily evening television news program of ABC News, the news division of the American Broadcasting Company television network in the United States. Currently the weekday editions (going by title ABC World News Tonight with David Muir) are anchored by David Muir. ABC World News has been anchored at various times by a number of other people since its debut in 1953. It also has used various titles, including ABC Evening News from 1970 to 1978 and World News Tonight from 1978 to 2006.",
-                                "genre": "",
-                                "thumbnail_url": "https://images.justwatch.com/poster/272546979/s276/abc-world-news.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt1878805,SHOW,/us/tv-show/world-without-end",
                                 "title": "World Without End",
                                 "artist": "Oliver Maltman, David Bradley, Ben Chaplin, Charlotte Riley",
@@ -654,6 +644,16 @@
                                 "description": "Two hundred years after the construction of the great cathedral, the medieval town of Kingsbridge is  taken under siege by Queen Isabella. Caris, a visionary young woman, inspires her people to stand up for their rights and revolt against to the most powerful forces of her time, the Church and the Crown.",
                                 "genre": "Drama, Romance, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/240897308/s276/world-without-end.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0184090,SHOW,/us/tv-show/abc-world-news",
+                                "title": "ABC World News Tonight With David Muir",
+                                "artist": "David Muir, Whit Johnson, Linsey Davis",
+                                "author": "",
+                                "description": "ABC World News is the flagship daily evening television news program of ABC News, the news division of the American Broadcasting Company television network in the United States. Currently the weekday editions (going by title ABC World News Tonight with David Muir) are anchored by David Muir. ABC World News has been anchored at various times by a number of other people since its debut in 1953. It also has used various titles, including ABC Evening News from 1970 to 1978 and World News Tonight from 1978 to 2006.",
+                                "genre": "",
+                                "thumbnail_url": "https://images.justwatch.com/poster/272546979/s276/abc-world-news.webp",
                                 "initialized": true
                             },
                             {
@@ -687,6 +687,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
+                                "title": "Jurassic World Dominion",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
+                                "author": "Colin Trevorrow",
+                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
+                                "genre": "Science-Fiction, Mystery & Thriller, Action & Adventure",
+                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
                                 "title": "Jurassic World",
                                 "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
@@ -694,16 +704,6 @@
                                 "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
                                 "genre": "Science-Fiction, Action & Adventure",
                                 "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt9738716,MOVIE,/us/movie/the-world-to-come",
-                                "title": "The World to Come",
-                                "artist": "Katherine Waterston, Casey Affleck, Vanessa Kirby, Christopher Abbott",
-                                "author": "Mona Fastvold",
-                                "description": "In 1856, two women forge a close connection despite their isolation on the American frontier.",
-                                "genre": "Western, Romance, Drama, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/301898205/s276/the-world-to-come.webp",
                                 "initialized": true
                             },
                             {
@@ -717,13 +717,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
-                                "title": "Jurassic World Dominion",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
-                                "author": "Colin Trevorrow",
-                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
-                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
+                                "url": "tt9738716,MOVIE,/us/movie/the-world-to-come",
+                                "title": "The World to Come",
+                                "artist": "Katherine Waterston, Casey Affleck, Vanessa Kirby, Christopher Abbott",
+                                "author": "Mona Fastvold",
+                                "description": "In 1856, two women forge a close connection despite their isolation on the American frontier.",
+                                "genre": "Drama, Western, Romance, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/301898205/s276/the-world-to-come.webp",
                                 "initialized": true
                             },
                             {
@@ -787,6 +787,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt3246872,SHOW,/us/tv-show/worlds-within",
+                                "title": "Worlds Within",
+                                "artist": "Hyun Bin, Song Hye-kyo, Choi Daniel, Kim Yeo-jin",
+                                "author": "Kim Kyu-tae, Pyo Min-soo",
+                                "description": "Song Hye Gyo plays a PD Joo Joon Young who has bold and unstoppable personality. Hyun Bin also plays a promising drama PD Jung Ji Oh. This drama focuses on TV stations by portraying the love and struggle of these 2 PDs during filming their respective projects as well as unfolding male and female staffs' love stories and marriages.",
+                                "genre": "Romance, Drama",
+                                "thumbnail_url": "https://images.justwatch.com/poster/139209261/s276/worlds-within.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": ",MOVIE,/us/movie/world-of-tomorrow",
                                 "title": "World of Tomorrow",
                                 "artist": "Julia Pott, Winona Mae, Sara Cushman",
@@ -804,16 +814,6 @@
                                 "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
                                 "genre": "War & Military, Documentary, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/306417970/s276/the-world-wars.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt3246872,SHOW,/us/tv-show/worlds-within",
-                                "title": "Worlds Within",
-                                "artist": "Hyun Bin, Song Hye-kyo, Choi Daniel, Kim Yeo-jin",
-                                "author": "Kim Kyu-tae, Pyo Min-soo",
-                                "description": "Song Hye Gyo plays a PD Joo Joon Young who has bold and unstoppable personality. Hyun Bin also plays a promising drama PD Jung Ji Oh. This drama focuses on TV stations by portraying the love and struggle of these 2 PDs during filming their respective projects as well as unfolding male and female staffs' love stories and marriages.",
-                                "genre": "Romance, Drama",
-                                "thumbnail_url": "https://images.justwatch.com/poster/139209261/s276/worlds-within.webp",
                                 "initialized": true
                             }
                         ],

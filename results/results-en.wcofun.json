@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/terminator-zero",
+                                "title": "Terminator Zero",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933715.jpg"
+                            },
+                            {
+                                "url": "/anime/terminator-zero-english-subbed",
+                                "title": "Terminator Zero English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933714.jpg"
+                            },
+                            {
                                 "url": "/anime/true-beauty",
                                 "title": "True Beauty",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933713.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/makeine-too-many-losing-heroines",
                                 "title": "Makeine: Too Many Losing Heroines!",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933688.jpg"
-                            },
-                            {
-                                "url": "/anime/why-does-nobody-remember-me-in-this-world",
-                                "title": "Why Does Nobody Remember Me in This World?",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933687.jpg"
-                            },
-                            {
-                                "url": "/anime/primos",
-                                "title": "Primos",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933686.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/true-beauty",
-                    "title": "True Beauty",
-                    "description": "Tired of being looked down upon for her unattractive appearance, middle schooler Lim Jugyeong turns to the transformative powers of makeup. First, she experiments with BB cream, lip tint, and eyeliner; then she begins using mascara, double eyelid glue, and colored contacts. Before she knows it, Jugyeong goes from being a girl who is bullied for her ugliness to being praised as a high-class beauty. Constantly surrounded by those who adore her goddess-like appearance, Jugyeong can now live a more than comfortable life at school—she simply has to keep her bare face a secret.",
-                    "genre": "Comedy, Drama, Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933713.jpg",
+                    "url": "/anime/terminator-zero",
+                    "title": "Terminator Zero",
+                    "description": "2022: A future war has raged for decades between the few human survivors and an endless army of machines. 1997: The AI known as Skynet gained self-awareness and began its war against humanity.",
+                    "genre": "Action, Sci-fi, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933715.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,9 +616,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/true-beauty-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
+                        "url": "/terminator-zero-episode-8-english-dubbed",
+                        "name": "Season 1 - Episode 8",
+                        "episode_number": 108.0
+                    },
+                    {
+                        "url": "/terminator-zero-episode-7-english-dubbed",
+                        "name": "Season 1 - Episode 7",
+                        "episode_number": 107.0
                     }
                 ],
                 "passed": true
@@ -626,19 +631,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gBL7IOvDNa6LHFBC7OpTqw9uPV9COd846Reqi4vyp9XYuU61Dbc2PvKzmAwzJmUny0rWtiny0vVB15l2m2tV2I-HI9C2D7L8tL9elzE_F1WutoptqJew0gU3rrQjIMNbpOecxL31d8658vhdG2IsG1cEIcWV6jZhovQmOGYEMdpNtp3dx4pzJSJmGoinxWFDjGO3W2koj1bZ2aFlBXQw0r3B9QO6P-UaZTigRAzN2ZCx619wK2XI1l2wqFDVnsdvtTmhrbvocKrKcOhI1AqQGQ4rEUMpEIC4BtThyB1drzd98RhZaDEp9oKYqK4jq6n4FVZJv3EYl7Be6wu3jAVq6jsiJL2gloY_W7HE9yyJl4zRhYSfDy1nD4ROUWv5bAD1I",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jJM9_WHnX_FInowRH2xUIoIEc5oXAcaA-LK6cXxDR6PezKThhF2uPSkos5oQz52GQFgcF0j9S14Tlv0jeNiibdVg8TlFbVIv0QJInQTxJMDTOSFmpHiwusYSYwd-mTDSuuR8j1T50tAT5T4Il2vHt2RSOxZdPBsZMt0GY5j3iK9g3S4i7FhA_0sfxHiLXk3nuHpygNddVz_gjCbPD9JbaZRT5URPhIDoGHVOX_s7xOaV4rvG5KU2Sjjz0RMJ98kpvsxlVNm1efBUMZnVshEUQ0By8PLswKZWR0zmjJVc3zB80qLsKv5zzxO9Gp-atvPx4nukYsHUbtv_MsnTNd7LVxc_27KzHFtkXFupkHuscdBltPXFFSRpxa_5KGp6v-Nuencg6nwIZjZ728rIQmE7MJ",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gBL7IOvDNa6LHFBC7OpTqw9uPV9COd846Reqi4vyp9XYuU61Dbc2PvKzmAwzJmUny0rWtiny0vVB15l2m2tV2I-HI9C2D7L8tL9elzE_F1WutoptqJew0gU3rrQjIMNbpOecxL31d8658vhdG2IsG1cEIcWV6jZhovQmOGYEMdpNtp3dx4pzJSJmGoinxWFDjGO3W2koj1bZ2aFlBXQw0r3B9QO6P-UaZTigRAzN2ZCx619wK2XI1l2wqFDVnsdvtTmhrbvocKrKcOhI1AqQGQ4rEUMpEIC4BtThyB1drzd98RhZaDEp9oKYqK4jq6n4FVZJv3EYl7Be6wu3jAVq6jsiJL2gloY_W7HE9yyJl4zRhYSfDy1nD4ROUWv5bAD1I"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jJM9_WHnX_FInowRH2xUIoIEc5oXAcaA-LK6cXxDR6PezKThhF2uPSkos5oQz52GQFgcF0j9S14Tlv0jeNiibdVg8TlFbVIv0QJInQTxJMDTOSFmpHiwusYSYwd-mTDSuuR8j1T50tAT5T4Il2vHt2RSOxZdPBsZMt0GY5j3iK9g3S4i7FhA_0sfxHiLXk3nuHpygNddVz_gjCbPD9JbaZRT5URPhIDoGHVOX_s7xOaV4rvG5KU2Sjjz0RMJ98kpvsxlVNm1efBUMZnVshEUQ0By8PLswKZWR0zmjJVc3zB80qLsKv5zzxO9Gp-atvPx4nukYsHUbtv_MsnTNd7LVxc_27KzHFtkXFupkHuscdBltPXFFSRpxa_5KGp6v-Nuencg6nwIZjZ728rIQmE7MJ"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gBL7IOvDNa6LHFBC7OpTqw9uPV9COd846Reqi4vyp9XYuU61Dbc2PvKzmAwzJmUny0rWtiny0vVB15l2m2tV2I-HI9C2D7L8tL9elzE_F1Wg3GA0oQK9mVBY0_9ydiFMpTPZefV57LkXbtvDP5P574TBwngrcemjZkm4sv6LcamRwDTadM4U6MReKORCf119_43ZcR09YwJcH5xnMH0qSk1Y9KUJHfd2mV4r1ticP8-3cJ8fNNpuUhM8W23BC2bz6vc1A5SWO3ukWaNQDVUkcZJ88Towu2UpFfCyD_JWf0P-_5CVJ5MHPQ8vFJpFwk9SFYT0Uhr8PHj4l0eTxMdmHsKCR9QNH93ugxU8AZtlMBH4KS_m8nqlOPj0s1iAtflp8",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jJM9_WHnX_FInowRH2xUIoIEc5oXAcaA-LK6cXxDR6PezKThhF2uPSkos5oQz52GQFgcF0j9S14Tlv0jeNiibdVg8TlFbVIv0QJInQTxJMDT-fbhWjOk9AffoGFh7m0jHplzaqYUcoLO19DZ9QeAsoM2hIqQkdVGjNxMdZR9CtUGPcx_GSWEW-CuTu0HmTVxkdKpmVh5DA0RjAOntE873vFrBpIT4K6uKF0XT1wC_lNxGzPsy2CPu6B8n2cTopBUHrE1mJiV4kFtci-E-70WH2baDbguekqV--RtsvaftaQ6vPSpVx5QKN4OftlhUc1ODzBRQ9-zhyBtcahgVefYgMjOM7YyGptgFQd5EYAUUis2-zu7VoBXoABkYnmuhCKlNfph413plymEzBVlOn1uHt",
                         "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gBL7IOvDNa6LHFBC7OpTqw9uPV9COd846Reqi4vyp9XYuU61Dbc2PvKzmAwzJmUny0rWtiny0vVB15l2m2tV2I-HI9C2D7L8tL9elzE_F1Wg3GA0oQK9mVBY0_9ydiFMpTPZefV57LkXbtvDP5P574TBwngrcemjZkm4sv6LcamRwDTadM4U6MReKORCf119_43ZcR09YwJcH5xnMH0qSk1Y9KUJHfd2mV4r1ticP8-3cJ8fNNpuUhM8W23BC2bz6vc1A5SWO3ukWaNQDVUkcZJ88Towu2UpFfCyD_JWf0P-_5CVJ5MHPQ8vFJpFwk9SFYT0Uhr8PHj4l0eTxMdmHsKCR9QNH93ugxU8AZtlMBH4KS_m8nqlOPj0s1iAtflp8"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jJM9_WHnX_FInowRH2xUIoIEc5oXAcaA-LK6cXxDR6PezKThhF2uPSkos5oQz52GQFgcF0j9S14Tlv0jeNiibdVg8TlFbVIv0QJInQTxJMDT-fbhWjOk9AffoGFh7m0jHplzaqYUcoLO19DZ9QeAsoM2hIqQkdVGjNxMdZR9CtUGPcx_GSWEW-CuTu0HmTVxkdKpmVh5DA0RjAOntE873vFrBpIT4K6uKF0XT1wC_lNxGzPsy2CPu6B8n2cTopBUHrE1mJiV4kFtci-E-70WH2baDbguekqV--RtsvaftaQ6vPSpVx5QKN4OftlhUc1ODzBRQ9-zhyBtcahgVefYgMjOM7YyGptgFQd5EYAUUis2-zu7VoBXoABkYnmuhCKlNfph413plymEzBVlOn1uHt"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gBL7IOvDNa6LHFBC7OpTqw9uPV9COd846Reqi4vyp9XYuU61Dbc2PvKzmAwzJmUny0rWtiny0vVB15l2m2tV2I-HI9C2D7L8tL9elzE_F1Wllv1xzQxf6mpGm-Hlm-LZnCdXM9Q90Am3TDfuEmjrzfz3VDpMCQgot6Sv1nQu-A9Ze0CKC_DID4_R-BRaN1In365YVPWx0OWg-xloyauvXAzAzIxCeGY6K0cE0dlnHMZmZ3Xzvw29cbdpwimchOhAzYkPZAbdgtJA5M2HHVovFSBHKSVuAOhorgbBixWvbWN7tKKZvKpmr8gZOENw-ziyJrG2OZW3GopZmUoUkrcLhrv3v9s7SR8bh82if3WEcVDMuFRps4A6IIc5iqrYfd1bk",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jJM9_WHnX_FInowRH2xUIoIEc5oXAcaA-LK6cXxDR6PezKThhF2uPSkos5oQz52GQFgcF0j9S14Tlv0jeNiibdVg8TlFbVIv0QJInQTxJMDYwpwIAOla-p_IdPiWcmY-2tcBsiJcvhEdsIPFreT6iC3tsdqls2KVbHpAaTjRLt4f0D6ywxG6JiFA8-mR8b08goWuSINKoAlNFIZXEtiBb6m_cR0BbEHon9TF7FLM-0pEsbJOmvRHbyfrzbu0dc2POAPZ0JaVc9or0-ed5kVFfVEHWevnM8yDm27-1Oiv7pZliAtHlIp3l-a0YNn4gk4Yold_Aa1S3Z1jcG9PTRxO29PrMQ1_GKdu4eoG3aUGAt6rmtIrxN1ePYIC7ZVwOKIIY",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gBL7IOvDNa6LHFBC7OpTqw9uPV9COd846Reqi4vyp9XYuU61Dbc2PvKzmAwzJmUny0rWtiny0vVB15l2m2tV2I-HI9C2D7L8tL9elzE_F1Wllv1xzQxf6mpGm-Hlm-LZnCdXM9Q90Am3TDfuEmjrzfz3VDpMCQgot6Sv1nQu-A9Ze0CKC_DID4_R-BRaN1In365YVPWx0OWg-xloyauvXAzAzIxCeGY6K0cE0dlnHMZmZ3Xzvw29cbdpwimchOhAzYkPZAbdgtJA5M2HHVovFSBHKSVuAOhorgbBixWvbWN7tKKZvKpmr8gZOENw-ziyJrG2OZW3GopZmUoUkrcLhrv3v9s7SR8bh82if3WEcVDMuFRps4A6IIc5iqrYfd1bk"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jJM9_WHnX_FInowRH2xUIoIEc5oXAcaA-LK6cXxDR6PezKThhF2uPSkos5oQz52GQFgcF0j9S14Tlv0jeNiibdVg8TlFbVIv0QJInQTxJMDYwpwIAOla-p_IdPiWcmY-2tcBsiJcvhEdsIPFreT6iC3tsdqls2KVbHpAaTjRLt4f0D6ywxG6JiFA8-mR8b08goWuSINKoAlNFIZXEtiBb6m_cR0BbEHon9TF7FLM-0pEsbJOmvRHbyfrzbu0dc2POAPZ0JaVc9or0-ed5kVFfVEHWevnM8yDm27-1Oiv7pZliAtHlIp3l-a0YNn4gk4Yold_Aa1S3Z1jcG9PTRxO29PrMQ1_GKdu4eoG3aUGAt6rmtIrxN1ePYIC7ZVwOKIIY"
                     }
                 ],
                 "passed": true
