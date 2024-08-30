@@ -82,7 +82,7 @@
                                 "artist": "Zahn McClarnon, Kiowa Gordon, Jessica Matten, Deanna Allison",
                                 "author": "",
                                 "description": "This psychological thriller follows two Navajo police officers, Leaphorn and Chee, in the 1970s Southwest as their search for clues in a grisly double murder case forces them to challenge their own spiritual beliefs and come to terms with the trauma of their pasts.",
-                                "genre": "Drama, Crime, Mystery & Thriller",
+                                "genre": "Drama, Mystery & Thriller, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/306395527/s276/dark-winds.webp",
                                 "initialized": true
                             },
@@ -122,7 +122,7 @@
                                 "artist": "Lupita Nyong'o, Joseph Quinn, Alex Wolff, Djimon Hounsou",
                                 "author": "Michael Sarnoski",
                                 "description": "A young woman named Sam finds herself trapped in New York City during the early stages of an invasion by alien creatures with ultra-sensitive hearing.",
-                                "genre": "Science-Fiction, Mystery & Thriller, Drama, Horror",
+                                "genre": "Drama, Horror, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/318336616/s276/a-quiet-place-day-one.webp",
                                 "initialized": true
                             },
@@ -182,7 +182,7 @@
                                 "artist": "Jacob Anderson, Sam Reid, Assad Zaman, Delainey Hayles",
                                 "author": "",
                                 "description": "Louis de Pointe's epic story of love, blood, and the perils of immortality, as told to the journalist Daniel Molloy. Chafing at the limitations of life as a black man in 1900s New Orleans, Louis finds it impossible to resist the rakish Lestat De Lioncourt's offer of the ultimate escape: joining him as his vampire companion.",
-                                "genre": "Science-Fiction, Horror, Romance, Drama, Fantasy",
+                                "genre": "Science-Fiction, Drama, Fantasy, Horror, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/300933349/s276/interview-with-the-vampire.webp",
                                 "initialized": true
                             },
@@ -387,16 +387,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt29288566,MOVIE,/us/movie/nice-girls",
-                                "title": "Nice Girls",
-                                "artist": "Alice Taglioni, Stéfi Celma, Baptiste Lecaplain, Noémie Lvovsky",
-                                "author": "Noémie Saglio",
-                                "description": "A maverick cop and a meticulous detective join forces with a charming ex-hacker to solve an officer's disappearance and save Nice from disaster.",
-                                "genre": "Action & Adventure, Comedy, Crime",
-                                "thumbnail_url": "https://images.justwatch.com/poster/319640143/s276/nice-girls.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt32589989,SHOW,/us/tv-show/oceanxplorers",
                                 "title": "OceanXplorers",
                                 "artist": "Asha de Vos, Zoleka Filander, Eric Stackpole, Aldo Kane",
@@ -404,6 +394,16 @@
                                 "description": "Will tell the stories of adventurous explorers, scientists and filmmakers with never-before-used technology as they embark on their mission, tackling challenges that arise from seeking to solve some of the ocean’s greatest outstanding mysteries.",
                                 "genre": "Documentary",
                                 "thumbnail_url": "https://images.justwatch.com/poster/319885891/s276/oceanxplorers.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt6156584,SHOW,/us/tv-show/snowpiercer",
+                                "title": "Snowpiercer",
+                                "artist": "Daveed Diggs, Mickey Sumner, Alison Wright, Iddo Goldberg",
+                                "author": "",
+                                "description": "More than seven years after the world has become a frozen wasteland, the remnants of humanity inhabit a gigantic, perpetually-moving train that circles the globe as class warfare, social injustice and the politics of survival play out.",
+                                "genre": "Science-Fiction, Action & Adventure, Drama, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/319140562/s276/snowpiercer.webp",
                                 "initialized": true
                             }
                         ],
@@ -432,7 +432,7 @@
                                 "artist": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
                                 "author": "Marc Forster",
                                 "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                "genre": "Mystery & Thriller, Action & Adventure, Horror, Science-Fiction",
+                                "genre": "Action & Adventure, Horror, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/291193041/s276/world-war-z-3d.webp",
                                 "initialized": true
                             },
@@ -462,12 +462,12 @@
                                 "artist": "Nao Tamura, Yuichi Nakamura, Tomo Muranaka, Yûki Kaji",
                                 "author": "",
                                 "description": "A gate to another dimension has burst open, and from it emerge gigantic invincible creatures that threaten all of humanity. Earth's only defense is a mysterious group of warriors who have co-opted the alien technology in order to fight back!",
-                                "genre": "Animation, Action & Adventure, Science-Fiction",
+                                "genre": "Action & Adventure, Science-Fiction, Animation",
                                 "thumbnail_url": "https://images.justwatch.com/poster/260841834/s276/world-trigger.webp",
                                 "initialized": true
                             },
                             {
-                                "url": "tt2007913,SHOW,/us/tv-show/world-series-of-poker",
+                                "url": "tt2733512,SHOW,/us/tv-show/world-series-of-poker",
                                 "title": "World Series of Poker",
                                 "artist": "",
                                 "author": "",
@@ -512,7 +512,7 @@
                                 "artist": "Sam Willis, Robert Joe",
                                 "author": "",
                                 "description": "Unusual, strange, weird plans, plots that took place, or planned to take place during World War Two.",
-                                "genre": "History, War & Military, Documentary",
+                                "genre": "War & Military, Documentary, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/258657261/s276/world-war-weird.webp",
                                 "initialized": true
                             },
@@ -522,7 +522,7 @@
                                 "artist": "Carole Baillien, Alice Ley, Esther Aflalo, Mélanie Dermont",
                                 "author": "",
                                 "description": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
-                                "genre": "Animation, Action & Adventure, Comedy, Kids & Family, Fantasy, Made in Europe",
+                                "genre": "Action & Adventure, Animation, Fantasy, Comedy, Kids & Family, Made in Europe",
                                 "thumbnail_url": "https://images.justwatch.com/poster/309927594/s276/world-of-winx.webp",
                                 "initialized": true
                             },
@@ -542,7 +542,7 @@
                                 "artist": "Robin Williams, Alexie Gilmore, Daryl Sabara, Evan Martin",
                                 "author": "Bobcat Goldthwait",
                                 "description": "In the wake of a freak accident, Lance suffers the worst tragedy and the greatest opportunity of his life. He is suddenly faced with the possibility of fame, fortune and popularity, if he can only live with the knowledge of how he got there.",
-                                "genre": "Romance, Drama, Comedy",
+                                "genre": "Comedy, Romance, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/261334509/s276/worlds-greatest-dad.webp",
                                 "initialized": true
                             },
@@ -587,16 +587,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt8888656,SHOW,/us/tv-show/worlds-most-evil-killers",
-                                "title": "World's Most Evil Killers",
-                                "artist": "Geoffrey Wansell, Elizabeth Yardley, Fred Dinenage",
-                                "author": "",
-                                "description": "World’s Most Evil Killers delves into the gripping real-life stories of the world’s most terrifying and prolific killers. From Fred and Rose West to Ed Gein – The Clown Killer – and even to The Milwaukee Cannibal. Each episode focuses on one notorious killer and features authentic first-hand accounts of their behavior, from detectives who ran the case, journalists who reported on the stories, relatives, and at times survivors, alongside series experts who provide analysis. These criminologists, crime journalists and psychologists examine how the infamous killers made headlines both nationally and internationally and why they still continue to evoke fear and fascination in the public eye.",
-                                "genre": "Documentary, Crime, Made in Europe",
-                                "thumbnail_url": "https://images.justwatch.com/poster/164294366/s276/worlds-most-evil-killers.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
                                 "title": "World's End Harem",
                                 "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
@@ -607,13 +597,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0469641,MOVIE,/us/movie/september-2006",
-                                "title": "World Trade Center",
-                                "artist": "Nicolas Cage, Michael Peña, Maria Bello, Maggie Gyllenhaal",
-                                "author": "Oliver Stone",
-                                "description": "Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.",
-                                "genre": "Drama, Mystery & Thriller, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/250979950/s276/september-2006.webp",
+                                "url": "tt8888656,SHOW,/us/tv-show/worlds-most-evil-killers",
+                                "title": "World's Most Evil Killers",
+                                "artist": "Geoffrey Wansell, Elizabeth Yardley, Fred Dinenage",
+                                "author": "",
+                                "description": "World’s Most Evil Killers delves into the gripping real-life stories of the world’s most terrifying and prolific killers. From Fred and Rose West to Ed Gein – The Clown Killer – and even to The Milwaukee Cannibal. Each episode focuses on one notorious killer and features authentic first-hand accounts of their behavior, from detectives who ran the case, journalists who reported on the stories, relatives, and at times survivors, alongside series experts who provide analysis. These criminologists, crime journalists and psychologists examine how the infamous killers made headlines both nationally and internationally and why they still continue to evoke fear and fascination in the public eye.",
+                                "genre": "Documentary, Crime, Made in Europe",
+                                "thumbnail_url": "https://images.justwatch.com/poster/164294366/s276/worlds-most-evil-killers.webp",
                                 "initialized": true
                             },
                             {
@@ -647,16 +637,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
-                                "title": "Jurassic World Dominion",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
-                                "author": "Colin Trevorrow",
-                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
-                                "genre": "Science-Fiction, Mystery & Thriller, Action & Adventure",
-                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt1878805,SHOW,/us/tv-show/world-without-end",
                                 "title": "World Without End",
                                 "artist": "Oliver Maltman, David Bradley, Ben Chaplin, Charlotte Riley",
@@ -664,16 +644,6 @@
                                 "description": "Two hundred years after the construction of the great cathedral, the medieval town of Kingsbridge is  taken under siege by Queen Isabella. Caris, a visionary young woman, inspires her people to stand up for their rights and revolt against to the most powerful forces of her time, the Church and the Crown.",
                                 "genre": "Drama, Romance, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/240897308/s276/world-without-end.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt2639756,SHOW,/us/tv-show/the-world-from-above",
-                                "title": "The World from Above",
-                                "artist": "Philippe Sollier, Richard Mervyn",
-                                "author": "",
-                                "description": "The World from Above is a unique continuing series of aerial programmes offering an entirely different view of the world. From 10,000ft, down to just a few feet the stabilised high definition aerial camera seeks out the beautiful, as well as the dramatic, on journeys across very different parts of the world including Europe, Africa and the United States.",
-                                "genre": "Documentary",
-                                "thumbnail_url": "https://images.justwatch.com/poster/318909896/s276/the-world-from-above.webp",
                                 "initialized": true
                             },
                             {
@@ -687,6 +657,26 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt2639756,SHOW,/us/tv-show/the-world-from-above",
+                                "title": "The World from Above",
+                                "artist": "Philippe Sollier, Richard Mervyn",
+                                "author": "",
+                                "description": "The World from Above is a unique continuing series of aerial programmes offering an entirely different view of the world. From 10,000ft, down to just a few feet the stabilised high definition aerial camera seeks out the beautiful, as well as the dramatic, on journeys across very different parts of the world including Europe, Africa and the United States.",
+                                "genre": "Documentary",
+                                "thumbnail_url": "https://images.justwatch.com/poster/318909896/s276/the-world-from-above.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0469641,MOVIE,/us/movie/september-2006",
+                                "title": "World Trade Center",
+                                "artist": "Nicolas Cage, Michael Peña, Maria Bello, Maggie Gyllenhaal",
+                                "author": "Oliver Stone",
+                                "description": "Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.",
+                                "genre": "Drama, History, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/250979950/s276/september-2006.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt1688399,SHOW,/us/tv-show/worlds-deadliest",
                                 "title": "World's Deadliest",
                                 "artist": "Jeremy Davidson",
@@ -697,13 +687,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
-                                "title": "Jurassic World",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
+                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
+                                "title": "Jurassic World Dominion",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
                                 "author": "Colin Trevorrow",
-                                "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-                                "genre": "Science-Fiction, Action & Adventure",
-                                "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
+                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
+                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
                                 "initialized": true
                             },
                             {
@@ -717,23 +707,23 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
+                                "title": "Jurassic World",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
+                                "author": "Colin Trevorrow",
+                                "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+                                "genre": "Science-Fiction, Action & Adventure",
+                                "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt9738716,MOVIE,/us/movie/the-world-to-come",
                                 "title": "The World to Come",
                                 "artist": "Katherine Waterston, Casey Affleck, Vanessa Kirby, Christopher Abbott",
                                 "author": "Mona Fastvold",
                                 "description": "In 1856, two women forge a close connection despite their isolation on the American frontier.",
-                                "genre": "Drama, Western, Romance, History",
+                                "genre": "Western, Romance, Drama, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/301898205/s276/the-world-to-come.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt15472028,SHOW,/us/tv-show/world-war-2-the-call-of-duty-a-complete-timeline",
-                                "title": "World War 2: The Call of Duty - A Complete Timeline",
-                                "artist": "",
-                                "author": "Liam Dale",
-                                "description": "Track the main events of World War II with the help of remarkable archive footage in this extensive 24 episode series, which shines a spotlight on this monumental period of history.",
-                                "genre": "History, War & Military, Documentary",
-                                "thumbnail_url": "https://images.justwatch.com/poster/298702672/s276/world-war-2-the-call-of-duty-a-complete-timeline.webp",
                                 "initialized": true
                             },
                             {
@@ -744,6 +734,16 @@
                                 "description": "Three separate narratives each following a love story between a foreigner and a Greek. Each story represents a different generation falling in love during a time of socioeconomic turmoil that dominates Southern Europe as a whole, only to connect as a single story in the end.",
                                 "genre": "Romance, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/45122637/s276/worlds-apart-2015.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt15472028,SHOW,/us/tv-show/world-war-2-the-call-of-duty-a-complete-timeline",
+                                "title": "World War 2: The Call of Duty - A Complete Timeline",
+                                "artist": "",
+                                "author": "Liam Dale",
+                                "description": "Track the main events of World War II with the help of remarkable archive footage in this extensive 24 episode series, which shines a spotlight on this monumental period of history.",
+                                "genre": "History, War & Military, Documentary",
+                                "thumbnail_url": "https://images.justwatch.com/poster/298702672/s276/world-war-2-the-call-of-duty-a-complete-timeline.webp",
                                 "initialized": true
                             },
                             {
@@ -772,7 +772,7 @@
                                 "artist": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith",
                                 "author": "J. A. Bayona",
                                 "description": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
-                                "genre": "Science-Fiction, Action & Adventure, Mystery & Thriller, Comedy",
+                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/79976709/s276/jurassic-world-fallen-kingdom.webp",
                                 "initialized": true
                             },
@@ -784,16 +784,6 @@
                                 "description": "Each year, seven strangers in their twenties, from different backgrounds and countries, are chosen to come live together in a major city.",
                                 "genre": "Reality TV, Comedy, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/267056478/s276/the-real-world.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
-                                "title": "The World Wars",
-                                "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
-                                "author": "John Ealer",
-                                "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
-                                "genre": "War & Military, Documentary, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/306417970/s276/the-world-wars.webp",
                                 "initialized": true
                             },
                             {
@@ -814,6 +804,16 @@
                                 "description": "Song Hye Gyo plays a PD Joo Joon Young who has bold and unstoppable personality. Hyun Bin also plays a promising drama PD Jung Ji Oh. This drama focuses on TV stations by portraying the love and struggle of these 2 PDs during filming their respective projects as well as unfolding male and female staffs' love stories and marriages.",
                                 "genre": "Romance, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/139209261/s276/worlds-within.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
+                                "title": "The World Wars",
+                                "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
+                                "author": "John Ealer",
+                                "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
+                                "genre": "War & Military, Documentary, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/306417970/s276/the-world-wars.webp",
                                 "initialized": true
                             }
                         ],
