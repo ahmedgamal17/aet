@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5481",
+                                "title": "Beyblade X",
+                                "artist": "HnY",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/10a6f9fb7f1159d151d3fc675b1d698ae7ad9d77ad009578c9dca4da26cfee8f.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5606",
+                                "title": "Senpai wa Otokonoko",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/0caf8c313a15f50cd5f1f9a68e310d0898efbd62ad07ecfb1f99020d84197a22.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5604",
                                 "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
                                 "artist": "SubsPlease",
@@ -65,18 +77,6 @@
                                 "title": "True Beauty",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/96df44872ce293dfaa3fc9c0a041b53e22f0a7d92e6c87e47cc6b742e9134656.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5595",
-                                "title": "\"Oshi no Ko\" 2nd Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/787bf564f3faf3e8adae67ad2f70747343953bf4e5849de47ac96416921eefae.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5637",
-                                "title": "Sengoku Youko: Senma Konton-hen",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/73d1cb94e78bcdaa37ee132fcd23a4ab0f837045bbb346118d48bd43b112a46f.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5481",
+                                "title": "Beyblade X",
+                                "artist": "HnY",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/10a6f9fb7f1159d151d3fc675b1d698ae7ad9d77ad009578c9dca4da26cfee8f.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5606",
+                                "title": "Senpai wa Otokonoko",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/0caf8c313a15f50cd5f1f9a68e310d0898efbd62ad07ecfb1f99020d84197a22.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5604",
                                 "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
                                 "artist": "SubsPlease",
@@ -147,18 +159,6 @@
                                 "title": "True Beauty",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/96df44872ce293dfaa3fc9c0a041b53e22f0a7d92e6c87e47cc6b742e9134656.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5595",
-                                "title": "\"Oshi no Ko\" 2nd Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/787bf564f3faf3e8adae67ad2f70747343953bf4e5849de47ac96416921eefae.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5637",
-                                "title": "Sengoku Youko: Senma Konton-hen",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/73d1cb94e78bcdaa37ee132fcd23a4ab0f837045bbb346118d48bd43b112a46f.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5604",
-                    "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
-                    "author": "Seven Arcs",
-                    "description": "When loner Touka Mimori is summoned to another world alongside his classmates, he obtains the power to inflict status ailments, such as paralysis or poison, on his enemies. Unfortunately for him, skills of this nature are considered useless due to their low success rate, and Touka is thus assigned the title of E-rank hero. Things take a further turn for the worse when Vicius, the goddess who summoned the class, reveals that the lowest-ranked hero will be disposed of so that they do not hinder those with greater talent. Banished to a notoriously dangerous area, Touka comes face-to-face with death after being cornered by a minotaur-like creature. In a desperate attempt to survive, he uses his supposedly worthless skill—only to quickly realize that it works almost every time. Armed with the ability to render the monsters standing in his way completely helpless, Touka resolves to track down the goddess that tossed him aside and exact his revenge.\n\nSynonyms: I became the strongest with the failure frame \"Abnormal State Skill\" as I devastated everything, Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells",
-                    "genre": "Action, Adventure, Fantasy",
+                    "url": "/anime/?anime_id=5481",
+                    "title": "Beyblade X",
+                    "author": "OLM",
+                    "description": "Kazami Bird, aiming to become a professional, meets former champion Kurosu Ekusu also known as 'Kamen X' and forms a team so that they can aim for the \"top\" of the X Tower. But what awaits them is a spectacular battle that no one has ever seen before: the yet unseen \"X.\" The super accelerated beyblade runs through a new era!",
+                    "genre": "Adventure, Sports",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/80df1f53944d69e03be07db67310e08ac087ecb4104e3092114a45c565b945be.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/5a7f40d100f95368e34573dbaa1ca209c312f41242e9f97ce39eb7258d929363.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/f4bdd6a4-55ab-d75d-d782-4a68cb71df03/2c1f01a2cf465a385deb5126ccaf0abf7b22c1dddd6fa9321283c84a0698c298",
-                        "name": "Episode 8",
-                        "date_upload": 1724954743000,
-                        "episode_number": 8.0
+                        "url": "/play/a153aef0-231f-d79e-4b50-54302e714cb9/5a67beddd29e74dd6819cd42bfc988e23de0bbf854da6bc70a63643e54c4e6a5",
+                        "name": "Episode 45",
+                        "date_upload": 1724978894000,
+                        "episode_number": 45.0
                     },
                     {
-                        "url": "/play/f4bdd6a4-55ab-d75d-d782-4a68cb71df03/6a2158558a3675f3ae8bd2cfa821618782014a496e6ba23859c50f513130234c",
-                        "name": "Episode 7",
-                        "date_upload": 1724350002000,
-                        "episode_number": 7.0
+                        "url": "/play/a153aef0-231f-d79e-4b50-54302e714cb9/fed96bfb216b08aa4fe9f2ebaa36e6c14b16954243b5b97a88b560dd30d82879",
+                        "name": "Episode 44",
+                        "date_upload": 1724254861000,
+                        "episode_number": 44.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/af2b89a5ac0c0440b66ee04fce3c90510af07feffc1b81ae442d022d1e632377?file=AnimePahe_Hazurewaku_no_Joutai_Ijou_Skill_de_Saikyou_ni_Natta_Ore_ga_Subete_wo_Juurin_suru_made_-_08_1080p_SubsPlease.mp4&token=dwwn2etVgOL-rY5SjcuIZw&expires=1724970552",
-                        "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/af2b89a5ac0c0440b66ee04fce3c90510af07feffc1b81ae442d022d1e632377?file=AnimePahe_Hazurewaku_no_Joutai_Ijou_Skill_de_Saikyou_ni_Natta_Ore_ga_Subete_wo_Juurin_suru_made_-_08_1080p_SubsPlease.mp4&token=dwwn2etVgOL-rY5SjcuIZw&expires=1724970552"
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/d0dc45f1d3fe24f1efcf1820f6cabcf9446525963c213f5570c0f11a2c5abc52?file=AnimePahe_Beyblade_X_-_45_1080p_HnY.mp4&token=nRA_htIZE0Kfsmm7FobJkA&expires=1724996462",
+                        "quality": "HnY · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/d0dc45f1d3fe24f1efcf1820f6cabcf9446525963c213f5570c0f11a2c5abc52?file=AnimePahe_Beyblade_X_-_45_1080p_HnY.mp4&token=nRA_htIZE0Kfsmm7FobJkA&expires=1724996462"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/3b69e2ff8eb998c32b9e7d9c0b2af4847a9e6513dadb021b9488b602e72cf296?file=AnimePahe_Hazurewaku_no_Joutai_Ijou_Skill_de_Saikyou_ni_Natta_Ore_ga_Subete_wo_Juurin_suru_made_-_08_720p_SubsPlease.mp4&token=hYCm_CVlFrO0oxMdZjMm_g&expires=1724970549",
-                        "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/3b69e2ff8eb998c32b9e7d9c0b2af4847a9e6513dadb021b9488b602e72cf296?file=AnimePahe_Hazurewaku_no_Joutai_Ijou_Skill_de_Saikyou_ni_Natta_Ore_ga_Subete_wo_Juurin_suru_made_-_08_720p_SubsPlease.mp4&token=hYCm_CVlFrO0oxMdZjMm_g&expires=1724970549"
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/4a8947113de790bc83e705cd11f328cf7929828315d8811379fe83b3fab1cb57?file=AnimePahe_Beyblade_X_-_45_720p_HnY.mp4&token=xCsmNhaIwECQVDnT4Fjqtw&expires=1724996460",
+                        "quality": "HnY · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/4a8947113de790bc83e705cd11f328cf7929828315d8811379fe83b3fab1cb57?file=AnimePahe_Beyblade_X_-_45_720p_HnY.mp4&token=xCsmNhaIwECQVDnT4Fjqtw&expires=1724996460"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/c0cef8aa6c8def8d9568e1495531212d5026185cd81d3c6c99d6db81583d5b3c?file=AnimePahe_Hazurewaku_no_Joutai_Ijou_Skill_de_Saikyou_ni_Natta_Ore_ga_Subete_wo_Juurin_suru_made_-_08_360p_SubsPlease.mp4&token=cYYsZdnunHUOjO-XMI2GeQ&expires=1724970547",
-                        "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/c0cef8aa6c8def8d9568e1495531212d5026185cd81d3c6c99d6db81583d5b3c?file=AnimePahe_Hazurewaku_no_Joutai_Ijou_Skill_de_Saikyou_ni_Natta_Ore_ga_Subete_wo_Juurin_suru_made_-_08_360p_SubsPlease.mp4&token=cYYsZdnunHUOjO-XMI2GeQ&expires=1724970547"
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/d52c94cfa1270f05300481b8f6e1873c15f962f559f413216631308bd43f3a0b?file=AnimePahe_Beyblade_X_-_45_360p_HnY.mp4&token=Jx1QaNTCuaADlFXO4NTXfg&expires=1724996459",
+                        "quality": "HnY · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/d52c94cfa1270f05300481b8f6e1873c15f962f559f413216631308bd43f3a0b?file=AnimePahe_Beyblade_X_-_45_360p_HnY.mp4&token=Jx1QaNTCuaADlFXO4NTXfg&expires=1724996459"
                     }
                 ],
                 "passed": true
