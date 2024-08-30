@@ -167,6 +167,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/10408/Hotarubi_no_Mori_e",
+                                "title": "Hotarubi no Mori e",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1599/112267l.jpg"
+                            },
+                            {
+                                "url": "/anime/34820/Mazinger_Z_Movie_Infinity",
+                                "title": "Mazinger Z Movie: Infinity",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1611/90206l.jpg"
+                            },
+                            {
                                 "url": "/anime/34498/Uchiage_Hanabi_Shita_kara_Miru_ka_Yoko_kara_Miru_ka",
                                 "title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/10/86521l.jpg"
@@ -305,16 +315,6 @@
                                 "url": "/anime/586/Ayakashi_Japanese_Classic_Horror",
                                 "title": "Ayakashi: Japanese Classic Horror",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/2/11746l.jpg"
-                            },
-                            {
-                                "url": "/anime/20975/Seisenshi_Dunbine_Memorial",
-                                "title": "Seisenshi Dunbine Memorial",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/2/55405l.jpg"
-                            },
-                            {
-                                "url": "/anime/929/Seisenshi_Dunbine",
-                                "title": "Seisenshi Dunbine",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1562/94955l.jpg"
                             }
                         ],
                         "hasNextPage": true
