@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5608",
+                                "title": "Madougushi Dahliya wa Utsumukanai",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/bb8b5c6436569be841f37107f6634633e6e0043c4e11ba9bf61927e8955c1577.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5509",
+                                "title": "Boku no Hero Academia 7th Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2b05d60c54574e6bcd87b71771cae3d10eb04c7d42506890622674a3c6de3af7.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5255",
                                 "title": "Pokemon (2023)",
                                 "artist": "Some-Stuffs",
@@ -65,18 +77,6 @@
                                 "title": "Code Geass: Dakkan no Rozé",
                                 "artist": "Disney_Plus",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/e93aacafd692e00bfe290a0cdc5ea0395edfe092794170ff74fafdd618a47a9d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5584",
-                                "title": "Dead Dead Demons Dededede Destruction (ONA)",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/22319f6308a295a2f8d7b528455a9de46181ad81ac9aa4de9abbec0713938349.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5481",
-                                "title": "Beyblade X",
-                                "artist": "HnY",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/10a6f9fb7f1159d151d3fc675b1d698ae7ad9d77ad009578c9dca4da26cfee8f.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5608",
+                                "title": "Madougushi Dahliya wa Utsumukanai",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/bb8b5c6436569be841f37107f6634633e6e0043c4e11ba9bf61927e8955c1577.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5509",
+                                "title": "Boku no Hero Academia 7th Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2b05d60c54574e6bcd87b71771cae3d10eb04c7d42506890622674a3c6de3af7.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5255",
                                 "title": "Pokemon (2023)",
                                 "artist": "Some-Stuffs",
@@ -147,18 +159,6 @@
                                 "title": "Code Geass: Dakkan no Rozé",
                                 "artist": "Disney_Plus",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/e93aacafd692e00bfe290a0cdc5ea0395edfe092794170ff74fafdd618a47a9d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5584",
-                                "title": "Dead Dead Demons Dededede Destruction (ONA)",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/22319f6308a295a2f8d7b528455a9de46181ad81ac9aa4de9abbec0713938349.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5481",
-                                "title": "Beyblade X",
-                                "artist": "HnY",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/10a6f9fb7f1159d151d3fc675b1d698ae7ad9d77ad009578c9dca4da26cfee8f.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -167,105 +167,20 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/?anime_id=119",
-                                "title": "World Trigger",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/5a3bd9bf6b59f52791ed7b7c05a300a1b9e9007a625d85124ccd7b2284cba8a0.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=2064",
-                                "title": "World Fool News (TV)",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/fa9d124c722e9299a10cb95a7f21a020c743aee11fffdfc70e359174a6e21fc9.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=1473",
-                                "title": "Seiken Tsukai no World Break",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/bba0a45b28c71d6d667373e8252fc7c7e081f0161a1d5de92c99f242528a1325.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=2043",
-                                "title": "World Fool News (TV) Part II",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/0073b9c98ead3b7f10842dbec19670b5f21fddbc63404466bae6b833c2328195.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=4175",
-                                "title": "World Trigger 2nd Season",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/50d7865d198d0a2d7faee377b50698e3a16934f63c345dad425975146ac03778.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=4200",
-                                "title": "World Witches Hasshin Shimasu!",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/043989368c94192bfdb1843bbf32ce2a798c3acc82b1deea803fd02e3bd67b07.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=4524",
-                                "title": "World Trigger 3rd Season",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/342aeeeafea0be4d7b0d073ea0911ad86bea88261c782ea64211c470073eab08.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5229",
-                                "title": "World Dai Star",
-                                "thumbnail_url": "https://i.animepahe.ru/posters/e9a0985f593a33302d983d125b3fd44d1124c540176fcfad6296a0b819709319.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/anime/?anime_id=5255",
-                    "title": "Pokemon (2023)",
-                    "author": "OLM",
-                    "description": "In a world filled with strange yet majestic creatures known as Pokémon, a new adventure begins! Hailing from the pristine region of Paldea, the timid Liko travels to the Kanto region to attend the Indigo Academy and become a Pokémon trainer—a person who forms relationships with Pokémon and trains them to participate in battles. Soon, Liko acquires Nyahoja, a fickle Grass-type cat Pokémon, as her first partner. Prior to Liko's transfer to Kanto, her grandmother gives her a uniquely patterned and gleaming pendant as a protective charm. However, an enigmatic organization—The Explorers—seems to know a secret about the pendant and nearly succeeds in stealing it from Liko. Fortunately, she is rescued by the Rising Volt Tacklers, a group of adventurers led by a Lizardon-riding trainer named Friede. After a series of encounters with The Explorers, Liko decides to join Friede's team, accompanying him and his crew members on a grand journey across the regions. Along the way, they aim to unravel not only the mysteries of the world of Pokémon, but also the power that resides within her pendant.\n\nSynonyms: Pokémon: Liko to Roy no Tabidachi, Pocket Monsters: Liko to Roy no Tabidachi, Pokémon: Terapagos no Kagayaki, Pocket Monsters: Terapagos no Kagayaki, Pokemon Horizons: Liko and Roy's Departure, Pokemon Horizons: Terapagos' Gleam",
-                    "genre": "Action, Adventure, Comedy, Fantasy",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/953b72f3f33aab88eb5929aac777c1c47043110fd8bb29d8ec35cac7045d478d.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/play/6c0ca9b0-b568-fa50-88e0-0cca813b45cf/3e4259bfd7db3886eca80dec9ade95203fccd856d20d3e578c75650cb5cfed20",
-                        "name": "Episode 63",
-                        "date_upload": 1725077466000,
-                        "episode_number": 63.0
-                    },
-                    {
-                        "url": "/play/6c0ca9b0-b568-fa50-88e0-0cca813b45cf/8c329fc58a0e339fbe6249840c84a0d407d1273b48410a8e007edc7ebcf9faa8",
-                        "name": "Episode 62",
-                        "date_upload": 1724477761000,
-                        "episode_number": 62.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/83de8fad0e57aae2c52957919287c521edefa42a545f9bff3a10320177f953bd?file=AnimePahe_Pokemon_2023_-_063_1080p_Some-Stuffs.mp4&token=N3CnAKZLeRuCtbe7yk_JOg&expires=1725100107",
-                        "quality": "Some-Stuffs · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/83de8fad0e57aae2c52957919287c521edefa42a545f9bff3a10320177f953bd?file=AnimePahe_Pokemon_2023_-_063_1080p_Some-Stuffs.mp4&token=N3CnAKZLeRuCtbe7yk_JOg&expires=1725100107"
-                    },
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/1d7e8dfa5b8509f1ac82d78e58d5f177e5aa722a0d2cdc36ea0719b9c581f361?file=AnimePahe_Pokemon_2023_-_063_720p_Some-Stuffs.mp4&token=zsSNo3LjNyOrYYSK9dJV_A&expires=1725100106",
-                        "quality": "Some-Stuffs · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/1d7e8dfa5b8509f1ac82d78e58d5f177e5aa722a0d2cdc36ea0719b9c581f361?file=AnimePahe_Pokemon_2023_-_063_720p_Some-Stuffs.mp4&token=zsSNo3LjNyOrYYSK9dJV_A&expires=1725100106"
-                    },
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/358e562a291b61b8eda2f733733b043ac691974a12803d1c5506d974f056fbc5?file=AnimePahe_Pokemon_2023_-_063_360p_Some-Stuffs.mp4&token=_7m-Kag5Pi-jGOOROnce3A&expires=1725100104",
-                        "quality": "Some-Stuffs · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/358e562a291b61b8eda2f733733b043ac691974a12803d1c5506d974f056fbc5?file=AnimePahe_Pokemon_2023_-_063_360p_Some-Stuffs.mp4&token=_7m-Kag5Pi-jGOOROnce3A&expires=1725100104"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

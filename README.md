@@ -1,6 +1,6 @@
 ## Extension status
 
-### 38/88(43%) are working
+### 37/88(42%) are working
 
 | Extension            |  Status   | Log                                                                                                                                       |
 | :------------------- | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,7 +45,7 @@
 | en.animenosub        |     ✅     | [results-en.animenosub.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animenosub.json)               |
 | en.animension        | ❌<br>1/6  | [results-en.animension.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animension.json)               |
 | en.animeowl          | ❌<br>1/6  | [results-en.animeowl.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animeowl.json)                   |
-| en.animepahe         |     ✅     | [results-en.animepahe.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animepahe.json)                 |
+| en.animepahe         | ❌<br>2/6  | [results-en.animepahe.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animepahe.json)                 |
 | en.animeparadise     | ❌<br>5/6  | [results-en.animeparadise.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animeparadise.json)         |
 | en.animesakura       | ❌<br>4/6  | [results-en.animesakura.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animesakura.json)             |
 | en.animetake         | ❌<br>0/6  | [results-en.animetake.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animetake.json)                 |
