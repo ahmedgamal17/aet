@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/i-parry-everything",
+                                "title": "I Parry Everything",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933716.jpg"
+                            },
+                            {
                                 "url": "/anime/terminator-zero",
                                 "title": "Terminator Zero",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933715.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/chained-soldier",
                                 "title": "Chained Soldier",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933689.jpg"
-                            },
-                            {
-                                "url": "/anime/makeine-too-many-losing-heroines",
-                                "title": "Makeine: Too Many Losing Heroines!",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933688.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/terminator-zero",
-                    "title": "Terminator Zero",
-                    "description": "2022: A future war has raged for decades between the few human survivors and an endless army of machines. 1997: The AI known as Skynet gained self-awareness and began its war against humanity.",
-                    "genre": "Action, Sci-fi, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933715.jpg",
+                    "url": "/anime/i-parry-everything",
+                    "title": "I Parry Everything",
+                    "description": "The Kingdom of Clays faces a dire crisis: an assassination attempt has just been made on its own Princess Lynneburg, and its neighboring countries eye the aftermath like starving vultures, plotting the Kingdom’s downfall. The ensuing conflict will shape the face of the continent for centuries to come…but Noor doesn’t have a clue about any of that! Having freshly arrived at the royal capital after over a decade of rigorous, isolated training at his mountain home, he’s dead set on achieving his childhood dream of becoming an adventurer, even if the only skills he possesses are useless ones. Sure, he can “Parry” thousands of swords in the span of a single breath, but everybody knows you need more than that if you want to be an adventurer! Our hero’s road to making his dream come true will be long(?) and arduous(?)—but if there’s one thing Noor’s not afraid of, it’s some good ol’ fashioned hard work!",
+                    "genre": "Action, Adventure, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933716.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,14 +616,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/terminator-zero-episode-8-english-dubbed",
-                        "name": "Season 1 - Episode 8",
-                        "episode_number": 108.0
-                    },
-                    {
-                        "url": "/terminator-zero-episode-7-english-dubbed",
-                        "name": "Season 1 - Episode 7",
-                        "episode_number": 107.0
+                        "url": "/i-parry-everything-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
                     }
                 ],
                 "passed": true
@@ -631,19 +626,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jJM9_WHnX_FInowRH2xUIoIEc5oXAcaA-LK6cXxDR6PezKThhF2uPSkos5oQz52GQFgcF0j9S14Tlv0jeNiibdVg8TlFbVIv0QJInQTxJMDTOSFmpHiwusYSYwd-mTDSuuR8j1T50tAT5T4Il2vHt2RSOxZdPBsZMt0GY5j3iK9g3S4i7FhA_0sfxHiLXk3nuHpygNddVz_gjCbPD9JbaZRT5URPhIDoGHVOX_s7xOabCNshXnm5HmBs519F_2Qyo3XvFY32nripWXfPO9UHqNvT2BQoIPjHVZsdGEeMt7_79UgS1bQIKJL-OVQW6ULBQZxs3z5Zi5LkeGBBh1NXo3uBsDBB5qmkqz8zvdCS60J4T6zm0cAtPa8hYmVAppi7s",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g49C2pgPv2ee8IkFmNaGFyX8XUC8y3poM92c4KgLQrab5eqHL3vvOdCZI16WzhMuOY9iatjpqrh6qVT4SGFZvENK5jcS91kl4dfGp5DhSIqVan0GiP1dG_0LhgeWWLf0KRbIA6YiFLuYU9Ce0o5Q8DrjVVoyyP0qR5Yb51XJMgP7sW2zTc1Qxwg4S-9yvB_URNw3Rxui-lbeIpa2W29KZ328SCzNjkF7tDNLQjhvn3UuNIA0yelfqthPZnZb6kADU2RxgbhUJRMacbVWdFpyZIihCJH49FAtHmK0-bdGNjzrKMVaLzATjh4vPIMflVIobGywNkCO4xQ8gGznV2IcOqa_t0OqHCE1dQOHOVUo9zMNp18wA9c8qAJSuLPiq71wXNO7VrwPoEVWH83QDpBjY9",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jJM9_WHnX_FInowRH2xUIoIEc5oXAcaA-LK6cXxDR6PezKThhF2uPSkos5oQz52GQFgcF0j9S14Tlv0jeNiibdVg8TlFbVIv0QJInQTxJMDTOSFmpHiwusYSYwd-mTDSuuR8j1T50tAT5T4Il2vHt2RSOxZdPBsZMt0GY5j3iK9g3S4i7FhA_0sfxHiLXk3nuHpygNddVz_gjCbPD9JbaZRT5URPhIDoGHVOX_s7xOabCNshXnm5HmBs519F_2Qyo3XvFY32nripWXfPO9UHqNvT2BQoIPjHVZsdGEeMt7_79UgS1bQIKJL-OVQW6ULBQZxs3z5Zi5LkeGBBh1NXo3uBsDBB5qmkqz8zvdCS60J4T6zm0cAtPa8hYmVAppi7s"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g49C2pgPv2ee8IkFmNaGFyX8XUC8y3poM92c4KgLQrab5eqHL3vvOdCZI16WzhMuOY9iatjpqrh6qVT4SGFZvENK5jcS91kl4dfGp5DhSIqVan0GiP1dG_0LhgeWWLf0KRbIA6YiFLuYU9Ce0o5Q8DrjVVoyyP0qR5Yb51XJMgP7sW2zTc1Qxwg4S-9yvB_URNw3Rxui-lbeIpa2W29KZ328SCzNjkF7tDNLQjhvn3UuNIA0yelfqthPZnZb6kADU2RxgbhUJRMacbVWdFpyZIihCJH49FAtHmK0-bdGNjzrKMVaLzATjh4vPIMflVIobGywNkCO4xQ8gGznV2IcOqa_t0OqHCE1dQOHOVUo9zMNp18wA9c8qAJSuLPiq71wXNO7VrwPoEVWH83QDpBjY9"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jJM9_WHnX_FInowRH2xUIoIEc5oXAcaA-LK6cXxDR6PezKThhF2uPSkos5oQz52GQFgcF0j9S14Tlv0jeNiibdVg8TlFbVIv0QJInQTxJMDT-fbhWjOk9AffoGFh7m0jHplzaqYUcoLO19DZ9QeAsoM2hIqQkdVGjNxMdZR9CtUGPcx_GSWEW-CuTu0HmTVxkdKpmVh5DA0RjAOntE873vFrBpIT4K6uKF0XT1wC_lNwX871q6LQzsm2VJsUY7gZkGjMtyfaBh8nYMrUfh7DOJEMKCyIAuATRQsBcStVnSIql6AGMAW8zw_8vZPM15NzZG-gxmHbtAIV0cJEuS1Rz0gQB7z78p9XKGn-vDVeKTkw5AWJ0WHH_U6qHc3phI1k0",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g49C2pgPv2ee8IkFmNaGFyX8XUC8y3poM92c4KgLQrab5eqHL3vvOdCZI16WzhMuOY9iatjpqrh6qVT4SGFZvENK5jcS91kl4dfGp5DhSIqVan0GiP1dG_0LhgeWWLf0KNlN4Is5AkgehewSBXJAfXC9_4GRBZxiXduJnuTHQKgznK3YthwXj4w1Ehv-M_eFzLhOl4hy1K7JJKy_uewdfwMarIjJGBFLUDdpyY2jwuA5KoqoY6OYOVXH4rd9INU0D-GXi9T8NwYJPzeta43MjhQFXUM2AOR8sgSAndnUEds2GXWctneJdO_66It3PiZxHQ-x3npfPspWNCMNgsOH0ubftzr-2dRG9rJY1McRN-G2Kt1q0BMgAI0ZSBQx8gjxAk1hLfFT7zLi28VE6xU5p1",
                         "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jJM9_WHnX_FInowRH2xUIoIEc5oXAcaA-LK6cXxDR6PezKThhF2uPSkos5oQz52GQFgcF0j9S14Tlv0jeNiibdVg8TlFbVIv0QJInQTxJMDT-fbhWjOk9AffoGFh7m0jHplzaqYUcoLO19DZ9QeAsoM2hIqQkdVGjNxMdZR9CtUGPcx_GSWEW-CuTu0HmTVxkdKpmVh5DA0RjAOntE873vFrBpIT4K6uKF0XT1wC_lNwX871q6LQzsm2VJsUY7gZkGjMtyfaBh8nYMrUfh7DOJEMKCyIAuATRQsBcStVnSIql6AGMAW8zw_8vZPM15NzZG-gxmHbtAIV0cJEuS1Rz0gQB7z78p9XKGn-vDVeKTkw5AWJ0WHH_U6qHc3phI1k0"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g49C2pgPv2ee8IkFmNaGFyX8XUC8y3poM92c4KgLQrab5eqHL3vvOdCZI16WzhMuOY9iatjpqrh6qVT4SGFZvENK5jcS91kl4dfGp5DhSIqVan0GiP1dG_0LhgeWWLf0KNlN4Is5AkgehewSBXJAfXC9_4GRBZxiXduJnuTHQKgznK3YthwXj4w1Ehv-M_eFzLhOl4hy1K7JJKy_uewdfwMarIjJGBFLUDdpyY2jwuA5KoqoY6OYOVXH4rd9INU0D-GXi9T8NwYJPzeta43MjhQFXUM2AOR8sgSAndnUEds2GXWctneJdO_66It3PiZxHQ-x3npfPspWNCMNgsOH0ubftzr-2dRG9rJY1McRN-G2Kt1q0BMgAI0ZSBQx8gjxAk1hLfFT7zLi28VE6xU5p1"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jJM9_WHnX_FInowRH2xUIoIEc5oXAcaA-LK6cXxDR6PezKThhF2uPSkos5oQz52GQFgcF0j9S14Tlv0jeNiibdVg8TlFbVIv0QJInQTxJMDYwpwIAOla-p_IdPiWcmY-2tcBsiJcvhEdsIPFreT6iC3tsdqls2KVbHpAaTjRLt4f0D6ywxG6JiFA8-mR8b08goWuSINKoAlNFIZXEtiBb6m_cR0BbEHon9TF7FLM-0pAJTOSRbyEM8uCPEZiduAOKTRbUJw8GIFjNdayWYfi7ImClEFjYHgIMFO75KuouTWnpJA_DkoAbCPKDFn8VzBArO6gFzhqH3HkHq00tKrFUWsO5pw3ox3Efy5mDrlc685VJTeozDo1ECcaEfH7Y8sGw",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g49C2pgPv2ee8IkFmNaGFyX8XUC8y3poM92c4KgLQrab5eqHL3vvOdCZI16WzhMuOY9iatjpqrh6qVT4SGFZvENK5jcS91kl4dfGp5DhSIqVan0GiP1dG_0LhgeWWLf0KKwhvlidBLHH2oVupSb_5nJ4-8vrjnghvaO9zfOZWJZmJGtWpLCHnb7RyMyPehWyn-13qZ-ddU3d2iVWDFSu44XDsQrurGTLaEr5D4g1eBNPfVJfMyuj63r6PtqWz8ZgNtjTl3_XM0Q5lBdnPIUzfJm-_awKcZAtz87ATbE6FiTZ0NDlECHcAL_rSSS4vfpnFsLGCK6AlT0XZqX5bdrWgQELjoo3F4lbTNxeuGsEcDHLVfLUqCdmpyftn-z3uaSwqwzqj-ZCNBYDiAttvaqPV4",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2jJM9_WHnX_FInowRH2xUIoIEc5oXAcaA-LK6cXxDR6PezKThhF2uPSkos5oQz52GQFgcF0j9S14Tlv0jeNiibdVg8TlFbVIv0QJInQTxJMDYwpwIAOla-p_IdPiWcmY-2tcBsiJcvhEdsIPFreT6iC3tsdqls2KVbHpAaTjRLt4f0D6ywxG6JiFA8-mR8b08goWuSINKoAlNFIZXEtiBb6m_cR0BbEHon9TF7FLM-0pAJTOSRbyEM8uCPEZiduAOKTRbUJw8GIFjNdayWYfi7ImClEFjYHgIMFO75KuouTWnpJA_DkoAbCPKDFn8VzBArO6gFzhqH3HkHq00tKrFUWsO5pw3ox3Efy5mDrlc685VJTeozDo1ECcaEfH7Y8sGw"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g49C2pgPv2ee8IkFmNaGFyX8XUC8y3poM92c4KgLQrab5eqHL3vvOdCZI16WzhMuOY9iatjpqrh6qVT4SGFZvENK5jcS91kl4dfGp5DhSIqVan0GiP1dG_0LhgeWWLf0KKwhvlidBLHH2oVupSb_5nJ4-8vrjnghvaO9zfOZWJZmJGtWpLCHnb7RyMyPehWyn-13qZ-ddU3d2iVWDFSu44XDsQrurGTLaEr5D4g1eBNPfVJfMyuj63r6PtqWz8ZgNtjTl3_XM0Q5lBdnPIUzfJm-_awKcZAtz87ATbE6FiTZ0NDlECHcAL_rSSS4vfpnFsLGCK6AlT0XZqX5bdrWgQELjoo3F4lbTNxeuGsEcDHLVfLUqCdmpyftn-z3uaSwqwzqj-ZCNBYDiAttvaqPV4"
                     }
                 ],
                 "passed": true
