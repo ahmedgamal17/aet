@@ -410,9 +410,9 @@
                         }
                     },
                     {
-                        "url": "https://s6.maxstream.org/hls2/01/00007/iyouhzgny7zz_n/index-v1-a1.m3u8?t=c0b1w2g6zJ9vEu0dkaemSR4NjL3NdF0SfJjcbUTJROM&s=1725155667&e=43200&f=39672&i=20.172",
+                        "url": "https://s6.maxstream.org/hls2/01/00007/iyouhzgny7zz_n/index-v1-a1.m3u8?t=VKc-XoeYBnRfqMWiJ3N5fM0JIs6wEXG78gMfqLpcpsw&s=1725172219&e=43200&f=39672&i=172.200",
                         "quality": "MaxStream: 480p",
-                        "videoUrl": "https://s6.maxstream.org/hls2/01/00007/iyouhzgny7zz_n/index-v1-a1.m3u8?t=c0b1w2g6zJ9vEu0dkaemSR4NjL3NdF0SfJjcbUTJROM&s=1725155667&e=43200&f=39672&i=20.172",
+                        "videoUrl": "https://s6.maxstream.org/hls2/01/00007/iyouhzgny7zz_n/index-v1-a1.m3u8?t=VKc-XoeYBnRfqMWiJ3N5fM0JIs6wEXG78gMfqLpcpsw&s=1725172219&e=43200&f=39672&i=172.200",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -421,20 +421,15 @@
                         }
                     },
                     {
-                        "url": "https://x534u8sab18y.cdn-jupiter.com/hls2/01/04805/nki270crwvcm_h/index-v1-a1.m3u8?t=WhkqAmFgWojSxSLW_jE9U1eMAEUOah0d3vV2MhIjpnk&s=1725155668&e=129600&f=24036583&srv=bE5VhFd378&i=0.4&sp=500&p1=bE5VhFd378&p2=bE5VhFd378&asn=8075",
+                        "url": "https://24q0stgk4bnr.cdn-jupiter.com/hls2/01/04805/nki270crwvcm_h/index-v1-a1.m3u8?t=pHdV2unDTjIAxVzDzsxX_AE_lQKTmPRKHfpzGMfehHM&s=1725172218&e=129600&f=24036583&srv=bE5VhFd378&i=0.4&sp=500&p1=bE5VhFd378&p2=bE5VhFd378&asn=8075",
                         "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://x534u8sab18y.cdn-jupiter.com/hls2/01/04805/nki270crwvcm_h/index-v1-a1.m3u8?t=WhkqAmFgWojSxSLW_jE9U1eMAEUOah0d3vV2MhIjpnk&s=1725155668&e=129600&f=24036583&srv=bE5VhFd378&i=0.4&sp=500&p1=bE5VhFd378&p2=bE5VhFd378&asn=8075",
+                        "videoUrl": "https://24q0stgk4bnr.cdn-jupiter.com/hls2/01/04805/nki270crwvcm_h/index-v1-a1.m3u8?t=pHdV2unDTjIAxVzDzsxX_AE_lQKTmPRKHfpzGMfehHM&s=1725172218&e=129600&f=24036583&srv=bE5VhFd378&i=0.4&sp=500&p1=bE5VhFd378&p2=bE5VhFd378&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://javclan.com",
                             "Referer": "https://javclan.com/e/gcl8elrmcg2l"
                         }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=YWZX8Oyo7vuo4b&expires=1725225669&ip=FROsD0ETKxSHDN&token=ZVJKFF2fZtEt",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=YWZX8Oyo7vuo4b&expires=1725225669&ip=FROsD0ETKxSHDN&token=ZVJKFF2fZtEt"
                     },
                     {
                         "url": "https://cdn113.dylancyp.com/data/F/4B/66d22001096f1/66d22001096f11080.m3u8",
