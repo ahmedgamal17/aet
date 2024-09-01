@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5495",
+                                "title": "Wonderful Precure!",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/aff07dee5803b93e9e9224346d32b9b9289c5c8fa674e55eb7ccd8cbcc714414.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5550",
+                                "title": "Karasu wa Aruji wo Erabanai",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/5f6c4d3dd58642b6502fec830ed48e9fae888c6a06a540b90a72973755b518d7.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5616",
                                 "title": "Shoushimin Series",
                                 "artist": "SubsPlease",
@@ -65,18 +77,6 @@
                                 "title": "Mob kara Hajimaru Tansaku Eiyuutan",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/6464cb780172d8522c1ad635d096cb17ba6e3c870b104f898706c1fb5c0a5868.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5608",
-                                "title": "Madougushi Dahliya wa Utsumukanai",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/bb8b5c6436569be841f37107f6634633e6e0043c4e11ba9bf61927e8955c1577.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5509",
-                                "title": "Boku no Hero Academia 7th Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2b05d60c54574e6bcd87b71771cae3d10eb04c7d42506890622674a3c6de3af7.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5495",
+                                "title": "Wonderful Precure!",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/aff07dee5803b93e9e9224346d32b9b9289c5c8fa674e55eb7ccd8cbcc714414.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5550",
+                                "title": "Karasu wa Aruji wo Erabanai",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/5f6c4d3dd58642b6502fec830ed48e9fae888c6a06a540b90a72973755b518d7.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5616",
                                 "title": "Shoushimin Series",
                                 "artist": "SubsPlease",
@@ -147,18 +159,6 @@
                                 "title": "Mob kara Hajimaru Tansaku Eiyuutan",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/6464cb780172d8522c1ad635d096cb17ba6e3c870b104f898706c1fb5c0a5868.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5608",
-                                "title": "Madougushi Dahliya wa Utsumukanai",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/bb8b5c6436569be841f37107f6634633e6e0043c4e11ba9bf61927e8955c1577.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5509",
-                                "title": "Boku no Hero Academia 7th Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2b05d60c54574e6bcd87b71771cae3d10eb04c7d42506890622674a3c6de3af7.jpg"
                             }
                         ],
                         "hasNextPage": true
