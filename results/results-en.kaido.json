@@ -292,14 +292,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/e7/ea/e7eae90b00f92055c4cb250605b10879/e7eae90b00f92055c4cb250605b10879.jpg"
                             },
                             {
-                                "url": "/holo-graffiti-17369",
-                                "title": "Holo no Graffiti",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/40/5f/405fc35850233fce26ed9bc6ff7409fe/405fc35850233fce26ed9bc6ff7409fe.jpg"
-                            },
-                            {
                                 "url": "/case-closed-323",
                                 "title": "Detective Conan",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/3b/18/3b185ed9d10aa300bb0cb7fc35b84999/3b185ed9d10aa300bb0cb7fc35b84999.jpg"
+                            },
+                            {
+                                "url": "/holo-graffiti-17369",
+                                "title": "Holo no Graffiti",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/40/5f/405fc35850233fce26ed9bc6ff7409fe/405fc35850233fce26ed9bc6ff7409fe.jpg"
                             },
                             {
                                 "url": "/soul-land-2-peerless-tang-sect-18416",
@@ -432,11 +432,6 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/77/4d/774db8f67bda9e97e285f8ce0fa050b5/774db8f67bda9e97e285f8ce0fa050b5.jpg"
                             },
                             {
-                                "url": "/one-hundred-thousand-years-of-qi-refining-19182",
-                                "title": "Lian Qi Shi Wan Nian",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/6a/a3/6aa3770a48ac6a8500d378819d0de918/6aa3770a48ac6a8500d378819d0de918.jpg"
-                            },
-                            {
                                 "url": "/wonderful-precure-19012",
                                 "title": "Wonderful Precure!",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/bd/24/bd240553129bdb6fbdc171b7819236e8/bd240553129bdb6fbdc171b7819236e8.jpg"
@@ -445,6 +440,11 @@
                                 "url": "/hifuu-club-activity-record-the-sealed-esoteric-history-2328",
                                 "title": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/29/51/295167d642d2a9477d4193b33c5f78c9/295167d642d2a9477d4193b33c5f78c9.jpg"
+                            },
+                            {
+                                "url": "/one-hundred-thousand-years-of-qi-refining-19182",
+                                "title": "Lian Qi Shi Wan Nian",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/6a/a3/6aa3770a48ac6a8500d378819d0de918/6aa3770a48ac6a8500d378819d0de918.jpg"
                             },
                             {
                                 "url": "/days-with-my-stepsister-19251",
@@ -708,9 +708,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://g4fv.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f1-v1-a1.m3u8",
+                        "url": "https://wf1.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f1-v1-a1.m3u8",
                         "quality": "Vidstreaming - 1080p - sub",
-                        "videoUrl": "https://g4fv.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f1-v1-a1.m3u8",
+                        "videoUrl": "https://wf1.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f1-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -741,9 +741,9 @@
                         ]
                     },
                     {
-                        "url": "https://g4fv.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f2-v1-a1.m3u8",
+                        "url": "https://wf1.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f2-v1-a1.m3u8",
                         "quality": "Vidstreaming - 720p - sub",
-                        "videoUrl": "https://g4fv.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f2-v1-a1.m3u8",
+                        "videoUrl": "https://wf1.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f2-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -774,9 +774,9 @@
                         ]
                     },
                     {
-                        "url": "https://g4fv.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f3-v1-a1.m3u8",
+                        "url": "https://wf1.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f3-v1-a1.m3u8",
                         "quality": "Vidstreaming - 360p - sub",
-                        "videoUrl": "https://g4fv.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f3-v1-a1.m3u8",
+                        "videoUrl": "https://wf1.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f3-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -807,9 +807,9 @@
                         ]
                     },
                     {
-                        "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e28013646405cadb31fbf1afcc49ac54635fc76cac25e8672987b07e2da36aba2c100fc822cb1b28623d2e2b264ae2e67e6ea9f7e8f8465de236048ece5c7083b2ecb9d30eb262546ac9787bac27e040c22613ecdb2856d1c4971c542acdf3de1f/index-f1-v1-a1.m3u8",
+                        "url": "https://c-an-ca3.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2c4ba95cfe13b33ee5d5cb81833d96431a63487b213bc59ff429035c1f4eb7153f1796257b02da5c9d8be8c9aae415e9c4c75e465e8cb6eb73b06c982dd67a1b738256bed28b1526f24c8f7dda6afd5ebdfd7081ebe2c895230b5c14c3fba31c6/index-f1-v1-a1.m3u8",
                         "quality": "Vidcloud - 1080p - sub",
-                        "videoUrl": "https://c-an-ca4.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e28013646405cadb31fbf1afcc49ac54635fc76cac25e8672987b07e2da36aba2c100fc822cb1b28623d2e2b264ae2e67e6ea9f7e8f8465de236048ece5c7083b2ecb9d30eb262546ac9787bac27e040c22613ecdb2856d1c4971c542acdf3de1f/index-f1-v1-a1.m3u8",
+                        "videoUrl": "https://c-an-ca3.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2c4ba95cfe13b33ee5d5cb81833d96431a63487b213bc59ff429035c1f4eb7153f1796257b02da5c9d8be8c9aae415e9c4c75e465e8cb6eb73b06c982dd67a1b738256bed28b1526f24c8f7dda6afd5ebdfd7081ebe2c895230b5c14c3fba31c6/index-f1-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -840,9 +840,9 @@
                         ]
                     },
                     {
-                        "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e28013646405cadb31fbf1afcc49ac54635fc76cac25e8672987b07e2da36aba2c100fc822cb1b28623d2e2b264ae2e67e6ea9f7e8f8465de236048ece5c7083b2ecb9d30eb262546ac9787bac27e040c22613ecdb2856d1c4971c542acdf3de1f/index-f2-v1-a1.m3u8",
+                        "url": "https://c-an-ca3.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2c4ba95cfe13b33ee5d5cb81833d96431a63487b213bc59ff429035c1f4eb7153f1796257b02da5c9d8be8c9aae415e9c4c75e465e8cb6eb73b06c982dd67a1b738256bed28b1526f24c8f7dda6afd5ebdfd7081ebe2c895230b5c14c3fba31c6/index-f2-v1-a1.m3u8",
                         "quality": "Vidcloud - 720p - sub",
-                        "videoUrl": "https://c-an-ca4.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e28013646405cadb31fbf1afcc49ac54635fc76cac25e8672987b07e2da36aba2c100fc822cb1b28623d2e2b264ae2e67e6ea9f7e8f8465de236048ece5c7083b2ecb9d30eb262546ac9787bac27e040c22613ecdb2856d1c4971c542acdf3de1f/index-f2-v1-a1.m3u8",
+                        "videoUrl": "https://c-an-ca3.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2c4ba95cfe13b33ee5d5cb81833d96431a63487b213bc59ff429035c1f4eb7153f1796257b02da5c9d8be8c9aae415e9c4c75e465e8cb6eb73b06c982dd67a1b738256bed28b1526f24c8f7dda6afd5ebdfd7081ebe2c895230b5c14c3fba31c6/index-f2-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -873,9 +873,9 @@
                         ]
                     },
                     {
-                        "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e28013646405cadb31fbf1afcc49ac54635fc76cac25e8672987b07e2da36aba2c100fc822cb1b28623d2e2b264ae2e67e6ea9f7e8f8465de236048ece5c7083b2ecb9d30eb262546ac9787bac27e040c22613ecdb2856d1c4971c542acdf3de1f/index-f3-v1-a1.m3u8",
+                        "url": "https://c-an-ca3.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2c4ba95cfe13b33ee5d5cb81833d96431a63487b213bc59ff429035c1f4eb7153f1796257b02da5c9d8be8c9aae415e9c4c75e465e8cb6eb73b06c982dd67a1b738256bed28b1526f24c8f7dda6afd5ebdfd7081ebe2c895230b5c14c3fba31c6/index-f3-v1-a1.m3u8",
                         "quality": "Vidcloud - 360p - sub",
-                        "videoUrl": "https://c-an-ca4.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e28013646405cadb31fbf1afcc49ac54635fc76cac25e8672987b07e2da36aba2c100fc822cb1b28623d2e2b264ae2e67e6ea9f7e8f8465de236048ece5c7083b2ecb9d30eb262546ac9787bac27e040c22613ecdb2856d1c4971c542acdf3de1f/index-f3-v1-a1.m3u8",
+                        "videoUrl": "https://c-an-ca3.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2c4ba95cfe13b33ee5d5cb81833d96431a63487b213bc59ff429035c1f4eb7153f1796257b02da5c9d8be8c9aae415e9c4c75e465e8cb6eb73b06c982dd67a1b738256bed28b1526f24c8f7dda6afd5ebdfd7081ebe2c895230b5c14c3fba31c6/index-f3-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -906,9 +906,9 @@
                         ]
                     },
                     {
-                        "url": "https://wf1.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f1-v1-a1.m3u8",
+                        "url": "https://w2r.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f1-v1-a1.m3u8",
                         "quality": "Vidstreaming - 1080p - dub",
-                        "videoUrl": "https://wf1.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f1-v1-a1.m3u8",
+                        "videoUrl": "https://w2r.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f1-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -923,9 +923,9 @@
                         ]
                     },
                     {
-                        "url": "https://wf1.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f2-v1-a1.m3u8",
+                        "url": "https://w2r.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f2-v1-a1.m3u8",
                         "quality": "Vidstreaming - 720p - dub",
-                        "videoUrl": "https://wf1.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f2-v1-a1.m3u8",
+                        "videoUrl": "https://w2r.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f2-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -940,9 +940,9 @@
                         ]
                     },
                     {
-                        "url": "https://wf1.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f3-v1-a1.m3u8",
+                        "url": "https://w2r.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f3-v1-a1.m3u8",
                         "quality": "Vidstreaming - 360p - dub",
-                        "videoUrl": "https://wf1.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f3-v1-a1.m3u8",
+                        "videoUrl": "https://w2r.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f3-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -957,9 +957,9 @@
                         ]
                     },
                     {
-                        "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b6e3da31f645a141863bd2e1f3328c140fe656c902abce94ff4417827348e8cd8f75c5509d493bc4688ea1e0936b0f01484dfe595afe7961d21d2a6014a408fceb8ddd5d80ba1f0274d2144e7b2355435df3f79cade1281663f6466f242169863/index-f1-v1-a1.m3u8",
+                        "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b385a547910989f79d373a01fe0087ae3b70fb786ad72457481bddb80602152ade11dd4c977d16ad01a0ff634751403c590a00c738a0bebb69abd18c291383da4636afaffa0ca8526d9bf63eef9a6ec45291fbdd51dce9c632079322a00004782/index-f1-v1-a1.m3u8",
                         "quality": "Vidcloud - 1080p - dub",
-                        "videoUrl": "https://c-an-ca4.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b6e3da31f645a141863bd2e1f3328c140fe656c902abce94ff4417827348e8cd8f75c5509d493bc4688ea1e0936b0f01484dfe595afe7961d21d2a6014a408fceb8ddd5d80ba1f0274d2144e7b2355435df3f79cade1281663f6466f242169863/index-f1-v1-a1.m3u8",
+                        "videoUrl": "https://c-an-ca4.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b385a547910989f79d373a01fe0087ae3b70fb786ad72457481bddb80602152ade11dd4c977d16ad01a0ff634751403c590a00c738a0bebb69abd18c291383da4636afaffa0ca8526d9bf63eef9a6ec45291fbdd51dce9c632079322a00004782/index-f1-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -974,9 +974,9 @@
                         ]
                     },
                     {
-                        "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b6e3da31f645a141863bd2e1f3328c140fe656c902abce94ff4417827348e8cd8f75c5509d493bc4688ea1e0936b0f01484dfe595afe7961d21d2a6014a408fceb8ddd5d80ba1f0274d2144e7b2355435df3f79cade1281663f6466f242169863/index-f2-v1-a1.m3u8",
+                        "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b385a547910989f79d373a01fe0087ae3b70fb786ad72457481bddb80602152ade11dd4c977d16ad01a0ff634751403c590a00c738a0bebb69abd18c291383da4636afaffa0ca8526d9bf63eef9a6ec45291fbdd51dce9c632079322a00004782/index-f2-v1-a1.m3u8",
                         "quality": "Vidcloud - 720p - dub",
-                        "videoUrl": "https://c-an-ca4.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b6e3da31f645a141863bd2e1f3328c140fe656c902abce94ff4417827348e8cd8f75c5509d493bc4688ea1e0936b0f01484dfe595afe7961d21d2a6014a408fceb8ddd5d80ba1f0274d2144e7b2355435df3f79cade1281663f6466f242169863/index-f2-v1-a1.m3u8",
+                        "videoUrl": "https://c-an-ca4.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b385a547910989f79d373a01fe0087ae3b70fb786ad72457481bddb80602152ade11dd4c977d16ad01a0ff634751403c590a00c738a0bebb69abd18c291383da4636afaffa0ca8526d9bf63eef9a6ec45291fbdd51dce9c632079322a00004782/index-f2-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -991,9 +991,9 @@
                         ]
                     },
                     {
-                        "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b6e3da31f645a141863bd2e1f3328c140fe656c902abce94ff4417827348e8cd8f75c5509d493bc4688ea1e0936b0f01484dfe595afe7961d21d2a6014a408fceb8ddd5d80ba1f0274d2144e7b2355435df3f79cade1281663f6466f242169863/index-f3-v1-a1.m3u8",
+                        "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b385a547910989f79d373a01fe0087ae3b70fb786ad72457481bddb80602152ade11dd4c977d16ad01a0ff634751403c590a00c738a0bebb69abd18c291383da4636afaffa0ca8526d9bf63eef9a6ec45291fbdd51dce9c632079322a00004782/index-f3-v1-a1.m3u8",
                         "quality": "Vidcloud - 360p - dub",
-                        "videoUrl": "https://c-an-ca4.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b6e3da31f645a141863bd2e1f3328c140fe656c902abce94ff4417827348e8cd8f75c5509d493bc4688ea1e0936b0f01484dfe595afe7961d21d2a6014a408fceb8ddd5d80ba1f0274d2144e7b2355435df3f79cade1281663f6466f242169863/index-f3-v1-a1.m3u8",
+                        "videoUrl": "https://c-an-ca4.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b385a547910989f79d373a01fe0087ae3b70fb786ad72457481bddb80602152ade11dd4c977d16ad01a0ff634751403c590a00c738a0bebb69abd18c291383da4636afaffa0ca8526d9bf63eef9a6ec45291fbdd51dce9c632079322a00004782/index-f3-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
