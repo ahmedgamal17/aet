@@ -167,6 +167,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/33010/FLCL_Progressive",
+                                "title": "FLCL Progressive",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1499/93700l.jpg"
+                            },
+                            {
+                                "url": "/anime/227/FLCL",
+                                "title": "FLCL",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/7/77356l.jpg"
+                            },
+                            {
                                 "url": "/anime/34076/Uchouten_Kazoku_2",
                                 "title": "Uchouten Kazoku 2",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/8/85354l.jpg"
@@ -305,16 +315,6 @@
                                 "url": "/anime/36934/Captain_Tsubasa_2018",
                                 "title": "Captain Tsubasa (2018)",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1866/91270l.jpg"
-                            },
-                            {
-                                "url": "/anime/1000/Uchuu_Kaizoku_Captain_Herlock",
-                                "title": "Uchuu Kaizoku Captain Herlock",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1362/90305l.jpg"
-                            },
-                            {
-                                "url": "/anime/21677/Captain_Earth",
-                                "title": "Captain Earth",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/7/61051l.jpg"
                             }
                         ],
                         "hasNextPage": true
