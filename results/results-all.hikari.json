@@ -17,6 +17,11 @@
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
                             },
                             {
+                                "url": "/anime/9253/SteinsGate",
+                                "title": "Steins;Gate",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+                            },
+                            {
                                 "url": "/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2",
                                 "title": "Shingeki no Kyojin Season 3 Part 2",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1517/100633l.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/anime/47778/Kimetsu_no_Yaiba_Yuukaku-hen",
                                 "title": "Kimetsu no Yaiba: Yuukaku-hen",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1908/120036l.jpg"
-                            },
-                            {
-                                "url": "/anime/21/One_Piece",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,6 +166,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/5231/Inazuma_Eleven",
+                                "title": "Inazuma Eleven",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1854/94704l.jpg"
+                            },
+                            {
+                                "url": "/anime/18097/Inazuma_Eleven_Go_Galaxy",
+                                "title": "Inazuma Eleven Go: Galaxy",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/2/49743l.jpg"
+                            },
+                            {
+                                "url": "/anime/19815/No_Game_No_Life",
+                                "title": "No Game No Life",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg"
+                            },
+                            {
+                                "url": "/anime/9253/SteinsGate",
+                                "title": "Steins;Gate",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+                            },
                             {
                                 "url": "/anime/33010/FLCL_Progressive",
                                 "title": "FLCL Progressive",
@@ -295,26 +315,6 @@
                                 "url": "/anime/371/Cardcaptor_Sakura_Movie_1",
                                 "title": "Cardcaptor Sakura Movie 1",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1733/90336l.jpg"
-                            },
-                            {
-                                "url": "/anime/232/Cardcaptor_Sakura",
-                                "title": "Cardcaptor Sakura",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/8/60781l.jpg"
-                            },
-                            {
-                                "url": "/anime/54803/Captain_Tsubasa_Season_2_Junior_Youth-hen",
-                                "title": "Captain Tsubasa Season 2: Junior Youth-hen",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1716/137279l.jpg"
-                            },
-                            {
-                                "url": "/anime/1674/Captain_Tsubasa_J",
-                                "title": "Captain Tsubasa J",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1140/92113l.jpg"
-                            },
-                            {
-                                "url": "/anime/36934/Captain_Tsubasa_2018",
-                                "title": "Captain Tsubasa (2018)",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1866/91270l.jpg"
                             }
                         ],
                         "hasNextPage": true
