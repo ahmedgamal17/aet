@@ -122,11 +122,6 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177814-UFNNvDSJep8x.jpg"
                             },
                             {
-                                "url": "B5EBSAariAGcmLYud<&sep><&sep>dan-dao-zhizun",
-                                "title": "Dan Dao Zhizun",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174706-ICXnfFWkiJ3f.jpg"
-                            },
-                            {
                                 "url": "9baNLXs8eEENdWtDs<&sep><&sep>fairy-tail",
                                 "title": "Fairy Tail",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6702-4cW6E5AqQqqB.png"
@@ -135,6 +130,11 @@
                                 "url": "ReHMC7TQnch3C6z8j<&sep><&sep>sousou-no-frieren",
                                 "title": "Sousou no Frieren",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg"
+                            },
+                            {
+                                "url": "B5EBSAariAGcmLYud<&sep><&sep>dan-dao-zhizun",
+                                "title": "Dan Dao Zhizun",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174706-ICXnfFWkiJ3f.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -146,6 +146,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "m5zK5KdCrDwDysT6t<&sep><&sep>guai-xiang-shou",
+                                "title": "Guai Xiang Shou",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156086-V2mkmY4gSUAE.png"
+                            },
+                            {
+                                "url": "eDZ9AzEzXu3LQ3uTK<&sep><&sep>muu-no-hakugei",
+                                "title": "Muu no Hakugei",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4933-eOYkz2Fz2f8y.jpg"
+                            },
+                            {
+                                "url": "BYdHyfqDGXxWSDgAj<&sep><&sep>ganbare-genki",
+                                "title": "Ganbare Genki",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3213.jpg"
+                            },
                             {
                                 "url": "WuE4vGzRYZ4iAd89n<&sep><&sep>nanatsu-no-umi-no-tico",
                                 "title": "Nanatsu no Umi no Tico",
@@ -260,21 +275,6 @@
                                 "url": "cpRPE7bbpgPojRDu8<&sep><&sep>the-king-is-back",
                                 "title": "The King is Back",
                                 "thumbnail_url": "https://gogocdn.net/cover/the-king-is-back.png"
-                            },
-                            {
-                                "url": "qLhBjLPGrAexnkjsN<&sep><&sep>above-ten-thousand-people",
-                                "title": "Above Ten Thousand People",
-                                "thumbnail_url": "https://gogocdn.net/cover/above-ten-thousand-people.png"
-                            },
-                            {
-                                "url": "nehQPygEcBE76sMBR<&sep><&sep>divine-hero-s-skyfall-system",
-                                "title": "Divine Hero's Skyfall System",
-                                "thumbnail_url": "https://gogocdn.net/cover/divine-heros-skyfall-system.png"
-                            },
-                            {
-                                "url": "Mm9w5JHfqKdHsTsoK<&sep><&sep>everyone-is-a-king-i-sacrifice-countless-lives-to-become-a-king",
-                                "title": "Everyone Is a King: I Sacrifice Countless Lives to Become a King",
-                                "thumbnail_url": "https://gogocdn.net/cover/everyone-is-a-king-i-sacrifice-countless-lives-to-become-a-king.png"
                             }
                         ],
                         "hasNextPage": true
@@ -450,105 +450,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www119.anicdnstream.info/videos/hls/BjPBF4flXeV1sGzKRB2EDg/1725428220/231659/0b594d900f47daabc194844092384914/ep.1117.1725158009.1080.m3u8",
-                        "quality": "1080p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/BjPBF4flXeV1sGzKRB2EDg/1725428220/231659/0b594d900f47daabc194844092384914/ep.1117.1725158009.1080.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.anicdnstream.info",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.1080.m3u8",
-                        "quality": "1080p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.1080.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.anzeat.pro",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.anicdnstream.info/videos/hls/BjPBF4flXeV1sGzKRB2EDg/1725428220/231659/0b594d900f47daabc194844092384914/ep.1117.1725158009.720.m3u8",
-                        "quality": "720p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/BjPBF4flXeV1sGzKRB2EDg/1725428220/231659/0b594d900f47daabc194844092384914/ep.1117.1725158009.720.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.anicdnstream.info",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.anicdnstream.info/videos/hls/BjPBF4flXeV1sGzKRB2EDg/1725428220/231659/0b594d900f47daabc194844092384914/ep.1117.1725158009.480.m3u8",
-                        "quality": "480p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/BjPBF4flXeV1sGzKRB2EDg/1725428220/231659/0b594d900f47daabc194844092384914/ep.1117.1725158009.480.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.anicdnstream.info",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.anicdnstream.info/videos/hls/BjPBF4flXeV1sGzKRB2EDg/1725428220/231659/0b594d900f47daabc194844092384914/ep.1117.1725158009.360.m3u8",
-                        "quality": "360p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www119.anicdnstream.info/videos/hls/BjPBF4flXeV1sGzKRB2EDg/1725428220/231659/0b594d900f47daabc194844092384914/ep.1117.1725158009.360.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.anicdnstream.info",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.720.m3u8",
-                        "quality": "720p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.720.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.anzeat.pro",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.480.m3u8",
-                        "quality": "480p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.480.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.anzeat.pro",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    },
-                    {
-                        "url": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.360.m3u8",
-                        "quality": "360p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.360.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Host": "www119.anzeat.pro",
-                            "Origin": "https://allanime.day",
-                            "Referer": "https://allanime.day/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n",
+                "passed": false
             }
         }
     }

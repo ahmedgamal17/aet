@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "2ngTGms0Hbzaehn5",
+                                "title": "Tasuuketsu",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/2ngTGms0Hbzaehn5"
+                            },
+                            {
+                                "url": "zypxCqdvAF2h9cfF",
+                                "title": "Isekai Shikkaku",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/zypxCqdvAF2h9cfF"
+                            },
+                            {
                                 "url": "tdvMejML1imvGTnO",
                                 "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/tdvMejML1imvGTnO"
@@ -95,16 +105,6 @@
                                 "url": "xj1ZtFd96fjR2zQF",
                                 "title": "Elf-san wa Yaserarenai.",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/xj1ZtFd96fjR2zQF"
-                            },
-                            {
-                                "url": "17PURdr0rQ0DsixE",
-                                "title": "Boku no Tsuma wa Kanjou ga Nai",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/17PURdr0rQ0DsixE"
-                            },
-                            {
-                                "url": "tAnH5a1ZCvYdyOec",
-                                "title": "Monogatari Series: Off & Monster Season",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/tAnH5a1ZCvYdyOec"
                             }
                         ],
                         "hasNextPage": true
@@ -299,14 +299,14 @@
             },
             "details": {
                 "result": {
-                    "url": "tdvMejML1imvGTnO",
-                    "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
-                    "author": "Bones",
-                    "description": "The manga tells the story of Mira, who leads an evil organization trying to take over and destroy everything. Earth is under attack, but a magical girl named Byakuya Mimori stands up to Mira's group. As they face off, something unexpected happens—Mira falls in love with Mimori.\n\n(Source: MAL News)",
-                    "genre": "Comedy, Fantasy, Mahou Shoujo, Romance, Shounen",
+                    "url": "2ngTGms0Hbzaehn5",
+                    "title": "Tasuuketsu",
+                    "author": "Satelight",
+                    "description": "The story follows a group of five in a world where people have suddenly disappeared. A mysterious self-proclaimed \"Emperor\" gathers five people together through anonymous messages and has them participate in a game. Participants answer the question \"Do you want to live or die?\" The game has only one rule: \"Majority dies.\" \n\n(Source: MangaUpdates)",
+                    "genre": "Action, Drama, High Stakes Game, Psychological, Suspense",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/tdvMejML1imvGTnO",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/2ngTGms0Hbzaehn5",
                     "initialized": true
                 },
                 "passed": true
@@ -314,14 +314,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "tdvMejML1imvGTnO/video/9",
-                        "name": "Episode 9: On Christmas Night",
-                        "episode_number": 9.0
+                        "url": "2ngTGms0Hbzaehn5/video/8",
+                        "name": "Episode 8: Operation",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "tdvMejML1imvGTnO/video/8",
-                        "name": "Episode 8: Before Christmas",
-                        "episode_number": 8.0
+                        "url": "2ngTGms0Hbzaehn5/video/7",
+                        "name": "Episode 7: Pass Down",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -329,49 +329,45 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/tdvMejML1imvGTnO/9/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/2ngTGms0Hbzaehn5/8/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/tdvMejML1imvGTnO/9/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/2ngTGms0Hbzaehn5/8/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/tdvMejML1imvGTnO/en-US/9",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/en-US/8",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/tdvMejML1imvGTnO/ru-RU/9",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/ru-RU/8",
                                 "lang": "Русский"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/tdvMejML1imvGTnO/pt-BR/9",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/pt-BR/8",
                                 "lang": "Português (Brasil)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/tdvMejML1imvGTnO/it-IT/9",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/it-IT/8",
                                 "lang": "Italiano"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/tdvMejML1imvGTnO/fr-FR/9",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/fr-FR/8",
                                 "lang": "Français"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/tdvMejML1imvGTnO/es-LA/9",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/es-LA/8",
                                 "lang": "Español"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/tdvMejML1imvGTnO/es-ES/9",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/es-ES/8",
                                 "lang": "Español (Spain)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/tdvMejML1imvGTnO/de-DE/9",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/de-DE/8",
                                 "lang": "Deutsch"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/tdvMejML1imvGTnO/ar-ME/9",
-                                "lang": "العربية"
                             }
                         ]
                     }
