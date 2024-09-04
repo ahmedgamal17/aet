@@ -3,13 +3,63 @@
         "name": "AllAnimeChi (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.PopularResult', but it was missing at path: $",
                 "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "JJHH4bczh8u9dNqyW",
+                                "title": "Ribbon no Kishi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3024-OaPzY6IV9cLl.png"
+                            },
+                            {
+                                "url": "Whq7eSyEiwEh4mCp5",
+                                "title": "Toushi Gordian",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5022-Ew1V697rQJft.jpg"
+                            },
+                            {
+                                "url": "FPv4tyNTu6qqt7zyJ",
+                                "title": "Delico's Nursery",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167991-uOu8ggPXzVUQ.jpg"
+                            },
+                            {
+                                "url": "XQwSsyb4RHuGFMKWZ",
+                                "title": "Yeosin Gangnim",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152184-JnfzbmDYysqJ.png"
+                            },
+                            {
+                                "url": "DRjsbnqqdsrj6XYjf",
+                                "title": "Sengoku Youko: Senma Konton-hen",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176660-4sDfmx2fOZRJ.jpg"
+                            },
+                            {
+                                "url": "pnC4B57HbHSxw6yyz",
+                                "title": "Koi wa Futago de Warikirenai",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167144-tKDxH7M9z1Hb.png"
+                            },
+                            {
+                                "url": "iv4jDGx4DbuzXyM6J",
+                                "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162804-TBeptcAfvqTd.jpg"
+                            },
+                            {
+                                "url": "sav3h2CXtpHtP2c5x",
+                                "title": "Shikanoko Nokonoko Koshitantan",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175977-Pgrtv3p3ROe9.jpg"
+                            },
+                            {
+                                "url": "h5oDCc6i3SKr43ZXQ",
+                                "title": "Garden of Remembrance",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151017-8MWy0MiwEiC5.jpg"
+                            },
+                            {
+                                "url": "orNA54BecxDNf2NbY",
+                                "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173584-nyZElmr8218W.jpg"
+                            },
                             {
                                 "url": "7uFuNKTEZksfTHYD2",
                                 "title": "Return of the Heavenly Profound: I Am a Natural Disaster",
@@ -109,56 +159,6 @@
                                 "url": "M3iES4TqWyp6YLPQJ",
                                 "title": "Isekai Shikkaku",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152137-DOCIkAiaWALu.jpg"
-                            },
-                            {
-                                "url": "6A39uiW7BsygpSaco",
-                                "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170938-kkeDCKGSUNaV.jpg"
-                            },
-                            {
-                                "url": "xCedxSdE7Fnji5dMp",
-                                "title": "Egumi Legacy",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177097-Tg5huoY2rqdF.jpg"
-                            },
-                            {
-                                "url": "8MnP4H462F7bfRZD7",
-                                "title": "Bizarre Game: I Cleared It Using Billions of Merit Points",
-                                "thumbnail_url": "https://gogocdn.net/cover/bizarre-game-i-cleared-it-using-billions-of-merit-points.png"
-                            },
-                            {
-                                "url": "ox2opWHHwh2d663NG",
-                                "title": "Ling Jian Zun Season 4",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120272-v1UXPGEyyVDb.png"
-                            },
-                            {
-                                "url": "dyeJbCM8LBpE8u4PY",
-                                "title": "Super God is My Master",
-                                "thumbnail_url": "https://gogocdn.net/cover/super-god-is-my-master.png"
-                            },
-                            {
-                                "url": "29biW3uJAuna5WJj6",
-                                "title": "The hero in the apocalypse",
-                                "thumbnail_url": "https://gogocdn.net/cover/the-hero-in-the-apocalypse.png"
-                            },
-                            {
-                                "url": "hEQboPQtuKx2N2Lmb",
-                                "title": "Lian Qi Shi Wan Nian",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165524-XMXXm35IgGAB.jpg"
-                            },
-                            {
-                                "url": "d2PMyPbDAthsitf5x",
-                                "title": "Wan Jie Du Zun Season 2",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153777-FrjNCGMKjO9R.png"
-                            },
-                            {
-                                "url": "kzutfMgFu6BxSkwGS",
-                                "title": "Aishang Ta de Liyou (Japanese Dub)",
-                                "thumbnail_url": "https://gogocdn.net/cover/aishang-ta-de-liyou-japanese-dub.png"
-                            },
-                            {
-                                "url": "j8JBSbBitqhir2ASP",
-                                "title": "Dubu Wangu",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b170561-0TlLcLr95PQd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -328,9 +328,12 @@
             },
             "details": {
                 "result": {
-                    "url": "7uFuNKTEZksfTHYD2",
-                    "description": "\n\nType: Unknown\nAired: - -\nScore: -★",
-                    "genre": "",
+                    "url": "JJHH4bczh8u9dNqyW",
+                    "author": "Mushi Production",
+                    "description": "In the kingdom of Silverland, Prince Sapphire holds a big secret: he is actually a girl. When Sapphire was born, she accidentally received both the blue heart of a boy and the pink heart of a girl. To protect the kingdom from the evil Duke Duralumin, who is the successor to the throne, Sapphire leads a double life, posing as a boy as women are not allowed to reign.\n \n God assigns trainee angel Tink to retrieve Sapphire's boy heart, but she refuses to let go of it. As the Duke schemes to usurp the throne, Sapphire finds herself in an even worse predicament in the clash of her two identities—she falls for Prince Franz Charming from the neighboring kingdom. Sapphire and Tink now embark on exciting adventures, but along the way, they must fight various enemies to uphold the throne at all costs.\n \n [Written by MAL Rewrite]\n\nType: TV\nAired: Spring 1967\nScore: 6.7★",
+                    "genre": "Action, Mystery, Romance, Fantasy, Shoujo",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -338,62 +341,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "{\"showId\":\"7uFuNKTEZksfTHYD2\",\"translationType\":\"sub\",\"episodeString\":\"25\"}",
-                        "name": "Episode 25 (sub)",
-                        "episode_number": 25.0
+                        "url": "{\"showId\":\"JJHH4bczh8u9dNqyW\",\"translationType\":\"sub\",\"episodeString\":\"22\"}",
+                        "name": "Episode 22 (sub)",
+                        "episode_number": 22.0
                     },
                     {
-                        "url": "{\"showId\":\"7uFuNKTEZksfTHYD2\",\"translationType\":\"sub\",\"episodeString\":\"24\"}",
-                        "name": "Episode 24 (sub)",
-                        "episode_number": 24.0
+                        "url": "{\"showId\":\"JJHH4bczh8u9dNqyW\",\"translationType\":\"sub\",\"episodeString\":\"21\"}",
+                        "name": "Episode 21 (sub)",
+                        "episode_number": 21.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www035.anzeat.pro/streamhls/a4cc4df93b25cf2a899366582a3fcdb6/ep.25.1725453620.1080.m3u8",
-                        "quality": "Vidstreaming - 1080p",
-                        "videoUrl": "https://www035.anzeat.pro/streamhls/a4cc4df93b25cf2a899366582a3fcdb6/ep.25.1725453620.1080.m3u8",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://embtaku.pro",
-                            "Referer": "https://embtaku.pro/streaming.php?id=MjMxOTQz&title=Return+of+the+Heavenly+Profound%3A+I+Am+a+Natural+Disaster+Episode+25-27+Episode+25&typesub=SUB"
-                        }
-                    },
-                    {
-                        "url": "https://www035.anzeat.pro/streamhls/a4cc4df93b25cf2a899366582a3fcdb6/ep.25.1725453620.720.m3u8",
-                        "quality": "Vidstreaming - 720p",
-                        "videoUrl": "https://www035.anzeat.pro/streamhls/a4cc4df93b25cf2a899366582a3fcdb6/ep.25.1725453620.720.m3u8",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://embtaku.pro",
-                            "Referer": "https://embtaku.pro/streaming.php?id=MjMxOTQz&title=Return+of+the+Heavenly+Profound%3A+I+Am+a+Natural+Disaster+Episode+25-27+Episode+25&typesub=SUB"
-                        }
-                    },
-                    {
-                        "url": "https://www035.anzeat.pro/streamhls/a4cc4df93b25cf2a899366582a3fcdb6/ep.25.1725453620.480.m3u8",
-                        "quality": "Vidstreaming - 480p",
-                        "videoUrl": "https://www035.anzeat.pro/streamhls/a4cc4df93b25cf2a899366582a3fcdb6/ep.25.1725453620.480.m3u8",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://embtaku.pro",
-                            "Referer": "https://embtaku.pro/streaming.php?id=MjMxOTQz&title=Return+of+the+Heavenly+Profound%3A+I+Am+a+Natural+Disaster+Episode+25-27+Episode+25&typesub=SUB"
-                        }
-                    },
-                    {
-                        "url": "https://www035.anzeat.pro/streamhls/a4cc4df93b25cf2a899366582a3fcdb6/ep.25.1725453620.360.m3u8",
-                        "quality": "Vidstreaming - 360p",
-                        "videoUrl": "https://www035.anzeat.pro/streamhls/a4cc4df93b25cf2a899366582a3fcdb6/ep.25.1725453620.360.m3u8",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Origin": "https://embtaku.pro",
-                            "Referer": "https://embtaku.pro/streaming.php?id=MjMxOTQz&title=Return+of+the+Heavenly+Profound%3A+I+Am+a+Natural+Disaster+Episode+25-27+Episode+25&typesub=SUB"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.EpisodeResult', but it was missing at path: $",
+                "passed": false
             }
         }
     }
