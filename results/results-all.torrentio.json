@@ -152,7 +152,7 @@
                                 "artist": "Stephen Ouimette, Alyson Court, Tabitha St. Germain, Len Carlson",
                                 "author": "",
                                 "description": "The adventures of goth girl Lydia Deetz and her undead friend Beetlejuice as they explore The Neitherworld, a wacky afterlife realm inhabited by monsters, ghosts, ghouls and zombies.",
-                                "genre": "Science-Fiction, Animation, Comedy, Kids & Family, Fantasy, Horror",
+                                "genre": "Science-Fiction, Comedy, Kids & Family, Fantasy, Horror, Animation",
                                 "thumbnail_url": "https://images.justwatch.com/poster/242612316/s276/beetlejuice.webp",
                                 "initialized": true
                             },
@@ -182,7 +182,7 @@
                                 "artist": "Eve Hewson, Nicole Kidman, Liev Schreiber, Meghann Fahy",
                                 "author": "",
                                 "description": "Amelia is about to marry into one of the wealthiest families on Nantucket, until a shocking death derails the wedding — and turns everyone into a suspect.",
-                                "genre": "Crime, Mystery & Thriller, Drama",
+                                "genre": "Drama, Crime, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320084120/s276/the-perfect-couple.webp",
                                 "initialized": true
                             },
@@ -252,7 +252,7 @@
                                 "artist": "Daisy Edgar-Jones, Glen Powell, Anthony Ramos, Brandon Perea",
                                 "author": "Lee Isaac Chung",
                                 "description": "As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
-                                "genre": "Action & Adventure, Drama, Mystery & Thriller",
+                                "genre": "Action & Adventure, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/315736719/s276/twisters.webp",
                                 "initialized": true
                             },
@@ -262,18 +262,8 @@
                                 "artist": "Kevin Costner, Luke Grimes, Kelly Reilly, Wes Bentley",
                                 "author": "",
                                 "description": "A ranching family in Montana faces off against others encroaching on their land.",
-                                "genre": "Western, Drama",
+                                "genre": "Drama, Western",
                                 "thumbnail_url": "https://images.justwatch.com/poster/301671886/s276/yellowstone-2018.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt23468450,MOVIE,/us/movie/longlegs",
-                                "title": "Longlegs",
-                                "artist": "Maika Monroe, Nicolas Cage, Blair Underwood, Alicia Witt",
-                                "author": "Oz Perkins",
-                                "description": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
-                                "genre": "Crime, Horror, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/311450894/s276/longlegs.webp",
                                 "initialized": true
                             },
                             {
@@ -287,13 +277,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0804503,SHOW,/us/tv-show/mad-men",
-                                "title": "Mad Men",
-                                "artist": "Jon Hamm, Elisabeth Moss, Vincent Kartheiser, January Jones",
-                                "author": "",
-                                "description": "Set in 1960-1970 New York, this sexy, stylized and provocative drama follows the lives of the ruthlessly competitive men and women of Madison Avenue advertising.",
-                                "genre": "Drama",
-                                "thumbnail_url": "https://images.justwatch.com/poster/304523894/s276/mad-men.webp",
+                                "url": "tt23468450,MOVIE,/us/movie/longlegs",
+                                "title": "Longlegs",
+                                "artist": "Maika Monroe, Nicolas Cage, Blair Underwood, Alicia Witt",
+                                "author": "Oz Perkins",
+                                "description": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
+                                "genre": "Crime, Horror, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/311450894/s276/longlegs.webp",
                                 "initialized": true
                             },
                             {
@@ -302,8 +292,18 @@
                                 "artist": "Cate Blanchett, Kevin Hart, Edgar Ramírez, Jamie Lee Curtis",
                                 "author": "Eli Roth",
                                 "description": "Based on the best-selling videogame, this all-star action-adventure follows a ragtag team of misfits on a mission to save a missing girl who holds the key to unimaginable power.",
-                                "genre": "Comedy, Science-Fiction, Mystery & Thriller, Action & Adventure",
+                                "genre": "Mystery & Thriller, Action & Adventure, Comedy, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/311967504/s276/borderlands-2024.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0804503,SHOW,/us/tv-show/mad-men",
+                                "title": "Mad Men",
+                                "artist": "Jon Hamm, Elisabeth Moss, Vincent Kartheiser, January Jones",
+                                "author": "",
+                                "description": "Set in 1960-1970 New York, this sexy, stylized and provocative drama follows the lives of the ruthlessly competitive men and women of Madison Avenue advertising.",
+                                "genre": "Drama",
+                                "thumbnail_url": "https://images.justwatch.com/poster/304523894/s276/mad-men.webp",
                                 "initialized": true
                             },
                             {
@@ -362,7 +362,7 @@
                                 "artist": "",
                                 "author": "",
                                 "description": "From chilling betrayals to murder plots, this true-crime docuseries dissects the dark side of love through eyewitness testimonies.",
-                                "genre": "Documentary, Crime",
+                                "genre": "Crime, Documentary",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320019912/s276/worst-ex-ever.webp",
                                 "initialized": true
                             },
@@ -432,7 +432,7 @@
                                 "artist": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
                                 "author": "Marc Forster",
                                 "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                "genre": "Action & Adventure, Horror, Science-Fiction, Mystery & Thriller",
+                                "genre": "Mystery & Thriller, Action & Adventure, Horror, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/291193041/s276/world-war-z-3d.webp",
                                 "initialized": true
                             },
@@ -622,18 +622,8 @@
                                 "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
                                 "author": "Colin Trevorrow",
                                 "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
-                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
+                                "genre": "Science-Fiction, Action & Adventure, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt1878805,SHOW,/us/tv-show/world-without-end",
-                                "title": "World Without End",
-                                "artist": "Oliver Maltman, David Bradley, Ben Chaplin, Charlotte Riley",
-                                "author": "Michael Caton-Jones",
-                                "description": "Two hundred years after the construction of the great cathedral, the medieval town of Kingsbridge is  taken under siege by Queen Isabella. Caris, a visionary young woman, inspires her people to stand up for their rights and revolt against to the most powerful forces of her time, the Church and the Crown.",
-                                "genre": "Drama, Romance, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/240897308/s276/world-without-end.webp",
                                 "initialized": true
                             },
                             {
@@ -644,6 +634,16 @@
                                 "description": "ABC World News is the flagship daily evening television news program of ABC News, the news division of the American Broadcasting Company television network in the United States. Currently the weekday editions (going by title ABC World News Tonight with David Muir) are anchored by David Muir. ABC World News has been anchored at various times by a number of other people since its debut in 1953. It also has used various titles, including ABC Evening News from 1970 to 1978 and World News Tonight from 1978 to 2006.",
                                 "genre": "",
                                 "thumbnail_url": "https://images.justwatch.com/poster/272546979/s276/abc-world-news.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt1878805,SHOW,/us/tv-show/world-without-end",
+                                "title": "World Without End",
+                                "artist": "Oliver Maltman, David Bradley, Ben Chaplin, Charlotte Riley",
+                                "author": "Michael Caton-Jones",
+                                "description": "Two hundred years after the construction of the great cathedral, the medieval town of Kingsbridge is  taken under siege by Queen Isabella. Caris, a visionary young woman, inspires her people to stand up for their rights and revolt against to the most powerful forces of her time, the Church and the Crown.",
+                                "genre": "Drama, Romance, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/240897308/s276/world-without-end.webp",
                                 "initialized": true
                             },
                             {
@@ -677,16 +677,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
-                                "title": "Jurassic World",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
-                                "author": "Colin Trevorrow",
-                                "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-                                "genre": "Mystery & Thriller, Action & Adventure, Science-Fiction",
-                                "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt1688399,SHOW,/us/tv-show/worlds-deadliest",
                                 "title": "World's Deadliest",
                                 "artist": "Jeremy Davidson",
@@ -714,6 +704,16 @@
                                 "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
                                 "genre": "Reality TV, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
+                                "title": "Jurassic World",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
+                                "author": "Colin Trevorrow",
+                                "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+                                "genre": "Science-Fiction, Mystery & Thriller, Action & Adventure",
+                                "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
                                 "initialized": true
                             },
                             {
