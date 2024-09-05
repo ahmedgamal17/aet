@@ -37,14 +37,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162804-TBeptcAfvqTd.jpg"
                             },
                             {
-                                "url": "s6NHpcHusoPXMsMKh",
-                                "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173694-XcwGOMBxboOO.png"
-                            },
-                            {
                                 "url": "vDTSJHSpYnrkZnAvG",
                                 "title": "Nato: Shippuuden",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
+                            },
+                            {
+                                "url": "s6NHpcHusoPXMsMKh",
+                                "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173694-XcwGOMBxboOO.png"
                             },
                             {
                                 "url": "M3iES4TqWyp6YLPQJ",
@@ -72,14 +72,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png"
                             },
                             {
-                                "url": "gNqtezWx6oKaanQEm",
-                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171031-7RJll3TJnVFA.jpg"
-                            },
-                            {
                                 "url": "orNA54BecxDNf2NbY",
                                 "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173584-nyZElmr8218W.jpg"
+                            },
+                            {
+                                "url": "gNqtezWx6oKaanQEm",
+                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171031-7RJll3TJnVFA.jpg"
                             },
                             {
                                 "url": "2vMfpsfvHxJcL5r4A",
@@ -147,14 +147,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139095-xXcToL6L4vuv.jpg"
                             },
                             {
-                                "url": "ATiT5RkzK8nB97zJi",
-                                "title": "Mob kara Hajimaru Tansaku Eiyuutan",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172416-RvQq9bWUxUWt.jpg"
-                            },
-                            {
                                 "url": "vkD8H5e7HsG2jctw9",
                                 "title": "Boruto: Naruto Next Generations",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1579/120128.jpg"
+                            },
+                            {
+                                "url": "ATiT5RkzK8nB97zJi",
+                                "title": "Mob kara Hajimaru Tansaku Eiyuutan",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172416-RvQq9bWUxUWt.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -198,8 +198,49 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.EpisodeResult', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.1080.m3u8",
+                        "quality": "Vidstreaming - 1080p",
+                        "videoUrl": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.1080.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjMxNjU5&title=One+Piece+Episode+1117&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.720.m3u8",
+                        "quality": "Vidstreaming - 720p",
+                        "videoUrl": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.720.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjMxNjU5&title=One+Piece+Episode+1117&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.480.m3u8",
+                        "quality": "Vidstreaming - 480p",
+                        "videoUrl": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.480.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjMxNjU5&title=One+Piece+Episode+1117&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.360.m3u8",
+                        "quality": "Vidstreaming - 360p",
+                        "videoUrl": "https://www119.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1117.1725158009.360.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjMxNjU5&title=One+Piece+Episode+1117&typesub=SUB"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5599",
+                                "title": "Gimai Seikatsu",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2344709ce051db9a35421a38fe0eb7e97b2d95d7832e9dcd0da95e9fa7d71855.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5638",
                                 "title": "Delico's Nursery",
                                 "artist": "SubsPlease",
@@ -71,12 +77,6 @@
                                 "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/ef60a758172b421eb7ecebebfdbbb0eff1114811997e1b0ca0133d69d62fe1b1.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5591",
-                                "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/3c9448cbcd0c2b49bd4fa6aae438502f44e5571a4dc8c1b43c2aa540edfcd4aa.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5599",
+                                "title": "Gimai Seikatsu",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2344709ce051db9a35421a38fe0eb7e97b2d95d7832e9dcd0da95e9fa7d71855.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5638",
                                 "title": "Delico's Nursery",
                                 "artist": "SubsPlease",
@@ -153,12 +159,6 @@
                                 "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/ef60a758172b421eb7ecebebfdbbb0eff1114811997e1b0ca0133d69d62fe1b1.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5591",
-                                "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/3c9448cbcd0c2b49bd4fa6aae438502f44e5571a4dc8c1b43c2aa540edfcd4aa.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5638",
-                    "title": "Delico's Nursery",
-                    "author": "J.C.Staff",
-                    "description": "Dali Delico is an aristocrat from the prestigious Delico family and an elite member of the Blood Pact Council who has a promising future. He is ordered to carry out a certain mission by the Blood Pact Council, the highest governing body of vampires, but Dali flatly refuses. When Gerhard, Dino, and Henrique, who are frustrated fellow members of the Diet, go to try to persuade Dali, they find Dali cradling a young child himself. Meanwhile, a mysterious series of murders targeting vampires occur in the streets. There seems to be some sort of past connection between Dali and the anti-social organization Pendulum, which is believed to be the mastermind. ''With all our blood and pride, let's show that we can achieve both duty and child-rearing!\" A tale of noblesse oblige childcare struggles by vampire aristocrats. Will it be possible to balance the splendid Gothic world with the careless child-rearing that takes pride in?",
-                    "genre": "Fantasy, Mystery",
+                    "url": "/anime/?anime_id=5599",
+                    "title": "Gimai Seikatsu",
+                    "author": "Studio Deen",
+                    "description": "Yuuta Asamura gets a new stepsister after his father remarries, Saki Ayase, who happens to be the number one beauty of the school year. They promise each other not to be too close, not to be too opposing, and to simply keep a vague and comfortable distance, having learned important values about men and women relationships from their parents' previous ones. Saki, who has worked alone for the sake of her family, doesn't know how to properly rely on others, whereas Yuuta is unsure of how to truly treat her. Standing on fairly equal ground, these two gradually learn the comfort of living together. Their relationship progresses from strangers to friends as the days pass. This is a story that may one day lead to love.",
+                    "genre": "Romance",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/9b0e468bf9f0941dcda1c981b000043cf465f6ddde38e3f62603e8da8086efb2.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/fb01f875d738c2251a76d3993197e4c933398bd5eff9456391d2c7f67b94b39e.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/3e3eb1e7-f592-f16d-39a8-ea631ca04bc9/1beca173026fcb8a97fb6d23f4324270867aa9f2f20fac4144b63b3899df763e",
-                        "name": "Episode 5",
-                        "date_upload": 1725469543000,
-                        "episode_number": 5.0
+                        "url": "/play/51c7638c-d669-b797-0265-c29f9ed6e0af/6a2b9f038f57eff1b713dcaf9b39de031aa51bfe66dbfa490a694849c9504b7d",
+                        "name": "Episode 10",
+                        "date_upload": 1725539768000,
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/play/3e3eb1e7-f592-f16d-39a8-ea631ca04bc9/997defb126c10f8d788a31294c0a59bae72caf38de74015889f6027e8886c0f5",
-                        "name": "Episode 4",
-                        "date_upload": 1724864771000,
-                        "episode_number": 4.0
+                        "url": "/play/51c7638c-d669-b797-0265-c29f9ed6e0af/e8b9559da26cd6ac77c804d9dbeeac0ee8dc2f1431b69cf1a21f8dd35c97d6a4",
+                        "name": "Episode 9",
+                        "date_upload": 1724935306000,
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/f65024600b473b7d044f5f89a0dc4153340d40f30102380ea68a61c0ae092823?file=AnimePahe_Delicos_Nursery_-_05_1080p_SubsPlease.mp4&token=HNATpWlwR-UQIPruu4hLcw&expires=1725532261",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/3dd58f67efb2f809e70e28e60f7711dfa78ccd16acb9ab52d9e2ece4421eaa15?file=AnimePahe_Gimai_Seikatsu_-_10_1080p_SubsPlease.mp4&token=x17r4O3dNYM3mhWaY-OXyQ&expires=1725554562",
                         "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/f65024600b473b7d044f5f89a0dc4153340d40f30102380ea68a61c0ae092823?file=AnimePahe_Delicos_Nursery_-_05_1080p_SubsPlease.mp4&token=HNATpWlwR-UQIPruu4hLcw&expires=1725532261"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/3dd58f67efb2f809e70e28e60f7711dfa78ccd16acb9ab52d9e2ece4421eaa15?file=AnimePahe_Gimai_Seikatsu_-_10_1080p_SubsPlease.mp4&token=x17r4O3dNYM3mhWaY-OXyQ&expires=1725554562"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/b484bf58497ca086de74d1a7f24fdf616aac5af6d98061b8b2a9a8a380fe6a47?file=AnimePahe_Delicos_Nursery_-_05_720p_SubsPlease.mp4&token=0lto7-zlK8BTkZ4YDHVn3Q&expires=1725532260",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/6956beb689a4f011d63ee7a5235f5290694541d5ee82903e0c338cf0c188fbf6?file=AnimePahe_Gimai_Seikatsu_-_10_720p_SubsPlease.mp4&token=aGuS2OlM9uzeCIyqrWK9Cg&expires=1725554561",
                         "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/b484bf58497ca086de74d1a7f24fdf616aac5af6d98061b8b2a9a8a380fe6a47?file=AnimePahe_Delicos_Nursery_-_05_720p_SubsPlease.mp4&token=0lto7-zlK8BTkZ4YDHVn3Q&expires=1725532260"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/6956beb689a4f011d63ee7a5235f5290694541d5ee82903e0c338cf0c188fbf6?file=AnimePahe_Gimai_Seikatsu_-_10_720p_SubsPlease.mp4&token=aGuS2OlM9uzeCIyqrWK9Cg&expires=1725554561"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/bdafa5a042632eeccfa2674bf07b1fe031116c5af13200f6069177e53b7c4828?file=AnimePahe_Delicos_Nursery_-_05_360p_SubsPlease.mp4&token=sHwJY1_wmqtUP9OwzW1EYQ&expires=1725532259",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/e5b435f02aaf7236a17fe793c7ca8d289911f42d36f441c4200997bad2b48fda?file=AnimePahe_Gimai_Seikatsu_-_10_360p_SubsPlease.mp4&token=iqoCh7S-0kBc34reMquRpg&expires=1725554560",
                         "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/bdafa5a042632eeccfa2674bf07b1fe031116c5af13200f6069177e53b7c4828?file=AnimePahe_Delicos_Nursery_-_05_360p_SubsPlease.mp4&token=sHwJY1_wmqtUP9OwzW1EYQ&expires=1725532259"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/e5b435f02aaf7236a17fe793c7ca8d289911f42d36f441c4200997bad2b48fda?file=AnimePahe_Gimai_Seikatsu_-_10_360p_SubsPlease.mp4&token=iqoCh7S-0kBc34reMquRpg&expires=1725554560"
                     }
                 ],
                 "passed": true
