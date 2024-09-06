@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "EGEF7WjMNF6cG6on",
+                                "title": "Shikanoko Nokonoko Koshitantan",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/EGEF7WjMNF6cG6on"
+                            },
+                            {
+                                "url": "FohRSB9LkFgnhdPx",
+                                "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/FohRSB9LkFgnhdPx"
+                            },
+                            {
+                                "url": "iIp5feNrFjxu6iAN",
+                                "title": "Shinkalion: Change the World",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/iIp5feNrFjxu6iAN"
+                            },
+                            {
                                 "url": "2ngTGms0Hbzaehn5",
                                 "title": "Tasuuketsu",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/2ngTGms0Hbzaehn5"
@@ -90,21 +105,6 @@
                                 "url": "G2r58lIGH5d8hRPh",
                                 "title": "Nige Jouzu no Wakagimi",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/G2r58lIGH5d8hRPh"
-                            },
-                            {
-                                "url": "AHb2gx9H1bFWCAkS",
-                                "title": "Tensui no Sakuna-hime",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/AHb2gx9H1bFWCAkS"
-                            },
-                            {
-                                "url": "4SPAFAU0ZPudmg0Q",
-                                "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/4SPAFAU0ZPudmg0Q"
-                            },
-                            {
-                                "url": "xj1ZtFd96fjR2zQF",
-                                "title": "Elf-san wa Yaserarenai.",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/xj1ZtFd96fjR2zQF"
                             }
                         ],
                         "hasNextPage": true
@@ -299,14 +299,14 @@
             },
             "details": {
                 "result": {
-                    "url": "2ngTGms0Hbzaehn5",
-                    "title": "Tasuuketsu",
-                    "author": "Satelight",
-                    "description": "The story follows a group of five in a world where people have suddenly disappeared. A mysterious self-proclaimed \"Emperor\" gathers five people together through anonymous messages and has them participate in a game. Participants answer the question \"Do you want to live or die?\" The game has only one rule: \"Majority dies.\" \n\n(Source: MangaUpdates)",
-                    "genre": "Action, Drama, High Stakes Game, Psychological, Suspense",
+                    "url": "EGEF7WjMNF6cG6on",
+                    "title": "Shikanoko Nokonoko Koshitantan",
+                    "author": "Wit Studio",
+                    "description": "Torako Koshi is the epitome of perfection. With her peerless beauty, top-notch grades, and position as student council president, her popularity in school is unrivaled. However, she harbors a dark secret—she was a delinquent back in middle school—and this is something she conceals to the best of her abilities.\n\nUnfortunately, when she meets the mysterious deer girl Noko Shikanoko, Torako's hidden shame is constantly on the precipice of being exposed due to Shikanoko's rather weird antics. To maintain the reputation she worked so hard for, Torako must go along with Shikanoko's whims, even going so far as to become president of the newly established Deer Club. All her efforts will be rewarded if she can prevent the menacing doe from accidentally blurting out damaging details about her personal history that will undoubtedly unleash Torako's greatest nightmare.\n\n[Written by MAL Rewrite]",
+                    "genre": "Comedy, Gag Humor, School, Shounen",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/2ngTGms0Hbzaehn5",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/EGEF7WjMNF6cG6on",
                     "initialized": true
                 },
                 "passed": true
@@ -314,14 +314,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "2ngTGms0Hbzaehn5/video/8",
-                        "name": "Episode 8: Operation",
-                        "episode_number": 8.0
+                        "url": "EGEF7WjMNF6cG6on/video/10",
+                        "name": "Episode 10: Blame It on the Spring",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "2ngTGms0Hbzaehn5/video/7",
-                        "name": "Episode 7: Pass Down",
-                        "episode_number": 7.0
+                        "url": "EGEF7WjMNF6cG6on/video/9",
+                        "name": "Episode 9: Get the Sports Festival Done!",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
@@ -329,44 +329,28 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/2ngTGms0Hbzaehn5/8/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/EGEF7WjMNF6cG6on/10/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/2ngTGms0Hbzaehn5/8/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/EGEF7WjMNF6cG6on/10/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/en-US/8",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/EGEF7WjMNF6cG6on/en-US/10",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/ru-RU/8",
-                                "lang": "Русский"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/pt-BR/8",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/EGEF7WjMNF6cG6on/pt-BR/10",
                                 "lang": "Português (Brasil)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/it-IT/8",
-                                "lang": "Italiano"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/fr-FR/8",
-                                "lang": "Français"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/es-LA/8",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/EGEF7WjMNF6cG6on/es-LA/10",
                                 "lang": "Español"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/es-ES/8",
-                                "lang": "Español (Spain)"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/de-DE/8",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/EGEF7WjMNF6cG6on/de-DE/10",
                                 "lang": "Deutsch"
                             }
                         ]
