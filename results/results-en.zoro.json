@@ -213,8 +213,214 @@
                 "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/one-piece-100",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg"
+                            },
+                            {
+                                "url": "/my-hero-academia-season-7-19146",
+                                "title": "Boku no Hero Academia 7th Season",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af4938d7388aad3438e443e74b02531e.jpg"
+                            },
+                            {
+                                "url": "/that-time-i-got-reincarnated-as-a-slime-season-3-19109",
+                                "title": "Tensei shitara Slime Datta Ken 3rd Season",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f9b501458823539b6a2004f2cdb98a4a.jpg"
+                            },
+                            {
+                                "url": "/case-closed-323",
+                                "title": "Detective Conan",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg"
+                            },
+                            {
+                                "url": "/alya-sometimes-hides-her-feelings-in-russian-19254",
+                                "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b210daff9a85c7b6e42d82d578ee90b2.jpg"
+                            },
+                            {
+                                "url": "/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-19237",
+                                "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6511271f7f9ca415411b234df57125ed.jpg"
+                            },
+                            {
+                                "url": "/i-parry-everything-19229",
+                                "title": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/009a25ddb8db9e068e16effd7e93f30e.jpg"
+                            },
+                            {
+                                "url": "/tower-of-god-season-2-19255",
+                                "title": "Kami no Tou: Ouji no Kikan",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41adea817f66830f8d965562c2d62e03.jpg"
+                            },
+                            {
+                                "url": "/wistoria-wand-and-sword-19239",
+                                "title": "Tsue to Tsurugi no Wistoria",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/14a6029b0f2759923a4d2fa957765fe4.jpg"
+                            },
+                            {
+                                "url": "/the-ossan-newbie-adventurer-trained-to-death-by-the-most-powerful-party-became-invincible-19219",
+                                "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f6f9eb3a7bdd479805f034255e492c5.jpg"
+                            },
+                            {
+                                "url": "/the-strongest-magician-in-the-demon-lords-army-was-a-human-19238",
+                                "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/077bf2dc18980271dbff7ead6694ecbc.jpg"
+                            },
+                            {
+                                "url": "/my-star-season-2-19256",
+                                "title": "Oshi no Ko 2nd Season",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d1cb3f0d6a5eea02851ea80f515b984.jpg"
+                            },
+                            {
+                                "url": "/mission-yozakura-family-19133",
+                                "title": "Yozakura-san Chi no Daisakusen",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/259ca4ad41fd80081677b04a880c7d4b.jpg"
+                            },
+                            {
+                                "url": "/no-longer-allowed-in-another-world-19247",
+                                "title": "Isekai Shikkaku",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b97e75f9de748632c4458eefb3ec8d8.jpg"
+                            },
+                            {
+                                "url": "/super-dragon-ball-heroes-9688",
+                                "title": "Super Dragon Ball Heroes",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc1904280b9effa1624c0d2b2652aa52.jpg"
+                            },
+                            {
+                                "url": "/pokemon-horizons-the-series-18397",
+                                "title": "Pokemon (2023)",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b145f650126e400b69e783e3d6cdd2a.jpg"
+                            },
+                            {
+                                "url": "/why-does-nobody-remember-me-in-this-world-19240",
+                                "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97c89c46e8abb9654a6aeeb0217d63f4.jpg"
+                            },
+                            {
+                                "url": "/fairy-tail-100-years-quest-19253",
+                                "title": "Fairy Tail: 100-nen Quest",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28a6148a40022320436d20ea91e2800d.jpg"
+                            },
+                            {
+                                "url": "/super-dragon-ball-heroes-big-bang-mission-17970",
+                                "title": "Super Dragon Ball Heroes: Big Bang Mission!!!",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/440f62e68ca62b339b712bd3051e2133.jpg"
+                            },
+                            {
+                                "url": "/days-with-my-stepsister-19251",
+                                "title": "Gimai Seikatsu",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41c04482b97e13ef9ad4d90698e4614f.jpg"
+                            },
+                            {
+                                "url": "/a-journey-through-another-world-raising-kids-while-adventuring-19227",
+                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21df7271be7ffee5518ddfa5cd749e62.jpg"
+                            },
+                            {
+                                "url": "/my-deer-friend-nokotan-19249",
+                                "title": "Shikanoko Nokonoko Koshitantan",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5439875b4262583ec34720afd5e5f10.jpg"
+                            },
+                            {
+                                "url": "/pseudo-harem-19246",
+                                "title": "Giji Harem",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c419bb45d8063ba9f18915a74fb449ae.jpg"
+                            },
+                            {
+                                "url": "/a-nobodys-way-up-to-an-exploration-hero-lv-19223",
+                                "title": "Mob kara Hajimaru Tansaku Eiyuutan",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6b6d4a43555afa74323871b9dcf107e.jpg"
+                            },
+                            {
+                                "url": "/the-elusive-samurai-19233",
+                                "title": "Nige Jouzu no Wakagimi",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ec60e43741263113cd1287467162fb5.jpg"
+                            },
+                            {
+                                "url": "/battle-through-the-heavens-5th-season-18119",
+                                "title": "Doupo Cangqiong: Nian Fan",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1b111d71dc055a9bd1ccc5492dfedbc.png"
+                            },
+                            {
+                                "url": "/spice-and-wolf-merchant-meets-the-wise-wolf-19143",
+                                "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a04e0bf651bcb1a0aefaace3d2349fa.jpg"
+                            },
+                            {
+                                "url": "/makeine-too-many-losing-heroines-19235",
+                                "title": "Make Heroine ga Oosugiru!",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e816461264123b3ce4352a540518fb8f.jpg"
+                            },
+                            {
+                                "url": "/25-dimensional-seduction-19245",
+                                "title": "2.5-jigen no Ririsa",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e386fd8a364170c8610ecbe3b0363107.jpg"
+                            },
+                            {
+                                "url": "/shin-chan-1058",
+                                "title": "Crayon Shin-chan",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e823a4a4b8b1445deac56a7075aa8748.jpg"
+                            },
+                            {
+                                "url": "/the-fable-19120",
+                                "title": "The Fable",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b5523fb79a550d018a527a1309f53585.jpg"
+                            },
+                            {
+                                "url": "/doraemon-2005-1551",
+                                "title": "Doraemon (2005)",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/046c7bccf54eb6c2d36fc15fb00a0739.jpg"
+                            },
+                            {
+                                "url": "/the-cafe-terrace-and-its-goddesses-season-2-19244",
+                                "title": "Megami no Café Terrace 2nd Season",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/824e8e4bd8fe5409440a63f566af8c4b.jpg"
+                            },
+                            {
+                                "url": "/swallowed-star-2nd-season-18018",
+                                "title": "Tunshi Xingkong 2nd Season",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23cc8e120b74d5fc55050b0e88f00758.jpg"
+                            },
+                            {
+                                "url": "/beyblade-x-18632",
+                                "title": "Beyblade X",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead47129d7080b87764abe4117d0c92e.png"
+                            },
+                            {
+                                "url": "/bye-bye-earth-19226",
+                                "title": "Bye Bye, Earth",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60ac5f9f6acd6b0e6ed0dc4c14be737e.jpg"
+                            },
+                            {
+                                "url": "/soul-land-2-peerless-tang-sect-18416",
+                                "title": "Douluo Dalu II: Jueshi Tangmen",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78670f95e8a9cdaaedc82e50c998674d.png"
+                            },
+                            {
+                                "url": "/our-last-crusade-or-the-rise-of-a-new-world-season-2-19250",
+                                "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3dafb11f56d44a293218d9ae5910a7ed.jpg"
+                            },
+                            {
+                                "url": "/dahlia-in-bloom-19232",
+                                "title": "Madougushi Dahliya wa Utsumukanai",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/510fede5d2ff252376a264ecef645c22.jpg"
+                            },
+                            {
+                                "url": "/the-magical-girl-and-the-evil-lieutenant-used-to-be-archenemies-19236",
+                                "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c530898821d91ef025e3699f00bfc506.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -229,11 +435,6 @@
                                 "url": "/no-longer-allowed-in-another-world-19247?ref=search",
                                 "title": "Isekai Shikkaku",
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b97e75f9de748632c4458eefb3ec8d8.jpg"
-                            },
-                            {
-                                "url": "/why-does-nobody-remember-me-in-this-world-19240?ref=search",
-                                "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
-                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97c89c46e8abb9654a6aeeb0217d63f4.jpg"
                             },
                             {
                                 "url": "/i-parry-everything-19229?ref=search",
@@ -399,6 +600,11 @@
                                 "url": "/cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore-15675?ref=search",
                                 "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8eb9e88f741231b5dd652e1c779ce8d.jpg"
+                            },
+                            {
+                                "url": "/arifureta-shokugyou-de-sekai-saikyou-2nd-season-15646?ref=search",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/198b9eee37dbce85c8abd1b9647f6fb4.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -437,9 +643,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://mmd.biananset.net/_v7/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4917c7f6eab01147154d49e55e56a28adfc4e7093f3b477339e4de5706ad59ed932901bafcf017884d8b887f8763dcb9930deac889d95624d7be2daa9e50d73e3252d95266fe7684f372a69e0785b698/index-f1-v1-a1.m3u8",
+                        "url": "https://tt57.biananset.net/_v7/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4917c7f6eab01147154d49e55e56a28adfc4e7093f3b477339e4de5706ad59ed932901bafcf017884d8b887f8763dcb9930deac889d95624d7be2daa9e50d73e3252d95266fe7684f372a69e0785b698/index-f1-v1-a1.m3u8",
                         "quality": "HD-1 - 1080p - sub",
-                        "videoUrl": "https://mmd.biananset.net/_v7/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4917c7f6eab01147154d49e55e56a28adfc4e7093f3b477339e4de5706ad59ed932901bafcf017884d8b887f8763dcb9930deac889d95624d7be2daa9e50d73e3252d95266fe7684f372a69e0785b698/index-f1-v1-a1.m3u8",
+                        "videoUrl": "https://tt57.biananset.net/_v7/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4917c7f6eab01147154d49e55e56a28adfc4e7093f3b477339e4de5706ad59ed932901bafcf017884d8b887f8763dcb9930deac889d95624d7be2daa9e50d73e3252d95266fe7684f372a69e0785b698/index-f1-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -454,9 +660,9 @@
                         ]
                     },
                     {
-                        "url": "https://mmd.biananset.net/_v7/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4917c7f6eab01147154d49e55e56a28adfc4e7093f3b477339e4de5706ad59ed932901bafcf017884d8b887f8763dcb9930deac889d95624d7be2daa9e50d73e3252d95266fe7684f372a69e0785b698/index-f2-v1-a1.m3u8",
+                        "url": "https://tt57.biananset.net/_v7/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4917c7f6eab01147154d49e55e56a28adfc4e7093f3b477339e4de5706ad59ed932901bafcf017884d8b887f8763dcb9930deac889d95624d7be2daa9e50d73e3252d95266fe7684f372a69e0785b698/index-f2-v1-a1.m3u8",
                         "quality": "HD-1 - 720p - sub",
-                        "videoUrl": "https://mmd.biananset.net/_v7/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4917c7f6eab01147154d49e55e56a28adfc4e7093f3b477339e4de5706ad59ed932901bafcf017884d8b887f8763dcb9930deac889d95624d7be2daa9e50d73e3252d95266fe7684f372a69e0785b698/index-f2-v1-a1.m3u8",
+                        "videoUrl": "https://tt57.biananset.net/_v7/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4917c7f6eab01147154d49e55e56a28adfc4e7093f3b477339e4de5706ad59ed932901bafcf017884d8b887f8763dcb9930deac889d95624d7be2daa9e50d73e3252d95266fe7684f372a69e0785b698/index-f2-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -471,9 +677,9 @@
                         ]
                     },
                     {
-                        "url": "https://mmd.biananset.net/_v7/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4917c7f6eab01147154d49e55e56a28adfc4e7093f3b477339e4de5706ad59ed932901bafcf017884d8b887f8763dcb9930deac889d95624d7be2daa9e50d73e3252d95266fe7684f372a69e0785b698/index-f3-v1-a1.m3u8",
+                        "url": "https://tt57.biananset.net/_v7/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4917c7f6eab01147154d49e55e56a28adfc4e7093f3b477339e4de5706ad59ed932901bafcf017884d8b887f8763dcb9930deac889d95624d7be2daa9e50d73e3252d95266fe7684f372a69e0785b698/index-f3-v1-a1.m3u8",
                         "quality": "HD-1 - 360p - sub",
-                        "videoUrl": "https://mmd.biananset.net/_v7/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4917c7f6eab01147154d49e55e56a28adfc4e7093f3b477339e4de5706ad59ed932901bafcf017884d8b887f8763dcb9930deac889d95624d7be2daa9e50d73e3252d95266fe7684f372a69e0785b698/index-f3-v1-a1.m3u8",
+                        "videoUrl": "https://tt57.biananset.net/_v7/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4917c7f6eab01147154d49e55e56a28adfc4e7093f3b477339e4de5706ad59ed932901bafcf017884d8b887f8763dcb9930deac889d95624d7be2daa9e50d73e3252d95266fe7684f372a69e0785b698/index-f3-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -488,9 +694,9 @@
                         ]
                     },
                     {
-                        "url": "https://eb.netmagcdn.com:2228/hls-playback/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4c674521f0ebcf4cd661ed0da477bd5edec2a56273fa0f35bc50bfbbff4a1a1689fa1e08c3632fbc2eec5c4068c498338b543296a42f4327eada0585c62d63b5479a5d539de46fbedccd83b81cf828a4e730e83ed53c24b4a8c6f3890a0bc965/index-f1-v1-a1.m3u8",
+                        "url": "https://eb.netmagcdn.com:2228/hls-playback/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5fa7f3982b8d767ef491897311447ecbeaefbd573b3f006285c8b35c4ac32902134853e6b7bf4137f85d7acc455fba9d27bffa8d55ab26f5a956f69e54f02a012441a45da1c176fac55e59504d0f3a8f59b5ef2255c8317ed7105c3213e8e2f14c/index-f1-v1-a1.m3u8",
                         "quality": "HD-2 - 1080p - sub",
-                        "videoUrl": "https://eb.netmagcdn.com:2228/hls-playback/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4c674521f0ebcf4cd661ed0da477bd5edec2a56273fa0f35bc50bfbbff4a1a1689fa1e08c3632fbc2eec5c4068c498338b543296a42f4327eada0585c62d63b5479a5d539de46fbedccd83b81cf828a4e730e83ed53c24b4a8c6f3890a0bc965/index-f1-v1-a1.m3u8",
+                        "videoUrl": "https://eb.netmagcdn.com:2228/hls-playback/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5fa7f3982b8d767ef491897311447ecbeaefbd573b3f006285c8b35c4ac32902134853e6b7bf4137f85d7acc455fba9d27bffa8d55ab26f5a956f69e54f02a012441a45da1c176fac55e59504d0f3a8f59b5ef2255c8317ed7105c3213e8e2f14c/index-f1-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -505,9 +711,9 @@
                         ]
                     },
                     {
-                        "url": "https://eb.netmagcdn.com:2228/hls-playback/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4c674521f0ebcf4cd661ed0da477bd5edec2a56273fa0f35bc50bfbbff4a1a1689fa1e08c3632fbc2eec5c4068c498338b543296a42f4327eada0585c62d63b5479a5d539de46fbedccd83b81cf828a4e730e83ed53c24b4a8c6f3890a0bc965/index-f2-v1-a1.m3u8",
+                        "url": "https://eb.netmagcdn.com:2228/hls-playback/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5fa7f3982b8d767ef491897311447ecbeaefbd573b3f006285c8b35c4ac32902134853e6b7bf4137f85d7acc455fba9d27bffa8d55ab26f5a956f69e54f02a012441a45da1c176fac55e59504d0f3a8f59b5ef2255c8317ed7105c3213e8e2f14c/index-f2-v1-a1.m3u8",
                         "quality": "HD-2 - 720p - sub",
-                        "videoUrl": "https://eb.netmagcdn.com:2228/hls-playback/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4c674521f0ebcf4cd661ed0da477bd5edec2a56273fa0f35bc50bfbbff4a1a1689fa1e08c3632fbc2eec5c4068c498338b543296a42f4327eada0585c62d63b5479a5d539de46fbedccd83b81cf828a4e730e83ed53c24b4a8c6f3890a0bc965/index-f2-v1-a1.m3u8",
+                        "videoUrl": "https://eb.netmagcdn.com:2228/hls-playback/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5fa7f3982b8d767ef491897311447ecbeaefbd573b3f006285c8b35c4ac32902134853e6b7bf4137f85d7acc455fba9d27bffa8d55ab26f5a956f69e54f02a012441a45da1c176fac55e59504d0f3a8f59b5ef2255c8317ed7105c3213e8e2f14c/index-f2-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -522,9 +728,9 @@
                         ]
                     },
                     {
-                        "url": "https://eb.netmagcdn.com:2228/hls-playback/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4c674521f0ebcf4cd661ed0da477bd5edec2a56273fa0f35bc50bfbbff4a1a1689fa1e08c3632fbc2eec5c4068c498338b543296a42f4327eada0585c62d63b5479a5d539de46fbedccd83b81cf828a4e730e83ed53c24b4a8c6f3890a0bc965/index-f3-v1-a1.m3u8",
+                        "url": "https://eb.netmagcdn.com:2228/hls-playback/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5fa7f3982b8d767ef491897311447ecbeaefbd573b3f006285c8b35c4ac32902134853e6b7bf4137f85d7acc455fba9d27bffa8d55ab26f5a956f69e54f02a012441a45da1c176fac55e59504d0f3a8f59b5ef2255c8317ed7105c3213e8e2f14c/index-f3-v1-a1.m3u8",
                         "quality": "HD-2 - 360p - sub",
-                        "videoUrl": "https://eb.netmagcdn.com:2228/hls-playback/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5f4c674521f0ebcf4cd661ed0da477bd5edec2a56273fa0f35bc50bfbbff4a1a1689fa1e08c3632fbc2eec5c4068c498338b543296a42f4327eada0585c62d63b5479a5d539de46fbedccd83b81cf828a4e730e83ed53c24b4a8c6f3890a0bc965/index-f3-v1-a1.m3u8",
+                        "videoUrl": "https://eb.netmagcdn.com:2228/hls-playback/5d25cd5e351746e66654ec55e2bda2590f48df13fde91ea19b7d2371a5802e29ab9198a00ded7caac2add4a290987f5fa7f3982b8d767ef491897311447ecbeaefbd573b3f006285c8b35c4ac32902134853e6b7bf4137f85d7acc455fba9d27bffa8d55ab26f5a956f69e54f02a012441a45da1c176fac55e59504d0f3a8f59b5ef2255c8317ed7105c3213e8e2f14c/index-f3-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",

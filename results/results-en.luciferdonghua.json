@@ -147,14 +147,14 @@
                                 "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2021/11/supreme-god-emperor-lucifer-donghua.webp"
                             },
                             {
-                                "url": "/anime/peerless-martial-spirit-jue-shi-wu-shen/",
-                                "title": "Peerless Martial Spirit [Jue Shi Wu Shen]",
-                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2021/11/peerless-martial-spirit-lucifer-donghua-768x1077.webp"
-                            },
-                            {
                                 "url": "/anime/a-record-of-mortals-journey-to-immortality-season-03-2023/",
                                 "title": "A Record Of Mortal’s Journey to Immortality Season 03 (2023)",
                                 "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2021/11/a-record-of-mortals-journey-to-immortality-season-03-2023-lucifer-donghua-768x1042.webp"
+                            },
+                            {
+                                "url": "/anime/peerless-martial-spirit-jue-shi-wu-shen/",
+                                "title": "Peerless Martial Spirit [Jue Shi Wu Shen]",
+                                "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2021/11/peerless-martial-spirit-lucifer-donghua-768x1077.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -417,8 +417,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://proxy-001.dc3.dailymotion.com/sec(NktLGdW_NTowTcekQRNIL9HDuOETl_gzxuNJRv0gfR3fK7VagS-tFZzrQDBMwS33rWRnPFRWYLAgikDWl22GseOjB61svTs_FdHeVW28lGM)/video/287/790/553097782_mp4_h264_aac_2.m3u8#cell=core",
+                        "quality": "WITH ADS #1 - 288p",
+                        "videoUrl": "https://proxy-001.dc3.dailymotion.com/sec(NktLGdW_NTowTcekQRNIL9HDuOETl_gzxuNJRv0gfR3fK7VagS-tFZzrQDBMwS33rWRnPFRWYLAgikDWl22GseOjB61svTs_FdHeVW28lGM)/video/287/790/553097782_mp4_h264_aac_2.m3u8#cell=core",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://proxy-004.ix7.dailymotion.com/sec(NktLGdW_NTowTcekQRNIL9HDuOETl_gzxuNJRv0gfR3fK7VagS-tFZzrQDBMwS33rWRnPFRWYLAgikDWl22GseOjB61svTs_FdHeVW28lGM)/video/287/790/553097782_mp4_h264_aac_2.m3u8#cell=core",
+                        "quality": "WITH ADS #1 - 288p",
+                        "videoUrl": "https://proxy-004.ix7.dailymotion.com/sec(NktLGdW_NTowTcekQRNIL9HDuOETl_gzxuNJRv0gfR3fK7VagS-tFZzrQDBMwS33rWRnPFRWYLAgikDWl22GseOjB61svTs_FdHeVW28lGM)/video/287/790/553097782_mp4_h264_aac_2.m3u8#cell=core",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
