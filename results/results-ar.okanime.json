@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kono-sekai-wa-fukanzen-sugiru/",
+                                "title": "Kono Sekai wa Fukanzen Sugiru",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Kono-Sekai-wa-Fukanzen-Sugiru-6687df07ecc21.jpg"
+                            },
+                            {
                                 "url": "/anime/shikanoko-nokonoko-koshitantan/",
                                 "title": "Shikanoko Nokonoko Koshitantan",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Shikanoko-Nokonoko-Koshitantan-668a577c1c941.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/shoushimin-series/",
                                 "title": "Shoushimin Series",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Shoushimin-Series-668992978be31.jpg"
-                            },
-                            {
-                                "url": "/anime/make-heroine-ga-oosugiru/",
-                                "title": "Make Heroine ga Oosugiru!",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Make-Heroine-ga-Oosugiru--6692ba772ef32.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -438,18 +438,18 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a3.mp4upload.com:183/d/xsx77yepz3b4quuokgrbamcxkrz2illiooydx5wwp7jbroitm4u3peomum3hfmhury4cqecv/video.mp4",
+                        "url": "https://a3.mp4upload.com:183/d/xsx77yepz3b4quuokgrbamcxkrz2illiooydx5wwp7jkbpdg5fb43zr3jujqrn5cw43wkocu/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77yepz3b4quuokgrbamcxkrz2illiooydx5wwp7jbroitm4u3peomum3hfmhury4cqecv/video.mp4",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77yepz3b4quuokgrbamcxkrz2illiooydx5wwp7jkbpdg5fb43zr3jujqrn5cw43wkocu/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://a1.mp4upload.com:183/d/x2x6fyepz3b4quuokgrbcnslcm3farxxer2sizs55opdrvccnye7pz6o5s2makojgbbm7h5z/video.mp4",
+                        "url": "https://a1.mp4upload.com:183/d/x2x6fyepz3b4quuokgrbcnslcm3farxxer2sizs55opibujx4br7haznyiexs5kojhpr3353/video.mp4",
                         "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x6fyepz3b4quuokgrbcnslcm3farxxer2sizs55opdrvccnye7pz6o5s2makojgbbm7h5z/video.mp4",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x6fyepz3b4quuokgrbcnslcm3farxxer2sizs55opibujx4br7haznyiexs5kojhpr3353/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
