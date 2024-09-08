@@ -72,14 +72,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png"
                             },
                             {
-                                "url": "gNqtezWx6oKaanQEm",
-                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171031-7RJll3TJnVFA.jpg"
-                            },
-                            {
                                 "url": "2vMfpsfvHxJcL5r4A",
                                 "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167419-yesWtncEBD9N.jpg"
+                            },
+                            {
+                                "url": "gNqtezWx6oKaanQEm",
+                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171031-7RJll3TJnVFA.jpg"
                             },
                             {
                                 "url": "DkKWjEA3A7m5kCJWp",
@@ -97,14 +97,14 @@
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1190/105182.jpg"
                             },
                             {
-                                "url": "LYKSutL2PaAjYyXWz",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg"
-                            },
-                            {
                                 "url": "6v8MgBNsJQWGavdWz",
                                 "title": "Make Heroine ga Oosugiru!",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171457-Z8tZRk7LhcZk.jpg"
+                            },
+                            {
+                                "url": "LYKSutL2PaAjYyXWz",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg"
                             },
                             {
                                 "url": "9baNLXs8eEENdWtDs",
@@ -122,14 +122,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg"
                             },
                             {
-                                "url": "ReHMC7TQnch3C6z8j",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg"
-                            },
-                            {
                                 "url": "ATiT5RkzK8nB97zJi",
                                 "title": "Mob kara Hajimaru Tansaku Eiyuutan",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172416-RvQq9bWUxUWt.jpg"
+                            },
+                            {
+                                "url": "ReHMC7TQnch3C6z8j",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg"
                             },
                             {
                                 "url": "cstcbG4EquLyDnAwN",
@@ -163,12 +163,324 @@
                 "passed": true
             },
             "latest": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.SearchResult', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "pkyXGyNZ683Lsx5sv",
+                                "title": "Koha Ginjiro",
+                                "thumbnail_url": "https://gogocdn.net/cover/koha-ginjiro.png"
+                            },
+                            {
+                                "url": "JqtBBEomGLm6Kcp2G",
+                                "title": "Wuliao Jiu Wanjie",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156087-0LAtkHTAafoP.jpg"
+                            },
+                            {
+                                "url": "2PoNLtsGYue3czB65",
+                                "title": "Yong Sheng: Hai Shi Xian Ling",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1286/144485.jpg"
+                            },
+                            {
+                                "url": "JJHH4bczh8u9dNqyW",
+                                "title": "Ribbon no Kishi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3024-OaPzY6IV9cLl.png"
+                            },
+                            {
+                                "url": "oY9qdJCvviY6shNSK",
+                                "title": "Maeterlinck no Aoi Tori: Tyltyl Mytyl no Bouken Ryokou",
+                                "thumbnail_url": "https://gogocdn.net/cover/maeterlinck-no-aoi-tori-tyltyl-mytyl-no-bouken-ryokou.png"
+                            },
+                            {
+                                "url": "ReooPAxPMsHM4KPMY",
+                                "title": "1P",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1810/139965.jpg"
+                            },
+                            {
+                                "url": "kErrH6QwGtbYi8YSk",
+                                "title": "Elf-san wa Yaserarenai",
+                                "thumbnail_url": "https://gogocdn.net/cover/elf-san-wa-yaserarenai-uncensored.png"
+                            },
+                            {
+                                "url": "zZLPHFxwEWKmY9qCJ",
+                                "title": "Wonderful Precure!",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171030-U7zjkqv8pQFq.jpg"
+                            },
+                            {
+                                "url": "NfBeMoZbfr5Ko3FWF",
+                                "title": "The Snack World (TV)",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/3/83341.jpg"
+                            },
+                            {
+                                "url": "54QXLa5bTNaaPjsfg",
+                                "title": "Karasu wa Aruji wo Erabanai",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170503-PCr24JL8F8f9.jpg"
+                            },
+                            {
+                                "url": "XxTCm6axpDvYFauzC",
+                                "title": "Shoushimin Series",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173295-5DIOnrTYiF0a.jpg"
+                            },
+                            {
+                                "url": "w4w7kjeaW6dbWpJRZ",
+                                "title": "The Fable",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166910-pdgLmHMLdzUR.jpg"
+                            },
+                            {
+                                "url": "6v8MgBNsJQWGavdWz",
+                                "title": "Make Heroine ga Oosugiru!",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171457-Z8tZRk7LhcZk.jpg"
+                            },
+                            {
+                                "url": "dNqXzJGW2qR8hrKa9",
+                                "title": "Atri: My Dear Moments",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154963-Ju6Ey3P5YHs2.jpg"
+                            },
+                            {
+                                "url": "x8k9P88s9fFCG35hd",
+                                "title": "Nige Jouzu no Wakagimi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg"
+                            },
+                            {
+                                "url": "vvfeEk6eEtr5YrqD2",
+                                "title": "Tensui no Sakuna-hime",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175868-oSzeoiq8nAkj.jpg"
+                            },
+                            {
+                                "url": "2vMfpsfvHxJcL5r4A",
+                                "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167419-yesWtncEBD9N.jpg"
+                            },
+                            {
+                                "url": "QpieRGp28ocWT2jWf",
+                                "title": "Elf-san wa Yaserarenai.",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173388-iPHxsekSIFpg.png"
+                            },
+                            {
+                                "url": "6ReQ4XCHNkmZyLw2n",
+                                "title": "Boku no Tsuma wa Kanjou ga Nai",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175450-Wfjd6OqFOn2h.jpg"
+                            },
+                            {
+                                "url": "ATiT5RkzK8nB97zJi",
+                                "title": "Mob kara Hajimaru Tansaku Eiyuutan",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172416-RvQq9bWUxUWt.jpg"
+                            },
+                            {
+                                "url": "ti6qjYajBCabuKDwm",
+                                "title": "Madougushi Dahliya wa Utsumukanai",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168623-30sdDCCLjsEW.jpg"
+                            },
+                            {
+                                "url": "cskJzx6rseAgcGcAe",
+                                "title": "Boku no Hero Academia 7th Season",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163139-JchZhUFlNTWU.jpg"
+                            },
+                            {
+                                "url": "d2PMyPbDAthsitf5x",
+                                "title": "Wan Jie Du Zun Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153777-FrjNCGMKjO9R.png"
+                            },
+                            {
+                                "url": "4DuKtLxg2Npb7vMrh",
+                                "title": "Yin Shizong Men Zhang Jiao",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177468-APf2Kq0SsvfT.jpg"
+                            },
+                            {
+                                "url": "P29h9ruhjR3e2omsR",
+                                "title": "Astral Pet Store",
+                                "thumbnail_url": "https://gogocdn.net/cover/astral-pet-store.png"
+                            },
+                            {
+                                "url": "J9zNEBA8PZAMcubcf",
+                                "title": "Huan Chong Shi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b178758-xdu3I6ARvY47.jpg"
+                            },
+                            {
+                                "url": "2jqTySDuuW452xFrA",
+                                "title": "Quanzhi Gaoshou 3",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137735-hz635vd0h0td.png"
+                            },
+                            {
+                                "url": "KZ9iuFQvC82bganus",
+                                "title": "Monster Pet Evolution",
+                                "thumbnail_url": "https://gogocdn.net/cover/monster-pet-evolution.png"
+                            },
+                            {
+                                "url": "oCYNhMf2R6t9MxLm5",
+                                "title": "Yao Shen Ji 8th Season (2024)",
+                                "thumbnail_url": "https://gogocdn.net/cover/yao-shen-ji-8th-season-2024-1714457740.png"
+                            },
+                            {
+                                "url": "hEQboPQtuKx2N2Lmb",
+                                "title": "Lian Qi Shi Wan Nian",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165524-XMXXm35IgGAB.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.SearchResult', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "NfBeMoZbfr5Ko3FWF",
+                                "title": "The Snack World (TV)",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/3/83341.jpg"
+                            },
+                            {
+                                "url": "2vMfpsfvHxJcL5r4A",
+                                "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167419-yesWtncEBD9N.jpg"
+                            },
+                            {
+                                "url": "d2PMyPbDAthsitf5x",
+                                "title": "Wan Jie Du Zun Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153777-FrjNCGMKjO9R.png"
+                            },
+                            {
+                                "url": "ivbTxfse5YsDAGAYB",
+                                "title": "Kono Sekai wa Fukanzen Sugiru",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163077-PHiTdVlKzXAR.jpg"
+                            },
+                            {
+                                "url": "2KANQTuxJaxAY8Gfk",
+                                "title": "Protagonist System: I Become a Big Shot in Every World",
+                                "thumbnail_url": "https://gogocdn.net/cover/protagonist-system-i-become-a-big-shot-in-every-world.png"
+                            },
+                            {
+                                "url": "B45c53ackqdbbjTAZ",
+                                "title": "Hundreds of Millions of Apprentices Are Returned: This Master Is Invincible in the World",
+                                "thumbnail_url": "https://gogocdn.net/cover/hundreds-of-millions-of-apprentices-are-returned-this-master-is-invincible-in-the-world.png"
+                            },
+                            {
+                                "url": "TT2NzCwxMuCft3F6t",
+                                "title": "Hundreds of Millions of Apprentices Are Returned: This Master Is Invincible in the World Episode34-37",
+                                "thumbnail_url": "https://gogocdn.net/cover/hundreds-of-millions-of-apprentices-are-returned-this-master-is-invincible-in-the-world.png"
+                            },
+                            {
+                                "url": "DAtgTFpAHTCvZkBvb",
+                                "title": "Wanmei Shijie 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137757-6ZAUpMhSWrm2.jpg"
+                            },
+                            {
+                                "url": "6oDA6BDxtLCJq5FZx",
+                                "title": "Wanmei Shijie",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120218-J6LXCFOHO9cT.jpg"
+                            },
+                            {
+                                "url": "EbFttcGsJ5AmN6A68",
+                                "title": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170695-Nb1DIg7gIHCF.jpg"
+                            },
+                            {
+                                "url": "MsQMzfMtztc93Eiui",
+                                "title": "Shinkalion: Change the World",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172395-TESU4M0kQ94c.jpg"
+                            },
+                            {
+                                "url": "WuE4vGzRYZ4iAd89n",
+                                "title": "Nanatsu no Umi no Tico",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n3199-vMMUBCkFaX1m.png"
+                            },
+                            {
+                                "url": "M3iES4TqWyp6YLPQJ",
+                                "title": "Isekai Shikkaku",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152137-DOCIkAiaWALu.jpg"
+                            },
+                            {
+                                "url": "gNqtezWx6oKaanQEm",
+                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171031-7RJll3TJnVFA.jpg"
+                            },
+                            {
+                                "url": "4C7xJbApR6LHo9rd9",
+                                "title": "Unparalleled in the Online Gaming World",
+                                "thumbnail_url": "https://gogocdn.net/cover/unparalleled-in-the-online-gaming-world.png"
+                            },
+                            {
+                                "url": "Lt4j4kXftk2A7a2Ag",
+                                "title": "I Feel So Good In Mysterious World",
+                                "thumbnail_url": "https://cdnimg.xyz/cover/i-feel-so-good-in-mysterious-world.png"
+                            },
+                            {
+                                "url": "5CGC2v3n5tNg2R3cJ",
+                                "title": "Shoukoushi Cedie",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/6/26183.jpg"
+                            },
+                            {
+                                "url": "oegpXaZ9fbejMgH3E",
+                                "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139825-rFlrzdRZmlYK.jpg"
+                            },
+                            {
+                                "url": "KWShLpaZsTgwCKEra",
+                                "title": "Breaking Through The Heavens and the Worlds With One Punch",
+                                "thumbnail_url": "https://gogocdn.net/cover/breaking-through-the-heavens-and-the-worlds-with-one-punch.png"
+                            },
+                            {
+                                "url": "2BfL69oW9fbiRJwgC",
+                                "title": "Araiguma Rascal",
+                                "thumbnail_url": "https://cdnimg.xyz/cover/araiguma-rascal.png"
+                            },
+                            {
+                                "url": "wrv3LPyCjaZvrK9T5",
+                                "title": "Shinkalion: Change the World: Ushinawareta Kioku",
+                                "thumbnail_url": "https://gogocdn.net/cover/shinkalion-change-the-world-ushinawareta-kioku.png"
+                            },
+                            {
+                                "url": "ewwkbzpv4japu7PsD",
+                                "title": "Manga Sekai Mukashibanashi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6262.jpg"
+                            },
+                            {
+                                "url": "QusmPJR29sg3G35CB",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166873-xO0BRPkmwFll.png"
+                            },
+                            {
+                                "url": "9ztGdmAXbsZAjgT8T",
+                                "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170130-tvhn13WYQ2qM.jpg"
+                            },
+                            {
+                                "url": "gQNFQMggjDNXrpn4X",
+                                "title": "Shuumatsu Train Doko e Iku?",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155657-qZo0UNx6rEN0.jpg"
+                            },
+                            {
+                                "url": "ncNQiQiTh4Zwk4rAv",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164702-FjpM96MPdzVm.jpg"
+                            },
+                            {
+                                "url": "7cTdxtzvohmd79Bt4",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136804-7FVftG67FPBc.jpg"
+                            },
+                            {
+                                "url": "xAvnoBLp8Fqhy6utY",
+                                "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO: Mugen no Heiretsu Sekai",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97995-VO6rXNU0fmBq.jpg"
+                            },
+                            {
+                                "url": "X7PffJcuAthGCcLkd",
+                                "title": "Minami no Niji no Lucy",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1769/102083.jpg"
+                            },
+                            {
+                                "url": "yFmDMFnpJxvdtwhhD",
+                                "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158028-swkNb3I8EH4x.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
@@ -185,14 +497,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1118\"}",
+                        "name": "Episode 1118 (sub)",
+                        "episode_number": 1118.0
+                    },
+                    {
                         "url": "{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1117\"}",
                         "name": "Episode 1117 (sub)",
                         "episode_number": 1117.0
-                    },
-                    {
-                        "url": "{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1116\"}",
-                        "name": "Episode 1116 (sub)",
-                        "episode_number": 1116.0
                     }
                 ],
                 "passed": true
