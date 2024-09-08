@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/2002/Heroic_Age",
+                                "title": "Heroic Age",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/12/50435l.jpg"
+                            },
+                            {
                                 "url": "/anime/54638/Kawagoe_Boys_Sing",
                                 "title": "Kawagoe Boys Sing",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1921/138501l.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/14713/Kamisama_Hajimemashita",
                                 "title": "Kamisama Hajimemashita",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/3/85429l.jpg"
-                            },
-                            {
-                                "url": "/anime/11715/Kamisama_Dolls_Specials",
-                                "title": "Kamisama Dolls Specials",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/8/32717l.jpg"
                             }
                         ],
                         "hasNextPage": true
