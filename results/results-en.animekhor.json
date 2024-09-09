@@ -313,8 +313,39 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1725932647518&srcIp=172.206.192.26&pr=10&srcAg=GECKO&ms=95.142.206.136&type=3&sig=-BXwTXrbMlo&ct=0&urls=185.226.52.38%3B45.136.22.74&clientType=0&zs=43&id=6826773383776",
+                        "quality": "ok.ru《Ads Free》 [ENGLISH] -  Okru:720p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1725932647518&srcIp=172.206.192.26&pr=10&srcAg=GECKO&ms=95.142.206.136&type=3&sig=-BXwTXrbMlo&ct=0&urls=185.226.52.38%3B45.136.22.74&clientType=0&zs=43&id=6826773383776"
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1725932647518&srcIp=172.206.192.26&pr=10&srcAg=GECKO&ms=95.142.206.136&type=4&sig=CHmqh0V9DMw&ct=0&urls=185.226.52.38%3B45.136.22.74&clientType=0&zs=43&id=6826773383776",
+                        "quality": "ok.ru《Ads Free》 [ENGLISH] -  Okru:144p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1725932647518&srcIp=172.206.192.26&pr=10&srcAg=GECKO&ms=95.142.206.136&type=4&sig=CHmqh0V9DMw&ct=0&urls=185.226.52.38%3B45.136.22.74&clientType=0&zs=43&id=6826773383776"
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1725932647518&srcIp=172.206.192.26&pr=10&srcAg=GECKO&ms=95.142.206.136&type=0&sig=uzCScWpfHmE&ct=0&urls=185.226.52.38%3B45.136.22.74&clientType=0&zs=43&id=6826773383776",
+                        "quality": "ok.ru《Ads Free》 [ENGLISH] -  Okru:240p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1725932647518&srcIp=172.206.192.26&pr=10&srcAg=GECKO&ms=95.142.206.136&type=0&sig=uzCScWpfHmE&ct=0&urls=185.226.52.38%3B45.136.22.74&clientType=0&zs=43&id=6826773383776"
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1725932647518&srcIp=172.206.192.26&pr=10&srcAg=GECKO&ms=95.142.206.136&type=1&sig=6sBmSea3lkI&ct=0&urls=185.226.52.38%3B45.136.22.74&clientType=0&zs=43&id=6826773383776",
+                        "quality": "ok.ru《Ads Free》 [ENGLISH] -  Okru:360p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1725932647518&srcIp=172.206.192.26&pr=10&srcAg=GECKO&ms=95.142.206.136&type=1&sig=6sBmSea3lkI&ct=0&urls=185.226.52.38%3B45.136.22.74&clientType=0&zs=43&id=6826773383776"
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1725932647518&srcIp=172.206.192.26&pr=10&srcAg=GECKO&ms=95.142.206.136&type=2&sig=A2HrciOUur8&ct=0&urls=185.226.52.38%3B45.136.22.74&clientType=0&zs=43&id=6826773383776",
+                        "quality": "ok.ru《Ads Free》 [ENGLISH] -  Okru:480p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1725932647518&srcIp=172.206.192.26&pr=10&srcAg=GECKO&ms=95.142.206.136&type=2&sig=A2HrciOUur8&ct=0&urls=185.226.52.38%3B45.136.22.74&clientType=0&zs=43&id=6826773383776"
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1725932647518&srcIp=172.206.192.26&pr=10&srcAg=GECKO&ms=95.142.206.136&type=5&sig=-JuZqEtP5eA&ct=0&urls=185.226.52.38%3B45.136.22.74&clientType=0&zs=43&id=6826773383776",
+                        "quality": "ok.ru《Ads Free》 [ENGLISH] -  Okru:1080p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1725932647518&srcIp=172.206.192.26&pr=10&srcAg=GECKO&ms=95.142.206.136&type=5&sig=-JuZqEtP5eA&ct=0&urls=185.226.52.38%3B45.136.22.74&clientType=0&zs=43&id=6826773383776"
+                    }
+                ],
+                "passed": true
             }
         }
     }
