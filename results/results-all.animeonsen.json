@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "W5kN96IH3A4GoXJm",
+                                "title": "Na Nare Hana Nare",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/W5kN96IH3A4GoXJm"
+                            },
+                            {
+                                "url": "Su6VIZqXbyJOoE22",
+                                "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/Su6VIZqXbyJOoE22"
+                            },
+                            {
+                                "url": "zoDAB6rPB6t8xVPW",
+                                "title": "Kami no Tou: Ouji no Kikan",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/zoDAB6rPB6t8xVPW"
+                            },
+                            {
+                                "url": "EQYWatIybecPmI6S",
+                                "title": "Tsue to Tsurugi no Wistoria",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/EQYWatIybecPmI6S"
+                            },
+                            {
                                 "url": "YHJ51kxfCoX1Ur1I",
                                 "title": "Girls Band Cry",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/YHJ51kxfCoX1Ur1I"
@@ -85,26 +105,6 @@
                                 "url": "OJqyBSbIHptKxN1L",
                                 "title": "Dungeon no Naka no Hito",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/OJqyBSbIHptKxN1L"
-                            },
-                            {
-                                "url": "D0tfjxt7DM9iK0nE",
-                                "title": "NieR:Automata Ver1.1a Part 2",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/D0tfjxt7DM9iK0nE"
-                            },
-                            {
-                                "url": "PNYtfirZGuS1TOXa",
-                                "title": "Tensei shitara Slime Datta Ken 3rd Season",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/PNYtfirZGuS1TOXa"
-                            },
-                            {
-                                "url": "62dMbmyRMDUzEYUY",
-                                "title": "Bye Bye, Earth",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/62dMbmyRMDUzEYUY"
-                            },
-                            {
-                                "url": "I1F0mNSOCo8lO292",
-                                "title": "2.5-jigen no Ririsa",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/I1F0mNSOCo8lO292"
                             }
                         ],
                         "hasNextPage": true
@@ -299,14 +299,14 @@
             },
             "details": {
                 "result": {
-                    "url": "YHJ51kxfCoX1Ur1I",
-                    "title": "Girls Band Cry",
-                    "author": "Toei Animation",
-                    "description": "Everyone yearns to find their true purpose in life. This is also true for Nina Iseri, a 17-year-old girl looking to enroll in a good university, but the world always seems to work against her. On her very first day in Tokyo, she gets lost, ignored, and locked out of her new apartment. However, an unexpected opportunity arises when Nina meets Momoka Kawaragi, one of her favorite guitarists.\n\nAfter Nina joins Momoka for a street performance, Momoka decides they should start a band together. While Nina initially hesitates, her determination grows as they start acquiring more bandmates—the beautiful drummer Subaru Awa, the aloof keyboardist Tomo Ebizuka, and the intelligent bassist Rupa. The five girls face challenges both in the music industry and within themselves, but their shared passion for music never lets them give up on their dreams.\n\n[Written by MAL Rewrite]",
-                    "genre": "Drama, Music",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/YHJ51kxfCoX1Ur1I",
+                    "url": "W5kN96IH3A4GoXJm",
+                    "title": "Na Nare Hana Nare",
+                    "author": "P.A. Works",
+                    "description": "In any competitive cheerleading contest, it is almost certain that Kanata Misora is going to be the star of the show. As a member of the winning squad in Japan's middle school cheerleading nationals, she joins Takanozaki Prefectural High School with her friend Megumi Kaionji intending to seek glory once more. However, following an incident at a competition, she loses touch with her talents and never returns to the club for practice.\n\nWhile despondent, Kanata ends up spotting internet sensation Suzuha Obunai parkouring with an impressive level of athleticism and ends up befriending her in the process. Through Suzuha, Kanata meets Anna Aveiro and Nodoka Ootani, as well as Suzuha's classmate Tanizaki Shion—each carrying their own talents that apply to competitive cheerleading. Gathering through sheer coincidence, the six girls now work together and cheer each other on to chase their unique dreams.\n\n[Written by MAL Rewrite]",
+                    "genre": "Drama",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/W5kN96IH3A4GoXJm",
                     "initialized": true
                 },
                 "passed": true
@@ -314,14 +314,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "YHJ51kxfCoX1Ur1I/video/13",
-                        "name": "Episode 13: Rock and Roll Will Never Die",
-                        "episode_number": 13.0
+                        "url": "W5kN96IH3A4GoXJm/video/10",
+                        "name": "Episode 10: Go Fight Win",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "YHJ51kxfCoX1Ur1I/video/12",
-                        "name": "Episode 12: The Sky Darkens Further Still",
-                        "episode_number": 12.0
+                        "url": "W5kN96IH3A4GoXJm/video/9",
+                        "name": "Episode 9: Rain and Cheer",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
@@ -329,17 +329,45 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/YHJ51kxfCoX1Ur1I/13/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/W5kN96IH3A4GoXJm/10/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/YHJ51kxfCoX1Ur1I/13/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/W5kN96IH3A4GoXJm/10/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/YHJ51kxfCoX1Ur1I/en-US/13",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/en-US/10",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/ru-RU/10",
+                                "lang": "Русский"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/pt-BR/10",
+                                "lang": "Português (Brasil)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/it-IT/10",
+                                "lang": "Italiano"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/fr-FR/10",
+                                "lang": "Français"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/es-LA/10",
+                                "lang": "Español"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/es-ES/10",
+                                "lang": "Español (Spain)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/ar-ME/10",
+                                "lang": "العربية"
                             }
                         ]
                     }
