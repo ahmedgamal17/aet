@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "OazX6onUQgL1t9vm",
+                                "title": "Yozakura-san Chi no Daisakusen",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/OazX6onUQgL1t9vm"
+                            },
+                            {
+                                "url": "CVchub0m900eo3xj",
+                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/CVchub0m900eo3xj"
+                            },
+                            {
                                 "url": "W5kN96IH3A4GoXJm",
                                 "title": "Na Nare Hana Nare",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/W5kN96IH3A4GoXJm"
@@ -95,16 +105,6 @@
                                 "url": "XUuAIQPIkrVPfIfr",
                                 "title": "Boku no Hero Academia 7th Season",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/XUuAIQPIkrVPfIfr"
-                            },
-                            {
-                                "url": "leuVVArR5TeUXOwL",
-                                "title": "Kono Sekai wa Fukanzen Sugiru",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/leuVVArR5TeUXOwL"
-                            },
-                            {
-                                "url": "OJqyBSbIHptKxN1L",
-                                "title": "Dungeon no Naka no Hito",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/OJqyBSbIHptKxN1L"
                             }
                         ],
                         "hasNextPage": true
@@ -299,14 +299,14 @@
             },
             "details": {
                 "result": {
-                    "url": "W5kN96IH3A4GoXJm",
-                    "title": "Na Nare Hana Nare",
-                    "author": "P.A. Works",
-                    "description": "In any competitive cheerleading contest, it is almost certain that Kanata Misora is going to be the star of the show. As a member of the winning squad in Japan's middle school cheerleading nationals, she joins Takanozaki Prefectural High School with her friend Megumi Kaionji intending to seek glory once more. However, following an incident at a competition, she loses touch with her talents and never returns to the club for practice.\n\nWhile despondent, Kanata ends up spotting internet sensation Suzuha Obunai parkouring with an impressive level of athleticism and ends up befriending her in the process. Through Suzuha, Kanata meets Anna Aveiro and Nodoka Ootani, as well as Suzuha's classmate Tanizaki Shion—each carrying their own talents that apply to competitive cheerleading. Gathering through sheer coincidence, the six girls now work together and cheer each other on to chase their unique dreams.\n\n[Written by MAL Rewrite]",
-                    "genre": "Drama",
+                    "url": "OazX6onUQgL1t9vm",
+                    "title": "Yozakura-san Chi no Daisakusen",
+                    "author": "SILVER LINK.",
+                    "description": "After losing his entire family in a car crash, Taiyou Asano tries to pull away from his childhood friend, Mutsumi Yozakura, but she assures him she is not going anywhere. Nevertheless, Taiyou becomes socially awkward, struggling to make friends at school despite the efforts of his persistent classmates.\n\nOne day, the vice principal calls Taiyou to his office, only to begin threatening the boy's life. Taiyou is swept away by a stranger and eventually awakens to Mutsumi, who introduces him to her siblings—a family of spies who harbor superhuman abilities. Every generation produces one ordinary human who becomes the family head. Mutsumi is one of these, and the family's mission is to protect her with their lives. \n\nThe vice principal's real name is Kyoichiro Yozakura, and he is the eldest son of the family. As Kyouichiro believes that Taiyou is a threat to Mutsumi's life, the only way to keep both Taiyou and Mutsumi safe is for them to get married; the family has a rule that prevents them from killing within the Yozakura household. Though at first reluctant, Taiyou agrees in order to protect Mutsumi. Now he must train as a Yozakura spy to ward off the constant threats on the lives of both Mutsumi and himself.\n\n[Written by MAL Rewrite]",
+                    "genre": "Action, Comedy, Shounen",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/W5kN96IH3A4GoXJm",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/OazX6onUQgL1t9vm",
                     "initialized": true
                 },
                 "passed": true
@@ -314,14 +314,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "W5kN96IH3A4GoXJm/video/10",
-                        "name": "Episode 10: Go Fight Win",
-                        "episode_number": 10.0
+                        "url": "OazX6onUQgL1t9vm/video/23",
+                        "name": "Episode 23: Easterly Wind / Weapon",
+                        "episode_number": 23.0
                     },
                     {
-                        "url": "W5kN96IH3A4GoXJm/video/9",
-                        "name": "Episode 9: Rain and Cheer",
-                        "episode_number": 9.0
+                        "url": "OazX6onUQgL1t9vm/video/22",
+                        "name": "Episode 22: Cherry Blossom Viewing Party",
+                        "episode_number": 22.0
                     }
                 ],
                 "passed": true
@@ -329,45 +329,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/W5kN96IH3A4GoXJm/10/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/OazX6onUQgL1t9vm/23/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/W5kN96IH3A4GoXJm/10/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/OazX6onUQgL1t9vm/23/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/en-US/10",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/en-US/23",
                                 "lang": "English"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/ru-RU/10",
-                                "lang": "Русский"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/pt-BR/10",
-                                "lang": "Português (Brasil)"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/it-IT/10",
-                                "lang": "Italiano"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/fr-FR/10",
-                                "lang": "Français"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/es-LA/10",
-                                "lang": "Español"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/es-ES/10",
-                                "lang": "Español (Spain)"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/W5kN96IH3A4GoXJm/ar-ME/10",
-                                "lang": "العربية"
                             }
                         ]
                     }
