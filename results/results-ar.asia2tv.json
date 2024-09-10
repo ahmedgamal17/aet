@@ -305,23 +305,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://dood.li/e/9tzpx84slt09",
-                        "quality": "Doodstream mirror",
-                        "videoUrl": "https://l303l.cloudatacdn.com/u5kj7lcnjlclsdgge5y6kyybjqm7iyqmyt2lqsh2bopr5pxdqhsvqtdvnjca/d547jg5o31~idLIwXnILj?token=2ltcr238pigcugrlc4sbeygw&expiry=1725949851412",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://dood.li/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=BYkmrygMx9tQg9&expires=1726019846&ip=GHEsDRqAKxSHDN&token=mp9gmOgaFAzS",
+                        "url": "https://streamtape.com/get_video?id=BYkmrygMx9tQg9&expires=1726042271&ip=GxOsEHInDS9X&token=Pu9EtS7Vl49V",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=BYkmrygMx9tQg9&expires=1726019846&ip=GHEsDRqAKxSHDN&token=mp9gmOgaFAzS"
+                        "videoUrl": "https://streamtape.com/get_video?id=BYkmrygMx9tQg9&expires=1726042271&ip=GxOsEHInDS9X&token=Pu9EtS7Vl49V"
                     },
                     {
-                        "url": "https://m20.uqload.ws/3rfk2o4otrw2q4drdk3pvifxdtve7ng3fzb3o6m6ypccgjqnxsoloe23ld4a/v.mp4",
+                        "url": "https://m20.uqload.ws/3rfk2o4otrw2q4drdk3pvifxdtve7ng3fzb3o6m6ypccgrfyz5fp6fmr25pq/v.mp4",
                         "quality": "Uqload",
-                        "videoUrl": "https://m20.uqload.ws/3rfk2o4otrw2q4drdk3pvifxdtve7ng3fzb3o6m6ypccgjqnxsoloe23ld4a/v.mp4",
+                        "videoUrl": "https://m20.uqload.ws/3rfk2o4otrw2q4drdk3pvifxdtve7ng3fzb3o6m6ypccgrfyz5fp6fmr25pq/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.co/"
                         }
