@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/murai-in-love/",
+                                "title": "Murai in Love",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.to/wp-content/uploads/2024/09/1725435256-9869-144801.jpg"
+                            },
+                            {
                                 "url": "/anime/tasuuketsu/",
                                 "title": "Tasuuketsu",
                                 "thumbnail_url": "https://i1.wp.com/animenosub.to/wp-content/uploads/2024/06/1719560665-3479-143629.jpg"
@@ -210,11 +215,6 @@
                                 "url": "/anime/shoushimin-series/",
                                 "title": "Shoushimin Series",
                                 "thumbnail_url": "https://i0.wp.com/animenosub.to/wp-content/uploads/2024/07/1719993025-1730-143459.jpg"
-                            },
-                            {
-                                "url": "/anime/make-heroine-ga-oosugiru/",
-                                "title": "Make Heroine ga Oosugiru!",
-                                "thumbnail_url": "https://i1.wp.com/animenosub.to/wp-content/uploads/2024/07/Make-Heroine-ga-Oosugiru-poster.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -318,9 +318,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://str1.vtube.network/hls/x5s43wn6pzyki6cgaptmr6fjgvyd2whptr3cxwnclcuarxkthxu2iuwzz7uq/index-v1-a1.m3u8",
+                        "url": "https://str1.vtube.network/hls/x5s43wn6pzyki6cgaptmr6fjgvyd2whptr3cxwnclcuar7molf5qx2trh5ta/index-v1-a1.m3u8",
                         "quality": "RAW - Vtube - 1080p ",
-                        "videoUrl": "https://str1.vtube.network/hls/x5s43wn6pzyki6cgaptmr6fjgvyd2whptr3cxwnclcuarxkthxu2iuwzz7uq/index-v1-a1.m3u8",
+                        "videoUrl": "https://str1.vtube.network/hls/x5s43wn6pzyki6cgaptmr6fjgvyd2whptr3cxwnclcuar7molf5qx2trh5ta/index-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -330,9 +330,9 @@
                         }
                     },
                     {
-                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05826/4obk0gjv8g8m_o/index-v1.m3u8?t=KzX2UZaRGKiW9bAbN3xqe1yV04Dovv6LsS-P80dSIyo&s=1726036259&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
+                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05826/4obk0gjv8g8m_o/index-v1.m3u8?t=wBb9WHG_h0zfSQdKlixZGVTxcvaNaJrxOyP7EFunSiY&s=1726058608&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
                         "quality": "RAW - FileMoon - 1080p",
-                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05826/4obk0gjv8g8m_o/index-v1.m3u8?t=KzX2UZaRGKiW9bAbN3xqe1yV04Dovv6LsS-P80dSIyo&s=1726036259&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
+                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05826/4obk0gjv8g8m_o/index-v1.m3u8?t=wBb9WHG_h0zfSQdKlixZGVTxcvaNaJrxOyP7EFunSiY&s=1726058608&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -340,9 +340,9 @@
                         }
                     },
                     {
-                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05826/4obk0gjv8g8m_x/index-v1.m3u8?t=KzX2UZaRGKiW9bAbN3xqe1yV04Dovv6LsS-P80dSIyo&s=1726036259&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
+                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05826/4obk0gjv8g8m_x/index-v1.m3u8?t=wBb9WHG_h0zfSQdKlixZGVTxcvaNaJrxOyP7EFunSiY&s=1726058608&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
                         "quality": "RAW - FileMoon - 1080p",
-                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05826/4obk0gjv8g8m_x/index-v1.m3u8?t=KzX2UZaRGKiW9bAbN3xqe1yV04Dovv6LsS-P80dSIyo&s=1726036259&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
+                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/05826/4obk0gjv8g8m_x/index-v1.m3u8?t=wBb9WHG_h0zfSQdKlixZGVTxcvaNaJrxOyP7EFunSiY&s=1726058608&e=10800&f=29132925&srv=09&asn=8075&sp=5500",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -350,9 +350,9 @@
                         }
                     },
                     {
-                        "url": "https://str1.vtube.network/hls/x5s4yqn5pzyki6cgaptmrof4gvfyg7uhvjxndj2o4wq7wa7nkzkaer3gkc4a/index-v1-a1.m3u8",
+                        "url": "https://str1.vtube.network/hls/x5s4yqn5pzyki6cgaptmrof4gvfyg7uhvjxndj2o4wq7wizqgldebcauifba/index-v1-a1.m3u8",
                         "quality": "Vtube - 1080p ",
-                        "videoUrl": "https://str1.vtube.network/hls/x5s4yqn5pzyki6cgaptmrof4gvfyg7uhvjxndj2o4wq7wa7nkzkaer3gkc4a/index-v1-a1.m3u8",
+                        "videoUrl": "https://str1.vtube.network/hls/x5s4yqn5pzyki6cgaptmrof4gvfyg7uhvjxndj2o4wq7wizqgldebcauifba/index-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -362,9 +362,9 @@
                         }
                     },
                     {
-                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/05826/ri5elyfkju8y_x/index-v1.m3u8?t=4mIKy3Yot5OMIb47ogpOLyXqKBQo41U-9yesj-sVDyI&s=1726036260&e=10800&f=29133017&srv=26&asn=8075&sp=5500",
+                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/05826/ri5elyfkju8y_x/index-v1.m3u8?t=oM8GXIcW7C22y9TV3H8NLERrAMA234sUcrr4Jetq0cs&s=1726058609&e=10800&f=29133017&srv=26&asn=8075&sp=5500",
                         "quality": "FileMoon - 1080p",
-                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/05826/ri5elyfkju8y_x/index-v1.m3u8?t=4mIKy3Yot5OMIb47ogpOLyXqKBQo41U-9yesj-sVDyI&s=1726036260&e=10800&f=29133017&srv=26&asn=8075&sp=5500",
+                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/05826/ri5elyfkju8y_x/index-v1.m3u8?t=oM8GXIcW7C22y9TV3H8NLERrAMA234sUcrr4Jetq0cs&s=1726058609&e=10800&f=29133017&srv=26&asn=8075&sp=5500",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.sx",
@@ -372,17 +372,17 @@
                         }
                     },
                     {
-                        "url": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4mf3z5ljnyh75oid5ydq/index-v1-a1.m3u8",
+                        "url": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4mf3zvnubkouvvi63iaq/index-v1-a1.m3u8",
                         "quality": "Omega - 480p",
-                        "videoUrl": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4mf3z5ljnyh75oid5ydq/index-v1-a1.m3u8",
+                        "videoUrl": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4mf3zvnubkouvvi63iaq/index-v1-a1.m3u8",
                         "headers": {
                             "Referer": "https://vidmoly.to"
                         }
                     },
                     {
-                        "url": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4fx3z5ljnyhzx5boxxqa/index-v1-a1.m3u8",
+                        "url": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4fx3zvnubkowunyequaq/index-v1-a1.m3u8",
                         "quality": "Omega - 1080p",
-                        "videoUrl": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4fx3z5ljnyhzx5boxxqa/index-v1-a1.m3u8",
+                        "videoUrl": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4fx3zvnubkowunyequaq/index-v1-a1.m3u8",
                         "headers": {
                             "Referer": "https://vidmoly.to"
                         }
