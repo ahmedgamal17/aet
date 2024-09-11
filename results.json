@@ -41,7 +41,7 @@
   },
   {
     "pkg": "all.lmanime",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.lmanime.json"
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "pkg": "en.allanimechi",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanimechi.json"
   },
   {

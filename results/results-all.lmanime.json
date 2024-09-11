@@ -117,16 +117,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/throne-of-seal-temporary/",
-                                "title": "Throne of Seal (Temporary)",
-                                "thumbnail_url": "https://lmanime.com/wp-content/uploads/2024/05/Throne-of-Seal.webp"
-                            },
-                            {
-                                "url": "/swallowed-star/",
-                                "title": "Swallowed Star",
-                                "thumbnail_url": "https://lmanime.com/wp-content/uploads/2022/08/Swallowed-Star.jpg"
-                            },
-                            {
                                 "url": "/peerless-battle-spirit/",
                                 "title": "Peerless Battle Spirit",
                                 "thumbnail_url": "https://lmanime.com/wp-content/uploads/2024/05/006NTbtyly1hp5de5wt4rj30u01hcqdm-768x1365.jpg"
@@ -135,6 +125,31 @@
                                 "url": "/the-dragon-prince/",
                                 "title": "Dragon Prince Yuan",
                                 "thumbnail_url": "https://lmanime.com/wp-content/uploads/2024/05/photo_2024-05-31_16-15-43-768x1077.jpg"
+                            },
+                            {
+                                "url": "/purgatory-walkers/",
+                                "title": "Purgatory Walkers",
+                                "thumbnail_url": "https://lmanime.com/wp-content/uploads/2024/06/4a16e7c44b39034035cbd9b7580d12409c54d6b7.png@600w_800h_1e_1c_1f.webp"
+                            },
+                            {
+                                "url": "/a-record-of-a-mortals-journey-to-immortality-season-03/",
+                                "title": "A Record of A Mortal’s Journey to Immortality Season 03",
+                                "thumbnail_url": "https://lmanime.com/wp-content/uploads/2023/08/IMM.jpg"
+                            },
+                            {
+                                "url": "/glorious-revenge-of-ye-feng/",
+                                "title": "Glorious Revenge of Ye Feng",
+                                "thumbnail_url": "https://lmanime.com/wp-content/uploads/2023/09/photo_2024-06-25_14-23-48.jpg"
+                            },
+                            {
+                                "url": "/throne-of-seal-temporary/",
+                                "title": "Throne of Seal (Temporary)",
+                                "thumbnail_url": "https://lmanime.com/wp-content/uploads/2024/05/Throne-of-Seal.webp"
+                            },
+                            {
+                                "url": "/swallowed-star/",
+                                "title": "Swallowed Star",
+                                "thumbnail_url": "https://lmanime.com/wp-content/uploads/2022/08/Swallowed-Star.jpg"
                             },
                             {
                                 "url": "/the-golden-wug/",
@@ -160,11 +175,6 @@
                                 "url": "/the-legend-of-sword-domain/",
                                 "title": "The Legend Of Sword Domain",
                                 "thumbnail_url": "https://lmanime.com/wp-content/uploads/2022/08/The-Legend-Of-Sword-Domain.jpg"
-                            },
-                            {
-                                "url": "/glorious-revenge-of-ye-feng/",
-                                "title": "Glorious Revenge of Ye Feng",
-                                "thumbnail_url": "https://lmanime.com/wp-content/uploads/2023/09/photo_2024-06-25_14-23-48.jpg"
                             },
                             {
                                 "url": "/apotheosis-temporary/",
@@ -205,16 +215,6 @@
                                 "url": "/the-young-brewmasters-adventure-season-02/",
                                 "title": "The Young Brewmaster’s Adventure Season 02",
                                 "thumbnail_url": "https://lmanime.com/wp-content/uploads/2024/07/compressed_img_1721240935173-768x1365.jpg"
-                            },
-                            {
-                                "url": "/purgatory-walkers/",
-                                "title": "Purgatory Walkers",
-                                "thumbnail_url": "https://lmanime.com/wp-content/uploads/2024/06/4a16e7c44b39034035cbd9b7580d12409c54d6b7.png@600w_800h_1e_1c_1f.webp"
-                            },
-                            {
-                                "url": "/a-record-of-a-mortals-journey-to-immortality-season-03/",
-                                "title": "A Record of A Mortal’s Journey to Immortality Season 03",
-                                "thumbnail_url": "https://lmanime.com/wp-content/uploads/2023/08/IMM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -317,8 +317,206 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://a2.mp4upload.com:183/d/xwxzfm4mz3b4quuoigre2j2sitaedryliwn2ikucqgdfpyzoayi27qbg2bc6ilpkr22ntdz7/video.mp4",
+                        "quality": "(English) - Mp4Upload - 1080p",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxzfm4mz3b4quuoigre2j2sitaedryliwn2ikucqgdfpyzoayi27qbg2bc6ilpkr22ntdz7/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://proxy-003.ix7.dailymotion.com/sec(bEWLzXrFG3R65TCwDJ400cmyD79Z5K0R02zXExb1jjU-nMiCOZS_l_oSYPCj8anfXmjwEzVGvcdSdXVxWd1ztqFaM5bM3UkzOc4jHL2pFbY)/video/233/148/550841332_mp4_h264_aac_3.m3u8#cell=core",
+                        "quality": "Dailymotion (English)288p",
+                        "videoUrl": "https://proxy-003.ix7.dailymotion.com/sec(bEWLzXrFG3R65TCwDJ400cmyD79Z5K0R02zXExb1jjU-nMiCOZS_l_oSYPCj8anfXmjwEzVGvcdSdXVxWd1ztqFaM5bM3UkzOc4jHL2pFbY)/video/233/148/550841332_mp4_h264_aac_3.m3u8#cell=core",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://static2.dmcdn.net/static/video/233/148/550841332_subtitle_en-auto.srt?rev=0",
+                                "lang": "English (autogenerated)"
+                            },
+                            {
+                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x93yfw4/en-auto.m3u8",
+                                "lang": "English (autogenerated)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://proxy-001.ix7.dailymotion.com/sec(bEWLzXrFG3R65TCwDJ400cmyD79Z5K0R02zXExb1jjU-nMiCOZS_l_oSYPCj8anfXmjwEzVGvcdSdXVxWd1ztqFaM5bM3UkzOc4jHL2pFbY)/video/233/148/550841332_mp4_h264_aac_3.m3u8#cell=core",
+                        "quality": "Dailymotion (English)288p",
+                        "videoUrl": "https://proxy-001.ix7.dailymotion.com/sec(bEWLzXrFG3R65TCwDJ400cmyD79Z5K0R02zXExb1jjU-nMiCOZS_l_oSYPCj8anfXmjwEzVGvcdSdXVxWd1ztqFaM5bM3UkzOc4jHL2pFbY)/video/233/148/550841332_mp4_h264_aac_3.m3u8#cell=core",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://static2.dmcdn.net/static/video/233/148/550841332_subtitle_en-auto.srt?rev=0",
+                                "lang": "English (autogenerated)"
+                            },
+                            {
+                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x93yfw4/en-auto.m3u8",
+                                "lang": "English (autogenerated)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://a2.mp4upload.com:183/d/xwxzhm4mz3b4quuoigra2ksji4emzclbar4ypher4im2wllqoxtd3vauibigwsfhl4okzknv/video.mp4",
+                        "quality": "(العَرَبِيَّة) - Mp4Upload - 1080p",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxzhm4mz3b4quuoigra2ksji4emzclbar4ypher4im2wllqoxtd3vauibigwsfhl4okzknv/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://proxy-003.ix7.dailymotion.com/sec(3pK_lWmRm9K5a5rtJDyjq_ZCNv7PRu3JmJS5uod4_Ev10PGnNYRyXtChkHboWR3sT5_Ma79X6lkT62a2QDuNaUb324xJrHcr_DIW6DUdRec)/video/433/148/550841334_mp4_h264_aac_3.m3u8#cell=core",
+                        "quality": "Dailymotion (العَرَبِيَّة)288p",
+                        "videoUrl": "https://proxy-003.ix7.dailymotion.com/sec(3pK_lWmRm9K5a5rtJDyjq_ZCNv7PRu3JmJS5uod4_Ev10PGnNYRyXtChkHboWR3sT5_Ma79X6lkT62a2QDuNaUb324xJrHcr_DIW6DUdRec)/video/433/148/550841334_mp4_h264_aac_3.m3u8#cell=core",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://static2.dmcdn.net/static/video/433/148/550841334_subtitle_en-auto.srt?rev=0",
+                                "lang": "English (autogenerated)"
+                            },
+                            {
+                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x93yfw6/en-auto.m3u8",
+                                "lang": "English (autogenerated)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://proxy-001.dc3.dailymotion.com/sec(3pK_lWmRm9K5a5rtJDyjq_ZCNv7PRu3JmJS5uod4_Ev10PGnNYRyXtChkHboWR3sT5_Ma79X6lkT62a2QDuNaUb324xJrHcr_DIW6DUdRec)/video/433/148/550841334_mp4_h264_aac_3.m3u8#cell=core",
+                        "quality": "Dailymotion (العَرَبِيَّة)288p",
+                        "videoUrl": "https://proxy-001.dc3.dailymotion.com/sec(3pK_lWmRm9K5a5rtJDyjq_ZCNv7PRu3JmJS5uod4_Ev10PGnNYRyXtChkHboWR3sT5_Ma79X6lkT62a2QDuNaUb324xJrHcr_DIW6DUdRec)/video/433/148/550841334_mp4_h264_aac_3.m3u8#cell=core",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://static2.dmcdn.net/static/video/433/148/550841334_subtitle_en-auto.srt?rev=0",
+                                "lang": "English (autogenerated)"
+                            },
+                            {
+                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x93yfw6/en-auto.m3u8",
+                                "lang": "English (autogenerated)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://a2.mp4upload.com:183/d/xwxzjm4mz3b4quuoigreyosmktnoaerhzv6m7h37jfcpsjxdas2rmne4bdyej3cz2b423s4r/video.mp4",
+                        "quality": "(ไทย) - Mp4Upload - 1080p",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxzjm4mz3b4quuoigreyosmktnoaerhzv6m7h37jfcpsjxdas2rmne4bdyej3cz2b423s4r/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://proxy-003.ix7.dailymotion.com/sec(ZmvFbGxMUUCbjec8a9qzW5LSObDFdKCBWHHF8822Mfqp7NJibgnQwYL3XHVr5KbsFygSkCn5-uJ9nirLjriWzKq6W_TRr-0IWCKVAhlaWAk)/video/823/148/550841328_mp4_h264_aac_3.m3u8#cell=core",
+                        "quality": "Dailymotion (ไทย)288p",
+                        "videoUrl": "https://proxy-003.ix7.dailymotion.com/sec(ZmvFbGxMUUCbjec8a9qzW5LSObDFdKCBWHHF8822Mfqp7NJibgnQwYL3XHVr5KbsFygSkCn5-uJ9nirLjriWzKq6W_TRr-0IWCKVAhlaWAk)/video/823/148/550841328_mp4_h264_aac_3.m3u8#cell=core",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://static2.dmcdn.net/static/video/823/148/550841328_subtitle_en-auto.srt?rev=0",
+                                "lang": "English (autogenerated)"
+                            },
+                            {
+                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x93yfw0/en-auto.m3u8",
+                                "lang": "English (autogenerated)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://proxy-002.dc3.dailymotion.com/sec(ZmvFbGxMUUCbjec8a9qzW5LSObDFdKCBWHHF8822Mfqp7NJibgnQwYL3XHVr5KbsFygSkCn5-uJ9nirLjriWzKq6W_TRr-0IWCKVAhlaWAk)/video/823/148/550841328_mp4_h264_aac_3.m3u8#cell=core",
+                        "quality": "Dailymotion (ไทย)288p",
+                        "videoUrl": "https://proxy-002.dc3.dailymotion.com/sec(ZmvFbGxMUUCbjec8a9qzW5LSObDFdKCBWHHF8822Mfqp7NJibgnQwYL3XHVr5KbsFygSkCn5-uJ9nirLjriWzKq6W_TRr-0IWCKVAhlaWAk)/video/823/148/550841328_mp4_h264_aac_3.m3u8#cell=core",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://static2.dmcdn.net/static/video/823/148/550841328_subtitle_en-auto.srt?rev=0",
+                                "lang": "English (autogenerated)"
+                            },
+                            {
+                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x93yfw0/en-auto.m3u8",
+                                "lang": "English (autogenerated)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://a4.mp4upload.com:183/d/xkxz3m4mz3b4quuoigrbkiiyjxojj5rku3orq5pp5wlf4cadunfbx7lkbtyfctozojot7nj5/video.mp4",
+                        "quality": "(Portugués) - Mp4Upload - 1080p",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxz3m4mz3b4quuoigrbkiiyjxojj5rku3orq5pp5wlf4cadunfbx7lkbtyfctozojot7nj5/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://a2.mp4upload.com:183/d/xwxzlm4mz3b4quuoigrbojkpkmiwvywitlsmuafsmpnuzxe7a73s5sxr2dhty22lxd7dkavo/video.mp4",
+                        "quality": "(Español) - Mp4Upload - 1080p",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxzlm4mz3b4quuoigrbojkpkmiwvywitlsmuafsmpnuzxe7a73s5sxr2dhty22lxd7dkavo/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://proxy-003.ix7.dailymotion.com/sec(MUrjIUhahIVoOWxx8o9LZrV2Zk9iFv6eHtjUOAsqv3vTuLU6GTa4YD7rsnKCO3WpUPSWAaiMMNfEjTZbPsSwsi5ApgbDXR4N6NYlRgQl0So)/video/033/148/550841330_mp4_h264_aac_3.m3u8#cell=core",
+                        "quality": "Dailymotion (Español)288p",
+                        "videoUrl": "https://proxy-003.ix7.dailymotion.com/sec(MUrjIUhahIVoOWxx8o9LZrV2Zk9iFv6eHtjUOAsqv3vTuLU6GTa4YD7rsnKCO3WpUPSWAaiMMNfEjTZbPsSwsi5ApgbDXR4N6NYlRgQl0So)/video/033/148/550841330_mp4_h264_aac_3.m3u8#cell=core",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://static2.dmcdn.net/static/video/033/148/550841330_subtitle_en-auto.srt?rev=0",
+                                "lang": "English (autogenerated)"
+                            },
+                            {
+                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x93yfw2/en-auto.m3u8",
+                                "lang": "English (autogenerated)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://proxy-004.ix7.dailymotion.com/sec(MUrjIUhahIVoOWxx8o9LZrV2Zk9iFv6eHtjUOAsqv3vTuLU6GTa4YD7rsnKCO3WpUPSWAaiMMNfEjTZbPsSwsi5ApgbDXR4N6NYlRgQl0So)/video/033/148/550841330_mp4_h264_aac_3.m3u8#cell=core",
+                        "quality": "Dailymotion (Español)288p",
+                        "videoUrl": "https://proxy-004.ix7.dailymotion.com/sec(MUrjIUhahIVoOWxx8o9LZrV2Zk9iFv6eHtjUOAsqv3vTuLU6GTa4YD7rsnKCO3WpUPSWAaiMMNfEjTZbPsSwsi5ApgbDXR4N6NYlRgQl0So)/video/033/148/550841330_mp4_h264_aac_3.m3u8#cell=core",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://static2.dmcdn.net/static/video/033/148/550841330_subtitle_en-auto.srt?rev=0",
+                                "lang": "English (autogenerated)"
+                            },
+                            {
+                                "url": "https://www.dailymotion.com/cdn/subtitle/video/x93yfw2/en-auto.m3u8",
+                                "lang": "English (autogenerated)"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

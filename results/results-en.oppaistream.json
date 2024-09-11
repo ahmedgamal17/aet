@@ -77,14 +77,14 @@
                                 "thumbnail_url": "https://myspacecat.pictures/Uchi no Otouto Maji de Dekain Dakedo Mi ni Konai/thumbnail_2.png"
                             },
                             {
-                                "url": "/watch?e=Daraku-Reijou-The-Animation:-Hakoiri-Ojousama-Netorare-Choukyou-Kiroku-1&f=s",
-                                "title": "Daraku Reijou The Animation: Hakoiri Ojousama Netorare Choukyou Kiroku",
-                                "thumbnail_url": "https://myspacecat.pictures/daraku reijou the animation/thumbnail_1.png"
-                            },
-                            {
                                 "url": "/watch?e=Idol-Sister-1&f=s",
                                 "title": "Idol Sister",
                                 "thumbnail_url": "https://myspacecat.pictures/Idol Sister/thumbnail_1.png"
+                            },
+                            {
+                                "url": "/watch?e=Daraku-Reijou-The-Animation:-Hakoiri-Ojousama-Netorare-Choukyou-Kiroku-1&f=s",
+                                "title": "Daraku Reijou The Animation: Hakoiri Ojousama Netorare Choukyou Kiroku",
+                                "thumbnail_url": "https://myspacecat.pictures/daraku reijou the animation/thumbnail_1.png"
                             },
                             {
                                 "url": "/watch?e=Boku-ni-Sefure-ga-Dekita-Riyuu-1&f=s",
@@ -171,6 +171,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/watch?e=1LDKŽJK-Ikinari-Doukyo?-Micchaku!?-Hatsu-Ecchi!!?-4&f=s",
+                                "title": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
+                                "thumbnail_url": "https://myspacecat.pictures/1LDK p JK Ikinari Doukyo Micchaku Hatsu Ecchi/thumbnail_4.png"
+                            },
                             {
                                 "url": "/watch?e=Seiyoku-Tsuyo-Tsuyo-2&f=s",
                                 "title": "Seiyoku Tsuyo Tsuyo",
@@ -290,11 +295,6 @@
                                 "url": "/watch?e=NO-Wife-NO-LIFE!-2&f=s",
                                 "title": "NO Wife NO LIFE!",
                                 "thumbnail_url": "https://myspacecat.pictures/No Waifu No Life/thumbnail_2.png"
-                            },
-                            {
-                                "url": "/watch?e=NocturnaL-2&f=s",
-                                "title": "NocturnaL",
-                                "thumbnail_url": "https://myspacecat.pictures/NocturnaL/thumbnail_2.png"
                             }
                         ],
                         "hasNextPage": true
