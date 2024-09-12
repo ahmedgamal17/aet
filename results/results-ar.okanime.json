@@ -117,6 +117,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/shikanoko-nokonoko-koshitantan/",
+                                "title": "Shikanoko Nokonoko Koshitantan",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Shikanoko-Nokonoko-Koshitantan-668a577c1c941.jpg"
+                            },
+                            {
+                                "url": "/anime/-oshi-no-ko-2nd-season/",
+                                "title": "\"Oshi no Ko\" 2nd Season",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail--Oshi-no-Ko-2nd-Season-6685d649773f8.jpg"
+                            },
+                            {
                                 "url": "/anime/delico-s-nursery/",
                                 "title": "Delico's Nursery",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Delico-s-Nursery-66b3b4cf3a6e7.jpg"
@@ -305,16 +315,6 @@
                                 "url": "/anime/dead-dead-demons-dededede-destruction-ona/",
                                 "title": "Dead Dead Demons Dededede Destruction (ONA)",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/dead-dead-demons-dedede-destruction.png"
-                            },
-                            {
-                                "url": "/anime/code-geass-dakkan-no-roz/",
-                                "title": "Code Geass: Dakkan no Rozé",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Code-Geass-Dakkan-no-Roz--6675bdbfc08ec.jpg"
-                            },
-                            {
-                                "url": "/anime/tensei-shitara-slime-datta-ken-3rd-season/",
-                                "title": "Tensei shitara Slime Datta Ken 3rd Season",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Tensei-shitara-Slime-Datta-Ken-3rd-Season-6608331316260.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -438,18 +438,18 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a3.mp4upload.com:183/d/xsx77yepz3b4quuokgrbamcxkrz2illiooydx5wwp7jkbjlwgcfdtnrix7zrkufzwamfqqfg/video.mp4",
+                        "url": "https://a3.mp4upload.com:183/d/xsx77yepz3b4quuokgrbamcxkrz2illiooydx5wwp7jdr7coc7sgb5k5iazz4poizhphvygp/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77yepz3b4quuokgrbamcxkrz2illiooydx5wwp7jkbjlwgcfdtnrix7zrkufzwamfqqfg/video.mp4",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77yepz3b4quuokgrbamcxkrz2illiooydx5wwp7jdr7coc7sgb5k5iazz4poizhphvygp/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://a1.mp4upload.com:183/d/x2x6fyepz3b4quuokgrbcnslcm3farxxer2sizs55opibsbhhgvkz42i6dwjtfdfmikctldr/video.mp4",
+                        "url": "https://a1.mp4upload.com:183/d/x2x6fyepz3b4quuokgrbcnslcm3farxxer2sizs55opbrei7d3cg3pklnbn66nufda4xpjoi/video.mp4",
                         "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x6fyepz3b4quuokgrbcnslcm3farxxer2sizs55opibsbhhgvkz42i6dwjtfdfmikctldr/video.mp4",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x6fyepz3b4quuokgrbcnslcm3farxxer2sizs55opbrei7d3cg3pklnbn66nufda4xpjoi/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
