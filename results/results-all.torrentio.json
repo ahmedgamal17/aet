@@ -27,16 +27,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt20782190,SHOW,/us/tv-show/english-teacher",
-                                "title": "English Teacher",
-                                "artist": "Brian Jordan Alvarez, Stephanie Koenig, Enrico Colantoni, Sean Patton",
-                                "author": "",
-                                "description": "It follows Evan, a gay high school English teacher, and his coworkers as they try to balance the demands of the students and their parents.",
-                                "genre": "Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/320153268/s276/english-teacher.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0094721,MOVIE,/us/movie/beetlejuice",
                                 "title": "Beetlejuice",
                                 "artist": "Alec Baldwin, Geena Davis, Winona Ryder, Catherine O'Hara",
@@ -47,12 +37,22 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt20782190,SHOW,/us/tv-show/english-teacher",
+                                "title": "English Teacher",
+                                "artist": "Brian Jordan Alvarez, Stephanie Koenig, Enrico Colantoni, Sean Patton",
+                                "author": "",
+                                "description": "It follows Evan, a gay high school English teacher, and his coworkers as they try to balance the demands of the students and their parents.",
+                                "genre": "Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/319845076/s276/english-teacher.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt9813792,SHOW,/us/tv-show/from",
                                 "title": "From",
                                 "artist": "Harold Perrineau, Catalina Sandino Moreno, Eion Bailey, Hannah Cheramy",
                                 "author": "",
                                 "description": "Unravel the mystery of a city in middle U.S.A. that imprisons everyone who enters. As the residents struggle to maintain a sense of normality and seek a way out, they must also survive the threats of the surrounding forest.",
-                                "genre": "Mystery & Thriller, Drama, Horror, Science-Fiction",
+                                "genre": "Horror, Science-Fiction, Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/304461294/s276/from.webp",
                                 "initialized": true
                             },
@@ -67,16 +67,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt5645432,SHOW,/us/tv-show/the-old-man",
-                                "title": "The Old Man",
-                                "artist": "Jeff Bridges",
-                                "author": "",
-                                "description": "Dan Chase absconded from the CIA decades ago and now lives off the grid. When an assassin arrives and tries to take Chase out, the old operative learns that to ensure his future he now must reconcile his past.",
-                                "genre": "Action & Adventure, Drama, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/283944641/s276/the-old-man.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt32254668,SHOW,/us/tv-show/wise-guy-david-chase-and-the-sopranos",
                                 "title": "Wise Guy: David Chase and the Sopranos",
                                 "artist": "David Chase",
@@ -87,13 +77,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0096543,SHOW,/us/tv-show/beetlejuice",
-                                "title": "Beetlejuice",
-                                "artist": "Stephen Ouimette, Alyson Court, Tabitha St. Germain, Len Carlson",
+                                "url": "tt5645432,SHOW,/us/tv-show/the-old-man",
+                                "title": "The Old Man",
+                                "artist": "Jeff Bridges",
                                 "author": "",
-                                "description": "The adventures of goth girl Lydia Deetz and her undead friend Beetlejuice as they explore The Neitherworld, a wacky afterlife realm inhabited by monsters, ghosts, ghouls and zombies.",
-                                "genre": "Science-Fiction, Horror, Animation, Comedy, Kids & Family, Fantasy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/242612316/s276/beetlejuice.webp",
+                                "description": "Dan Chase absconded from the CIA decades ago and now lives off the grid. When an assassin arrives and tries to take Chase out, the old operative learns that to ensure his future he now must reconcile his past.",
+                                "genre": "Action & Adventure, Drama, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/283944641/s276/the-old-man.webp",
                                 "initialized": true
                             },
                             {
@@ -102,7 +92,7 @@
                                 "artist": "Kevin Hart, Samuel L. Jackson, Terrence Howard, Dexter Darden",
                                 "author": "",
                                 "description": "Following his return to boxing after dodging the draft, Ali beats Jerry Quarry. Later that night, hundreds are robbed at his after-party in a massive armed robbery.",
-                                "genre": "Crime, Drama, Action & Adventure",
+                                "genre": "Action & Adventure, Crime, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/319976722/s276/fight-night-2024.webp",
                                 "initialized": true
                             },
@@ -114,6 +104,16 @@
                                 "description": "The story of a young woman's obsession with a man who is good at being charming.",
                                 "genre": "Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320142299/s276/tell-me-lies.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0096543,SHOW,/us/tv-show/beetlejuice",
+                                "title": "Beetlejuice",
+                                "artist": "Stephen Ouimette, Alyson Court, Tabitha St. Germain, Len Carlson",
+                                "author": "",
+                                "description": "The adventures of goth girl Lydia Deetz and her undead friend Beetlejuice as they explore The Neitherworld, a wacky afterlife realm inhabited by monsters, ghosts, ghouls and zombies.",
+                                "genre": "Science-Fiction, Horror, Animation, Comedy, Kids & Family, Fantasy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/242612316/s276/beetlejuice.webp",
                                 "initialized": true
                             },
                             {
@@ -172,7 +172,7 @@
                                 "artist": "Justice Smith, Brigette Lundy-Paine, Ian Foreman, Helena Howard",
                                 "author": "Jane Schoenbrun",
                                 "description": "Teenager Owen is just trying to make it through life in the suburbs when his classmate Maddy introduces him to a mysterious late-night TV show — a vision of a supernatural world beneath their own. In the pale glow of the television, Owen’s view of reality begins to crack.",
-                                "genre": "Horror, Drama",
+                                "genre": "Drama, Horror",
                                 "thumbnail_url": "https://images.justwatch.com/poster/312293409/s276/i-saw-the-tv-glow.webp",
                                 "initialized": true
                             },
@@ -232,7 +232,7 @@
                                 "artist": "Kirsten Dunst, Wagner Moura, Cailee Spaeny, Stephen McKinley Henderson",
                                 "author": "Alex Garland",
                                 "description": "A journey across a dystopian future America, following a team of military-embedded journalists as they race against time to reach DC before rebel factions descend upon the White House.",
-                                "genre": "Mystery & Thriller, Action & Adventure, Drama",
+                                "genre": "Action & Adventure, Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/312434812/s276/civil-war-2024.webp",
                                 "initialized": true
                             },
@@ -252,7 +252,7 @@
                                 "artist": "Ryan Gosling, Emily Blunt, Aaron Taylor-Johnson, Hannah Waddingham",
                                 "author": "David Leitch",
                                 "description": "A down-and-out stuntman must find the missing star of his ex-girlfriend's blockbuster film.",
-                                "genre": "Comedy, Drama, Romance, Action & Adventure",
+                                "genre": "Action & Adventure, Comedy, Drama, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/313201926/s276/the-fall-guy-2024.webp",
                                 "initialized": true
                             },
@@ -302,7 +302,7 @@
                                 "artist": "",
                                 "author": "",
                                 "description": "The volatile Clark family's inner workings, Hadden's depraved path, and his shocking confessions to a cellmate spur investigators to probe alleged cold case links.",
-                                "genre": "Documentary, Crime",
+                                "genre": "Crime, Documentary",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320409354/s276/born-evil-the-serial-killer-and-the-savior.webp",
                                 "initialized": true
                             },
@@ -377,33 +377,33 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt2017109,SHOW,/us/tv-show/banshee",
-                                "title": "Banshee",
-                                "artist": "Antony Starr, Ivana Miličević, Ulrich Thomsen, Frankie Faison",
+                                "url": "tt14452776,SHOW,/us/tv-show/the-bear",
+                                "title": "The Bear",
+                                "artist": "Jeremy Allen White, Ebon Moss-Bachrach, Ayo Edebiri, Lionel Boyce",
                                 "author": "",
-                                "description": "Banshee is an American drama television series set in a small town in Pennsylvania Amish country and features an enigmatic ex-con posing as a murdered sheriff who imposes his own brand of justice while also cooking up plans that serve his own interests.",
-                                "genre": "Drama, Crime, Action & Adventure, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/175475823/s276/banshee.webp",
+                                "description": "A young chef from the fine dining world returns to Chicago to run his family's sandwich shop.",
+                                "genre": "Comedy, Drama",
+                                "thumbnail_url": "https://images.justwatch.com/poster/286140049/s276/the-bear.webp",
                                 "initialized": true
                             },
                             {
-                                "url": "tt6346462,SHOW,/us/tv-show/the-dark-great-deceiver",
-                                "title": "The Dark: The Great Deceiver",
-                                "artist": "Kevin Sizemore, Kelly Bartram, Jessica Bell, Silvio Wolf Busch",
-                                "author": "Chip Rossetti",
-                                "description": "It's the Seventh Year of the Tribulation. Christianity has practically been wiped off the face of the Earth, save for small bands of Believers just trying to survive until the Second Coming.",
-                                "genre": "Drama, Science-Fiction, Mystery & Thriller, Action & Adventure, Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/141844759/s276/the-dark-great-deceiver.webp",
+                                "url": "tt0098936,SHOW,/us/tv-show/twin-peaks",
+                                "title": "Twin Peaks",
+                                "artist": "Kyle MacLachlan",
+                                "author": "",
+                                "description": "The body of Laura Palmer is washed up on a beach near the small Washington state town of Twin Peaks. FBI Special Agent Dale Cooper is called in to investigate her strange demise only to uncover a web of mystery that ultimately leads him deep into the heart of the surrounding woodland and his very own soul.",
+                                "genre": "Drama, Mystery & Thriller, Crime",
+                                "thumbnail_url": "https://images.justwatch.com/poster/279101465/s276/twin-peaks.webp",
                                 "initialized": true
                             },
                             {
-                                "url": "tt0097351,MOVIE,/us/movie/field-of-dreams",
-                                "title": "Field of Dreams",
-                                "artist": "Kevin Costner, Amy Madigan, Gaby Hoffmann, James Earl Jones",
-                                "author": "Phil Alden Robinson",
-                                "description": "Ray Kinsella is an Iowa farmer who hears a mysterious voice telling him to turn his cornfield into a baseball diamond. He does, but the voice's directions don't stop -- even after the spirits of deceased ballplayers turn up to play.",
-                                "genre": "Fantasy, Drama, Sport, Kids & Family, Made in Europe",
-                                "thumbnail_url": "https://images.justwatch.com/poster/241480324/s276/field-of-dreams.webp",
+                                "url": "tt2467372,SHOW,/us/tv-show/brooklyn-nine-nine",
+                                "title": "Brooklyn Nine-Nine",
+                                "artist": "Andy Samberg, Melissa Fumero, Terry Crews, Joe Lo Truglio",
+                                "author": "",
+                                "description": "Comedy series following the exploits of Det. Jake Peralta and his diverse, lovable colleagues as they police the NYPD's 99th Precinct.",
+                                "genre": "Comedy, Crime",
+                                "thumbnail_url": "https://images.justwatch.com/poster/139166320/s276/brooklyn-nine-nine.webp",
                                 "initialized": true
                             }
                         ],
@@ -442,7 +442,7 @@
                                 "artist": "Nicolas Cage, Michael Peña, Maria Bello, Maggie Gyllenhaal",
                                 "author": "Oliver Stone",
                                 "description": "Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.",
-                                "genre": "Drama, History, Mystery & Thriller",
+                                "genre": "Mystery & Thriller, Drama, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/250979950/s276/september-2006.webp",
                                 "initialized": true
                             },
@@ -527,16 +527,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt5895884,SHOW,/us/tv-show/world-of-dance",
-                                "title": "World of Dance",
-                                "artist": "Jennifer Lopez, Ne-Yo, Derek Hough, Jenna Dewan",
-                                "author": "",
-                                "description": "Dancers battle in heats of artistry, precision and athleticism in this reality-competition show.",
-                                "genre": "Reality TV, Kids & Family, Music & Musical",
-                                "thumbnail_url": "https://images.justwatch.com/poster/9379865/s276/world-of-dance.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": ",SHOW,/us/tv-show/world-dice-tour",
                                 "title": "World Dice Tour",
                                 "artist": "Pani Bottle, Kwak Joon-bin, Lee Won-ji, Noh Hong-chul",
@@ -544,6 +534,16 @@
                                 "description": "Three travel content creators competing to win a trip to space embark on the adventure of a lifetime, rolling the dice to decide where they'll go next.",
                                 "genre": "Reality TV",
                                 "thumbnail_url": "https://images.justwatch.com/poster/304427115/s276/world-dice-tour.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt5895884,SHOW,/us/tv-show/world-of-dance",
+                                "title": "World of Dance",
+                                "artist": "Jennifer Lopez, Ne-Yo, Derek Hough, Jenna Dewan",
+                                "author": "",
+                                "description": "Dancers battle in heats of artistry, precision and athleticism in this reality-competition show.",
+                                "genre": "Reality TV, Kids & Family, Music & Musical",
+                                "thumbnail_url": "https://images.justwatch.com/poster/9379865/s276/world-of-dance.webp",
                                 "initialized": true
                             },
                             {
@@ -557,16 +557,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt11281214,SHOW,/us/tv-show/world-war-weird",
-                                "title": "World War Weird",
-                                "artist": "Sam Willis, Robert Joe",
-                                "author": "",
-                                "description": "Unusual, strange, weird plans, plots that took place, or planned to take place during World War Two.",
-                                "genre": "Documentary, History, War & Military",
-                                "thumbnail_url": "https://images.justwatch.com/poster/320191157/s276/world-war-weird.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt2639756,SHOW,/us/tv-show/the-world-from-above",
                                 "title": "The World from Above",
                                 "artist": "Philippe Sollier, Richard Mervyn",
@@ -574,6 +564,16 @@
                                 "description": "The World from Above is a unique continuing series of aerial programmes offering an entirely different view of the world. From 10,000ft, down to just a few feet the stabilised high definition aerial camera seeks out the beautiful, as well as the dramatic, on journeys across very different parts of the world including Europe, Africa and the United States.",
                                 "genre": "Documentary",
                                 "thumbnail_url": "https://images.justwatch.com/poster/318909896/s276/the-world-from-above.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt11281214,SHOW,/us/tv-show/world-war-weird",
+                                "title": "World War Weird",
+                                "artist": "Sam Willis, Robert Joe",
+                                "author": "",
+                                "description": "Unusual, strange, weird plans, plots that took place, or planned to take place during World War Two.",
+                                "genre": "Documentary, History, War & Military",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320191157/s276/world-war-weird.webp",
                                 "initialized": true
                             },
                             {
@@ -607,16 +607,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
-                                "title": "World's End Harem",
-                                "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
-                                "author": "",
-                                "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
-                                "genre": "Science-Fiction, Mystery & Thriller, Animation, Drama, Romance",
-                                "thumbnail_url": "https://images.justwatch.com/poster/249969107/s276/worlds-end-harem.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt3399620,SHOW,/us/tv-show/world-conquest-zvezda-plot",
                                 "title": "World Conquest Zvezda Plot",
                                 "artist": "Natsuki Hanae, Misaki Kuno, Mariya Ise, Kana Hanazawa",
@@ -627,13 +617,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": ",SHOW,/us/tv-show/world-war-ii-from-the-frontlines",
-                                "title": "World War II: From the Frontlines",
-                                "artist": "John Boyega",
+                                "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
+                                "title": "World's End Harem",
+                                "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
                                 "author": "",
-                                "description": "Through vividly enhanced archival footage and voices from all sides of the conflict, this docuseries brings WWII to life like never before.",
-                                "genre": "War & Military",
-                                "thumbnail_url": "https://images.justwatch.com/poster/310063837/s276/world-war-ii-from-the-frontlines.webp",
+                                "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
+                                "genre": "Science-Fiction, Mystery & Thriller, Animation, Drama, Romance",
+                                "thumbnail_url": "https://images.justwatch.com/poster/249969107/s276/worlds-end-harem.webp",
                                 "initialized": true
                             },
                             {
@@ -642,8 +632,18 @@
                                 "artist": "Ryohei Arai, Azusa Tadokoro, Akari Uehara, Satomi Sato",
                                 "author": "",
                                 "description": "The fleeting and sad story about little girls known as fairy weapons and an associate hero that survived. This is a world after it was attacked by unidentified monsters known as beasts and many of the species in the world, including humans, had been destroyed. The species that had managed to survived left the ground and were living on a floating island called Regal Ele. Willem Kmetsch wakes up above the clouds 500 years later and couldn’t protect the ones who he wanted to protect. Actually, he was living in despair because he was the only survivor.",
-                                "genre": "Animation, Action & Adventure, Science-Fiction, Drama, Fantasy, Romance",
+                                "genre": "Animation, Action & Adventure, Science-Fiction, Fantasy, Romance, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/307402070/s276/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": ",SHOW,/us/tv-show/world-war-ii-from-the-frontlines",
+                                "title": "World War II: From the Frontlines",
+                                "artist": "John Boyega",
+                                "author": "",
+                                "description": "Through vividly enhanced archival footage and voices from all sides of the conflict, this docuseries brings WWII to life like never before.",
+                                "genre": "War & Military",
+                                "thumbnail_url": "https://images.justwatch.com/poster/310063837/s276/world-war-ii-from-the-frontlines.webp",
                                 "initialized": true
                             },
                             {
@@ -697,6 +697,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
+                                "title": "World's Funniest Animals",
+                                "artist": "Elizabeth Stanton",
+                                "author": "",
+                                "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
+                                "genre": "Reality TV, Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
                                 "title": "The World Wars",
                                 "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
@@ -717,16 +727,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
-                                "title": "World's Funniest Animals",
-                                "artist": "Elizabeth Stanton",
-                                "author": "",
-                                "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
-                                "genre": "Reality TV, Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt15472028,SHOW,/us/tv-show/world-war-2-the-call-of-duty-a-complete-timeline",
                                 "title": "World War 2: The Call of Duty - A Complete Timeline",
                                 "artist": "",
@@ -734,16 +734,6 @@
                                 "description": "Track the main events of World War II with the help of remarkable archive footage in this extensive 24 episode series, which shines a spotlight on this monumental period of history.",
                                 "genre": "War & Military, Documentary, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/298702672/s276/world-war-2-the-call-of-duty-a-complete-timeline.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
-                                "title": "Jurassic World Dominion",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
-                                "author": "Colin Trevorrow",
-                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
-                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
                                 "initialized": true
                             },
                             {
@@ -777,16 +767,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
-                                "title": "Jurassic World",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
-                                "author": "Colin Trevorrow",
-                                "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-                                "genre": "Mystery & Thriller, Action & Adventure, Science-Fiction",
-                                "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt4287450,SHOW,/us/tv-show/worlds-most-extreme",
                                 "title": "World's Most Extreme",
                                 "artist": "",
@@ -794,6 +774,16 @@
                                 "description": "World's Most Extreme takes you to the most jaw-dropping and extreme places anywhere in the world.",
                                 "genre": "Documentary",
                                 "thumbnail_url": "https://images.justwatch.com/poster/142186593/s276/worlds-most-extreme.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
+                                "title": "Jurassic World",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
+                                "author": "Colin Trevorrow",
+                                "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+                                "genre": "Mystery & Thriller, Science-Fiction, Action & Adventure",
+                                "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
                                 "initialized": true
                             },
                             {
@@ -807,13 +797,23 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0227972,SHOW,/us/tv-show/wwe-smackdown",
-                                "title": "WWE SmackDown",
-                                "artist": "Pat McAfee, Michael Coulthard",
+                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
+                                "title": "Jurassic World Dominion",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
+                                "author": "Colin Trevorrow",
+                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
+                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0155394,SHOW,/us/tv-show/worlds-wildest-police-videos",
+                                "title": "World's Wildest Police Videos",
+                                "artist": "John Bunnell",
                                 "author": "",
-                                "description": "The superstars of World Wrestling Entertainment's \"SmackDown\" brand collide each and every Friday on WWE Friday Night SmackDown.",
-                                "genre": "Reality TV, Action & Adventure, Sport",
-                                "thumbnail_url": "https://images.justwatch.com/poster/307077116/s276/wwe-smackdown.webp",
+                                "description": "An American reality TV series that deals with police videos from across the world. Video footage of car chases, subsequent arrests, robberies, riots and other crimes appears on the show.",
+                                "genre": "Comedy, Action & Adventure, Crime, Reality TV, Documentary",
+                                "thumbnail_url": "https://images.justwatch.com/poster/177620157/s276/worlds-wildest-police-videos.webp",
                                 "initialized": true
                             }
                         ],
