@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/12477/Sakasama_no_Patema",
+                                "title": "Sakasama no Patema",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/12/52415l.jpg"
+                            },
+                            {
                                 "url": "/anime/50593/Natsu_e_no_Tunnel_Sayonara_no_Deguchi",
                                 "title": "Natsu e no Tunnel, Sayonara no Deguchi",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1462/125397l.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/3349/Kiddy_GiRL-AND",
                                 "title": "Kiddy GiRL-AND",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/4/74159l.jpg"
-                            },
-                            {
-                                "url": "/anime/2602/Kenkou_Zenrakei_Suiei-bu_Umishou",
-                                "title": "Kenkou Zenrakei Suiei-bu Umishou",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/7/73477l.jpg"
                             }
                         ],
                         "hasNextPage": true

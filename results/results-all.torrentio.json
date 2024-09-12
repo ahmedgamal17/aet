@@ -172,7 +172,7 @@
                                 "artist": "Charlie Vickers, Morfydd Clark, Robert Aramayo, Daniel Weyman",
                                 "author": "",
                                 "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-                                "genre": "Science-Fiction, Drama, Action & Adventure, Fantasy",
+                                "genre": "Drama, Action & Adventure, Science-Fiction, Fantasy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/260075695/s276/the-lord-of-the-rings-the-rings-of-power.webp",
                                 "initialized": true
                             },
@@ -202,7 +202,7 @@
                                 "artist": "Justice Smith, Brigette Lundy-Paine, Ian Foreman, Helena Howard",
                                 "author": "Jane Schoenbrun",
                                 "description": "Teenager Owen is just trying to make it through life in the suburbs when his classmate Maddy introduces him to a mysterious late-night TV show — a vision of a supernatural world beneath their own. In the pale glow of the television, Owen’s view of reality begins to crack.",
-                                "genre": "Drama, Horror",
+                                "genre": "Horror, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/312293409/s276/i-saw-the-tv-glow.webp",
                                 "initialized": true
                             },
@@ -242,7 +242,7 @@
                                 "artist": "Maika Monroe, Nicolas Cage, Blair Underwood, Alicia Witt",
                                 "author": "Oz Perkins",
                                 "description": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
-                                "genre": "Crime, Horror, Mystery & Thriller",
+                                "genre": "Horror, Mystery & Thriller, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/311450894/s276/longlegs.webp",
                                 "initialized": true
                             },
@@ -302,7 +302,7 @@
                                 "artist": "",
                                 "author": "",
                                 "description": "In Mexico City's dark underbelly, women seeking better lives become entangled in an online escort network, unaware it will lead to a series of femicides.",
-                                "genre": "Documentary, Crime",
+                                "genre": "Crime, Documentary",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320194190/s276/caught-in-the-web-the-murders-behind-zona-divas.webp",
                                 "initialized": true
                             },
@@ -382,7 +382,7 @@
                                 "artist": "Karl Urban, Jack Quaid, Antony Starr, Erin Moriarty",
                                 "author": "",
                                 "description": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-                                "genre": "Action & Adventure, Science-Fiction, Drama, Comedy, Crime",
+                                "genre": "Science-Fiction, Action & Adventure, Crime, Drama, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/139452660/s276/the-boys.webp",
                                 "initialized": true
                             },
@@ -432,7 +432,7 @@
                                 "artist": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
                                 "author": "Marc Forster",
                                 "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                "genre": "Mystery & Thriller, Action & Adventure, Horror, Science-Fiction",
+                                "genre": "Action & Adventure, Horror, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/291193041/s276/world-war-z-3d.webp",
                                 "initialized": true
                             },
@@ -457,6 +457,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt1705814,SHOW,/us/tv-show/world-series-of-poker",
+                                "title": "World Series of Poker",
+                                "artist": "",
+                                "author": "",
+                                "description": "The World Series of Poker is a series of poker tournaments held annually in Las Vegas and, since 2004, sponsored by Caesars Entertainment Corporation. It dates its origins to 1970, when Benny Binion invited seven of the best-known poker players to the Horseshoe Casino for a single tournament, with a set start and stop time, and a winner determined by a secret ballot of the seven players.",
+                                "genre": "Sport, Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320489787/s276/world-series-of-poker.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt3950102,SHOW,/us/tv-show/world-trigger",
                                 "title": "World Trigger",
                                 "artist": "Nao Tamura, Yuichi Nakamura, Tomo Muranaka, Yuki Kaji",
@@ -474,16 +484,6 @@
                                 "description": "Follow the deadliest conflict in human history in real time, week by week, blow by blow.",
                                 "genre": "War & Military, Documentary, History, Made in Europe",
                                 "thumbnail_url": "https://images.justwatch.com/poster/104030004/s276/world-war-two.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt1705814,SHOW,/us/tv-show/world-series-of-poker",
-                                "title": "World Series of Poker",
-                                "artist": "",
-                                "author": "",
-                                "description": "The World Series of Poker is a series of poker tournaments held annually in Las Vegas and, since 2004, sponsored by Caesars Entertainment Corporation. It dates its origins to 1970, when Benny Binion invited seven of the best-known poker players to the Horseshoe Casino for a single tournament, with a set start and stop time, and a winner determined by a secret ballot of the seven players.",
-                                "genre": "Sport, Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/320489787/s276/world-series-of-poker.webp",
                                 "initialized": true
                             },
                             {
@@ -527,16 +527,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt5895884,SHOW,/us/tv-show/world-of-dance",
-                                "title": "World of Dance",
-                                "artist": "Jennifer Lopez, Ne-Yo, Derek Hough, Jenna Dewan",
-                                "author": "",
-                                "description": "Dancers battle in heats of artistry, precision and athleticism in this reality-competition show.",
-                                "genre": "Reality TV, Kids & Family, Music & Musical",
-                                "thumbnail_url": "https://images.justwatch.com/poster/9379865/s276/world-of-dance.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": ",SHOW,/us/tv-show/world-dice-tour",
                                 "title": "World Dice Tour",
                                 "artist": "Pani Bottle, Kwak Joon-bin, Lee Won-ji, Noh Hong-chul",
@@ -544,6 +534,16 @@
                                 "description": "Three travel content creators competing to win a trip to space embark on the adventure of a lifetime, rolling the dice to decide where they'll go next.",
                                 "genre": "Reality TV",
                                 "thumbnail_url": "https://images.justwatch.com/poster/304427115/s276/world-dice-tour.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt5895884,SHOW,/us/tv-show/world-of-dance",
+                                "title": "World of Dance",
+                                "artist": "Jennifer Lopez, Ne-Yo, Derek Hough, Jenna Dewan",
+                                "author": "",
+                                "description": "Dancers battle in heats of artistry, precision and athleticism in this reality-competition show.",
+                                "genre": "Reality TV, Kids & Family, Music & Musical",
+                                "thumbnail_url": "https://images.justwatch.com/poster/9379865/s276/world-of-dance.webp",
                                 "initialized": true
                             },
                             {
@@ -597,16 +597,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
-                                "title": "World's End Harem",
-                                "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
-                                "author": "",
-                                "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
-                                "genre": "Science-Fiction, Mystery & Thriller, Animation, Drama, Romance",
-                                "thumbnail_url": "https://images.justwatch.com/poster/249969107/s276/worlds-end-harem.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt5874596,SHOW,/us/tv-show/world-of-winx",
                                 "title": "World of Winx",
                                 "artist": "Carole Baillien, Alice Ley, Esther Aflalo, Mélanie Dermont",
@@ -614,6 +604,16 @@
                                 "description": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
                                 "genre": "Animation, Action & Adventure, Comedy, Kids & Family, Fantasy, Made in Europe",
                                 "thumbnail_url": "https://images.justwatch.com/poster/309927594/s276/world-of-winx.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
+                                "title": "World's End Harem",
+                                "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
+                                "author": "",
+                                "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
+                                "genre": "Science-Fiction, Mystery & Thriller, Animation, Drama, Romance",
+                                "thumbnail_url": "https://images.justwatch.com/poster/249969107/s276/worlds-end-harem.webp",
                                 "initialized": true
                             },
                             {
@@ -722,7 +722,7 @@
                                 "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
                                 "author": "John Ealer",
                                 "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
-                                "genre": "Documentary, War & Military, History",
+                                "genre": "War & Military, Documentary, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/176468126/s276/the-world-wars.webp",
                                 "initialized": true
                             },
@@ -797,23 +797,23 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
-                                "title": "Jurassic World",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
-                                "author": "Colin Trevorrow",
-                                "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-                                "genre": "Mystery & Thriller, Science-Fiction, Action & Adventure",
-                                "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
                                 "title": "Jurassic World Dominion",
                                 "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
                                 "author": "Colin Trevorrow",
                                 "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
-                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
+                                "genre": "Action & Adventure, Mystery & Thriller, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
+                                "title": "Jurassic World",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
+                                "author": "Colin Trevorrow",
+                                "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+                                "genre": "Mystery & Thriller, Action & Adventure, Science-Fiction",
+                                "thumbnail_url": "https://images.justwatch.com/poster/57219579/s276/jurassic-world.webp",
                                 "initialized": true
                             }
                         ],
