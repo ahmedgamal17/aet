@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5606",
+                                "title": "Senpai wa Otokonoko",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/1500f853b27cb9117ba1ccf4106e8fbc7be0f8a040356b567eda9508efb4ce2d.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5604",
                                 "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
                                 "artist": "SubsPlease",
@@ -71,12 +77,6 @@
                                 "title": "Sengoku Youko: Senma Konton-hen",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/0070eae0e9d6652ad273d88b3c942a52e359b4c0d5f12902642e07fa02ec3dbd.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5629",
-                                "title": "Koi wa Futago de Warikirenai",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/1ad1aabfd790ce07741062d9c94fe94cb2a0c1fab49ed2e3e82f8dc123fced50.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5606",
+                                "title": "Senpai wa Otokonoko",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/1500f853b27cb9117ba1ccf4106e8fbc7be0f8a040356b567eda9508efb4ce2d.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5604",
                                 "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
                                 "artist": "SubsPlease",
@@ -153,12 +159,6 @@
                                 "title": "Sengoku Youko: Senma Konton-hen",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/0070eae0e9d6652ad273d88b3c942a52e359b4c0d5f12902642e07fa02ec3dbd.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5629",
-                                "title": "Koi wa Futago de Warikirenai",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/1ad1aabfd790ce07741062d9c94fe94cb2a0c1fab49ed2e3e82f8dc123fced50.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5604",
-                    "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
-                    "author": "Seven Arcs",
-                    "description": "When loner Touka Mimori is summoned to another world alongside his classmates, he obtains the power to inflict status ailments, such as paralysis or poison, on his enemies. Unfortunately for him, skills of this nature are considered useless due to their low success rate, and Touka is thus assigned the title of E-rank hero. Things take a further turn for the worse when Vicius, the goddess who summoned the class, reveals that the lowest-ranked hero will be disposed of so that they do not hinder those with greater talent. Banished to a notoriously dangerous area, Touka comes face-to-face with death after being cornered by a minotaur-like creature. In a desperate attempt to survive, he uses his supposedly worthless skill—only to quickly realize that it works almost every time. Armed with the ability to render the monsters standing in his way completely helpless, Touka resolves to track down the goddess that tossed him aside and exact his revenge.\n\nSynonyms: I became the strongest with the failure frame \"Abnormal State Skill\" as I devastated everything, Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells",
-                    "genre": "Action, Adventure, Fantasy",
+                    "url": "/anime/?anime_id=5606",
+                    "title": "Senpai wa Otokonoko",
+                    "author": "Project No.9",
+                    "description": "Much like the other students at her school, first-year student Saki Aoi finds herself captivated by the beauty of her senior on the school board, Makoto Hanaoka. While she worries that Hanaoka would be uncomfortable receiving a confession from another girl, Aoi musters up the courage to tell her anyway. However, Hanaoka's response surprises Aoi for a completely different reason—Hanaoka is actually a cross-dressing boy! Fully expecting Aoi to be abhorred by this revelation, Hanaoka is shocked to find that she has no issues with it. Though Hanaoka rejects Aoi's request to go out with her—citing his identity and the fact that he has never fallen in love before—Aoi insists that she will become his first love. Taken aback by Aoi's determination, Hanaoka wonders if he can really fall in love with her if he cannot find it in him to truly love himself first.\n\nSynonyms: Otokonoko ga Kouhai ni Kokuhaku sareru Hanashi, My Crossdressing Senpai, Painoko",
+                    "genre": "Drama, Romance",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/80df1f53944d69e03be07db67310e08ac087ecb4104e3092114a45c565b945be.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/0eb2b253008fd5854a931c9dbb16a892a79ab5947d6e08e886f8c2e11bcea26c.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,15 +233,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/f0bc996f-6261-04c6-08f5-342eccbeb158/aa5f447b9b3f6b15b2877579ded6034839c6087d809900045ad2cb5db13ab9cc",
+                        "url": "/play/09155b7e-deb4-0ae0-0d22-c73a8d26393a/665e909517f47c29f5898b1b8958984ea18033c82caf0e03d3dca36e48ea016e",
                         "name": "Episode 10",
-                        "date_upload": 1726164362000,
+                        "date_upload": 1726166127000,
                         "episode_number": 10.0
                     },
                     {
-                        "url": "/play/f0bc996f-6261-04c6-08f5-342eccbeb158/4b9165780d8e001395abf7f8ce29d082a06e41851e7f85abd4c790f560512993",
+                        "url": "/play/09155b7e-deb4-0ae0-0d22-c73a8d26393a/0051c5fcd120967476f6db2dc584c95b2f654218d739a7ab81e38d053739c2b9",
                         "name": "Episode 9",
-                        "date_upload": 1725561628000,
+                        "date_upload": 1725561386000,
                         "episode_number": 9.0
                     }
                 ],
@@ -250,19 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/a6dd716bc5c7f88af391854b0ca6987bd2574bcbc996ba1c5d4dd9ad04afcf3f?file=AnimePahe_Hazurewaku_no_Joutai_Ijou_Skill_de_Saikyou_ni_Natta_Ore_ga_Subete_wo_Juurin_suru_made_-_10_1080p_SubsPlease.mp4&token=fYmB1RPTLhZZHCNpSThNYQ&expires=1726180275",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/44a1d7a8a42504b083460b7132da29edd6961dedf4362badf69941072210a267?file=AnimePahe_Senpai_wa_Otokonoko_-_10_1080p_SubsPlease.mp4&token=H581ynLqpGlUydO0H2s15A&expires=1726206165",
                         "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/a6dd716bc5c7f88af391854b0ca6987bd2574bcbc996ba1c5d4dd9ad04afcf3f?file=AnimePahe_Hazurewaku_no_Joutai_Ijou_Skill_de_Saikyou_ni_Natta_Ore_ga_Subete_wo_Juurin_suru_made_-_10_1080p_SubsPlease.mp4&token=fYmB1RPTLhZZHCNpSThNYQ&expires=1726180275"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/44a1d7a8a42504b083460b7132da29edd6961dedf4362badf69941072210a267?file=AnimePahe_Senpai_wa_Otokonoko_-_10_1080p_SubsPlease.mp4&token=H581ynLqpGlUydO0H2s15A&expires=1726206165"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/774513e862fcb301d4619c5e23247f15f343d6285697332101b606315b363a6b?file=AnimePahe_Hazurewaku_no_Joutai_Ijou_Skill_de_Saikyou_ni_Natta_Ore_ga_Subete_wo_Juurin_suru_made_-_10_720p_SubsPlease.mp4&token=8JhFuMxbLnJebJpynJDe2A&expires=1726180274",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/509533448ca2e01be7e81cff5a7ff79e82a172bd93804d232f71e8e4bc0eac60?file=AnimePahe_Senpai_wa_Otokonoko_-_10_720p_SubsPlease.mp4&token=RIKZcFVYXCqJiOQ9maUM8w&expires=1726206164",
                         "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/774513e862fcb301d4619c5e23247f15f343d6285697332101b606315b363a6b?file=AnimePahe_Hazurewaku_no_Joutai_Ijou_Skill_de_Saikyou_ni_Natta_Ore_ga_Subete_wo_Juurin_suru_made_-_10_720p_SubsPlease.mp4&token=8JhFuMxbLnJebJpynJDe2A&expires=1726180274"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/509533448ca2e01be7e81cff5a7ff79e82a172bd93804d232f71e8e4bc0eac60?file=AnimePahe_Senpai_wa_Otokonoko_-_10_720p_SubsPlease.mp4&token=RIKZcFVYXCqJiOQ9maUM8w&expires=1726206164"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/d4fde714d4a7d2fc6c6fa707714253a18f1cec6986fc87e6b2806d34a98552b6?file=AnimePahe_Hazurewaku_no_Joutai_Ijou_Skill_de_Saikyou_ni_Natta_Ore_ga_Subete_wo_Juurin_suru_made_-_10_360p_SubsPlease.mp4&token=M9wbXjao1teBvuBrvF3S4Q&expires=1726180272",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/5e14cc671f01911d26a2af28e70af3c35af94e8f0a8c3e3d97f4b7c4c51db6e0?file=AnimePahe_Senpai_wa_Otokonoko_-_10_360p_SubsPlease.mp4&token=_fkdNGvoSegqCFkUmMzkag&expires=1726206162",
                         "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/d4fde714d4a7d2fc6c6fa707714253a18f1cec6986fc87e6b2806d34a98552b6?file=AnimePahe_Hazurewaku_no_Joutai_Ijou_Skill_de_Saikyou_ni_Natta_Ore_ga_Subete_wo_Juurin_suru_made_-_10_360p_SubsPlease.mp4&token=M9wbXjao1teBvuBrvF3S4Q&expires=1726180272"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/5e14cc671f01911d26a2af28e70af3c35af94e8f0a8c3e3d97f4b7c4c51db6e0?file=AnimePahe_Senpai_wa_Otokonoko_-_10_360p_SubsPlease.mp4&token=_fkdNGvoSegqCFkUmMzkag&expires=1726206162"
                     }
                 ],
                 "passed": true

@@ -12,7 +12,7 @@
                                 "artist": "Nicole Kidman, Eve Hewson, Liev Schreiber, Billy Howle",
                                 "author": "",
                                 "description": "Amelia is about to marry into one of the wealthiest families on Nantucket, until a shocking death derails the wedding — and turns everyone into a suspect.",
-                                "genre": "Mystery & Thriller, Crime, Drama",
+                                "genre": "Crime, Drama, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320084120/s276/the-perfect-couple.webp",
                                 "initialized": true
                             },
@@ -92,7 +92,7 @@
                                 "artist": "Kevin Hart, Samuel L. Jackson, Terrence Howard, Dexter Darden",
                                 "author": "",
                                 "description": "Following his return to boxing after dodging the draft, Ali beats Jerry Quarry. Later that night, hundreds are robbed at his after-party in a massive armed robbery.",
-                                "genre": "Action & Adventure, Crime, Drama",
+                                "genre": "Drama, Action & Adventure, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/319976722/s276/fight-night-2024.webp",
                                 "initialized": true
                             },
@@ -102,7 +102,7 @@
                                 "artist": "Michael Connelly",
                                 "author": "",
                                 "description": "Follows the horrific event that has captivated the public's attention for almost 50 years, as well as a more comprehensive narrative about Los Angeles, the American dream, and the situations in which justice might or not be effective.",
-                                "genre": "Documentary, Crime",
+                                "genre": "Crime, Documentary",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320293899/s276/the-wonderland-murders-and-the-secret-history-of-hollywood.webp",
                                 "initialized": true
                             },
@@ -132,7 +132,7 @@
                                 "artist": "Stephen Ouimette, Alyson Court, Tabitha St. Germain, Len Carlson",
                                 "author": "",
                                 "description": "The adventures of goth girl Lydia Deetz and her undead friend Beetlejuice as they explore The Neitherworld, a wacky afterlife realm inhabited by monsters, ghosts, ghouls and zombies.",
-                                "genre": "Science-Fiction, Kids & Family, Fantasy, Horror, Animation, Comedy",
+                                "genre": "Science-Fiction, Horror, Animation, Comedy, Kids & Family, Fantasy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/242612316/s276/beetlejuice.webp",
                                 "initialized": true
                             },
@@ -162,7 +162,7 @@
                                 "artist": "Michael Keaton, Winona Ryder, Catherine O'Hara, Jenna Ortega",
                                 "author": "Tim Burton",
                                 "description": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Beetlejuice, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
-                                "genre": "Horror, Comedy, Fantasy",
+                                "genre": "Comedy, Horror, Fantasy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/319094394/s276/beetlejuice-2.webp",
                                 "initialized": true
                             },
@@ -322,7 +322,7 @@
                                 "artist": "Kevin Costner, Amy Madigan, Gaby Hoffmann, James Earl Jones",
                                 "author": "Phil Alden Robinson",
                                 "description": "Ray Kinsella is an Iowa farmer who hears a mysterious voice telling him to turn his cornfield into a baseball diamond. He does, but the voice's directions don't stop -- even after the spirits of deceased ballplayers turn up to play.",
-                                "genre": "Fantasy, Drama, Sport, Kids & Family, Made in Europe",
+                                "genre": "Fantasy, Drama, Kids & Family, Sport, Made in Europe",
                                 "thumbnail_url": "https://images.justwatch.com/poster/241480324/s276/field-of-dreams.webp",
                                 "initialized": true
                             },
@@ -332,7 +332,7 @@
                                 "artist": "Kevin Costner, Luke Grimes, Kelly Reilly, Wes Bentley",
                                 "author": "",
                                 "description": "A ranching family in Montana faces off against others encroaching on their land.",
-                                "genre": "Western, Drama",
+                                "genre": "Drama, Western",
                                 "thumbnail_url": "https://images.justwatch.com/poster/301671886/s276/yellowstone-2018.webp",
                                 "initialized": true
                             },
@@ -354,6 +354,16 @@
                                 "description": "The body of Laura Palmer is washed up on a beach near the small Washington state town of Twin Peaks. FBI Special Agent Dale Cooper is called in to investigate her strange demise only to uncover a web of mystery that ultimately leads him deep into the heart of the surrounding woodland and his very own soul.",
                                 "genre": "Drama, Mystery & Thriller, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/279101465/s276/twin-peaks.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0898266,SHOW,/us/tv-show/the-big-bang-theory",
+                                "title": "The Big Bang Theory",
+                                "artist": "Johnny Galecki, Jim Parsons, Kaley Cuoco, Simon Helberg",
+                                "author": "",
+                                "description": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door.",
+                                "genre": "Comedy, Romance",
+                                "thumbnail_url": "https://images.justwatch.com/poster/20119645/s276/the-big-bang-theory.webp",
                                 "initialized": true
                             },
                             {
@@ -395,16 +405,6 @@
                                 "genre": "Kids & Family, Drama, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/311693779/s276/young-sheldon.webp",
                                 "initialized": true
-                            },
-                            {
-                                "url": "tt4928166,SHOW,/us/tv-show/the-living-and-the-dead",
-                                "title": "The Living and the Dead",
-                                "artist": "Colin Morgan, Charlotte Spencer, David Oakes, Chloe Pirrie",
-                                "author": "",
-                                "description": "Somerset 1894. When a pioneering Victorian psychologist brings his  vivacious young wife to live on his family's estate, he is confronted by  one disturbing case after another. Are these strange events linked  merely by coincidence, or is there something more sinister - more  supernatural - going on at Shepzoy?",
-                                "genre": "Drama, Horror, Mystery & Thriller, Made in Europe",
-                                "thumbnail_url": "https://images.justwatch.com/poster/192101599/s276/the-living-and-the-dead.webp",
-                                "initialized": true
                             }
                         ],
                         "hasNextPage": true
@@ -427,23 +427,23 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0816711,MOVIE,/us/movie/world-war-z-3d",
-                                "title": "World War Z",
-                                "artist": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
-                                "author": "Marc Forster",
-                                "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                "genre": "Science-Fiction, Mystery & Thriller, Action & Adventure, Horror",
-                                "thumbnail_url": "https://images.justwatch.com/poster/291193041/s276/world-war-z-3d.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0469641,MOVIE,/us/movie/september-2006",
                                 "title": "World Trade Center",
                                 "artist": "Nicolas Cage, Michael Peña, Maria Bello, Maggie Gyllenhaal",
                                 "author": "Oliver Stone",
                                 "description": "Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.",
-                                "genre": "Drama, History, Mystery & Thriller",
+                                "genre": "History, Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/250979950/s276/september-2006.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0816711,MOVIE,/us/movie/world-war-z-3d",
+                                "title": "World War Z",
+                                "artist": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
+                                "author": "Marc Forster",
+                                "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+                                "genre": "Action & Adventure, Horror, Science-Fiction, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/291193041/s276/world-war-z-3d.webp",
                                 "initialized": true
                             },
                             {
@@ -597,16 +597,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
-                                "title": "World's End Harem",
-                                "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
-                                "author": "",
-                                "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
-                                "genre": "Science-Fiction, Mystery & Thriller, Animation, Drama, Romance",
-                                "thumbnail_url": "https://images.justwatch.com/poster/249969107/s276/worlds-end-harem.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt5874596,SHOW,/us/tv-show/world-of-winx",
                                 "title": "World of Winx",
                                 "artist": "Carole Baillien, Alice Ley, Esther Aflalo, Mélanie Dermont",
@@ -614,6 +604,16 @@
                                 "description": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
                                 "genre": "Animation, Action & Adventure, Kids & Family, Fantasy, Comedy, Made in Europe",
                                 "thumbnail_url": "https://images.justwatch.com/poster/309927594/s276/world-of-winx.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
+                                "title": "World's End Harem",
+                                "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
+                                "author": "",
+                                "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
+                                "genre": "Science-Fiction, Mystery & Thriller, Animation, Drama, Romance",
+                                "thumbnail_url": "https://images.justwatch.com/poster/249969107/s276/worlds-end-harem.webp",
                                 "initialized": true
                             },
                             {
@@ -642,7 +642,7 @@
                                 "artist": "Ryohei Arai, Azusa Tadokoro, Akari Uehara, Satomi Sato",
                                 "author": "",
                                 "description": "The fleeting and sad story about little girls known as fairy weapons and an associate hero that survived. This is a world after it was attacked by unidentified monsters known as beasts and many of the species in the world, including humans, had been destroyed. The species that had managed to survived left the ground and were living on a floating island called Regal Ele. Willem Kmetsch wakes up above the clouds 500 years later and couldn’t protect the ones who he wanted to protect. Actually, he was living in despair because he was the only survivor.",
-                                "genre": "Animation, Action & Adventure, Science-Fiction, Romance, Drama, Fantasy",
+                                "genre": "Science-Fiction, Animation, Action & Adventure, Fantasy, Romance, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/307402070/s276/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us.webp",
                                 "initialized": true
                             },
@@ -697,6 +697,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
+                                "title": "The World Wars",
+                                "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
+                                "author": "John Ealer",
+                                "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
+                                "genre": "Documentary, War & Military, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/176468126/s276/the-world-wars.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
                                 "title": "World's Funniest Animals",
                                 "artist": "Elizabeth Stanton",
@@ -704,16 +714,6 @@
                                 "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
                                 "genre": "Reality TV, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
-                                "title": "The World Wars",
-                                "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
-                                "author": "John Ealer",
-                                "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
-                                "genre": "War & Military, Documentary, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/176468126/s276/the-world-wars.webp",
                                 "initialized": true
                             },
                             {
@@ -787,16 +787,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt1831534,SHOW,/us/tv-show/the-world-wild-vet",
-                                "title": "The World Wild Vet",
-                                "artist": "Luke Gamble",
-                                "author": "",
-                                "description": "Vet Adventures takes viewers on a whirlwind trek across the globe as Luke Gamble, a vet from a small village in the south of England, ventures to places where animal welfare is low on the agenda and vets are often non-existent. While helping and saving as many animals as possible Luke immerses himself into the different cultures and traditions of each country he visits. With long hours, little sleep, life on the road to contend with and daily activities that involve anything from anesthetizing a leopard to educating local people about animal welfare issues, Luke takes everything in his stride. Building on Luke's charm, passion and enormous on-screen presence the stories will shock, appall and inspire the audience in equal measure as Luke travels across the open plains of Africa, the tropical rain-forests of South America and the mountains of Nepal. In each episode Luke deals with huge moral questions that will put his veterinary knowledge to the test, creating a series packed full of drama alongside aspirational stories of people who dedicate their lives to animal welfare and selflessly seek to better the natural world around them.",
-                                "genre": "Documentary, Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/139048664/s276/the-world-wild-vet.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0369610,MOVIE,/us/movie/jurassic-world",
                                 "title": "Jurassic World",
                                 "artist": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
@@ -807,12 +797,22 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt1831534,SHOW,/us/tv-show/the-world-wild-vet",
+                                "title": "The World Wild Vet",
+                                "artist": "Luke Gamble",
+                                "author": "",
+                                "description": "Vet Adventures takes viewers on a whirlwind trek across the globe as Luke Gamble, a vet from a small village in the south of England, ventures to places where animal welfare is low on the agenda and vets are often non-existent. While helping and saving as many animals as possible Luke immerses himself into the different cultures and traditions of each country he visits. With long hours, little sleep, life on the road to contend with and daily activities that involve anything from anesthetizing a leopard to educating local people about animal welfare issues, Luke takes everything in his stride. Building on Luke's charm, passion and enormous on-screen presence the stories will shock, appall and inspire the audience in equal measure as Luke travels across the open plains of Africa, the tropical rain-forests of South America and the mountains of Nepal. In each episode Luke deals with huge moral questions that will put his veterinary knowledge to the test, creating a series packed full of drama alongside aspirational stories of people who dedicate their lives to animal welfare and selflessly seek to better the natural world around them.",
+                                "genre": "Documentary, Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/139048664/s276/the-world-wild-vet.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt9738716,MOVIE,/us/movie/the-world-to-come",
                                 "title": "The World to Come",
                                 "artist": "Katherine Waterston, Casey Affleck, Vanessa Kirby, Christopher Abbott",
                                 "author": "Mona Fastvold",
                                 "description": "In 1856, two women forge a close connection despite their isolation on the American frontier.",
-                                "genre": "Romance, Drama, Western, History",
+                                "genre": "Western, Romance, Drama, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/301898205/s276/the-world-to-come.webp",
                                 "initialized": true
                             }
@@ -829,7 +829,7 @@
                     "artist": "Nicole Kidman, Eve Hewson, Liev Schreiber, Billy Howle",
                     "author": "",
                     "description": "Amelia is about to marry into one of the wealthiest families on Nantucket, until a shocking death derails the wedding — and turns everyone into a suspect.",
-                    "genre": "Mystery & Thriller, Crime, Drama",
+                    "genre": "Crime, Drama, Mystery & Thriller",
                     "thumbnail_url": "https://images.justwatch.com/poster/320084120/s718/the-perfect-couple.webp",
                     "initialized": true
                 },
