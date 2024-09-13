@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/54722/Mahou_Shoujo_ni_Akogarete",
+                                "title": "Mahou Shoujo ni Akogarete",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1525/139345l.jpg"
+                            },
+                            {
                                 "url": "/anime/4198/Koutetsu_Jeeg",
                                 "title": "Koutetsu Jeeg",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1467/92724l.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/7593/Kiss_x_Sis_TV",
                                 "title": "Kiss x Sis (TV)",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1660/121553l.jpg"
-                            },
-                            {
-                                "url": "/anime/37178/Kiratto_Prichan",
-                                "title": "Kiratto Pri☆chan",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1628/95071l.jpg"
                             }
                         ],
                         "hasNextPage": true
