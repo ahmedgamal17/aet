@@ -421,8 +421,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://r465--1pqdyczv.c.scdns.io/stream/v1/hls/1WRSD4PB1KpCvD5BVw5qrw/1726230706/www.faselhd.center/all/172.183.112.125/no/US/0/01-02/3/266df93488c1f01798e7e6ad6d5f3619/160_hd1080b_playlist.m3u8",
+                        "quality": "1080p",
+                        "videoUrl": "https://r465--1pqdyczv.c.scdns.io/stream/v1/hls/1WRSD4PB1KpCvD5BVw5qrw/1726230706/www.faselhd.center/all/172.183.112.125/no/US/0/01-02/3/266df93488c1f01798e7e6ad6d5f3619/160_hd1080b_playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://www.faselhd.pro",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://r465--1pqdyczv.c.scdns.io/stream/v1/hls/gJ3aMDK7z5cAsXnY5vlzrg/1726230706/www.faselhd.center/all/172.183.112.125/no/US/0/01-02/3/266df93488c1f01798e7e6ad6d5f3619/155_hd720b_playlist.m3u8",
+                        "quality": "720p",
+                        "videoUrl": "https://r465--1pqdyczv.c.scdns.io/stream/v1/hls/gJ3aMDK7z5cAsXnY5vlzrg/1726230706/www.faselhd.center/all/172.183.112.125/no/US/0/01-02/3/266df93488c1f01798e7e6ad6d5f3619/155_hd720b_playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://www.faselhd.pro",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
