@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5608",
+                                "title": "Madougushi Dahliya wa Utsumukanai",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/83074ae39dbb90c2e9b4e8c457a7726a9478c25dfdcb12ea397a895ca380d776.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=3",
+                                "title": "Meitantei Conan",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f57cf2fe6bb836e28a7d20a08c06c4ee1a2543c99aa65ffd4f9993a101c5b440.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5509",
+                                "title": "Boku no Hero Academia 7th Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/28fc07f3cf2103c277b26a65da1d1ef340bfc83084d61b14df8fd7d2e0236d9c.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5558",
                                 "title": "Shadowverse Flame: Arc-hen",
                                 "artist": "SubsPlease",
@@ -59,24 +77,6 @@
                                 "title": "2.5-jigen no Ririsa",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/a0f856f688b2b05d28ee518b39c26e54a828da1ffc40753e5b3dc990e43b1084.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5584",
-                                "title": "Dead Dead Demons Dededede Destruction (ONA)",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f1e8c24b1008538caec528169dd818013b94ec34996093461a8ea7b371f37c5d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5606",
-                                "title": "Senpai wa Otokonoko",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/1500f853b27cb9117ba1ccf4106e8fbc7be0f8a040356b567eda9508efb4ce2d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5604",
-                                "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/d82dd187a5316bdc548bad223035c56db61c1f645f4e75154e24204c2fadd1dc.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5608",
+                                "title": "Madougushi Dahliya wa Utsumukanai",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/83074ae39dbb90c2e9b4e8c457a7726a9478c25dfdcb12ea397a895ca380d776.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=3",
+                                "title": "Meitantei Conan",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f57cf2fe6bb836e28a7d20a08c06c4ee1a2543c99aa65ffd4f9993a101c5b440.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5509",
+                                "title": "Boku no Hero Academia 7th Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/28fc07f3cf2103c277b26a65da1d1ef340bfc83084d61b14df8fd7d2e0236d9c.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5558",
                                 "title": "Shadowverse Flame: Arc-hen",
                                 "artist": "SubsPlease",
@@ -141,24 +159,6 @@
                                 "title": "2.5-jigen no Ririsa",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/a0f856f688b2b05d28ee518b39c26e54a828da1ffc40753e5b3dc990e43b1084.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5584",
-                                "title": "Dead Dead Demons Dededede Destruction (ONA)",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f1e8c24b1008538caec528169dd818013b94ec34996093461a8ea7b371f37c5d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5606",
-                                "title": "Senpai wa Otokonoko",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/1500f853b27cb9117ba1ccf4106e8fbc7be0f8a040356b567eda9508efb4ce2d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5604",
-                                "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/d82dd187a5316bdc548bad223035c56db61c1f645f4e75154e24204c2fadd1dc.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5558",
-                    "title": "Shadowverse Flame: Arc-hen",
-                    "author": "Zexcs",
-                    "description": "Third part of Shadowverse Flame.",
-                    "genre": "Fantasy",
+                    "url": "/anime/?anime_id=5608",
+                    "title": "Madougushi Dahliya wa Utsumukanai",
+                    "author": "Typhoon Graphics, Imagica Infos",
+                    "description": "Tragically perishing from overwork, a young Japanese woman is reborn as Dahliya Rossetti, daughter of a newly entitled baron. Her father, Carlo, is a beloved magic artificer, a maker of magical tools. Inspired by him, Dahliya uses her memories from her previous life to create practical inventions and become a magic artificer like Carlo. A few years later, the now adult Dahliya has made a name for herself and has gotten engaged to her father's apprentice. However, her life takes a turn for the worse when Carlo suddenly passes away and her fiancé leaves her for another woman not long after. Although having to fend for herself, Dahliya is not quite ready to give up on her dream of becoming a master artificer yet. She may be a single woman but, with the help from old and new allies, she is prepared to overcome any obstacle in her way.\n\nSynonyms: Dahlia in Bloom, Dahliya in Bloom, Madougushi Dahliya wa Utsumukanai: Kyou kara Jiyuu na Shokunin Life",
+                    "genre": "Fantasy, Slice of Life",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/4b693e2f076cd4dffbe029e1150a106e09cb215eef5e105ccf2d92bc617f9c69.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/8b2f518935557d71cbd0e3ebdc0a4f1683352a582bb9e21979b5ee87fdf8f67f.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/a8fc6f00-5ec8-7bb8-3cc6-2a1ea3bb7e3c/c43106ddeb801462dcacb7fbfca3f70d5f5d2b4fe19734a557a2beb5bf67341e",
-                        "name": "Episode 96",
-                        "date_upload": 1726281340000,
-                        "episode_number": 96.0
+                        "url": "/play/7065cca4-f168-21cb-7f80-4e44e779a548/b94a10e849460f5e331779c8a8d05906def52dbba7c3f5b69c738941e087060a",
+                        "name": "Episode 11",
+                        "date_upload": 1726317312000,
+                        "episode_number": 11.0
                     },
                     {
-                        "url": "/play/a8fc6f00-5ec8-7bb8-3cc6-2a1ea3bb7e3c/0bb8c690593f68744c6727a209dd4e470f2284caaa4d0690d84f2b2ba00044b8",
-                        "name": "Episode 95",
-                        "date_upload": 1725676609000,
-                        "episode_number": 95.0
+                        "url": "/play/7065cca4-f168-21cb-7f80-4e44e779a548/e37fb33da14db0743a3f5655c4e78c3ac25dcdab3d93f6445d0815fbdc69fbd7",
+                        "name": "Episode 10",
+                        "date_upload": 1725712501000,
+                        "episode_number": 10.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/5fc9773c8e72c80fbe3dac6f2becc5248fc26a65e8af36a44dd262349ef633ef?file=AnimePahe_Shadowverse_Flame_-_96_1080p_SubsPlease.mp4&token=ny9HtP9CD3Bi6op2sYSyDg&expires=1726309828",
-                        "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/5fc9773c8e72c80fbe3dac6f2becc5248fc26a65e8af36a44dd262349ef633ef?file=AnimePahe_Shadowverse_Flame_-_96_1080p_SubsPlease.mp4&token=ny9HtP9CD3Bi6op2sYSyDg&expires=1726309828"
-                    },
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/e59a14ba6c7f82c70c8e3364457baf6d740a0ea71d087900f305649347ecba52?file=AnimePahe_Shadowverse_Flame_-_96_720p_SubsPlease.mp4&token=FRgoYKywiwfh7xG9RaGT8w&expires=1726309827",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/52bd0c7e6e73e1b7d83cd17ca408d84dd1caaed9fabccde729193c18b5b75c51?file=AnimePahe_Madougushi_Dahliya_wa_Utsumukanai_-_11_720p_SubsPlease.mp4&token=GEpekA9HkU50EnGjDa3F9w&expires=1726331996",
                         "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/e59a14ba6c7f82c70c8e3364457baf6d740a0ea71d087900f305649347ecba52?file=AnimePahe_Shadowverse_Flame_-_96_720p_SubsPlease.mp4&token=FRgoYKywiwfh7xG9RaGT8w&expires=1726309827"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/52bd0c7e6e73e1b7d83cd17ca408d84dd1caaed9fabccde729193c18b5b75c51?file=AnimePahe_Madougushi_Dahliya_wa_Utsumukanai_-_11_720p_SubsPlease.mp4&token=GEpekA9HkU50EnGjDa3F9w&expires=1726331996"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/524a417dbf27bb54f44374811378a44a8e7fe827f6ceaf1696fdaa2fa3d6282c?file=AnimePahe_Shadowverse_Flame_-_96_360p_SubsPlease.mp4&token=wtanWYE0m6FyNwsqAnKcoQ&expires=1726309826",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/47571a2a75f93c9a2ad408aa968989a37177f336ed58d9190f1afc8d01b04abf?file=AnimePahe_Madougushi_Dahliya_wa_Utsumukanai_-_11_360p_SubsPlease.mp4&token=68UL81q-Ka3p6AvkkFA53Q&expires=1726331994",
                         "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/524a417dbf27bb54f44374811378a44a8e7fe827f6ceaf1696fdaa2fa3d6282c?file=AnimePahe_Shadowverse_Flame_-_96_360p_SubsPlease.mp4&token=wtanWYE0m6FyNwsqAnKcoQ&expires=1726309826"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/47571a2a75f93c9a2ad408aa968989a37177f336ed58d9190f1afc8d01b04abf?file=AnimePahe_Madougushi_Dahliya_wa_Utsumukanai_-_11_360p_SubsPlease.mp4&token=68UL81q-Ka3p6AvkkFA53Q&expires=1726331994"
                     }
                 ],
                 "passed": true

@@ -42,7 +42,7 @@
                                 "artist": "Alec Baldwin, Geena Davis, Winona Ryder, Catherine O'Hara",
                                 "author": "Tim Burton",
                                 "description": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
-                                "genre": "Comedy, Fantasy",
+                                "genre": "Fantasy, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/153795111/s276/beetlejuice.webp",
                                 "initialized": true
                             },
@@ -162,7 +162,7 @@
                                 "artist": "Kirsten Dunst, Wagner Moura, Cailee Spaeny, Stephen McKinley Henderson",
                                 "author": "Alex Garland",
                                 "description": "A journey across a dystopian future America, following a team of military-embedded journalists as they race against time to reach DC before rebel factions descend upon the White House.",
-                                "genre": "Mystery & Thriller, Action & Adventure, Drama",
+                                "genre": "Action & Adventure, Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/312434812/s276/civil-war-2024.webp",
                                 "initialized": true
                             },
@@ -232,7 +232,7 @@
                                 "artist": "Colin Farrell, Cristin Milioti, Rhenzy Feliz, Michael Kelly",
                                 "author": "",
                                 "description": "Witness the The Penguin's rise to power in Gotham's criminal underworld in the aftermath of the Riddler killings.",
-                                "genre": "Crime, Drama, Fantasy",
+                                "genre": "Drama, Fantasy, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/318099912/s276/the-penguin.webp",
                                 "initialized": true
                             },
@@ -244,6 +244,16 @@
                                 "description": "In Japan in the year 1600, at the dawn of a century-defining civil war, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village.",
                                 "genre": "Drama, War & Military, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/309349704/s276/shogun-2024.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt11615234,SHOW,/us/tv-show/outcry",
+                                "title": "Outcry",
+                                "artist": "Greg Kelley",
+                                "author": "",
+                                "description": "A five-part documentary series examining the gripping story of high school football star Greg Kelley who was arrested, convicted and jailed for sexual assault of a 4-year-old boy, and his supporters' quest for truth and justice.",
+                                "genre": "Documentary, Crime",
+                                "thumbnail_url": "https://images.justwatch.com/poster/179444727/s276/outcry.webp",
                                 "initialized": true
                             },
                             {
@@ -274,16 +284,6 @@
                                 "description": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
                                 "genre": "Horror, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/212166996/s276/friday-the-13th-1980.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt11615234,SHOW,/us/tv-show/outcry",
-                                "title": "Outcry",
-                                "artist": "Greg Kelley",
-                                "author": "",
-                                "description": "A five-part documentary series examining the gripping story of high school football star Greg Kelley who was arrested, convicted and jailed for sexual assault of a 4-year-old boy, and his supporters' quest for truth and justice.",
-                                "genre": "Documentary, Crime",
-                                "thumbnail_url": "https://images.justwatch.com/poster/179444727/s276/outcry.webp",
                                 "initialized": true
                             },
                             {
@@ -402,7 +402,7 @@
                                 "artist": "James McAvoy, Mackenzie Davis, Scoot McNairy, Alix West Lefler",
                                 "author": "James Watkins",
                                 "description": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
-                                "genre": "Mystery & Thriller, Horror, Drama",
+                                "genre": "Horror, Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/317779677/s276/speak-no-evil-2024.webp",
                                 "initialized": true
                             }
@@ -427,16 +427,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0816711,MOVIE,/us/movie/world-war-z-3d",
-                                "title": "World War Z",
-                                "artist": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
-                                "author": "Marc Forster",
-                                "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                "genre": "Action & Adventure, Horror, Science-Fiction, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/291193041/s276/world-war-z-3d.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0469641,MOVIE,/us/movie/september-2006",
                                 "title": "World Trade Center",
                                 "artist": "Nicolas Cage, Michael Peña, Maria Bello, Maggie Gyllenhaal",
@@ -444,6 +434,16 @@
                                 "description": "Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.",
                                 "genre": "Drama, History, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/250979950/s276/september-2006.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0816711,MOVIE,/us/movie/world-war-z-3d",
+                                "title": "World War Z",
+                                "artist": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
+                                "author": "Marc Forster",
+                                "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+                                "genre": "Action & Adventure, Horror, Science-Fiction, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/291193041/s276/world-war-z-3d.webp",
                                 "initialized": true
                             },
                             {
@@ -517,6 +517,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt2639756,SHOW,/us/tv-show/the-world-from-above",
+                                "title": "The World from Above",
+                                "artist": "Philippe Sollier, Richard Mervyn",
+                                "author": "",
+                                "description": "The World from Above is a unique continuing series of aerial programmes offering an entirely different view of the world. From 10,000ft, down to just a few feet the stabilised high definition aerial camera seeks out the beautiful, as well as the dramatic, on journeys across very different parts of the world including Europe, Africa and the United States.",
+                                "genre": "Documentary",
+                                "thumbnail_url": "https://images.justwatch.com/poster/318909896/s276/the-world-from-above.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": ",SHOW,/us/tv-show/world-dice-tour",
                                 "title": "World Dice Tour",
                                 "artist": "Pani Bottle, Kwak Joon-bin, Lee Won-ji, Noh Hong-chul",
@@ -562,18 +572,8 @@
                                 "artist": "Sam Willis, Robert Joe",
                                 "author": "",
                                 "description": "Unusual, strange, weird plans, plots that took place, or planned to take place during World War Two.",
-                                "genre": "War & Military, Documentary, History",
+                                "genre": "Documentary, History, War & Military",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320191157/s276/world-war-weird.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt2639756,SHOW,/us/tv-show/the-world-from-above",
-                                "title": "The World from Above",
-                                "artist": "Philippe Sollier, Richard Mervyn",
-                                "author": "",
-                                "description": "The World from Above is a unique continuing series of aerial programmes offering an entirely different view of the world. From 10,000ft, down to just a few feet the stabilised high definition aerial camera seeks out the beautiful, as well as the dramatic, on journeys across very different parts of the world including Europe, Africa and the United States.",
-                                "genre": "Documentary",
-                                "thumbnail_url": "https://images.justwatch.com/poster/318909896/s276/the-world-from-above.webp",
                                 "initialized": true
                             },
                             {
@@ -687,16 +687,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
-                                "title": "World's Funniest Animals",
-                                "artist": "Elizabeth Stanton",
-                                "author": "",
-                                "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
-                                "genre": "Reality TV, Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
                                 "title": "The World Wars",
                                 "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
@@ -704,6 +694,16 @@
                                 "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
                                 "genre": "Documentary, War & Military, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/176468126/s276/the-world-wars.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
+                                "title": "World's Funniest Animals",
+                                "artist": "Elizabeth Stanton",
+                                "author": "",
+                                "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
+                                "genre": "Reality TV, Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
                                 "initialized": true
                             },
                             {
@@ -737,16 +737,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0070904,SHOW,/us/tv-show/world-on-a-wire",
-                                "title": "World on a Wire",
-                                "artist": "Klaus Löwitsch, Mascha Rabben, Karl-Heinz Vosgerau, Adrian Hoven",
-                                "author": "",
-                                "description": "Cybernetics engineer Fred Stiller uncovers a massive corporate conspiracy involving a virtual reality computer project.",
-                                "genre": "Science-Fiction, Crime",
-                                "thumbnail_url": "https://images.justwatch.com/poster/248776527/s276/world-on-a-wire.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0103520,SHOW,/us/tv-show/the-real-world",
                                 "title": "The Real World",
                                 "artist": "",
@@ -754,6 +744,16 @@
                                 "description": "Each year, seven strangers in their twenties, from different backgrounds and countries, are chosen to come live together in a major city.",
                                 "genre": "Reality TV, Comedy, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/267056478/s276/the-real-world.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0070904,SHOW,/us/tv-show/world-on-a-wire",
+                                "title": "World on a Wire",
+                                "artist": "Klaus Löwitsch, Mascha Rabben, Karl-Heinz Vosgerau, Adrian Hoven",
+                                "author": "",
+                                "description": "Cybernetics engineer Fred Stiller uncovers a massive corporate conspiracy involving a virtual reality computer project.",
+                                "genre": "Science-Fiction, Crime",
+                                "thumbnail_url": "https://images.justwatch.com/poster/248776527/s276/world-on-a-wire.webp",
                                 "initialized": true
                             },
                             {
@@ -812,7 +812,7 @@
                                 "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
                                 "author": "Colin Trevorrow",
                                 "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
-                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
+                                "genre": "Action & Adventure, Mystery & Thriller, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
                                 "initialized": true
                             }
