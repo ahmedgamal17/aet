@@ -237,11 +237,6 @@
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/5MKItvWyYYEjbbZdj9sYtchyI8l.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9520?isq=false",
-                                "title": "Officer Black Belt",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/wSZbtiFIK1fkKZdSRtn2kz2Ttfd.jpg"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/9203?isq=false",
                                 "title": "4 Minutes (Uncensored Version) - 4MINUTES",
                                 "thumbnail_url": "https://prod-images.viu.com/2563142712/12d81da1d5f5e6dded3575ed88f60f0da11894df?im=Resize,width=1920"
@@ -290,6 +285,16 @@
                                 "url": "/api/DramaList/Drama/9522?isq=false",
                                 "title": "Be Your Knight (2024)",
                                 "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/4etolcjt03chqur1726220851374/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9526?isq=false",
+                                "title": "The Crow (2024)",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/rxX4hQWJPG1SjuKY3OQtP6cPmXm.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9520?isq=false",
+                                "title": "Officer Black Belt",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/wSZbtiFIK1fkKZdSRtn2kz2Ttfd.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9297?isq=false",
@@ -410,11 +415,6 @@
                                 "url": "/api/DramaList/Drama/8834?isq=false",
                                 "title": "That Time I Got Reincarnated as a Slime Season 3 - Tensei shitara Slime Datta Ken 3rd Season",
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/xzjZDyqUobuJtkBljhgLH4Fdnye.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9401?isq=false",
-                                "title": "Pachinko Season 2",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/iAHGOf8UdjOmorvM0YQV9kH2pbb.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -571,23 +571,23 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "file:///tmp/subs10335298473155667719srt",
+                                "url": "file:///tmp/subs14567009930339715978srt",
                                 "lang": "English"
                             },
                             {
-                                "url": "file:///tmp/subs3913980859809909070srt",
+                                "url": "file:///tmp/subs16740312857088236258srt",
                                 "lang": "Khmer"
                             },
                             {
-                                "url": "file:///tmp/subs677701038530147698srt",
+                                "url": "file:///tmp/subs15825129871634753882srt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "file:///tmp/subs14774575359992751995srt",
+                                "url": "file:///tmp/subs1417747291776243446srt",
                                 "lang": "Indonesia"
                             },
                             {
-                                "url": "file:///tmp/subs12405492546022315384srt",
+                                "url": "file:///tmp/subs6677978626343453501srt",
                                 "lang": "Malay"
                             }
                         ]
