@@ -369,17 +369,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/anime/LmpZnqUuF6zPHny9WYCYjO3hScuAkg7d",
-                    "title": "High School DxD",
-                    "description": "Issei Hyodo is your average perverted high school student whose one wish in life is to have his own harem, but he's got to be one of the unluckiest guys around. He goes on his first date with a girl only to get brutally attacked and killed when it turns out the girl is really a vicious fallen angel. To top it all off, he's later reincarnated as a devil by his gorgeous senpai who tells him that she is also a devil and now his master! One thing's for sure, his peaceful days are over. In a battle between devils and angels, who will win? \n(Source: FUNimation) ",
-                    "genre": "Action, Comedy, Fantasy, Romance, Ecchi",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://ipfs.animeui.com/ipfs/bafkreig6krmpg6wotivzjw6cckmmh4chsyt5paf2yfhl37sboygfb5rf54",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "result": [
