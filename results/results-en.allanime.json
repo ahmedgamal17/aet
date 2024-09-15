@@ -82,6 +82,11 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167419-yesWtncEBD9N.jpg"
                             },
                             {
+                                "url": "6v8MgBNsJQWGavdWz<&sep><&sep>make-heroine-ga-oosugiru-",
+                                "title": "Make Heroine ga Oosugiru!",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171457-Z8tZRk7LhcZk.jpg"
+                            },
+                            {
                                 "url": "kibfyvtiFpKCGGoSD<&sep><&sep>b-c-",
                                 "title": "B.C.",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1190/105182.jpg"
@@ -90,11 +95,6 @@
                                 "url": "DkKWjEA3A7m5kCJWp<&sep><&sep>hunter-x-hunter-2011-",
                                 "title": "Hunter x Hunter (2011)",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-sIpBprNRfzCe.png"
-                            },
-                            {
-                                "url": "6v8MgBNsJQWGavdWz<&sep><&sep>make-heroine-ga-oosugiru-",
-                                "title": "Make Heroine ga Oosugiru!",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171457-Z8tZRk7LhcZk.jpg"
                             },
                             {
                                 "url": "LYKSutL2PaAjYyXWz<&sep><&sep>jujutsu-kaisen-2nd-season",
@@ -122,14 +122,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-O7nR1Wrav2dH.jpg"
                             },
                             {
-                                "url": "9baNLXs8eEENdWtDs<&sep><&sep>fairy-tail",
-                                "title": "Fairy Tail",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6702-4cW6E5AqQqqB.png"
-                            },
-                            {
                                 "url": "x8k9P88s9fFCG35hd<&sep><&sep>nige-jouzu-no-wakagimi",
                                 "title": "Nige Jouzu no Wakagimi",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg"
+                            },
+                            {
+                                "url": "9baNLXs8eEENdWtDs<&sep><&sep>fairy-tail",
+                                "title": "Fairy Tail",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6702-4cW6E5AqQqqB.png"
                             },
                             {
                                 "url": "cstcbG4EquLyDnAwN<&sep><&sep>naruto",
@@ -146,6 +146,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "2PoNLtsGYue3czB65<&sep><&sep>yong-sheng-hai-shi-xian-ling",
+                                "title": "Yong Sheng: Hai Shi Xian Ling",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1286/144485.jpg"
+                            },
+                            {
+                                "url": "ReooPAxPMsHM4KPMY<&sep><&sep>1p",
+                                "title": "1P",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1810/139965.jpg"
+                            },
                             {
                                 "url": "zZLPHFxwEWKmY9qCJ<&sep><&sep>wonderful-precure-",
                                 "title": "Wonderful Precure!",
@@ -265,16 +275,6 @@
                                 "url": "GqqHYjQpcXKuE6aS2<&sep><&sep>starting-with-a-reward-of-100-million-lives",
                                 "title": "Starting With a Reward of 100 Million Lives",
                                 "thumbnail_url": "https://gogocdn.net/cover/starting-with-a-reward-of-100-million-lives.png"
-                            },
-                            {
-                                "url": "5TrEu3MHESs2Ea3cp<&sep><&sep>with-a-sword-domain-i-can-become-the-sword-saint",
-                                "title": "With a Sword Domain, I Can Become the Sword Saint",
-                                "thumbnail_url": "https://gogocdn.net/cover/with-a-sword-domain-i-can-become-the-sword-saint.png"
-                            },
-                            {
-                                "url": "hEQboPQtuKx2N2Lmb<&sep><&sep>lian-qi-shi-wan-nian",
-                                "title": "Lian Qi Shi Wan Nian",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165524-XMXXm35IgGAB.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -437,14 +437,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "{\"variables\":{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1119\"},\"query\":\"query(\\n    $showId: String!,\\n    $translationType: VaildTranslationTypeEnumType!,\\n    $episodeString: String!\\n) {\\n    episode(\\n        showId: $showId\\n        translationType: $translationType\\n        episodeString: $episodeString\\n    ) {\\n        sourceUrls\\n    }\\n}\"}",
+                        "name": "Episode 1119 (sub)",
+                        "episode_number": 1119.0
+                    },
+                    {
                         "url": "{\"variables\":{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1118\"},\"query\":\"query(\\n    $showId: String!,\\n    $translationType: VaildTranslationTypeEnumType!,\\n    $episodeString: String!\\n) {\\n    episode(\\n        showId: $showId\\n        translationType: $translationType\\n        episodeString: $episodeString\\n    ) {\\n        sourceUrls\\n    }\\n}\"}",
                         "name": "Episode 1118 (sub)",
                         "episode_number": 1118.0
-                    },
-                    {
-                        "url": "{\"variables\":{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1117\"},\"query\":\"query(\\n    $showId: String!,\\n    $translationType: VaildTranslationTypeEnumType!,\\n    $episodeString: String!\\n) {\\n    episode(\\n        showId: $showId\\n        translationType: $translationType\\n        episodeString: $episodeString\\n    ) {\\n        sourceUrls\\n    }\\n}\"}",
-                        "name": "Episode 1117 (sub)",
-                        "episode_number": 1117.0
                     }
                 ],
                 "passed": true
@@ -452,9 +452,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://tools.fast4speed.rsvp//media9/videos/ReooPAxPMsHM4KPMY/sub/1118",
+                        "url": "https://tools.fast4speed.rsvp//media9/videos/ReooPAxPMsHM4KPMY/sub/1119",
                         "quality": "Original (player Yt-mp4)",
-                        "videoUrl": "https://tools.fast4speed.rsvp//media9/videos/ReooPAxPMsHM4KPMY/sub/1118",
+                        "videoUrl": "https://tools.fast4speed.rsvp//media9/videos/ReooPAxPMsHM4KPMY/sub/1119",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -463,110 +463,110 @@
                         }
                     },
                     {
-                        "url": "https://www040.anicdnstream.info/videos/hls/K4po2DPDTr06qi2K3Yf1Ew/1726379291/232386/0b594d900f47daabc194844092384914/ep.1118.1725762903.1080.m3u8",
+                        "url": "https://www111.anicdnstream.info/videos/hls/OUcrBPOsFEdvJW5tpfH9Gg/1726395840/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.1080.m3u8",
                         "quality": "1080p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/K4po2DPDTr06qi2K3Yf1Ew/1726379291/232386/0b594d900f47daabc194844092384914/ep.1118.1725762903.1080.m3u8",
+                        "videoUrl": "https://www111.anicdnstream.info/videos/hls/OUcrBPOsFEdvJW5tpfH9Gg/1726395840/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www040.anicdnstream.info",
+                            "Host": "www111.anicdnstream.info",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
                     },
                     {
-                        "url": "https://www040.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1118.1725762903.1080.m3u8",
+                        "url": "https://www111.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1119.1726367850.1080.m3u8",
                         "quality": "1080p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www040.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1118.1725762903.1080.m3u8",
+                        "videoUrl": "https://www111.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1119.1726367850.1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www040.anzeat.pro",
+                            "Host": "www111.anzeat.pro",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
                     },
                     {
-                        "url": "https://www040.anicdnstream.info/videos/hls/K4po2DPDTr06qi2K3Yf1Ew/1726379291/232386/0b594d900f47daabc194844092384914/ep.1118.1725762903.720.m3u8",
+                        "url": "https://www111.anicdnstream.info/videos/hls/OUcrBPOsFEdvJW5tpfH9Gg/1726395840/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.720.m3u8",
                         "quality": "720p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/K4po2DPDTr06qi2K3Yf1Ew/1726379291/232386/0b594d900f47daabc194844092384914/ep.1118.1725762903.720.m3u8",
+                        "videoUrl": "https://www111.anicdnstream.info/videos/hls/OUcrBPOsFEdvJW5tpfH9Gg/1726395840/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.720.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www040.anicdnstream.info",
+                            "Host": "www111.anicdnstream.info",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
                     },
                     {
-                        "url": "https://www040.anicdnstream.info/videos/hls/K4po2DPDTr06qi2K3Yf1Ew/1726379291/232386/0b594d900f47daabc194844092384914/ep.1118.1725762903.480.m3u8",
+                        "url": "https://www111.anicdnstream.info/videos/hls/OUcrBPOsFEdvJW5tpfH9Gg/1726395840/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.480.m3u8",
                         "quality": "480p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/K4po2DPDTr06qi2K3Yf1Ew/1726379291/232386/0b594d900f47daabc194844092384914/ep.1118.1725762903.480.m3u8",
+                        "videoUrl": "https://www111.anicdnstream.info/videos/hls/OUcrBPOsFEdvJW5tpfH9Gg/1726395840/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.480.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www040.anicdnstream.info",
+                            "Host": "www111.anicdnstream.info",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
                     },
                     {
-                        "url": "https://www040.anicdnstream.info/videos/hls/K4po2DPDTr06qi2K3Yf1Ew/1726379291/232386/0b594d900f47daabc194844092384914/ep.1118.1725762903.360.m3u8",
+                        "url": "https://www111.anicdnstream.info/videos/hls/OUcrBPOsFEdvJW5tpfH9Gg/1726395840/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.360.m3u8",
                         "quality": "360p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www040.anicdnstream.info/videos/hls/K4po2DPDTr06qi2K3Yf1Ew/1726379291/232386/0b594d900f47daabc194844092384914/ep.1118.1725762903.360.m3u8",
+                        "videoUrl": "https://www111.anicdnstream.info/videos/hls/OUcrBPOsFEdvJW5tpfH9Gg/1726395840/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.360.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www040.anicdnstream.info",
+                            "Host": "www111.anicdnstream.info",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
                     },
                     {
-                        "url": "https://www040.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1118.1725762903.720.m3u8",
+                        "url": "https://www111.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1119.1726367850.720.m3u8",
                         "quality": "720p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www040.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1118.1725762903.720.m3u8",
+                        "videoUrl": "https://www111.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1119.1726367850.720.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www040.anzeat.pro",
+                            "Host": "www111.anzeat.pro",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
                     },
                     {
-                        "url": "https://www040.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1118.1725762903.480.m3u8",
+                        "url": "https://www111.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1119.1726367850.480.m3u8",
                         "quality": "480p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www040.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1118.1725762903.480.m3u8",
+                        "videoUrl": "https://www111.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1119.1726367850.480.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www040.anzeat.pro",
+                            "Host": "www111.anzeat.pro",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
                     },
                     {
-                        "url": "https://www040.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1118.1725762903.360.m3u8",
+                        "url": "https://www111.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1119.1726367850.360.m3u8",
                         "quality": "360p (internal Luf-mp4 - hls P)",
-                        "videoUrl": "https://www040.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1118.1725762903.360.m3u8",
+                        "videoUrl": "https://www111.anzeat.pro/streamhls/0b594d900f47daabc194844092384914/ep.1119.1726367850.360.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Host": "www040.anzeat.pro",
+                            "Host": "www111.anzeat.pro",
                             "Origin": "https://allanime.day",
                             "Referer": "https://allanime.day/"
                         }
                     },
                     {
-                        "url": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EfadkotJssNMpSQEXoetAxsBjNqcLKZSBceORZoF9Mvncw",
+                        "url": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EQFC7y7q1GVPlNk_UtC35qQBH0AB_mao-W4e_my_g5l2Lw",
                         "quality": "Original (internal S-mp4 - Mp4)",
-                        "videoUrl": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EfadkotJssNMpSQEXoetAxsBjNqcLKZSBceORZoF9Mvncw"
+                        "videoUrl": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EQFC7y7q1GVPlNk_UtC35qQBH0AB_mao-W4e_my_g5l2Lw"
                     },
                     {
-                        "url": "https://a3.mp4upload.com:183/d/xsxzvh4oz3b4quuongre4ycycl4se6kzump7byfxhb425ama3qvau2hwzyuuwp5mvrp2fmfp/video.mp4",
+                        "url": "https://a2.mp4upload.com:183/d/xwx6bgmoz3b4quuongraa2snk2j73o3qahkval7gip6lbmyg7uyaj7xgtuwuesbin3ud3fky/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxzvh4oz3b4quuongre4ycycl4se6kzump7byfxhb425ama3qvau2hwzyuuwp5mvrp2fmfp/video.mp4",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwx6bgmoz3b4quuongraa2snk2j73o3qahkval7gip6lbmyg7uyaj7xgtuwuesbin3ud3fky/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"

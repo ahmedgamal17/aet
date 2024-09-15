@@ -1,7 +1,7 @@
 [
   {
     "pkg": "all.animeonsen",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.animeonsen.json"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "pkg": "all.torrentioanime",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.torrentioanime.json"
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "pkg": "en.allanimechi",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanimechi.json"
   },
   {
@@ -261,7 +261,7 @@
   },
   {
     "pkg": "en.edytjedhgmdhm",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.edytjedhgmdhm.json"
   },
   {
@@ -436,7 +436,7 @@
   },
   {
     "pkg": "en.zoro",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.zoro.json"
   }
 ]
