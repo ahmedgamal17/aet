@@ -1,6 +1,6 @@
 ## Extension status
 
-### 33/88(38%) are working
+### 34/88(39%) are working
 
 | Extension            |  Status   | Log                                                                                                                                       |
 | :------------------- | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,7 +17,7 @@
 | all.sudatchi         |     ✅     | [results-all.sudatchi.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.sudatchi.json)                 |
 | all.supjav           | ❌<br>3/15 | [results-all.supjav.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.supjav.json)                     |
 | all.torrentio        | ❌<br>4/5  | [results-all.torrentio.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.torrentio.json)               |
-| all.torrentioanime   | ❌<br>5/6  | [results-all.torrentioanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.torrentioanime.json)     |
+| all.torrentioanime   |     ✅     | [results-all.torrentioanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.torrentioanime.json)     |
 | ar.akwam             |     ✅     | [results-ar.akwam.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.akwam.json)                         |
 | ar.anime4up          |     ✅     | [results-ar.anime4up.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.anime4up.json)                   |
 | ar.animeblkom        | ❌<br>0/5  | [results-ar.animeblkom.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.animeblkom.json)               |
@@ -71,11 +71,11 @@
 | en.kimoitv           | ❌<br>0/6  | [results-en.kimoitv.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kimoitv.json)                     |
 | en.kissanime         | ❌<br>0/6  | [results-en.kissanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kissanime.json)                 |
 | en.kisskh            |     ✅     | [results-en.kisskh.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kisskh.json)                       |
-| en.luciferdonghua    | ❌<br>5/6  | [results-en.luciferdonghua.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.luciferdonghua.json)       |
+| en.luciferdonghua    | ❌<br>0/6  | [results-en.luciferdonghua.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.luciferdonghua.json)       |
 | en.multimovies       | ❌<br>0/6  | [results-en.multimovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.multimovies.json)             |
 | en.myanime           |     ✅     | [results-en.myanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.myanime.json)                     |
 | en.myrunningman      | ❌<br>5/6  | [results-en.myrunningman.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.myrunningman.json)           |
-| en.nineanime         | ❌<br>1/6  | [results-en.nineanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.nineanime.json)                 |
+| en.nineanime         | ❌<br>0/6  | [results-en.nineanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.nineanime.json)                 |
 | en.nollyverse        | ❌<br>0/6  | [results-en.nollyverse.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.nollyverse.json)               |
 | en.noobsubs          |     ✅     | [results-en.noobsubs.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.noobsubs.json)                   |
 | en.oppaistream       |     ✅     | [results-en.oppaistream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.oppaistream.json)             |
@@ -86,7 +86,7 @@
 | en.sflix             | ❌<br>5/6  | [results-en.sflix.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.sflix.json)                         |
 | en.slothanime        | ❌<br>1/6  | [results-en.slothanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.slothanime.json)               |
 | en.superstream       | ❌<br>0/6  | [results-en.superstream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.superstream.json)             |
-| en.tokuzilla         | ❌<br>0/5  | [results-en.tokuzilla.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.tokuzilla.json)                 |
+| en.tokuzilla         | ❌<br>1/5  | [results-en.tokuzilla.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.tokuzilla.json)                 |
 | en.uhdmovies         | ❌<br>1/5  | [results-en.uhdmovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.uhdmovies.json)                 |
 | en.uniquestream      | ❌<br>1/6  | [results-en.uniquestream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.uniquestream.json)           |
 | en.wcofun            |     ✅     | [results-en.wcofun.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.wcofun.json)                       |
