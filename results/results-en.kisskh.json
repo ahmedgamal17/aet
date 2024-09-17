@@ -232,6 +232,16 @@
                                 "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/ctt8unxl8w4gy3l1724839709009/0"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9356?isq=false",
+                                "title": "No Gain, No Love",
+                                "thumbnail_url": "https://image.tving.com/ntgs/contents/CTC/caip/CAIP1500/ko/20240807/0516/P001760073.jpg/dims/resize/1280"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/8793?isq=false",
+                                "title": "Love of Nirvana",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/ci06m4bnkbhlp4o1726219139300/0"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/9480?isq=false",
                                 "title": "Happy of the End",
                                 "thumbnail_url": "https://img.gagaoolala.com/media/bd4046e9-726414-lg.jpg"
@@ -262,11 +272,6 @@
                                 "thumbnail_url": "//pic8.iqiyipic.com/image/20240909/00/54/a_100583976_m_601_zh-CN_m3_720_405.webp"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9356?isq=false",
-                                "title": "No Gain, No Love",
-                                "thumbnail_url": "https://image.tving.com/ntgs/contents/CTC/caip/CAIP1500/ko/20240807/0516/P001760073.jpg/dims/resize/1280"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/9326?isq=false",
                                 "title": "Battle of The Writers (UNCUT)",
                                 "thumbnail_url": "https://im.gurl.eu.org/file/ee46aa986887ccc998333.jpg"
@@ -277,11 +282,6 @@
                                 "thumbnail_url": "https://img.gagaoolala.com/media/2e604489-770059-lg.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/8793?isq=false",
-                                "title": "Love of Nirvana",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/ci06m4bnkbhlp4o1726219139300/0"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/4529?isq=false",
                                 "title": "Swallowed Star Season 2+3+4",
                                 "thumbnail_url": "https://puui.wetvinfo.com/wetv/cms/6945_1696415708_19201080.jpeg?imageMogr2/thumbnail/3000x"
@@ -290,6 +290,11 @@
                                 "url": "/api/DramaList/Drama/9496?isq=false",
                                 "title": "Bad Guy My Boss",
                                 "thumbnail_url": "https://img.gagaoolala.com/media/c3924689-688419-lg.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9533?isq=false",
+                                "title": "Country Life of Gen-Z",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/e1NgIT9h95pHu0tVbydtTmhxf6Q.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9344?isq=false",
@@ -352,6 +357,11 @@
                                 "thumbnail_url": "https://vcover-hz-pic.puui.qpic.cn/vcover_hz_pic/0/mzc00200aaogpgh1708225531019/0"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9503?isq=false",
+                                "title": "Wind Direction",
+                                "thumbnail_url": "https://pic6.iqiyipic.com/image/20240910/ab/07/a_100586923_m_601_en_m2_720_405.webp"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/9299?isq=false",
                                 "title": "DNA Lover",
                                 "thumbnail_url": "https://prod-images.viu.com/445725930/3380aadd670d909a55ea0a8d1ba6f8db40299c69?im=Resize,width=1920"
@@ -397,11 +407,6 @@
                                 "thumbnail_url": "https://image.tving.com/ntgs/contents/CTC/caip/CAIP1500/ko/20240723/0456/P001759523.jpg/dims/resize/1280"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9503?isq=false",
-                                "title": "Wind Direction",
-                                "thumbnail_url": "https://pic6.iqiyipic.com/image/20240910/ab/07/a_100586923_m_601_en_m2_720_405.webp"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/9526?isq=false",
                                 "title": "The Crow (2024)",
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/rxX4hQWJPG1SjuKY3OQtP6cPmXm.jpg"
@@ -410,11 +415,6 @@
                                 "url": "/api/DramaList/Drama/9520?isq=false",
                                 "title": "Officer Black Belt",
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/wSZbtiFIK1fkKZdSRtn2kz2Ttfd.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/5640?isq=false",
-                                "title": "Battle Through the Heavens 5th Season",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/fc0jm32uyhpfqae1724323629639/0"
                             }
                         ],
                         "hasNextPage": true
@@ -571,23 +571,23 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "file:///tmp/subs2920900414133079255srt",
+                                "url": "file:///tmp/subs4056690899948095291srt",
                                 "lang": "English"
                             },
                             {
-                                "url": "file:///tmp/subs5739624417348466704srt",
+                                "url": "file:///tmp/subs10172638313740357997srt",
                                 "lang": "Khmer"
                             },
                             {
-                                "url": "file:///tmp/subs14550477694533685704srt",
+                                "url": "file:///tmp/subs8411884064601701168srt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "file:///tmp/subs13441319168406572481srt",
+                                "url": "file:///tmp/subs2242192635930919694srt",
                                 "lang": "Indonesia"
                             },
                             {
-                                "url": "file:///tmp/subs1021580780322234831srt",
+                                "url": "file:///tmp/subs7687728854894477947srt",
                                 "lang": "Malay"
                             }
                         ]
