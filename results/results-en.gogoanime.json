@@ -116,6 +116,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/category/gokiburi-tachi-no-tasogare",
+                                "title": "Gokiburi-tachi no Tasogare",
+                                "thumbnail_url": "https://gogocdn.net/cover/gokiburi-tachi-no-tasogare.png"
+                            },
+                            {
+                                "url": "/category/lupin-viii",
+                                "title": "Lupin VIII",
+                                "thumbnail_url": "https://gogocdn.net/cover/lupin-viii.png"
+                            },
+                            {
+                                "url": "/category/bakugan-battle-brawlers-gundalian-invaders",
+                                "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+                                "thumbnail_url": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png"
+                            },
+                            {
                                 "url": "/category/shinkalion-change-the-world",
                                 "title": "Shinkalion: Change the World",
                                 "thumbnail_url": "https://gogocdn.net/cover/shinkalion-change-the-world.png"
@@ -199,21 +214,6 @@
                                 "url": "/category/yozakura-san-chi-no-daisakusen",
                                 "title": "Yozakura-san Chi no Daisakusen",
                                 "thumbnail_url": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1725937756.png"
-                            },
-                            {
-                                "url": "/category/fairy-tail-100-years-quest",
-                                "title": "Fairy Tail: 100 Years Quest",
-                                "thumbnail_url": "https://gogocdn.net/cover/fairy-tail-100-years-quest-1719513557.png"
-                            },
-                            {
-                                "url": "/category/ultraman-kids-no-kotowaza-monogatari",
-                                "title": "Ultraman Kids no Kotowaza Monogatari",
-                                "thumbnail_url": "https://gogocdn.net/cover/ultraman-kids-no-kotowaza-monogatari.png"
-                            },
-                            {
-                                "url": "/category/dr-slump-arale-chan",
-                                "title": "Dr. Slump: Arale-chan",
-                                "thumbnail_url": "https://gogocdn.net/cover/dr-slump-arale-chan.png"
                             }
                         ],
                         "hasNextPage": true
@@ -367,13 +367,13 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=mSrywzDDzlsAR-AxLejn5w&expires=1726543195"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=4UihU_BPySxfBWB9zbtc6A&expires=1726561656"
                         }
                     },
                     {
-                        "url": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfyvh3dvwfe4m7unv4hev3egay67vm4/video.mp4",
+                        "url": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfygl5xvzwo67t5zzqlrs5poinn6zap/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfyvh3dvwfe4m7unv4hev3egay67vm4/video.mp4",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfygl5xvzwo67t5zzqlrs5poinn6zap/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Origin": "https://anitaku.to",
@@ -381,9 +381,9 @@
                         }
                     },
                     {
-                        "url": "https://cv9fqnu812v.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=DoWl2I0UuOeVDlmGNVFYlTQukJ3SS3YbAe-3pbnKxJY&s=1726535996&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "url": "https://b7jxgy45npkkl.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=F25GGb19Jh7mFXZMEINJBWMMSeD0mbXo-rbiiBF3ACw&s=1726554458&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://cv9fqnu812v.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=DoWl2I0UuOeVDlmGNVFYlTQukJ3SS3YbAe-3pbnKxJY&s=1726535996&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "videoUrl": "https://b7jxgy45npkkl.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=F25GGb19Jh7mFXZMEINJBWMMSeD0mbXo-rbiiBF3ACw&s=1726554458&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -408,13 +408,13 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=mSrywzDDzlsAR-AxLejn5w&expires=1726543195"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=4UihU_BPySxfBWB9zbtc6A&expires=1726561656"
                         }
                     },
                     {
-                        "url": "https://cv9fqnu812v.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=DoWl2I0UuOeVDlmGNVFYlTQukJ3SS3YbAe-3pbnKxJY&s=1726535996&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "url": "https://b7jxgy45npkkl.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=F25GGb19Jh7mFXZMEINJBWMMSeD0mbXo-rbiiBF3ACw&s=1726554458&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "quality": "StreamWish - 720p",
-                        "videoUrl": "https://cv9fqnu812v.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=DoWl2I0UuOeVDlmGNVFYlTQukJ3SS3YbAe-3pbnKxJY&s=1726535996&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "videoUrl": "https://b7jxgy45npkkl.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=F25GGb19Jh7mFXZMEINJBWMMSeD0mbXo-rbiiBF3ACw&s=1726554458&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -439,13 +439,13 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=mSrywzDDzlsAR-AxLejn5w&expires=1726543195"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=4UihU_BPySxfBWB9zbtc6A&expires=1726561656"
                         }
                     },
                     {
-                        "url": "https://cv9fqnu812v.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=DoWl2I0UuOeVDlmGNVFYlTQukJ3SS3YbAe-3pbnKxJY&s=1726535996&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "url": "https://b7jxgy45npkkl.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=F25GGb19Jh7mFXZMEINJBWMMSeD0mbXo-rbiiBF3ACw&s=1726554458&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "quality": "StreamWish - 480p",
-                        "videoUrl": "https://cv9fqnu812v.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=DoWl2I0UuOeVDlmGNVFYlTQukJ3SS3YbAe-3pbnKxJY&s=1726535996&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "videoUrl": "https://b7jxgy45npkkl.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=F25GGb19Jh7mFXZMEINJBWMMSeD0mbXo-rbiiBF3ACw&s=1726554458&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -470,7 +470,7 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=mSrywzDDzlsAR-AxLejn5w&expires=1726543195"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=4UihU_BPySxfBWB9zbtc6A&expires=1726561656"
                         }
                     },
                     {
