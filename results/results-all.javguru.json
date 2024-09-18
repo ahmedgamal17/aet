@@ -399,20 +399,20 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn2.turboviplay.com/data1/66e88ccf27c48/66e88ccf27c48720.m3u8",
-                        "quality": "EmTurboVid: 720p",
-                        "videoUrl": "https://cdn2.turboviplay.com/data1/66e88ccf27c48/66e88ccf27c48720.m3u8",
+                        "url": "https://ly2q757psl.cdn-jupiter.com/hls2/01/04925/mlspemhl801a_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=pAl6SzXj2tdtrxR65Kro3SQotUEkAr6Dqdc9Nbx0yG8&s=1726641149&e=129600&f=24627996&srv=u3sv3mdk62&i=0.4&sp=500&p1=u3sv3mdk62&p2=u3sv3mdk62&asn=8075",
+                        "quality": "StreamWish - 720p",
+                        "videoUrl": "https://ly2q757psl.cdn-jupiter.com/hls2/01/04925/mlspemhl801a_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=pAl6SzXj2tdtrxR65Kro3SQotUEkAr6Dqdc9Nbx0yG8&s=1726641149&e=129600&f=24627996&srv=u3sv3mdk62&i=0.4&sp=500&p1=u3sv3mdk62&p2=u3sv3mdk62&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
-                            "Origin": "https://emturbovid.com",
-                            "Referer": "https://emturbovid.com/t/66e88ccf27c48"
+                            "Origin": "https://javclan.com",
+                            "Referer": "https://javclan.com/e/mlspemhl801a"
                         }
                     },
                     {
-                        "url": "https://s5.maxstream.org/hls2/01/00008/1800y3vyfi88_n/index-v1-a1.m3u8?t=7kVe_eeFnhz_PmRJ7dF_x-lJCz7vZBD0r3sdDvpPDF0&s=1726623764&e=43200&f=40970&i=20.55",
+                        "url": "https://s5.maxstream.org/hls2/01/00008/1800y3vyfi88_n/index-v1-a1.m3u8?t=JWGjZn26468tVXipWz4bkK6mzFrPwugPJI4LNdbMPO4&s=1726641150&e=43200&f=40970&i=74.249",
                         "quality": "MaxStream: 480p",
-                        "videoUrl": "https://s5.maxstream.org/hls2/01/00008/1800y3vyfi88_n/index-v1-a1.m3u8?t=7kVe_eeFnhz_PmRJ7dF_x-lJCz7vZBD0r3sdDvpPDF0&s=1726623764&e=43200&f=40970&i=20.55",
+                        "videoUrl": "https://s5.maxstream.org/hls2/01/00008/1800y3vyfi88_n/index-v1-a1.m3u8?t=JWGjZn26468tVXipWz4bkK6mzFrPwugPJI4LNdbMPO4&s=1726641150&e=43200&f=40970&i=74.249",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -421,31 +421,40 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=J0lyydq2g7Hed0&expires=1726693762&ip=FROsE0MnDS9X&token=aQbIMZOEK9hZ",
+                        "url": "https://ly2q757psl.cdn-jupiter.com/hls2/01/04925/mlspemhl801a_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=pAl6SzXj2tdtrxR65Kro3SQotUEkAr6Dqdc9Nbx0yG8&s=1726641149&e=129600&f=24627996&srv=u3sv3mdk62&i=0.4&sp=500&p1=u3sv3mdk62&p2=u3sv3mdk62&asn=8075",
+                        "quality": "StreamWish - 1080p",
+                        "videoUrl": "https://ly2q757psl.cdn-jupiter.com/hls2/01/04925/mlspemhl801a_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=pAl6SzXj2tdtrxR65Kro3SQotUEkAr6Dqdc9Nbx0yG8&s=1726641149&e=129600&f=24627996&srv=u3sv3mdk62&i=0.4&sp=500&p1=u3sv3mdk62&p2=u3sv3mdk62&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://javclan.com",
+                            "Referer": "https://javclan.com/e/mlspemhl801a"
+                        }
+                    },
+                    {
+                        "url": "https://ly2q757psl.cdn-jupiter.com/hls2/01/04925/mlspemhl801a_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=pAl6SzXj2tdtrxR65Kro3SQotUEkAr6Dqdc9Nbx0yG8&s=1726641149&e=129600&f=24627996&srv=u3sv3mdk62&i=0.4&sp=500&p1=u3sv3mdk62&p2=u3sv3mdk62&asn=8075",
+                        "quality": "StreamWish - 480p",
+                        "videoUrl": "https://ly2q757psl.cdn-jupiter.com/hls2/01/04925/mlspemhl801a_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=pAl6SzXj2tdtrxR65Kro3SQotUEkAr6Dqdc9Nbx0yG8&s=1726641149&e=129600&f=24627996&srv=u3sv3mdk62&i=0.4&sp=500&p1=u3sv3mdk62&p2=u3sv3mdk62&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://javclan.com",
+                            "Referer": "https://javclan.com/e/mlspemhl801a"
+                        }
+                    },
+                    {
+                        "url": "https://ds2play.com/e/k1w94dm1pc1x",
+                        "quality": "Doodstream mirror",
+                        "videoUrl": "https://bb506hh.cloudatacdn.com/u5kj7c2smlclsdgge6d6wpkhl5qsgcfwevhnwblv3pzfpbygxaov6gcbze7a/st73avd1s6~32ooRN8xBt?token=iv2w84iina5gcfg66rz6q53k&expiry=1726641149213",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://ds2play.com/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=J0lyydq2g7Hed0&expires=1726711147&ip=GHEsDRqAKxSHDN&token=5Gu-lHWti0Co",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=J0lyydq2g7Hed0&expires=1726693762&ip=FROsE0MnDS9X&token=aQbIMZOEK9hZ"
-                    },
-                    {
-                        "url": "https://cdn2.turboviplay.com/data1/66e88ccf27c48/66e88ccf27c481080.m3u8",
-                        "quality": "EmTurboVid: 1080p",
-                        "videoUrl": "https://cdn2.turboviplay.com/data1/66e88ccf27c48/66e88ccf27c481080.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://emturbovid.com",
-                            "Referer": "https://emturbovid.com/t/66e88ccf27c48"
-                        }
-                    },
-                    {
-                        "url": "https://cdn2.turboviplay.com/data1/66e88ccf27c48/66e88ccf27c48480.m3u8",
-                        "quality": "EmTurboVid: 480p",
-                        "videoUrl": "https://cdn2.turboviplay.com/data1/66e88ccf27c48/66e88ccf27c48480.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://emturbovid.com",
-                            "Referer": "https://emturbovid.com/t/66e88ccf27c48"
-                        }
+                        "videoUrl": "https://streamtape.com/get_video?id=J0lyydq2g7Hed0&expires=1726711147&ip=GHEsDRqAKxSHDN&token=5Gu-lHWti0Co"
                     }
                 ],
                 "passed": true
