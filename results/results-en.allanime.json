@@ -22,24 +22,19 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170695-Nb1DIg7gIHCF.jpg"
                             },
                             {
-                                "url": "RZ8kKEvdYnFBZAQvj<&sep><&sep>tsue-to-tsurugi-no-wistoria",
-                                "title": "Tsue to Tsurugi no Wistoria",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174576-tpKcHG0eO6CS.jpg"
-                            },
-                            {
                                 "url": "XqKvkSEty5koms32i<&sep><&sep>bleach",
                                 "title": "Bleach",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-KxkqTIuQgJ6v.png"
                             },
                             {
+                                "url": "RZ8kKEvdYnFBZAQvj<&sep><&sep>tsue-to-tsurugi-no-wistoria",
+                                "title": "Tsue to Tsurugi no Wistoria",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174576-tpKcHG0eO6CS.jpg"
+                            },
+                            {
                                 "url": "iv4jDGx4DbuzXyM6J<&sep><&sep>tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
                                 "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162804-TBeptcAfvqTd.jpg"
-                            },
-                            {
-                                "url": "5QN3sznB2tFoR8zww<&sep><&sep>shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-",
-                                "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1007/141625.jpg"
                             },
                             {
                                 "url": "s6NHpcHusoPXMsMKh<&sep><&sep>hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
@@ -57,14 +52,19 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163139-JchZhUFlNTWU.jpg"
                             },
                             {
-                                "url": "gNqtezWx6oKaanQEm<&sep><&sep>isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
-                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171031-7RJll3TJnVFA.jpg"
+                                "url": "5QN3sznB2tFoR8zww<&sep><&sep>shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-",
+                                "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1007/141625.jpg"
                             },
                             {
                                 "url": "M3iES4TqWyp6YLPQJ<&sep><&sep>isekai-shikkaku",
                                 "title": "Isekai Shikkaku",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152137-DOCIkAiaWALu.jpg"
+                            },
+                            {
+                                "url": "gNqtezWx6oKaanQEm<&sep><&sep>isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
+                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171031-7RJll3TJnVFA.jpg"
                             },
                             {
                                 "url": "vbr4nDimxwKrNzbWg<&sep><&sep>kami-no-tou-ouji-no-kikan",
@@ -146,6 +146,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "zjHarwaPRswKAsR8M<&sep><&sep>tasuuketsu",
+                                "title": "Tasuuketsu",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174070-mrec0spMuATz.jpg"
+                            },
                             {
                                 "url": "M3iES4TqWyp6YLPQJ<&sep><&sep>isekai-shikkaku",
                                 "title": "Isekai Shikkaku",
@@ -270,11 +275,6 @@
                                 "url": "WyLENXHRBaWvwJbFL<&sep><&sep>xian-ni",
                                 "title": "Xian Ni",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137653-1wHbCVvABGOr.png"
-                            },
-                            {
-                                "url": "DWbjokKWfSwBgmBNN<&sep><&sep>f",
-                                "title": "F",
-                                "thumbnail_url": "https://gogocdn.net/cover/f.png"
                             }
                         ],
                         "hasNextPage": true
@@ -463,9 +463,9 @@
                         }
                     },
                     {
-                        "url": "https://www111.anicdnstream.info/videos/hls/Ycn8E_kH9OpidCJpPmuy6A/1726612212/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.1080.m3u8",
+                        "url": "https://www111.anicdnstream.info/videos/hls/jnV6OmGlKFi0u4-g8snelA/1726637746/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.1080.m3u8",
                         "quality": "1080p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www111.anicdnstream.info/videos/hls/Ycn8E_kH9OpidCJpPmuy6A/1726612212/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.1080.m3u8",
+                        "videoUrl": "https://www111.anicdnstream.info/videos/hls/jnV6OmGlKFi0u4-g8snelA/1726637746/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -487,9 +487,9 @@
                         }
                     },
                     {
-                        "url": "https://www111.anicdnstream.info/videos/hls/Ycn8E_kH9OpidCJpPmuy6A/1726612212/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.720.m3u8",
+                        "url": "https://www111.anicdnstream.info/videos/hls/jnV6OmGlKFi0u4-g8snelA/1726637746/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.720.m3u8",
                         "quality": "720p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www111.anicdnstream.info/videos/hls/Ycn8E_kH9OpidCJpPmuy6A/1726612212/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.720.m3u8",
+                        "videoUrl": "https://www111.anicdnstream.info/videos/hls/jnV6OmGlKFi0u4-g8snelA/1726637746/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.720.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -499,9 +499,9 @@
                         }
                     },
                     {
-                        "url": "https://www111.anicdnstream.info/videos/hls/Ycn8E_kH9OpidCJpPmuy6A/1726612212/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.480.m3u8",
+                        "url": "https://www111.anicdnstream.info/videos/hls/jnV6OmGlKFi0u4-g8snelA/1726637746/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.480.m3u8",
                         "quality": "480p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www111.anicdnstream.info/videos/hls/Ycn8E_kH9OpidCJpPmuy6A/1726612212/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.480.m3u8",
+                        "videoUrl": "https://www111.anicdnstream.info/videos/hls/jnV6OmGlKFi0u4-g8snelA/1726637746/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.480.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -511,9 +511,9 @@
                         }
                     },
                     {
-                        "url": "https://www111.anicdnstream.info/videos/hls/Ycn8E_kH9OpidCJpPmuy6A/1726612212/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.360.m3u8",
+                        "url": "https://www111.anicdnstream.info/videos/hls/jnV6OmGlKFi0u4-g8snelA/1726637746/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.360.m3u8",
                         "quality": "360p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www111.anicdnstream.info/videos/hls/Ycn8E_kH9OpidCJpPmuy6A/1726612212/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.360.m3u8",
+                        "videoUrl": "https://www111.anicdnstream.info/videos/hls/jnV6OmGlKFi0u4-g8snelA/1726637746/232931/0b594d900f47daabc194844092384914/ep.1119.1726367850.360.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -564,9 +564,9 @@
                         "videoUrl": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EQFC7y7q1GVPlNk_UtC35qQBH0AB_mao-W4e_my_g5l2Lw"
                     },
                     {
-                        "url": "https://a2.mp4upload.com:183/d/xwx6bgmoz3b4quuongraa2snk2j73o3qahkval7gip6lbn6pgpl5jfv2fs276idb2jt3fgpd/video.mp4",
+                        "url": "https://a2.mp4upload.com:183/d/xwx6bgmoz3b4quuongraa2snk2j73o3qahkval7gip6lbpieomvc52rkuicxrtdct65upqxa/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://a2.mp4upload.com:183/d/xwx6bgmoz3b4quuongraa2snk2j73o3qahkval7gip6lbn6pgpl5jfv2fs276idb2jt3fgpd/video.mp4",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwx6bgmoz3b4quuongraa2snk2j73o3qahkval7gip6lbpieomvc52rkuicxrtdct65upqxa/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"

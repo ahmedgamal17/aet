@@ -232,6 +232,16 @@
                                 "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/ctt8unxl8w4gy3l1724839709009/0"
                             },
                             {
+                                "url": "/api/DramaList/Drama/8389?isq=false",
+                                "title": "Brave Citizen",
+                                "thumbnail_url": "https://1.vikiplatform.com/c/40702c/bdcd7b41e1.jpg?x=b"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9534?isq=false",
+                                "title": "No.1 For You (Movie Version)",
+                                "thumbnail_url": "https://puui.wetvinfo.com/vcover_hz_pic/0/6w2lwpgotrzyg281698139936117/0"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/9356?isq=false",
                                 "title": "No Gain, No Love",
                                 "thumbnail_url": "https://image.tving.com/ntgs/contents/CTC/caip/CAIP1500/ko/20240807/0516/P001760073.jpg/dims/resize/1280"
@@ -405,16 +415,6 @@
                                 "url": "/api/DramaList/Drama/9279?isq=false",
                                 "title": "Good Partner",
                                 "thumbnail_url": "https://prod-images.viu.com/2667223572/64b3547fcdb29d464e39b6368e8208368cab56fd?im=Resize,width=1920"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9343?isq=false",
-                                "title": "Bad-Memory Eraser",
-                                "thumbnail_url": "https://image.tving.com/ntgs/contents/CTC/caip/CAIP1500/ko/20240723/0456/P001759523.jpg/dims/resize/1280"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9526?isq=false",
-                                "title": "The Crow (2024)",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/rxX4hQWJPG1SjuKY3OQtP6cPmXm.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -571,23 +571,23 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "file:///tmp/subs16394191468853230426srt",
+                                "url": "file:///tmp/subs18003757224743665836srt",
                                 "lang": "English"
                             },
                             {
-                                "url": "file:///tmp/subs15624211177055817951srt",
+                                "url": "file:///tmp/subs5820225308731515304srt",
                                 "lang": "Khmer"
                             },
                             {
-                                "url": "file:///tmp/subs6007968221811425624srt",
+                                "url": "file:///tmp/subs3958586954212053929srt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "file:///tmp/subs15021238873639539548srt",
+                                "url": "file:///tmp/subs18088535027204423366srt",
                                 "lang": "Indonesia"
                             },
                             {
-                                "url": "file:///tmp/subs15026933518277501731srt",
+                                "url": "file:///tmp/subs17075753041645980018srt",
                                 "lang": "Malay"
                             }
                         ]

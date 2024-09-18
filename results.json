@@ -1,7 +1,7 @@
 [
   {
     "pkg": "all.animeonsen",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.animeonsen.json"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "pkg": "all.sudatchi",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.sudatchi.json"
   },
   {
@@ -261,7 +261,7 @@
   },
   {
     "pkg": "en.edytjedhgmdhm",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.edytjedhgmdhm.json"
   },
   {
@@ -336,7 +336,7 @@
   },
   {
     "pkg": "en.luciferdonghua",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.luciferdonghua.json"
   },
   {
