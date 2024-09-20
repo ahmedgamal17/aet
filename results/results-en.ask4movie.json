@@ -3,23 +3,25 @@
         "name": "Ask4Movie (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketException: Network is unreachable",
-                "passed": false
+                "result": {
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketException: Network is unreachable",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "videos": {
