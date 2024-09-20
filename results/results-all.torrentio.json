@@ -52,7 +52,7 @@
                                 "artist": "Kirsten Dunst, Wagner Moura, Cailee Spaeny, Stephen McKinley Henderson",
                                 "author": "Alex Garland",
                                 "description": "A journey across a dystopian future America, following a team of military-embedded journalists as they race against time to reach DC before rebel factions descend upon the White House.",
-                                "genre": "Mystery & Thriller, Action & Adventure, War & Military, Drama",
+                                "genre": "Mystery & Thriller, Action & Adventure, Drama, War & Military",
                                 "thumbnail_url": "https://images.justwatch.com/poster/312434812/s276/civil-war-2024.webp",
                                 "initialized": true
                             },
@@ -232,7 +232,7 @@
                                 "artist": "Lily Collins, Philippine Leroy-Beaulieu, Ashley Park, Lucas Bravo",
                                 "author": "",
                                 "description": "A young American woman from the Midwest is hired by a marketing firm in Paris to provide them with an American perspective on things.",
-                                "genre": "Romance, Comedy, Drama",
+                                "genre": "Comedy, Drama, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/256492323/s276/emily-in-paris.webp",
                                 "initialized": true
                             },
@@ -252,7 +252,7 @@
                                 "artist": "Bill Skarsgård, Jessica Rothe, H. Jon Benjamin, Michelle Dockery",
                                 "author": "Moritz Mohr",
                                 "description": "A fever dream action film that follows Boy, a deaf person with a vibrant imagination. When his family is murdered, he is trained by a mysterious shaman to repress his childish imagination and become an instrument of death.",
-                                "genre": "Mystery & Thriller, Action & Adventure, Crime",
+                                "genre": "Action & Adventure, Crime, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/314376876/s276/boy-kills-world.webp",
                                 "initialized": true
                             },
@@ -302,7 +302,7 @@
                                 "artist": "Ryan Gosling, Emily Blunt, Aaron Taylor-Johnson, Hannah Waddingham",
                                 "author": "David Leitch",
                                 "description": "A down-and-out stuntman must find the missing star of his ex-girlfriend's blockbuster film.",
-                                "genre": "Drama, Romance, Action & Adventure, Comedy",
+                                "genre": "Action & Adventure, Comedy, Drama, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/313201926/s276/the-fall-guy-2024.webp",
                                 "initialized": true
                             },
@@ -332,7 +332,7 @@
                                 "artist": "Chris Harris, Paddy McGuinness, Andrew Flintoff",
                                 "author": "",
                                 "description": "This fast-paced and stunt-filled motor show tests whether cars, both mundane and extraordinary, live up to their manufacturers' claims. The long-running show travels to locations around the world, performing extreme stunts and challenges to see what the featured cars are capable of doing. The current hosts are Paddy Mcguinness, Chris Harris and Andrew \"Freddie\" Flintoff.",
-                                "genre": "Comedy, Action & Adventure, Reality TV, Sport, Made in Europe, Music & Musical",
+                                "genre": "Reality TV, Comedy, Action & Adventure, Sport, Made in Europe, Music & Musical",
                                 "thumbnail_url": "https://images.justwatch.com/poster/8607935/s276/top-gear.webp",
                                 "initialized": true
                             },
@@ -392,7 +392,7 @@
                                 "artist": "Don Johnson, Philip Michael Thomas, Saundra Santiago, Olivia Brown",
                                 "author": "",
                                 "description": "The story of the Miami Police Department's vice squad and its efforts to end drug trafficking and prostitution, centered on the unlikely partnership of Sonny Crockett and Ricardo Tubbs - who first meet when Tubbs is undercover in a drug cartel.",
-                                "genre": "Crime, Drama, Mystery & Thriller, Action & Adventure",
+                                "genre": "Crime, Drama, Action & Adventure, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/241661834/s276/miami-vice.webp",
                                 "initialized": true
                             },
@@ -432,7 +432,7 @@
                                 "artist": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
                                 "author": "Marc Forster",
                                 "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                "genre": "Mystery & Thriller, Action & Adventure, Horror, Science-Fiction",
+                                "genre": "Action & Adventure, Horror, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/291193041/s276/world-war-z-3d.webp",
                                 "initialized": true
                             },
@@ -479,8 +479,8 @@
                             {
                                 "url": "tt10519126,SHOW,/us/tv-show/world-war-two",
                                 "title": "World War Two",
-                                "artist": "Indy Neidell",
-                                "author": "Spartacus Olsson",
+                                "artist": "David Reynolds",
+                                "author": "",
                                 "description": "Follow the deadliest conflict in human history in real time, week by week, blow by blow.",
                                 "genre": "War & Military, Documentary, History, Made in Europe",
                                 "thumbnail_url": "https://images.justwatch.com/poster/104030004/s276/world-war-two.webp",
@@ -727,12 +727,22 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt0227972,SHOW,/us/tv-show/wwe-smackdown",
+                                "title": "WWE SmackDown",
+                                "artist": "Pat McAfee, Michael Coulthard",
+                                "author": "",
+                                "description": "The superstars of World Wrestling Entertainment's \"SmackDown\" brand collide each and every Friday on WWE Friday Night SmackDown.",
+                                "genre": "Reality TV, Action & Adventure, Sport",
+                                "thumbnail_url": "https://images.justwatch.com/poster/307077116/s276/wwe-smackdown.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt13923084,MOVIE,/us/movie/boy-kills-world",
                                 "title": "Boy Kills World",
                                 "artist": "Bill Skarsgård, Jessica Rothe, H. Jon Benjamin, Michelle Dockery",
                                 "author": "Moritz Mohr",
                                 "description": "A fever dream action film that follows Boy, a deaf person with a vibrant imagination. When his family is murdered, he is trained by a mysterious shaman to repress his childish imagination and become an instrument of death.",
-                                "genre": "Mystery & Thriller, Action & Adventure, Crime",
+                                "genre": "Action & Adventure, Crime, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/314376876/s276/boy-kills-world.webp",
                                 "initialized": true
                             },
@@ -757,13 +767,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0227972,SHOW,/us/tv-show/wwe-smackdown",
-                                "title": "WWE SmackDown",
-                                "artist": "Pat McAfee, Michael Coulthard",
+                                "url": "tt1831534,SHOW,/us/tv-show/the-world-wild-vet",
+                                "title": "The World Wild Vet",
+                                "artist": "Luke Gamble",
                                 "author": "",
-                                "description": "The superstars of World Wrestling Entertainment's \"SmackDown\" brand collide each and every Friday on WWE Friday Night SmackDown.",
-                                "genre": "Reality TV, Action & Adventure, Sport",
-                                "thumbnail_url": "https://images.justwatch.com/poster/307077116/s276/wwe-smackdown.webp",
+                                "description": "Vet Adventures takes viewers on a whirlwind trek across the globe as Luke Gamble, a vet from a small village in the south of England, ventures to places where animal welfare is low on the agenda and vets are often non-existent. While helping and saving as many animals as possible Luke immerses himself into the different cultures and traditions of each country he visits. With long hours, little sleep, life on the road to contend with and daily activities that involve anything from anesthetizing a leopard to educating local people about animal welfare issues, Luke takes everything in his stride. Building on Luke's charm, passion and enormous on-screen presence the stories will shock, appall and inspire the audience in equal measure as Luke travels across the open plains of Africa, the tropical rain-forests of South America and the mountains of Nepal. In each episode Luke deals with huge moral questions that will put his veterinary knowledge to the test, creating a series packed full of drama alongside aspirational stories of people who dedicate their lives to animal welfare and selflessly seek to better the natural world around them.",
+                                "genre": "Documentary, Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/139048664/s276/the-world-wild-vet.webp",
                                 "initialized": true
                             },
                             {
@@ -774,16 +784,6 @@
                                 "description": "Two hundred years after the construction of the great cathedral, the medieval town of Kingsbridge is  taken under siege by Queen Isabella. Caris, a visionary young woman, inspires her people to stand up for their rights and revolt against to the most powerful forces of her time, the Church and the Crown.",
                                 "genre": "Drama, Romance, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/112959698/s276/world-without-end.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt1831534,SHOW,/us/tv-show/the-world-wild-vet",
-                                "title": "The World Wild Vet",
-                                "artist": "Luke Gamble",
-                                "author": "",
-                                "description": "Vet Adventures takes viewers on a whirlwind trek across the globe as Luke Gamble, a vet from a small village in the south of England, ventures to places where animal welfare is low on the agenda and vets are often non-existent. While helping and saving as many animals as possible Luke immerses himself into the different cultures and traditions of each country he visits. With long hours, little sleep, life on the road to contend with and daily activities that involve anything from anesthetizing a leopard to educating local people about animal welfare issues, Luke takes everything in his stride. Building on Luke's charm, passion and enormous on-screen presence the stories will shock, appall and inspire the audience in equal measure as Luke travels across the open plains of Africa, the tropical rain-forests of South America and the mountains of Nepal. In each episode Luke deals with huge moral questions that will put his veterinary knowledge to the test, creating a series packed full of drama alongside aspirational stories of people who dedicate their lives to animal welfare and selflessly seek to better the natural world around them.",
-                                "genre": "Documentary, Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/139048664/s276/the-world-wild-vet.webp",
                                 "initialized": true
                             },
                             {
@@ -812,7 +812,7 @@
                                 "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
                                 "author": "Colin Trevorrow",
                                 "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
-                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
+                                "genre": "Science-Fiction, Action & Adventure, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
                                 "initialized": true
                             }
