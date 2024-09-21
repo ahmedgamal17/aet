@@ -7,8 +7,8 @@
                     {
                         "animes": [
                             {
-                                "url": "/ملكة-الأشرار/",
-                                "title": "ملكة الأشرار The Queen of Villains"
+                                "url": "/قاضية-من-الجحيم/",
+                                "title": "قاضية من الجحيم The Judge from Hell"
                             },
                             {
                                 "url": "/على-حافة-الحب/",
@@ -21,6 +21,10 @@
                             {
                                 "url": "/مدرسة×المليار/",
                                 "title": "مدرسة×المليار Billion x School"
+                            },
+                            {
+                                "url": "/ملكة-الأشرار/",
+                                "title": "ملكة الأشرار The Queen of Villains"
                             },
                             {
                                 "url": "/منتهكي-سيؤل/",
@@ -139,16 +143,16 @@
                                 "title": "فضيحة scandal"
                             },
                             {
+                                "url": "/الراكضة-اللطيفة/",
+                                "title": "الراكضة اللطيفة Lovely Runner"
+                            },
+                            {
                                 "url": "/تجرؤ-على-حبي/",
                                 "title": "تجرؤ على حبي Dare to Love Me"
                             },
                             {
                                 "url": "/رومانسية-منتصف-الليل-في-هاغوون/",
                                 "title": "رومانسية منتصف الليل في هاغوون The Midnight Romance In Hagwon"
-                            },
-                            {
-                                "url": "/الراكضة-اللطيفة/",
-                                "title": "الراكضة اللطيفة Lovely Runner"
                             },
                             {
                                 "url": "/إنها-مختلفة-ليلاً-ونهاراً/",
@@ -169,10 +173,6 @@
                             {
                                 "url": "/ليلة-الأحد،-على-الأقل…/",
                                 "title": "ليلة الأحد، على الأقل Nichiyo no Yoru Gurai wa"
-                            },
-                            {
-                                "url": "/تسلسل-هرمي/",
-                                "title": "تسلسل هرمي Hierarchy"
                             }
                         ],
                         "hasNextPage": true
@@ -280,67 +280,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/ملكة-الأشرار/",
-                    "title": "ملكة الأشرار The Queen of Villains",
-                    "description": "دومب ماتسوموتو هي مصارعة محترفة يابانية حققت شهرة كبيرة في الثمانينيات. كانت تحلم بأن تصبح مصارعة محترفة ناجحة وتلعب دور الشخصية الطيبة منذ صغرها. ومع ذلك، واجهت تحديات في بداية مسيرتها حيث تم فصلها من وظيفتها. Yuriyan-Retriever : في دور Dump Matsumoto Karata-Erika : في دور Nagayo Chigusa Gouriki-Ayame : في دور Lioness Asuka Sendo-Nobuko : في دور Matsumoto Satoko Otoo-Takuma : في دور Abe Shiro Kuroda-Daisuke : في دور Matsunaga",
-                    "genre": "اليابان, درامي, رياضي",
-                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/09/0wdbN4_4f.jpg",
+                    "url": "/قاضية-من-الجحيم/",
+                    "title": "قاضية من الجحيم The Judge from Hell",
+                    "description": "تدور أحداث الدراما حول قاضية نخبوية تدعى “كانج بيت نا” تتميز بالجمال ولكنها في الحقيقة شريرة. تكلفتها كشريرة هي قتل الناس الأشرار الذين يدفعون الآخرين للموت ولا يتحملون مسؤولية أفعالهم. في يوم من الأيام، تلتقي بالمحقق “هان دا أون” الذي يتمتع بشخصية لطيفة وودودة ولكنه يحمل ألما Park-Shin-Hye : في دور Kang Bit Na Kim-Jae-Young : في دور Han Da On Kim-In-Kwon : في دور Koo Man Do Kim-Hye-Hwa : في دور Kim So Yeong Lee-Joong-Ok : في دور Jae Hyun Choi-Dong-Goo : في دور Jung Sun Ho",
+                    "genre": "كوريا الجنوبية, جريمة, خيالي, درامي, رومانسي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/09/66d506225102364829203121-p.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ملكة-الأشرار-الحلقة-05-الأخيرة/",
-                        "name": "%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9 : الحلقة"
-                    },
-                    {
-                        "url": "/ملكة-الأشرار-الحلقة-04/",
-                        "name": "04 : الحلقة"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd358.mycdn.me/?expires=1726943447971&srcIp=172.183.98.197&pr=10&srcAg=GECKO&ms=45.136.21.73&type=5&sig=mgQyIId4R7s&ct=0&urls=45.136.20.50&clientType=0&zs=43&id=6932499073693",
-                        "quality": "Okru:1080p",
-                        "videoUrl": "https://vd358.mycdn.me/?expires=1726943447971&srcIp=172.183.98.197&pr=10&srcAg=GECKO&ms=45.136.21.73&type=5&sig=mgQyIId4R7s&ct=0&urls=45.136.20.50&clientType=0&zs=43&id=6932499073693"
-                    },
-                    {
-                        "url": "https://vd358.mycdn.me/?expires=1726943447971&srcIp=172.183.98.197&pr=10&srcAg=GECKO&ms=45.136.21.73&type=3&sig=SzNaD_ZLcLY&ct=0&urls=45.136.20.50&clientType=0&zs=43&id=6932499073693",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd358.mycdn.me/?expires=1726943447971&srcIp=172.183.98.197&pr=10&srcAg=GECKO&ms=45.136.21.73&type=3&sig=SzNaD_ZLcLY&ct=0&urls=45.136.20.50&clientType=0&zs=43&id=6932499073693"
-                    },
-                    {
-                        "url": "https://vd358.mycdn.me/?expires=1726943447971&srcIp=172.183.98.197&pr=10&srcAg=GECKO&ms=45.136.21.73&type=2&sig=UDQ1VJe1dSQ&ct=0&urls=45.136.20.50&clientType=0&zs=43&id=6932499073693",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd358.mycdn.me/?expires=1726943447971&srcIp=172.183.98.197&pr=10&srcAg=GECKO&ms=45.136.21.73&type=2&sig=UDQ1VJe1dSQ&ct=0&urls=45.136.20.50&clientType=0&zs=43&id=6932499073693"
-                    },
-                    {
-                        "url": "https://vd358.mycdn.me/?expires=1726943447971&srcIp=172.183.98.197&pr=10&srcAg=GECKO&ms=45.136.21.73&type=1&sig=V4gYsxP9oNw&ct=0&urls=45.136.20.50&clientType=0&zs=43&id=6932499073693",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd358.mycdn.me/?expires=1726943447971&srcIp=172.183.98.197&pr=10&srcAg=GECKO&ms=45.136.21.73&type=1&sig=V4gYsxP9oNw&ct=0&urls=45.136.20.50&clientType=0&zs=43&id=6932499073693"
-                    },
-                    {
-                        "url": "https://vd358.mycdn.me/?expires=1726943447971&srcIp=172.183.98.197&pr=10&srcAg=GECKO&ms=45.136.21.73&type=0&sig=tkML-ZYJS9g&ct=0&urls=45.136.20.50&clientType=0&zs=43&id=6932499073693",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd358.mycdn.me/?expires=1726943447971&srcIp=172.183.98.197&pr=10&srcAg=GECKO&ms=45.136.21.73&type=0&sig=tkML-ZYJS9g&ct=0&urls=45.136.20.50&clientType=0&zs=43&id=6932499073693"
-                    },
-                    {
-                        "url": "https://vd358.mycdn.me/?expires=1726943447971&srcIp=172.183.98.197&pr=10&srcAg=GECKO&ms=45.136.21.73&type=4&sig=SJwaIYgTbyw&ct=0&urls=45.136.20.50&clientType=0&zs=43&id=6932499073693",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd358.mycdn.me/?expires=1726943447971&srcIp=172.183.98.197&pr=10&srcAg=GECKO&ms=45.136.21.73&type=4&sig=SJwaIYgTbyw&ct=0&urls=45.136.20.50&clientType=0&zs=43&id=6932499073693"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=my47WRzoxzsbj2K&expires=1726927051&ip=F0qQKRWZD19XKxR&token=wFcqLBqt8MEq",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=my47WRzoxzsbj2K&expires=1726927051&ip=F0qQKRWZD19XKxR&token=wFcqLBqt8MEq"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
