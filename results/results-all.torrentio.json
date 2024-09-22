@@ -82,7 +82,7 @@
                                 "artist": "Kirsten Dunst, Wagner Moura, Cailee Spaeny, Stephen McKinley Henderson",
                                 "author": "Alex Garland",
                                 "description": "A journey across a dystopian future America, following a team of military-embedded journalists as they race against time to reach DC before rebel factions descend upon the White House.",
-                                "genre": "Mystery & Thriller, Action & Adventure, War & Military, Drama",
+                                "genre": "Action & Adventure, Mystery & Thriller, War & Military, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/312434812/s276/civil-war-2024.webp",
                                 "initialized": true
                             },
@@ -182,7 +182,7 @@
                                 "artist": "Demi Moore, Margaret Qualley, Dennis Quaid, Gore Abrams",
                                 "author": "Coralie Fargeat",
                                 "description": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-                                "genre": "Horror, Science-Fiction, Drama",
+                                "genre": "Science-Fiction, Drama, Horror",
                                 "thumbnail_url": "https://images.justwatch.com/poster/316017443/s276/the-substance.webp",
                                 "initialized": true
                             },
@@ -232,7 +232,7 @@
                                 "artist": "Hunter Schafer, Dan Stevens, Jessica Henwick, Marton Csokas",
                                 "author": "Tilman Singer",
                                 "description": "A 17-year-old girl is forced to move with her family to a resort where things are not what they seem.",
-                                "genre": "Mystery & Thriller, Horror, Science-Fiction",
+                                "genre": "Horror, Mystery & Thriller, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/313173304/s276/cuckoo-2024.webp",
                                 "initialized": true
                             },
@@ -352,7 +352,7 @@
                                 "artist": "Henry Cavill, Eiza González, Alan Ritchson, Henry Golding",
                                 "author": "Guy Ritchie",
                                 "description": "The British military recruits a small group of highly skilled soldiers to strike against German forces behind enemy lines during World War II.",
-                                "genre": "Action & Adventure, Comedy, War & Military",
+                                "genre": "War & Military, Action & Adventure, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/315856885/s276/the-ministry-of-ungentlemanly-warfare.webp",
                                 "initialized": true
                             },
@@ -367,6 +367,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt23730262,SHOW,/us/tv-show/how-to-die-alone",
+                                "title": "How to Die Alone",
+                                "artist": "Natasha Rothwell, Conrad Ricamora, Jocko Sims, KeiLyn Durrel Jones",
+                                "author": "",
+                                "description": "Mel is a broke, fat, Black JFK airport employee who's never been in love and forgotten how to dream, until an accidental brush with death catapults her on a journey to finally take flight and start living by any means necessary.",
+                                "genre": "Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320912504/s276/how-to-die-alone.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt2911666,MOVIE,/us/movie/john-wick",
                                 "title": "John Wick",
                                 "artist": "Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe",
@@ -374,16 +384,6 @@
                                 "description": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
                                 "genre": "Action & Adventure, Mystery & Thriller, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/188059074/s276/john-wick.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt23730262,SHOW,/us/tv-show/how-to-die-alone",
-                                "title": "How to Die Alone",
-                                "artist": "Natasha Rothwell, Conrad Ricamora, Jocko Sims, KeiLyn Durrel Jones",
-                                "author": "",
-                                "description": "Mel is a broke, fat, Black JFK airport employee who's never been in love and forgotten how to dream, until an accidental brush with death catapults her on a journey to finally take flight and start living by any means necessary.",
-                                "genre": "Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/320194070/s276/how-to-die-alone.webp",
                                 "initialized": true
                             },
                             {
@@ -607,16 +607,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt5874596,SHOW,/us/tv-show/world-of-winx",
-                                "title": "World of Winx",
-                                "artist": "Carole Baillien, Alice Ley, Esther Aflalo, Mélanie Dermont",
-                                "author": "",
-                                "description": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
-                                "genre": "Animation, Action & Adventure, Comedy, Kids & Family, Fantasy, Made in Europe",
-                                "thumbnail_url": "https://images.justwatch.com/poster/309927594/s276/world-of-winx.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt1262981,MOVIE,/us/movie/worlds-greatest-dad",
                                 "title": "World's Greatest Dad",
                                 "artist": "Robin Williams, Alexie Gilmore, Daryl Sabara, Evan Martin",
@@ -624,6 +614,16 @@
                                 "description": "In the wake of a freak accident, Lance suffers the worst tragedy and the greatest opportunity of his life. He is suddenly faced with the possibility of fame, fortune and popularity, if he can only live with the knowledge of how he got there.",
                                 "genre": "Drama, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/261334509/s276/worlds-greatest-dad.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt5874596,SHOW,/us/tv-show/world-of-winx",
+                                "title": "World of Winx",
+                                "artist": "Carole Baillien, Alice Ley, Esther Aflalo, Mélanie Dermont",
+                                "author": "",
+                                "description": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
+                                "genre": "Animation, Action & Adventure, Comedy, Kids & Family, Fantasy, Made in Europe",
+                                "thumbnail_url": "https://images.justwatch.com/poster/309927594/s276/world-of-winx.webp",
                                 "initialized": true
                             },
                             {
@@ -677,16 +677,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0783466,SHOW,/us/tv-show/worlds-most-extreme-homes",
-                                "title": "World's Most Extreme Homes",
-                                "artist": "Ruth England",
-                                "author": "",
-                                "description": "It may look weird to an onlooker but it's home, sweet, home to the owners of the most bizarre and unusual dwellings around the world.",
-                                "genre": "Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/138713147/s276/worlds-most-extreme-homes.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt6819736,SHOW,/us/tv-show/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us",
                                 "title": "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
                                 "artist": "Ryohei Arai, Azusa Tadokoro, Akari Uehara, Satomi Sato",
@@ -694,6 +684,16 @@
                                 "description": "The fleeting and sad story about little girls known as fairy weapons and an associate hero that survived. This is a world after it was attacked by unidentified monsters known as beasts and many of the species in the world, including humans, had been destroyed. The species that had managed to survived left the ground and were living on a floating island called Regal Ele. Willem Kmetsch wakes up above the clouds 500 years later and couldn’t protect the ones who he wanted to protect. Actually, he was living in despair because he was the only survivor.",
                                 "genre": "Science-Fiction, Action & Adventure, Drama, Fantasy, Romance, Animation",
                                 "thumbnail_url": "https://images.justwatch.com/poster/307402070/s276/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0783466,SHOW,/us/tv-show/worlds-most-extreme-homes",
+                                "title": "World's Most Extreme Homes",
+                                "artist": "Ruth England",
+                                "author": "",
+                                "description": "It may look weird to an onlooker but it's home, sweet, home to the owners of the most bizarre and unusual dwellings around the world.",
+                                "genre": "Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/138713147/s276/worlds-most-extreme-homes.webp",
                                 "initialized": true
                             },
                             {
@@ -727,33 +727,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0103520,SHOW,/us/tv-show/the-real-world",
-                                "title": "The Real World",
-                                "artist": "",
-                                "author": "",
-                                "description": "Each year, seven strangers in their twenties, from different backgrounds and countries, are chosen to come live together in a major city.",
-                                "genre": "Reality TV, Comedy, Drama",
-                                "thumbnail_url": "https://images.justwatch.com/poster/267056478/s276/the-real-world.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
                                 "title": "Jurassic World Dominion",
                                 "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
                                 "author": "Colin Trevorrow",
                                 "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
-                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
+                                "genre": "Science-Fiction, Action & Adventure, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
-                                "title": "The World Wars",
-                                "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
-                                "author": "John Ealer",
-                                "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
-                                "genre": "Documentary, War & Military, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/176468126/s276/the-world-wars.webp",
                                 "initialized": true
                             },
                             {
@@ -767,6 +747,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt0103520,SHOW,/us/tv-show/the-real-world",
+                                "title": "The Real World",
+                                "artist": "",
+                                "author": "",
+                                "description": "Each year, seven strangers in their twenties, from different backgrounds and countries, are chosen to come live together in a major city.",
+                                "genre": "Reality TV, Comedy, Drama",
+                                "thumbnail_url": "https://images.justwatch.com/poster/267056478/s276/the-real-world.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt1831534,SHOW,/us/tv-show/the-world-wild-vet",
                                 "title": "The World Wild Vet",
                                 "artist": "Luke Gamble",
@@ -774,6 +764,16 @@
                                 "description": "Vet Adventures takes viewers on a whirlwind trek across the globe as Luke Gamble, a vet from a small village in the south of England, ventures to places where animal welfare is low on the agenda and vets are often non-existent. While helping and saving as many animals as possible Luke immerses himself into the different cultures and traditions of each country he visits. With long hours, little sleep, life on the road to contend with and daily activities that involve anything from anesthetizing a leopard to educating local people about animal welfare issues, Luke takes everything in his stride. Building on Luke's charm, passion and enormous on-screen presence the stories will shock, appall and inspire the audience in equal measure as Luke travels across the open plains of Africa, the tropical rain-forests of South America and the mountains of Nepal. In each episode Luke deals with huge moral questions that will put his veterinary knowledge to the test, creating a series packed full of drama alongside aspirational stories of people who dedicate their lives to animal welfare and selflessly seek to better the natural world around them.",
                                 "genre": "Documentary, Reality TV",
                                 "thumbnail_url": "https://images.justwatch.com/poster/139048664/s276/the-world-wild-vet.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
+                                "title": "The World Wars",
+                                "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
+                                "author": "John Ealer",
+                                "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
+                                "genre": "Documentary, War & Military, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/176468126/s276/the-world-wars.webp",
                                 "initialized": true
                             },
                             {
@@ -807,13 +807,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": ",MOVIE,/us/movie/world-of-tomorrow",
-                                "title": "World of Tomorrow",
-                                "artist": "Julia Pott, Winona Mae, Sara Cushman",
-                                "author": "Don Hertzfeldt",
-                                "description": "A little girl is taken on a mind-bending tour of her distant future.",
-                                "genre": "Animation, Drama, Science-Fiction",
-                                "thumbnail_url": "https://images.justwatch.com/poster/247284109/s276/world-of-tomorrow.webp",
+                                "url": "tt9738716,MOVIE,/us/movie/the-world-to-come",
+                                "title": "The World to Come",
+                                "artist": "Katherine Waterston, Casey Affleck, Vanessa Kirby, Christopher Abbott",
+                                "author": "Mona Fastvold",
+                                "description": "In 1856, two women forge a close connection despite their isolation on the American frontier.",
+                                "genre": "Western, Romance, Drama, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/301898205/s276/the-world-to-come.webp",
                                 "initialized": true
                             }
                         ],
