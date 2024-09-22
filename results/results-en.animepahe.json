@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5495",
+                                "title": "Wonderful Precure!",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/36f26b446148972bb55ff5d174cf546c14e33087b2abfc6089e658ada42adaaf.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4756",
+                                "title": "Yu☆Gi☆Oh! Go Rush!!",
+                                "artist": "entameSubs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7397cf6dce68993c969ed21dd651ba427f992b76e766bc3da07df2e3be4e5f7e.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5550",
+                                "title": "Karasu wa Aruji wo Erabanai",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/93cb5e32e4a68b3e349d5aca4e83a19d8cbd188f3beb49cd230b6c8f0939a428.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5633",
                                 "title": "Make Heroine ga Oosugiru!",
                                 "artist": "SubsPlease",
@@ -59,24 +77,6 @@
                                 "title": "Madougushi Dahliya wa Utsumukanai",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/3f483f32362322386c3bf0f0820512073929d882a526a350108d61fcab815cce.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=3",
-                                "title": "Meitantei Conan",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/ee30ca0b5f1f6255cc6cc6c8715edacce1c4c534d902458215312bb9aa7555e3.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5509",
-                                "title": "Boku no Hero Academia 7th Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/567caf7d87eb3755a18e3279641ba035b4f09eed9927b637e678ab6cae89d78b.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5255",
-                                "title": "Pokemon (2023)",
-                                "artist": "Some-Stuffs",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f1bbb090f57b0fa584b7e38190f8221c34a7131f01e4daffc9516912c10f6fa8.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5495",
+                                "title": "Wonderful Precure!",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/36f26b446148972bb55ff5d174cf546c14e33087b2abfc6089e658ada42adaaf.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4756",
+                                "title": "Yu☆Gi☆Oh! Go Rush!!",
+                                "artist": "entameSubs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7397cf6dce68993c969ed21dd651ba427f992b76e766bc3da07df2e3be4e5f7e.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5550",
+                                "title": "Karasu wa Aruji wo Erabanai",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/93cb5e32e4a68b3e349d5aca4e83a19d8cbd188f3beb49cd230b6c8f0939a428.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5633",
                                 "title": "Make Heroine ga Oosugiru!",
                                 "artist": "SubsPlease",
@@ -141,24 +159,6 @@
                                 "title": "Madougushi Dahliya wa Utsumukanai",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/3f483f32362322386c3bf0f0820512073929d882a526a350108d61fcab815cce.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=3",
-                                "title": "Meitantei Conan",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/ee30ca0b5f1f6255cc6cc6c8715edacce1c4c534d902458215312bb9aa7555e3.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5509",
-                                "title": "Boku no Hero Academia 7th Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/567caf7d87eb3755a18e3279641ba035b4f09eed9927b637e678ab6cae89d78b.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5255",
-                                "title": "Pokemon (2023)",
-                                "artist": "Some-Stuffs",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f1bbb090f57b0fa584b7e38190f8221c34a7131f01e4daffc9516912c10f6fa8.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5633",
-                    "title": "Make Heroine ga Oosugiru!",
-                    "author": "A-1 Pictures",
-                    "description": "Despite not understanding much about fleeting teen romance, first-year high school student Kazuhiko Nukumizu still wonders how he would react if his life were to be turned into a love story. Regardless, as a self-proclaimed \"background character,\" Nukumizu is satisfied continuing his life as an introvert with a negligible social life. However, he suddenly finds himself too close to the spotlight when he witnesses his popular classmate Anna Yanami be rejected by her childhood friend in the middle of a family restaurant. While Nukumizu wishes he could just forget what he saw and move on, Anna ends up forcefully confiding herself in Nukumizu, lamenting her status as a childhood friend fated to have her beloved stolen. As he becomes dragged into Anna's situation, Nukumizu soon gets caught up in the relationship drama of two more girls: Lemon Yakishio, an outgoing member of the track and field club; and Chika Komari, a shy member of the literature club. Now thrust out of his comfort zone, Nukumizu finds himself a major character in the lives of too many losing heroines.\n\nSynonyms: Makeine",
-                    "genre": "Comedy, Romance",
+                    "url": "/anime/?anime_id=5495",
+                    "title": "Wonderful Precure!",
+                    "author": "Toei Animation",
+                    "description": "The Wonderful Precure! anime is set in Animal Town, a town where animals and people live together in harmony. Second-year junior high school student Iroha Inukai is best friends with her dog named Komugi. Out for a walk one day, Iroha and Komugi encounter a mysterious creature named Garugaru, who goes on a rampage in the city. Komugi suddenly transforms into a Pretty Cure named Cure Wonderful, to protect Iroha.",
+                    "genre": "Action, Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/667300854cb39d1e5980622a25b7eef2314ba964f2dbf1cacfd08341a5159db9.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/e60f5ac3e90f911c585fe4e4857542a4e84b20049189ff28603808d52ae88b0d.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/967821db-b144-5395-9420-39e555423fea/a646c490ce2a152ae7f969954378710dfd6f7dabeb06ee6c755f46ad31ac8d85",
-                        "name": "Episode 11",
-                        "date_upload": 1726938348000,
-                        "episode_number": 11.0
+                        "url": "/play/bc0fe322-b3af-d00b-57d9-726d4fc3a0cc/9ddb536bd9e0a4f468ff7c4b7cb6c03386a5dbbbed12058ce018c33f3d1a2d75",
+                        "name": "Episode 34",
+                        "date_upload": 1726968970000,
+                        "episode_number": 34.0
                     },
                     {
-                        "url": "/play/967821db-b144-5395-9420-39e555423fea/2b9298b05be13d07c2b96e23c6b26d6e9bd04e4af68a7378144666eda03b2462",
-                        "name": "Episode 10",
-                        "date_upload": 1726333522000,
-                        "episode_number": 10.0
+                        "url": "/play/bc0fe322-b3af-d00b-57d9-726d4fc3a0cc/62a82b65bb84eb0a47b2ba835dc7e983be9e2f1ecf963528bcf0a567627618b3",
+                        "name": "Episode 33",
+                        "date_upload": 1726364179000,
+                        "episode_number": 33.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/fbc3f507d65c94b50ce86f07b7ed57706473ea180820456a1dcc99ae5a97a0f5?file=AnimePahe_Make_Heroine_ga_Oosugiru_-_11_1080p_SubsPlease.mp4&token=_i8yNLZvwtwcn751y54tXw&expires=1726957721",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/fe36485a4298a4327a5c73f73d442363ab1d0c110a3e80005fc4b135a375a6fa?file=AnimePahe_Wonderful_Precure_-_34_1080p_SubsPlease.mp4&token=nQjAAstr8Dr_BoexZ2mvTg&expires=1726984352",
                         "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/fbc3f507d65c94b50ce86f07b7ed57706473ea180820456a1dcc99ae5a97a0f5?file=AnimePahe_Make_Heroine_ga_Oosugiru_-_11_1080p_SubsPlease.mp4&token=_i8yNLZvwtwcn751y54tXw&expires=1726957721"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/fe36485a4298a4327a5c73f73d442363ab1d0c110a3e80005fc4b135a375a6fa?file=AnimePahe_Wonderful_Precure_-_34_1080p_SubsPlease.mp4&token=nQjAAstr8Dr_BoexZ2mvTg&expires=1726984352"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/cc2401492053556ea22d259be6c3a1a26e56ac4fcb5f1336c68279d1001f9d15?file=AnimePahe_Make_Heroine_ga_Oosugiru_-_11_720p_SubsPlease.mp4&token=RAq6r6pKmhGBp0EwYigrXw&expires=1726957720",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/f38de3d55df2661ee6f87c5db645986af1867e57be230a28a16dd49a24f5b20d?file=AnimePahe_Wonderful_Precure_-_34_720p_SubsPlease.mp4&token=TBG9f5LLS5_ye1g5NAEM6g&expires=1726984350",
                         "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/cc2401492053556ea22d259be6c3a1a26e56ac4fcb5f1336c68279d1001f9d15?file=AnimePahe_Make_Heroine_ga_Oosugiru_-_11_720p_SubsPlease.mp4&token=RAq6r6pKmhGBp0EwYigrXw&expires=1726957720"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/f38de3d55df2661ee6f87c5db645986af1867e57be230a28a16dd49a24f5b20d?file=AnimePahe_Wonderful_Precure_-_34_720p_SubsPlease.mp4&token=TBG9f5LLS5_ye1g5NAEM6g&expires=1726984350"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/337399ea24a16c53b6978038247f87386e9d1b3b9d9843aa57b4982c1f47fded?file=AnimePahe_Make_Heroine_ga_Oosugiru_-_11_360p_SubsPlease.mp4&token=9oVxNck7WHdEi1vfVUVoqg&expires=1726957718",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/73fa70bb5d6cb1489c5939be62507c0ee3fa0b2c630d28a6ab7219510353fa49?file=AnimePahe_Wonderful_Precure_-_34_360p_SubsPlease.mp4&token=EpcHASrUizNROj_wCTtXcw&expires=1726984349",
                         "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/337399ea24a16c53b6978038247f87386e9d1b3b9d9843aa57b4982c1f47fded?file=AnimePahe_Make_Heroine_ga_Oosugiru_-_11_360p_SubsPlease.mp4&token=9oVxNck7WHdEi1vfVUVoqg&expires=1726957718"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/73fa70bb5d6cb1489c5939be62507c0ee3fa0b2c630d28a6ab7219510353fa49?file=AnimePahe_Wonderful_Precure_-_34_360p_SubsPlease.mp4&token=EpcHASrUizNROj_wCTtXcw&expires=1726984349"
                     }
                 ],
                 "passed": true
