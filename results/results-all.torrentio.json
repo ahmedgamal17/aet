@@ -62,7 +62,7 @@
                                 "artist": "Harold Perrineau, Catalina Sandino Moreno, Eion Bailey, Hannah Cheramy",
                                 "author": "",
                                 "description": "Unravel the mystery of a city in middle U.S.A. that imprisons everyone who enters. As the residents struggle to maintain a sense of normality and seek a way out, they must also survive the threats of the surrounding forest.",
-                                "genre": "Science-Fiction, Mystery & Thriller, Drama, Horror",
+                                "genre": "Horror, Science-Fiction, Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/304461294/s276/from.webp",
                                 "initialized": true
                             },
@@ -102,7 +102,7 @@
                                 "artist": "Kirsten Dunst, Wagner Moura, Cailee Spaeny, Stephen McKinley Henderson",
                                 "author": "Alex Garland",
                                 "description": "A journey across a dystopian future America, following a team of military-embedded journalists as they race against time to reach DC before rebel factions descend upon the White House.",
-                                "genre": "Action & Adventure, Mystery & Thriller, Drama, War & Military",
+                                "genre": "Action & Adventure, Mystery & Thriller, War & Military, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/312434812/s276/civil-war-2024.webp",
                                 "initialized": true
                             },
@@ -282,7 +282,7 @@
                                 "artist": "Jodie Foster, Kali Reis, Fiona Shaw, Finn Bennett",
                                 "author": "",
                                 "description": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
-                                "genre": "Mystery & Thriller, Drama, Crime",
+                                "genre": "Drama, Mystery & Thriller, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/310338924/s276/true-detective.webp",
                                 "initialized": true
                             },
@@ -312,7 +312,7 @@
                                 "artist": "Sylvia Hoeks, Stuart Martin, Pilou Asbæk, John Noble",
                                 "author": "",
                                 "description": "Animated series inspired by Norse Mythology. The Twilight of the Gods refers events that led to the destruction of Midgard and Asgard, then the death of most of the Æsir and Vanir gods in an ultimate battle against evil, the forces of nature and the Giants",
-                                "genre": "Action & Adventure, Fantasy, Animation, Science-Fiction",
+                                "genre": "Animation, Action & Adventure, Fantasy, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320744655/s276/twilight-of-the-gods.webp",
                                 "initialized": true
                             },
@@ -362,7 +362,7 @@
                                 "artist": "Justice Smith, Brigette Lundy-Paine, Ian Foreman, Helena Howard",
                                 "author": "Jane Schoenbrun",
                                 "description": "Teenager Owen is just trying to make it through life in the suburbs when his classmate Maddy introduces him to a mysterious late-night TV show — a vision of a supernatural world beneath their own. In the pale glow of the television, Owen’s view of reality begins to crack.",
-                                "genre": "Drama, Horror",
+                                "genre": "Horror, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/312293409/s276/i-saw-the-tv-glow.webp",
                                 "initialized": true
                             },
@@ -432,7 +432,7 @@
                                 "artist": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
                                 "author": "Marc Forster",
                                 "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                "genre": "Science-Fiction, Mystery & Thriller, Action & Adventure, Horror",
+                                "genre": "Mystery & Thriller, Action & Adventure, Horror, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/291193041/s276/world-war-z-3d.webp",
                                 "initialized": true
                             },
@@ -447,16 +447,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt1705814,SHOW,/us/tv-show/world-series-of-poker",
-                                "title": "World Series of Poker",
-                                "artist": "",
-                                "author": "",
-                                "description": "The World Series of Poker is a series of poker tournaments held annually in Las Vegas and, since 2004, sponsored by Caesars Entertainment Corporation. It dates its origins to 1970, when Benny Binion invited seven of the best-known poker players to the Horseshoe Casino for a single tournament, with a set start and stop time, and a winner determined by a secret ballot of the seven players.",
-                                "genre": "Sport, Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/320489787/s276/world-series-of-poker.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0363391,SHOW,/us/tv-show/world-poker-tour",
                                 "title": "World Poker Tour",
                                 "artist": "",
@@ -464,6 +454,16 @@
                                 "description": "Poker players from around the world compete for large cash prizes",
                                 "genre": "Reality TV",
                                 "thumbnail_url": "https://images.justwatch.com/poster/262158762/s276/world-poker-tour.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt1705814,SHOW,/us/tv-show/world-series-of-poker",
+                                "title": "World Series of Poker",
+                                "artist": "",
+                                "author": "",
+                                "description": "The World Series of Poker is a series of poker tournaments held annually in Las Vegas and, since 2004, sponsored by Caesars Entertainment Corporation. It dates its origins to 1970, when Benny Binion invited seven of the best-known poker players to the Horseshoe Casino for a single tournament, with a set start and stop time, and a winner determined by a secret ballot of the seven players.",
+                                "genre": "Sport, Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320489787/s276/world-series-of-poker.webp",
                                 "initialized": true
                             },
                             {
@@ -607,16 +607,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt5874596,SHOW,/us/tv-show/world-of-winx",
-                                "title": "World of Winx",
-                                "artist": "Carole Baillien, Alice Ley, Esther Aflalo, Mélanie Dermont",
-                                "author": "",
-                                "description": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
-                                "genre": "Animation, Action & Adventure, Comedy, Kids & Family, Fantasy, Made in Europe",
-                                "thumbnail_url": "https://images.justwatch.com/poster/309927594/s276/world-of-winx.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
                                 "title": "World's End Harem",
                                 "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
@@ -624,6 +614,16 @@
                                 "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
                                 "genre": "Mystery & Thriller, Animation, Drama, Science-Fiction, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/249969107/s276/worlds-end-harem.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt5874596,SHOW,/us/tv-show/world-of-winx",
+                                "title": "World of Winx",
+                                "artist": "Carole Baillien, Alice Ley, Esther Aflalo, Mélanie Dermont",
+                                "author": "",
+                                "description": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
+                                "genre": "Animation, Action & Adventure, Fantasy, Comedy, Kids & Family, Made in Europe",
+                                "thumbnail_url": "https://images.justwatch.com/poster/309927594/s276/world-of-winx.webp",
                                 "initialized": true
                             },
                             {
@@ -677,16 +677,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0783466,SHOW,/us/tv-show/worlds-most-extreme-homes",
-                                "title": "World's Most Extreme Homes",
-                                "artist": "Ruth England",
-                                "author": "",
-                                "description": "It may look weird to an onlooker but it's home, sweet, home to the owners of the most bizarre and unusual dwellings around the world.",
-                                "genre": "Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/138713147/s276/worlds-most-extreme-homes.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt6819736,SHOW,/us/tv-show/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us",
                                 "title": "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
                                 "artist": "Ryohei Arai, Azusa Tadokoro, Akari Uehara, Satomi Sato",
@@ -694,6 +684,16 @@
                                 "description": "The fleeting and sad story about little girls known as fairy weapons and an associate hero that survived. This is a world after it was attacked by unidentified monsters known as beasts and many of the species in the world, including humans, had been destroyed. The species that had managed to survived left the ground and were living on a floating island called Regal Ele. Willem Kmetsch wakes up above the clouds 500 years later and couldn’t protect the ones who he wanted to protect. Actually, he was living in despair because he was the only survivor.",
                                 "genre": "Action & Adventure, Science-Fiction, Animation, Drama, Fantasy, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/307402070/s276/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0783466,SHOW,/us/tv-show/worlds-most-extreme-homes",
+                                "title": "World's Most Extreme Homes",
+                                "artist": "Ruth England",
+                                "author": "",
+                                "description": "It may look weird to an onlooker but it's home, sweet, home to the owners of the most bizarre and unusual dwellings around the world.",
+                                "genre": "Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/138713147/s276/worlds-most-extreme-homes.webp",
                                 "initialized": true
                             },
                             {
@@ -727,13 +727,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0070904,SHOW,/us/tv-show/world-on-a-wire",
-                                "title": "World on a Wire",
-                                "artist": "Klaus Löwitsch, Mascha Rabben, Karl-Heinz Vosgerau, Adrian Hoven",
-                                "author": "",
-                                "description": "Cybernetics engineer Fred Stiller uncovers a massive corporate conspiracy involving a virtual reality computer project.",
-                                "genre": "Science-Fiction, Crime",
-                                "thumbnail_url": "https://images.justwatch.com/poster/248776527/s276/world-on-a-wire.webp",
+                                "url": "tt0084917,MOVIE,/us/movie/the-world-according-to-garp",
+                                "title": "The World According to Garp",
+                                "artist": "Robin Williams, Mary Beth Hurt, Glenn Close, John Lithgow",
+                                "author": "George Roy Hill",
+                                "description": "A struggling young writer finds his life and work dominated by his unfaithful wife and his radical feminist mother, whose best-selling manifesto turns her into a cultural icon.",
+                                "genre": "Drama, Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/259911994/s276/the-world-according-to-garp.webp",
                                 "initialized": true
                             },
                             {
@@ -744,6 +744,16 @@
                                 "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
                                 "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0070904,SHOW,/us/tv-show/world-on-a-wire",
+                                "title": "World on a Wire",
+                                "artist": "Klaus Löwitsch, Mascha Rabben, Karl-Heinz Vosgerau, Adrian Hoven",
+                                "author": "",
+                                "description": "Cybernetics engineer Fred Stiller uncovers a massive corporate conspiracy involving a virtual reality computer project.",
+                                "genre": "Science-Fiction, Crime",
+                                "thumbnail_url": "https://images.justwatch.com/poster/248776527/s276/world-on-a-wire.webp",
                                 "initialized": true
                             },
                             {
@@ -784,16 +794,6 @@
                                 "description": "An American reality TV series that deals with police videos from across the world. Video footage of car chases, subsequent arrests, robberies, riots and other crimes appears on the show.",
                                 "genre": "Action & Adventure, Comedy, Crime, Reality TV, Documentary",
                                 "thumbnail_url": "https://images.justwatch.com/poster/177620157/s276/worlds-wildest-police-videos.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt0084917,MOVIE,/us/movie/the-world-according-to-garp",
-                                "title": "The World According to Garp",
-                                "artist": "Robin Williams, Mary Beth Hurt, Glenn Close, John Lithgow",
-                                "author": "George Roy Hill",
-                                "description": "A struggling young writer finds his life and work dominated by his unfaithful wife and his radical feminist mother, whose best-selling manifesto turns her into a cultural icon.",
-                                "genre": "Drama, Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/259911994/s276/the-world-according-to-garp.webp",
                                 "initialized": true
                             },
                             {
