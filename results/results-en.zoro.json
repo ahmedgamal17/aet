@@ -167,14 +167,14 @@
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/463d27f4c66bc7763a0fcfc952df2299.jpg"
                             },
                             {
-                                "url": "/fairy-tail-930",
-                                "title": "Fairy Tail",
-                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ccbc20fd8ddf9b2000bf23894a787436.jpg"
-                            },
-                            {
                                 "url": "/my-hero-academia-season-7-19146",
                                 "title": "Boku no Hero Academia 7th Season",
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af4938d7388aad3438e443e74b02531e.jpg"
+                            },
+                            {
+                                "url": "/fairy-tail-930",
+                                "title": "Fairy Tail",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ccbc20fd8ddf9b2000bf23894a787436.jpg"
                             },
                             {
                                 "url": "/my-star-18330",
@@ -557,11 +557,6 @@
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09f07b5b13fb0cfe9f36aa1340bc911d.jpg"
                             },
                             {
-                                "url": "/shinkalion-change-the-world-19150?ref=search",
-                                "title": "Shinkalion: Change the World",
-                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/320764accaec6ce29c0d40cc7b079fa6.jpg"
-                            },
-                            {
                                 "url": "/mushoku-tensei-jobless-reincarnation-season-2-part-2-19147?ref=search",
                                 "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66a0da3af056880ef24fe6c866078b96.jpg"
@@ -605,6 +600,11 @@
                                 "url": "/why-does-nobody-remember-me-in-this-world-19240?ref=search",
                                 "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
                                 "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97c89c46e8abb9654a6aeeb0217d63f4.jpg"
+                            },
+                            {
+                                "url": "/i-parry-everything-19229?ref=search",
+                                "title": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+                                "thumbnail_url": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/009a25ddb8db9e068e16effd7e93f30e.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -694,9 +694,9 @@
                         ]
                     },
                     {
-                        "url": "https://eb.netmagcdn.com:2228/hls-playback/e76b51601b1ecd98df63d0d56339457c20def7e7b1ba499e19fd5565799a7a70a72f9f899da261b4f842f6a3eeca6f74b0446d4da184cc1c2a558246c2edc3645c74bc57106c77009ed44e5677f670d116a67cd4bd50a523f8a373dec509d9d2e1468b18a5567e6038c8bd877167e49f216992314e865e2b22036e736d853d8e1e6eea3d1413b0a2e3d412cb2b3c4fa6/index-f1-v1-a1.m3u8",
+                        "url": "https://ea.netmagcdn.com:2228/hls-playback/e76b51601b1ecd98df63d0d56339457c20def7e7b1ba499e19fd5565799a7a70a72f9f899da261b4f842f6a3eeca6f74fbd9bd6427de9f2df3e910687edf1e5f6b8f0ceb26c916ae88e49fb31c693f521af4734d2eb4d548f81f409224b84963ea5a9956d01070ff1044c54a9118435d25e1fecd2d8befa42353cc88dcf18ce41486001209f48f0bf4dc3b6f48c70c2e/index-f1-v1-a1.m3u8",
                         "quality": "HD-2 - 1080p - sub",
-                        "videoUrl": "https://eb.netmagcdn.com:2228/hls-playback/e76b51601b1ecd98df63d0d56339457c20def7e7b1ba499e19fd5565799a7a70a72f9f899da261b4f842f6a3eeca6f74b0446d4da184cc1c2a558246c2edc3645c74bc57106c77009ed44e5677f670d116a67cd4bd50a523f8a373dec509d9d2e1468b18a5567e6038c8bd877167e49f216992314e865e2b22036e736d853d8e1e6eea3d1413b0a2e3d412cb2b3c4fa6/index-f1-v1-a1.m3u8",
+                        "videoUrl": "https://ea.netmagcdn.com:2228/hls-playback/e76b51601b1ecd98df63d0d56339457c20def7e7b1ba499e19fd5565799a7a70a72f9f899da261b4f842f6a3eeca6f74fbd9bd6427de9f2df3e910687edf1e5f6b8f0ceb26c916ae88e49fb31c693f521af4734d2eb4d548f81f409224b84963ea5a9956d01070ff1044c54a9118435d25e1fecd2d8befa42353cc88dcf18ce41486001209f48f0bf4dc3b6f48c70c2e/index-f1-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -711,9 +711,9 @@
                         ]
                     },
                     {
-                        "url": "https://eb.netmagcdn.com:2228/hls-playback/e76b51601b1ecd98df63d0d56339457c20def7e7b1ba499e19fd5565799a7a70a72f9f899da261b4f842f6a3eeca6f74b0446d4da184cc1c2a558246c2edc3645c74bc57106c77009ed44e5677f670d116a67cd4bd50a523f8a373dec509d9d2e1468b18a5567e6038c8bd877167e49f216992314e865e2b22036e736d853d8e1e6eea3d1413b0a2e3d412cb2b3c4fa6/index-f2-v1-a1.m3u8",
+                        "url": "https://ea.netmagcdn.com:2228/hls-playback/e76b51601b1ecd98df63d0d56339457c20def7e7b1ba499e19fd5565799a7a70a72f9f899da261b4f842f6a3eeca6f74fbd9bd6427de9f2df3e910687edf1e5f6b8f0ceb26c916ae88e49fb31c693f521af4734d2eb4d548f81f409224b84963ea5a9956d01070ff1044c54a9118435d25e1fecd2d8befa42353cc88dcf18ce41486001209f48f0bf4dc3b6f48c70c2e/index-f2-v1-a1.m3u8",
                         "quality": "HD-2 - 720p - sub",
-                        "videoUrl": "https://eb.netmagcdn.com:2228/hls-playback/e76b51601b1ecd98df63d0d56339457c20def7e7b1ba499e19fd5565799a7a70a72f9f899da261b4f842f6a3eeca6f74b0446d4da184cc1c2a558246c2edc3645c74bc57106c77009ed44e5677f670d116a67cd4bd50a523f8a373dec509d9d2e1468b18a5567e6038c8bd877167e49f216992314e865e2b22036e736d853d8e1e6eea3d1413b0a2e3d412cb2b3c4fa6/index-f2-v1-a1.m3u8",
+                        "videoUrl": "https://ea.netmagcdn.com:2228/hls-playback/e76b51601b1ecd98df63d0d56339457c20def7e7b1ba499e19fd5565799a7a70a72f9f899da261b4f842f6a3eeca6f74fbd9bd6427de9f2df3e910687edf1e5f6b8f0ceb26c916ae88e49fb31c693f521af4734d2eb4d548f81f409224b84963ea5a9956d01070ff1044c54a9118435d25e1fecd2d8befa42353cc88dcf18ce41486001209f48f0bf4dc3b6f48c70c2e/index-f2-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -728,9 +728,9 @@
                         ]
                     },
                     {
-                        "url": "https://eb.netmagcdn.com:2228/hls-playback/e76b51601b1ecd98df63d0d56339457c20def7e7b1ba499e19fd5565799a7a70a72f9f899da261b4f842f6a3eeca6f74b0446d4da184cc1c2a558246c2edc3645c74bc57106c77009ed44e5677f670d116a67cd4bd50a523f8a373dec509d9d2e1468b18a5567e6038c8bd877167e49f216992314e865e2b22036e736d853d8e1e6eea3d1413b0a2e3d412cb2b3c4fa6/index-f3-v1-a1.m3u8",
+                        "url": "https://ea.netmagcdn.com:2228/hls-playback/e76b51601b1ecd98df63d0d56339457c20def7e7b1ba499e19fd5565799a7a70a72f9f899da261b4f842f6a3eeca6f74fbd9bd6427de9f2df3e910687edf1e5f6b8f0ceb26c916ae88e49fb31c693f521af4734d2eb4d548f81f409224b84963ea5a9956d01070ff1044c54a9118435d25e1fecd2d8befa42353cc88dcf18ce41486001209f48f0bf4dc3b6f48c70c2e/index-f3-v1-a1.m3u8",
                         "quality": "HD-2 - 360p - sub",
-                        "videoUrl": "https://eb.netmagcdn.com:2228/hls-playback/e76b51601b1ecd98df63d0d56339457c20def7e7b1ba499e19fd5565799a7a70a72f9f899da261b4f842f6a3eeca6f74b0446d4da184cc1c2a558246c2edc3645c74bc57106c77009ed44e5677f670d116a67cd4bd50a523f8a373dec509d9d2e1468b18a5567e6038c8bd877167e49f216992314e865e2b22036e736d853d8e1e6eea3d1413b0a2e3d412cb2b3c4fa6/index-f3-v1-a1.m3u8",
+                        "videoUrl": "https://ea.netmagcdn.com:2228/hls-playback/e76b51601b1ecd98df63d0d56339457c20def7e7b1ba499e19fd5565799a7a70a72f9f899da261b4f842f6a3eeca6f74fbd9bd6427de9f2df3e910687edf1e5f6b8f0ceb26c916ae88e49fb31c693f521af4734d2eb4d548f81f409224b84963ea5a9956d01070ff1044c54a9118435d25e1fecd2d8befa42353cc88dcf18ce41486001209f48f0bf4dc3b6f48c70c2e/index-f3-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
