@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/jv-the-extraordinary-adventures-of-jules-verne",
+                                "title": "JV: The Extraordinary Adventures of Jules Verne",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933725.jpg"
+                            },
+                            {
                                 "url": "/anime/universal-basic-guys",
                                 "title": "Universal Basic Guys",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933724.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/yeosin-gangnim",
                                 "title": "Yeosin Gangnim",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933695.jpg"
-                            },
-                            {
-                                "url": "/anime/delicos-nursery-english-subbed",
-                                "title": "Delico's Nursery English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933694.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/universal-basic-guys",
-                    "title": "Universal Basic Guys",
-                    "description": "Brothers Mark and Hank Hoagies suddenly find themselves without a job, when the Glantontown Hot Dog factory switches over to automation. But they are lucky enough, because they will be part of a new Universal Basic Income program.",
-                    "genre": "Adult animation, Animated sitcom, Animation, Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933724.jpg",
+                    "url": "/anime/jv-the-extraordinary-adventures-of-jules-verne",
+                    "title": "JV: The Extraordinary Adventures of Jules Verne",
+                    "description": "Young Jules Verne is a fair and ordinary teenager his age studying to be a lawyer, but he finds his own life so boring that he wants to find adventure, that is, to be part of something bigger.",
+                    "genre": "Adventure, Animation, Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933725.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,14 +616,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/universal-basic-guys-episode-3-the-devil-you-know",
-                        "name": "Season 1 - Episode 3",
-                        "episode_number": 103.0
+                        "url": "/jv-the-extraordinary-adventures-of-jules-verne-episode-26-steel-city-part-2",
+                        "name": "Season 1 - Episode 26",
+                        "episode_number": 126.0
                     },
                     {
-                        "url": "/universal-basic-guys-episode-2-sunset-cruise",
-                        "name": "Season 1 - Episode 2",
-                        "episode_number": 102.0
+                        "url": "/jv-the-extraordinary-adventures-of-jules-verne-episode-25-steel-city-part-1",
+                        "name": "Season 1 - Episode 25",
+                        "episode_number": 125.0
                     }
                 ],
                 "passed": true
@@ -631,19 +631,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvam1np12_1oMhwqepkfEk2sLF1EIGXKmwK_RWgOdnMfvjrdBKeD0qWd70p4lW7bQOD0QEKzI4Y4aTCEp5AbaeShzOgmKpgc9wOPfaPgWeTPb3W0sx-g3MJCEyEXmQAvVnX5kpvWSU6ceQwNpQGBALBgWb89Sh5u7uf5ruPh4QyTSVBMsmC7AEXTClzTKEb0FI8WAEEB19jRvS7xy54lfKg5i6ApvJYCUx_7ML4GmOc4LvGv0U58uIr9PplfS7K4Hn7sUvQlOjQvXG9SDPsiShmJdi8H49uOkLWyvTyZOJozqj2ozUb7SGQTm1pVrgI_oZqRY9H0jCvstSmw5T_DMVoD8j2XVePcwZYbRLUcl4MX_OdcXAbCZaSH-saTlVf1dg",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJ-iNuZIcSWEsv2SoHSvPA72onSO8gpg88nAlCjGbu-2hfLloU0mNSrTH4kn0Sd8CqNagn17IQQgx7u99oPgQ-7EviF0YvTDngBzc2nrssopotnhl-HJRYgXGei2OyJh22rce2We8WuE-cjfy4Pi6leOZdoRrOlA_MJzgRfyDm1O0pVBG7rCjBOZWsLr6Lvw0JcLPz5FPv0axRsAr1H75m6KgE83ZxdMPO98xjNGqYHV7G9ygXcG-NQAun8ojhiHuFSJdNFAanWe7KzEKLFllwSC9Cr2oISilylD3ZWEjH9ubiJI_V1MFEIFuXztzlX2jeVhSdVnY_fRdrBag_3MDq0mPKKqYiYueDPGw_oC_GqHu6ao0bz-t9cVSWGToAY_nHJF9_JCh1Rx9GIE2vfq5xRBXpuSFFJWPszELLOBxhfD_skxofxQfytTVQbSjkNJQrtpGALJz3JvI1_L01ZgHY",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvam1np12_1oMhwqepkfEk2sLF1EIGXKmwK_RWgOdnMfvjrdBKeD0qWd70p4lW7bQOD0QEKzI4Y4aTCEp5AbaeShzOgmKpgc9wOPfaPgWeTPb3W0sx-g3MJCEyEXmQAvVnX5kpvWSU6ceQwNpQGBALBgWb89Sh5u7uf5ruPh4QyTSVBMsmC7AEXTClzTKEb0FI8WAEEB19jRvS7xy54lfKg5i6ApvJYCUx_7ML4GmOc4LvGv0U58uIr9PplfS7K4Hn7sUvQlOjQvXG9SDPsiShmJdi8H49uOkLWyvTyZOJozqj2ozUb7SGQTm1pVrgI_oZqRY9H0jCvstSmw5T_DMVoD8j2XVePcwZYbRLUcl4MX_OdcXAbCZaSH-saTlVf1dg"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJ-iNuZIcSWEsv2SoHSvPA72onSO8gpg88nAlCjGbu-2hfLloU0mNSrTH4kn0Sd8CqNagn17IQQgx7u99oPgQ-7EviF0YvTDngBzc2nrssopotnhl-HJRYgXGei2OyJh22rce2We8WuE-cjfy4Pi6leOZdoRrOlA_MJzgRfyDm1O0pVBG7rCjBOZWsLr6Lvw0JcLPz5FPv0axRsAr1H75m6KgE83ZxdMPO98xjNGqYHV7G9ygXcG-NQAun8ojhiHuFSJdNFAanWe7KzEKLFllwSC9Cr2oISilylD3ZWEjH9ubiJI_V1MFEIFuXztzlX2jeVhSdVnY_fRdrBag_3MDq0mPKKqYiYueDPGw_oC_GqHu6ao0bz-t9cVSWGToAY_nHJF9_JCh1Rx9GIE2vfq5xRBXpuSFFJWPszELLOBxhfD_skxofxQfytTVQbSjkNJQrtpGALJz3JvI1_L01ZgHY"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvam1np12_1oMhwqepkfEk2sLF1EIGXKmwK_RWgOdnMfvjrdBKeD0qWd70p4lW7bQOD0QEKzI4Y4aTCEp5AbaeR_TYBvJ_pnz1IVqEKRwkSvOiAHNakvJgTPi9ZdavMSQGEQx4EJseejmFBY41kifwSiFTMLdReQTW7P8ptEmGLVLZe1CzXzJHB4xInB3hPZhgNJeU6zeG2X7RedzBt5rKOvAv0pvKlMo5Ku3Zpklf-0UWXtx418o8GxsXuC5NIYp5IMx_22MYdOEvhQRe9V-CUvclfKJ5gQ84EcmYabdwbd_tDblUo_8-4UsiUDbK4wx2VAdMmLoyboz7Mf0h4LozLrueGeX9kUlCArjvmGcQgR4uRAeRAzjREEY25qqY1JGg",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJ-iNuZIcSWEsv2SoHSvPA72onSO8gpg88nAlCjGbu-2hfLloU0mNSrTH4kn0Sd8CqNagn17IQQgx7u99oPgQ-7EviF0YvTDngBzc2nrssopotnhl-HJRYgXGei2OyJh22rce2We8WuE-cjfy4Pi6leOZdoRrOlA_MJzgRfyDm1O0pVBG7rCjBOZWsLr6Lvw0fvu3FAEsTgs8_QE8FjqjyF7oE3msZGcau0NXriMMZGhZIV5WXkJV1OjaS3QLYr0ZKfwJjVAgsB4KGAzAVLSocgzgQFYKV6blfWg6UY3Z_6XjNB7Mitgh5iWLdduOJkUCpnqOxTFwsWcvglm2DzUtMd6YztKK7SAsq6-T3M0B4ojVui2p4NO8auFXM9HBqvU_NDrWdiC64ufQlYNaWE8la92q0T_LiPFzL2yq-vmZDdp-_yjDpIlitsrlR2J8xEU10_-wY1jvun22Os_VBLYqo",
                         "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvam1np12_1oMhwqepkfEk2sLF1EIGXKmwK_RWgOdnMfvjrdBKeD0qWd70p4lW7bQOD0QEKzI4Y4aTCEp5AbaeR_TYBvJ_pnz1IVqEKRwkSvOiAHNakvJgTPi9ZdavMSQGEQx4EJseejmFBY41kifwSiFTMLdReQTW7P8ptEmGLVLZe1CzXzJHB4xInB3hPZhgNJeU6zeG2X7RedzBt5rKOvAv0pvKlMo5Ku3Zpklf-0UWXtx418o8GxsXuC5NIYp5IMx_22MYdOEvhQRe9V-CUvclfKJ5gQ84EcmYabdwbd_tDblUo_8-4UsiUDbK4wx2VAdMmLoyboz7Mf0h4LozLrueGeX9kUlCArjvmGcQgR4uRAeRAzjREEY25qqY1JGg"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJ-iNuZIcSWEsv2SoHSvPA72onSO8gpg88nAlCjGbu-2hfLloU0mNSrTH4kn0Sd8CqNagn17IQQgx7u99oPgQ-7EviF0YvTDngBzc2nrssopotnhl-HJRYgXGei2OyJh22rce2We8WuE-cjfy4Pi6leOZdoRrOlA_MJzgRfyDm1O0pVBG7rCjBOZWsLr6Lvw0fvu3FAEsTgs8_QE8FjqjyF7oE3msZGcau0NXriMMZGhZIV5WXkJV1OjaS3QLYr0ZKfwJjVAgsB4KGAzAVLSocgzgQFYKV6blfWg6UY3Z_6XjNB7Mitgh5iWLdduOJkUCpnqOxTFwsWcvglm2DzUtMd6YztKK7SAsq6-T3M0B4ojVui2p4NO8auFXM9HBqvU_NDrWdiC64ufQlYNaWE8la92q0T_LiPFzL2yq-vmZDdp-_yjDpIlitsrlR2J8xEU10_-wY1jvun22Os_VBLYqo"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvam1np12_1oMhwqepkfEk2sLF1EIGXKmwK_RWgOdnMfvjrdBKeD0qWd70p4lW7bQOD0QEKzI4Y4aTCEp5AbaeS_LTE0j5fYSvFPZDlAOfLf58J5E8oKzqnUczhSVT8TLr9celYBVqmWGsN7W8XR9bRkTQFtL0nAp6TuC_rRDcxzjf6DaagjfuNlixwZDKLueSoWkq5fHl2AYO1357GUCxdDa-8hQI7jLDXfz7vAsPXOPE9ejIg1MAHEzcC8qZOmpywdIRdkoanjHKZ-GvlhxSEHM98bxS5M1dlSrxeLFGvKoDKCuWrfQ-Q7fQCxeWL6Bi1DVcDxDEydWvHd9m4pQMcPLefJcV8KMGPr6t2quP9V",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJ-iNuZIcSWEsv2SoHSvPA72onSO8gpg88nAlCjGbu-2hfLloU0mNSrTH4kn0Sd8CqNagn17IQQgx7u99oPgQ-7EviF0YvTDngBzc2nrssopotnhl-HJRYgXGei2OyJh22rce2We8WuE-cjfy4Pi6leOZdoRrOlA_MJzgRfyDm1O0pVBG7rCjBOZWsLr6Lvw2zc-Lyjtm0j3rvXeob9QTHLQ1kLS9DYyS25TThRWKXcOY3yANE36s9Fou5abCPxiIlxvC0vfur_vn0OtuaspP_4DKs56JEGW-jSswsycG9NeG-HpXVdk6t0Mn7bXqMBBQEr4MyH-vxO7pQvh_7dNmWFYnYcy5O_tTemXOahI8ZHtVFPTliYMEzClF9-ut0SYAE_UpwWgxsn7qpAw_nat8zNyluB52ClPKJHkfy_kuZq6hlkDOGl6oVRXw_d7zYyaDOltkw9tWZttnPFdg5F18A",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvam1np12_1oMhwqepkfEk2sLF1EIGXKmwK_RWgOdnMfvjrdBKeD0qWd70p4lW7bQOD0QEKzI4Y4aTCEp5AbaeS_LTE0j5fYSvFPZDlAOfLf58J5E8oKzqnUczhSVT8TLr9celYBVqmWGsN7W8XR9bRkTQFtL0nAp6TuC_rRDcxzjf6DaagjfuNlixwZDKLueSoWkq5fHl2AYO1357GUCxdDa-8hQI7jLDXfz7vAsPXOPE9ejIg1MAHEzcC8qZOmpywdIRdkoanjHKZ-GvlhxSEHM98bxS5M1dlSrxeLFGvKoDKCuWrfQ-Q7fQCxeWL6Bi1DVcDxDEydWvHd9m4pQMcPLefJcV8KMGPr6t2quP9V"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoJ-iNuZIcSWEsv2SoHSvPA72onSO8gpg88nAlCjGbu-2hfLloU0mNSrTH4kn0Sd8CqNagn17IQQgx7u99oPgQ-7EviF0YvTDngBzc2nrssopotnhl-HJRYgXGei2OyJh22rce2We8WuE-cjfy4Pi6leOZdoRrOlA_MJzgRfyDm1O0pVBG7rCjBOZWsLr6Lvw2zc-Lyjtm0j3rvXeob9QTHLQ1kLS9DYyS25TThRWKXcOY3yANE36s9Fou5abCPxiIlxvC0vfur_vn0OtuaspP_4DKs56JEGW-jSswsycG9NeG-HpXVdk6t0Mn7bXqMBBQEr4MyH-vxO7pQvh_7dNmWFYnYcy5O_tTemXOahI8ZHtVFPTliYMEzClF9-ut0SYAE_UpwWgxsn7qpAw_nat8zNyluB52ClPKJHkfy_kuZq6hlkDOGl6oVRXw_d7zYyaDOltkw9tWZttnPFdg5F18A"
                     }
                 ],
                 "passed": true
