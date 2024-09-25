@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-longhouse-tales",
+                                "title": "The Longhouse Tales",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933728.jpg"
+                            },
+                            {
+                                "url": "/anime/boo-boom-the-long-way-home",
+                                "title": "Boo-Boom! The Long Way Home",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933727.jpg"
+                            },
+                            {
                                 "url": "/anime/tales-of-the-teenage-mutant-ninja-turtles",
                                 "title": "Tales of the Teenage Mutant Ninja Turtles",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933726.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/rick-and-morty-the-anime-english-subbed",
                                 "title": "Rick and Morty: The Anime English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933710.jpg"
-                            },
-                            {
-                                "url": "/anime/rick-and-morty-the-anime",
-                                "title": "Rick and Morty: The Anime",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933709.jpg"
-                            },
-                            {
-                                "url": "/anime/hop",
-                                "title": "Hop",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933708.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,39 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/tales-of-the-teenage-mutant-ninja-turtles",
-                    "title": "Tales of the Teenage Mutant Ninja Turtles",
-                    "description": "The Turtles, as teenagers, deal with their new life as heroes while also dealing with the pressures of going to high school in New York City.",
-                    "genre": "Action, Adventure, Animation, Comedy, Family, Fantasy, Martial Arts, Sci-fi, Science Fiction, Superhero, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933726.jpg",
+                    "url": "/anime/the-longhouse-tales",
+                    "title": "The Longhouse Tales",
+                    "description": "A young coyote, Dwight, falls from the sky into a quirky animal community. Comic adventures and magical transformations ensue, based on Aboriginal Canadian folklore.",
+                    "genre": "Animation, Comedy, Family, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933728.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/the-longhouse-tales-episode-26-picture-perfect",
+                        "name": "Season 1 - Episode 26",
+                        "episode_number": 126.0
+                    },
+                    {
+                        "url": "/the-longhouse-tales-episode-25-keepers-of-the-light",
+                        "name": "Season 1 - Episode 25",
+                        "episode_number": 125.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtFiZEqGdc7PppYYXc7UzTqvBIojYT8uHNgeVA9-KI6X2rojD8NYv4k1llwovlLeWK_BZz7zKTqTt1BuSnJrhH8zptRZDtCXPHsUIRPQX-0JvBjiTyN5WtwZT4JrieTfRs_FLjVL33VXZ-BUy-TU8piXH6_f9F3-7Pjpwsfyupi6Gr_M7_Qbq46N7F7BPIuL6VnuioJ8pOJDJeTDTnsvBHn-kFq4ka5nKF0R4IRirzTspnb_lTnej0egQm-JutZ-RMX7O2XWfaOEo5c9t4SZSmaWnfgeOU5Lwu3eN2c2jcNaOFcv2unrbgwNZZo4Kbaa38skWdVMDEJNAK7l_1cvcl8",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtFiZEqGdc7PppYYXc7UzTqvBIojYT8uHNgeVA9-KI6X2rojD8NYv4k1llwovlLeWK_BZz7zKTqTt1BuSnJrhH8zptRZDtCXPHsUIRPQX-0JvBjiTyN5WtwZT4JrieTfRs_FLjVL33VXZ-BUy-TU8piXH6_f9F3-7Pjpwsfyupi6Gr_M7_Qbq46N7F7BPIuL6VnuioJ8pOJDJeTDTnsvBHn-kFq4ka5nKF0R4IRirzTspnb_lTnej0egQm-JutZ-RMX7O2XWfaOEo5c9t4SZSmaWnfgeOU5Lwu3eN2c2jcNaOFcv2unrbgwNZZo4Kbaa38skWdVMDEJNAK7l_1cvcl8"
+                    }
+                ],
+                "passed": true
             }
         }
     }
