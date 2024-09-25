@@ -287,6 +287,16 @@
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/t9Pia597dvRElFk6gs2UhRHOAKs.jpg"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9555?isq=false",
+                                "title": "Dog Knows Everything",
+                                "thumbnail_url": "https://kocowa-img.imgix.net/images/03e70d03-6de6-46af-b7a4-736b00b872ab.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9346?isq=false",
+                                "title": "Unlock Your Love",
+                                "thumbnail_url": "https://img.gagaoolala.com/media/9566aaf3-460602-lg.jpg"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/9524?isq=false",
                                 "title": "Dark Night and Dawn",
                                 "thumbnail_url": "https://pic1.iqiyipic.com/image/20240914/ef/2b/a_100545233_m_601_en_720_405.webp"
@@ -405,16 +415,6 @@
                                 "url": "/api/DramaList/Drama/9496?isq=false",
                                 "title": "Bad Guy My Boss",
                                 "thumbnail_url": "https://img.gagaoolala.com/media/c3924689-688419-lg.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9345?isq=false",
-                                "title": "Live in Love (Uncut Ver.)",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/0i9b5l3c9l951491725079527420/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9259?isq=false",
-                                "title": "The Loyal Pin",
-                                "thumbnail_url": "https://bloganchoi.com/wp-content/uploads/2024/08/phim-gl-bach-hop-the-loyal-pin-freenbeck-7.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -571,23 +571,23 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "file:///tmp/subs14610782505670008227srt",
+                                "url": "file:///tmp/subs5015139664248563514srt",
                                 "lang": "English"
                             },
                             {
-                                "url": "file:///tmp/subs17791114219218749012srt",
+                                "url": "file:///tmp/subs16970581943517932548srt",
                                 "lang": "Khmer"
                             },
                             {
-                                "url": "file:///tmp/subs1515843479816522552srt",
+                                "url": "file:///tmp/subs1953875804116804351srt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "file:///tmp/subs13729586355294154091srt",
+                                "url": "file:///tmp/subs405990621323782323srt",
                                 "lang": "Indonesia"
                             },
                             {
-                                "url": "file:///tmp/subs11269874639599439218srt",
+                                "url": "file:///tmp/subs6293652041355274656srt",
                                 "lang": "Malay"
                             }
                         ]
