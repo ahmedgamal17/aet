@@ -371,12 +371,41 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/sword-art-online-الحلقة-25-والاخيرة/",
+                        "name": "الحلقة 25",
+                        "episode_number": 25.0
+                    },
+                    {
+                        "url": "/episode/sword-art-online-الحلقة-24/",
+                        "name": "الحلقة 24",
+                        "episode_number": 24.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://a2.mp4upload.com:183/d/xwx273eoz3b4quuomwrbeikydgzdoun6nuqt6gjjbbd7xsvst26qddkszdhpcrhvn3vuyfp5/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwx273eoz3b4quuomwrbeikydgzdoun6nuqt6gjjbbd7xsvst26qddkszdhpcrhvn3vuyfp5/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m80.uqload.ws/3rfkjyux4nw2q4drdkvpv5njl653k4hm3prg5mf565fgwumwkpnawxcpf7vq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m80.uqload.ws/3rfkjyux4nw2q4drdkvpv5njl653k4hm3prg5mf565fgwumwkpnawxcpf7vq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
