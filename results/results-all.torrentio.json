@@ -12,7 +12,7 @@
                                 "artist": "Kathryn Hahn, Joe Locke, Sasheer Zamata, Ali Ahn",
                                 "author": "",
                                 "description": "The infamous witch Agatha Harkness finds herself down and out of power after the suspicious goth Teen helps her break free from a distorted spell. Her interest is piqued when he begs her to take him on the legendary Witches’ Road, a magical gauntlet of trials that, if survived, rewards a witch with what they’re missing. Together, Agatha and this mysterious Teen pull together a desperate coven and set off down, down, down The Witches' Road.",
-                                "genre": "Science-Fiction, Action & Adventure, Mystery & Thriller, Comedy, Drama, Fantasy",
+                                "genre": "Science-Fiction, Action & Adventure, Mystery & Thriller, Fantasy, Comedy, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320432727/s276/agatha-house-of-harkness.webp",
                                 "initialized": true
                             },
@@ -32,7 +32,7 @@
                                 "artist": "Harold Perrineau, Catalina Sandino Moreno, Eion Bailey, Hannah Cheramy",
                                 "author": "",
                                 "description": "Unravel the mystery of a city in middle U.S.A. that imprisons everyone who enters. As the residents struggle to maintain a sense of normality and seek a way out, they must also survive the threats of the surrounding forest.",
-                                "genre": "Horror, Science-Fiction, Mystery & Thriller, Drama",
+                                "genre": "Mystery & Thriller, Drama, Horror, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/304461294/s276/from.webp",
                                 "initialized": true
                             },
@@ -47,16 +47,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt2788316,SHOW,/us/tv-show/shogun-2024",
-                                "title": "Shōgun",
-                                "artist": "Hiroyuki Sanada, Cosmo Jarvis, Anna Sawai, Tadanobu Asano",
-                                "author": "",
-                                "description": "In Japan in the year 1600, at the dawn of a century-defining civil war, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village.",
-                                "genre": "Drama, War & Military, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/309349704/s276/shogun-2024.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt31896788,SHOW,/us/tv-show/monsters-the-lyle-and-erik-menendez-story",
                                 "title": "Monsters: The Lyle and Erik Menendez Story",
                                 "artist": "Cooper Koch, Nicholas Alexander Chavez, Javier Bardem, Chloë Sevigny",
@@ -64,16 +54,6 @@
                                 "description": "The story of the Menéndez brothers, who were convicted in 1996 of murdering their parents José and Mary Louise “Kitty” Menéndez.",
                                 "genre": "Drama, Crime, Horror, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320859888/s276/monsters-the-lyle-and-erik-menendez-story.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt5875444,SHOW,/us/tv-show/slow-horses",
-                                "title": "Slow Horses",
-                                "artist": "Gary Oldman, Jack Lowden, Kristin Scott Thomas",
-                                "author": "",
-                                "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-                                "genre": "Crime, Drama, Comedy, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/320463455/s276/slow-horses.webp",
                                 "initialized": true
                             },
                             {
@@ -87,26 +67,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt33210825,SHOW,/us/tv-show/nothin-but-a-good-time-the-uncensored-story-of-80s-hair-metal",
-                                "title": "Nöthin' But A Good Time: The Uncensored Story of '80S Hair Metal",
-                                "artist": "",
-                                "author": "",
-                                "description": "Follow the wild, excessive '80s hard rock scene's insanity and ambition that enthralled generations. Uncensored behind-the-scenes look at an iconic musical era's influence on culture through candid insights from renowned rock journalists.",
-                                "genre": "Documentary",
-                                "thumbnail_url": "https://images.justwatch.com/poster/319927220/s276/nothin-but-a-good-time-the-uncensored-story-of-80s-hair-metal.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt16426418,MOVIE,/us/movie/challengers",
-                                "title": "Challengers",
-                                "artist": "Zendaya, Mike Faist, Josh O'Connor, Darnell Appling",
-                                "author": "Luca Guadagnino",
-                                "description": "Tennis player turned coach Tashi has taken her husband, Art, and transformed him into a world-famous Grand Slam champion. To jolt him out of his recent losing streak, she signs him up for a \"Challenger\" event — close to the lowest level of pro tournament — where he finds himself standing across the net from his former best friend and Tashi's former boyfriend.",
-                                "genre": "Romance, Drama, Comedy, Sport",
-                                "thumbnail_url": "https://images.justwatch.com/poster/312170745/s276/challengers.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt17526714,MOVIE,/us/movie/the-substance",
                                 "title": "The Substance",
                                 "artist": "Demi Moore, Margaret Qualley, Dennis Quaid, Gore Abrams",
@@ -117,23 +77,43 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt16426418,MOVIE,/us/movie/challengers",
+                                "title": "Challengers",
+                                "artist": "Zendaya, Mike Faist, Josh O'Connor, Darnell Appling",
+                                "author": "Luca Guadagnino",
+                                "description": "Tennis player turned coach Tashi has taken her husband, Art, and transformed him into a world-famous Grand Slam champion. To jolt him out of his recent losing streak, she signs him up for a \"Challenger\" event — close to the lowest level of pro tournament — where he finds himself standing across the net from his former best friend and Tashi's former boyfriend.",
+                                "genre": "Romance, Drama, Sport, Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/312170745/s276/challengers.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt5875444,SHOW,/us/tv-show/slow-horses",
+                                "title": "Slow Horses",
+                                "artist": "Gary Oldman, Jack Lowden, Kristin Scott Thomas",
+                                "author": "",
+                                "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+                                "genre": "Crime, Drama, Comedy, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320463455/s276/slow-horses.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt11691774,SHOW,/us/tv-show/only-murders-in-the-building",
                                 "title": "Only Murders in the Building",
                                 "artist": "Steve Martin, Martin Short, Selena Gomez, Michael Cyril Creighton",
                                 "author": "",
                                 "description": "Three strangers - who live in the same New York City apartment building and share an obsession with true crime - suddenly find themselves embroiled in a murder.",
-                                "genre": "Mystery & Thriller, Comedy, Crime, Drama",
+                                "genre": "Drama, Mystery & Thriller, Comedy, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/306764050/s276/only-murders-in-the-building.webp",
                                 "initialized": true
                             },
                             {
-                                "url": "tt17279496,MOVIE,/us/movie/civil-war-2024",
-                                "title": "Civil War",
-                                "artist": "Kirsten Dunst, Wagner Moura, Cailee Spaeny, Stephen McKinley Henderson",
-                                "author": "Alex Garland",
-                                "description": "A journey across a dystopian future America, following a team of military-embedded journalists as they race against time to reach DC before rebel factions descend upon the White House.",
-                                "genre": "Mystery & Thriller, Action & Adventure, War & Military, Drama",
-                                "thumbnail_url": "https://images.justwatch.com/poster/312434812/s276/civil-war-2024.webp",
+                                "url": "tt33210825,SHOW,/us/tv-show/nothin-but-a-good-time-the-uncensored-story-of-80s-hair-metal",
+                                "title": "Nöthin' But A Good Time: The Uncensored Story of '80S Hair Metal",
+                                "artist": "",
+                                "author": "",
+                                "description": "Follow the wild, excessive '80s hard rock scene's insanity and ambition that enthralled generations. Uncensored behind-the-scenes look at an iconic musical era's influence on culture through candid insights from renowned rock journalists.",
+                                "genre": "Documentary",
+                                "thumbnail_url": "https://images.justwatch.com/poster/319927220/s276/nothin-but-a-good-time-the-uncensored-story-of-80s-hair-metal.webp",
                                 "initialized": true
                             },
                             {
@@ -142,28 +122,8 @@
                                 "artist": "Vince Vaughn, L. Scott Caldwell, Rob Delaney, Meredith Hagner",
                                 "author": "",
                                 "description": "A detective turned restaurant inspector in Key West is pulled into a world of greed and corruption after a tourist finds a severed arm while fishing. And yes, there's a monkey.",
-                                "genre": "Comedy, Drama, Crime",
+                                "genre": "Drama, Comedy, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/319486287/s276/bad-monkey.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt14858658,MOVIE,/us/movie/pussy-island",
-                                "title": "Blink Twice",
-                                "artist": "Naomi Ackie, Channing Tatum, Alia Shawkat, Christian Slater",
-                                "author": "Zoë Kravitz",
-                                "description": "When tech billionaire Slater King meets cocktail waitress Frida at his fundraising gala, he invites her to join him and his friends on a dream vacation on his private island. But despite the epic setting, beautiful people, ever-flowing champagne, and late-night dance parties, Frida can sense that there’s something sinister hiding beneath the island’s lush façade.",
-                                "genre": "Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/317915236/s276/pussy-island.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt11815682,SHOW,/us/tv-show/hacks",
-                                "title": "Hacks",
-                                "artist": "Jean Smart, Hannah Einbinder, Carl Clemons-Hopkins, Megan Stalter",
-                                "author": "",
-                                "description": "Explores a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
-                                "genre": "Comedy, Drama",
-                                "thumbnail_url": "https://images.justwatch.com/poster/245231547/s276/hacks.webp",
                                 "initialized": true
                             },
                             {
@@ -177,13 +137,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt5645432,SHOW,/us/tv-show/the-old-man",
-                                "title": "The Old Man",
-                                "artist": "Jeff Bridges, John Lithgow, Alia Shawkat, Navid Negahban",
-                                "author": "",
-                                "description": "Dan Chase absconded from the CIA decades ago and now lives off the grid. When an assassin arrives and tries to take Chase out, the old operative learns that to ensure his future he now must reconcile his past.",
-                                "genre": "Drama, Action & Adventure, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/283944641/s276/the-old-man.webp",
+                                "url": "tt14858658,MOVIE,/us/movie/pussy-island",
+                                "title": "Blink Twice",
+                                "artist": "Naomi Ackie, Channing Tatum, Alia Shawkat, Christian Slater",
+                                "author": "Zoë Kravitz",
+                                "description": "When tech billionaire Slater King meets cocktail waitress Frida at his fundraising gala, he invites her to join him and his friends on a dream vacation on his private island. But despite the epic setting, beautiful people, ever-flowing champagne, and late-night dance parties, Frida can sense that there’s something sinister hiding beneath the island’s lush façade.",
+                                "genre": "Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/317915236/s276/pussy-island.webp",
                                 "initialized": true
                             },
                             {
@@ -192,58 +152,28 @@
                                 "artist": "Charlie Vickers, Morfydd Clark, Robert Aramayo, Daniel Weyman",
                                 "author": "",
                                 "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-                                "genre": "Action & Adventure, Science-Fiction, Drama, Fantasy",
+                                "genre": "Science-Fiction, Drama, Action & Adventure, Fantasy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/260075695/s276/the-lord-of-the-rings-the-rings-of-power.webp",
                                 "initialized": true
                             },
                             {
-                                "url": "tt14452776,SHOW,/us/tv-show/the-bear",
-                                "title": "The Bear",
-                                "artist": "Jeremy Allen White, Ebon Moss-Bachrach, Ayo Edebiri, Lionel Boyce",
+                                "url": "tt17279496,MOVIE,/us/movie/civil-war-2024",
+                                "title": "Civil War",
+                                "artist": "Kirsten Dunst, Wagner Moura, Cailee Spaeny, Stephen McKinley Henderson",
+                                "author": "Alex Garland",
+                                "description": "A journey across a dystopian future America, following a team of military-embedded journalists as they race against time to reach DC before rebel factions descend upon the White House.",
+                                "genre": "Action & Adventure, Mystery & Thriller, War & Military, Drama",
+                                "thumbnail_url": "https://images.justwatch.com/poster/312434812/s276/civil-war-2024.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt2788316,SHOW,/us/tv-show/shogun-2024",
+                                "title": "Shōgun",
+                                "artist": "Hiroyuki Sanada, Cosmo Jarvis, Anna Sawai, Tadanobu Asano",
                                 "author": "",
-                                "description": "A young chef from the fine dining world returns to Chicago to run his family's sandwich shop.",
-                                "genre": "Comedy, Drama",
-                                "thumbnail_url": "https://images.justwatch.com/poster/286140049/s276/the-bear.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt12349832,MOVIE,/us/movie/cuckoo-2024",
-                                "title": "Cuckoo",
-                                "artist": "Hunter Schafer, Dan Stevens, Jessica Henwick, Marton Csokas",
-                                "author": "Tilman Singer",
-                                "description": "A 17-year-old girl is forced to move with her family to a resort where things are not what they seem.",
-                                "genre": "Mystery & Thriller, Horror, Science-Fiction",
-                                "thumbnail_url": "https://images.justwatch.com/poster/313173304/s276/cuckoo-2024.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt0239195,SHOW,/us/tv-show/survivor",
-                                "title": "Survivor",
-                                "artist": "Jeff Probst",
-                                "author": "",
-                                "description": "A reality show contest where sixteen or more castaways split between two or more “Tribes” are taken to a remote isolated location and are forced to live off the land with meager supplies for roughly 39 days. Frequent physical challenges are used to pit the tribes against each other for rewards, such as food or luxuries, or for “Immunity”, forcing the other tribe to attend “Tribal Council”, where they must vote off one of their players.",
-                                "genre": "Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/313493449/s276/survivor.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt23468450,MOVIE,/us/movie/longlegs",
-                                "title": "Longlegs",
-                                "artist": "Maika Monroe, Nicolas Cage, Blair Underwood, Alicia Witt",
-                                "author": "Oz Perkins",
-                                "description": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
-                                "genre": "Horror, Mystery & Thriller, Crime",
-                                "thumbnail_url": "https://images.justwatch.com/poster/311450894/s276/longlegs.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt33034103,MOVIE,/us/movie/am-i-racist",
-                                "title": "Am I Racist?",
-                                "artist": "Matt Walsh, Phil McGraw",
-                                "author": "Justin Folk",
-                                "description": "A man investigates diversity, equity, and inclusion practices, exposing absurdities through undercover social experiments.",
-                                "genre": "Documentary, Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/320685770/s276/am-i-racist.webp",
+                                "description": "In Japan in the year 1600, at the dawn of a century-defining civil war, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village.",
+                                "genre": "Drama, War & Military, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/309349704/s276/shogun-2024.webp",
                                 "initialized": true
                             },
                             {
@@ -257,13 +187,43 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt23468450,MOVIE,/us/movie/longlegs",
+                                "title": "Longlegs",
+                                "artist": "Maika Monroe, Nicolas Cage, Blair Underwood, Alicia Witt",
+                                "author": "Oz Perkins",
+                                "description": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
+                                "genre": "Horror, Mystery & Thriller, Crime",
+                                "thumbnail_url": "https://images.justwatch.com/poster/311450894/s276/longlegs.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0239195,SHOW,/us/tv-show/survivor",
+                                "title": "Survivor",
+                                "artist": "Jeff Probst",
+                                "author": "",
+                                "description": "A reality show contest where sixteen or more castaways split between two or more “Tribes” are taken to a remote isolated location and are forced to live off the land with meager supplies for roughly 39 days. Frequent physical challenges are used to pit the tribes against each other for rewards, such as food or luxuries, or for “Immunity”, forcing the other tribe to attend “Tribal Council”, where they must vote off one of their players.",
+                                "genre": "Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/313493449/s276/survivor.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt10625492,SHOW,/us/tv-show/twilight-of-the-gods",
                                 "title": "Twilight of the Gods",
                                 "artist": "Sylvia Hoeks, Stuart Martin, Pilou Asbæk, John Noble",
                                 "author": "",
                                 "description": "Animated series inspired by Norse Mythology. The Twilight of the Gods refers events that led to the destruction of Midgard and Asgard, then the death of most of the Æsir and Vanir gods in an ultimate battle against evil, the forces of nature and the Giants",
-                                "genre": "Animation, Action & Adventure, Fantasy, Science-Fiction",
+                                "genre": "Action & Adventure, Fantasy, Animation, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320744655/s276/twilight-of-the-gods.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt12349832,MOVIE,/us/movie/cuckoo-2024",
+                                "title": "Cuckoo",
+                                "artist": "Hunter Schafer, Dan Stevens, Jessica Henwick, Marton Csokas",
+                                "author": "Tilman Singer",
+                                "description": "A 17-year-old girl is forced to move with her family to a resort where things are not what they seem.",
+                                "genre": "Horror, Mystery & Thriller, Science-Fiction",
+                                "thumbnail_url": "https://images.justwatch.com/poster/313173304/s276/cuckoo-2024.webp",
                                 "initialized": true
                             },
                             {
@@ -272,28 +232,18 @@
                                 "artist": "Ryan Gosling, Emily Blunt, Aaron Taylor-Johnson, Hannah Waddingham",
                                 "author": "David Leitch",
                                 "description": "A down-and-out stuntman must find the missing star of his ex-girlfriend's blockbuster film.",
-                                "genre": "Romance, Action & Adventure, Comedy, Drama",
+                                "genre": "Drama, Romance, Action & Adventure, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/313201926/s276/the-fall-guy-2024.webp",
                                 "initialized": true
                             },
                             {
-                                "url": "tt15232542,SHOW,/us/tv-show/american-sports-story",
-                                "title": "American Sports Story",
-                                "artist": "Josh Andrés Rivera, Jaylen Barron, Lindsay Mendez, Ean Castellanos",
-                                "author": "",
-                                "description": "Re-examines a prominent event involving a sports figure. First season will follow the story of Aaron Hernandez, the former New England Patriots and convicted murderer.",
-                                "genre": "Sport, Drama",
-                                "thumbnail_url": "https://images.justwatch.com/poster/320078867/s276/american-sports-story.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt12637874,SHOW,/us/tv-show/fallout-2023",
-                                "title": "Fallout",
-                                "artist": "Ella Purnell, Aaron Moten, Moisés Arias, Walton Goggins",
-                                "author": "",
-                                "description": "In a future, post-apocalyptic Los Angeles brought about by nuclear decimation, citizens must live in underground bunkers to protect themselves from radiation, mutants and bandits.",
-                                "genre": "Action & Adventure, Drama, Science-Fiction, War & Military",
-                                "thumbnail_url": "https://images.justwatch.com/poster/313866771/s276/fallout-2023.webp",
+                                "url": "tt33034103,MOVIE,/us/movie/am-i-racist",
+                                "title": "Am I Racist?",
+                                "artist": "Matt Walsh, Phil McGraw",
+                                "author": "Justin Folk",
+                                "description": "A man investigates diversity, equity and inclusion practices, exposing absurdities through undercover social experiments.",
+                                "genre": "Documentary, Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320685770/s276/am-i-racist.webp",
                                 "initialized": true
                             },
                             {
@@ -312,8 +262,58 @@
                                 "artist": "Elijah Wood, Collin Dean, Melanie Lynskey",
                                 "author": "",
                                 "description": "Two brothers, Wirt and Greg, find themselves lost in the Unknown; a strange forest adrift in time. With the help of a wise old Woodsman and a foul-tempered bluebird named Beatrice, Wirt and Greg must travel across this strange land, in hope of finding their way home. Join them as they encounter surprises and obstacles on their journey through the wood.",
-                                "genre": "Comedy, Mystery & Thriller, Science-Fiction, Animation, Kids & Family, Drama, Fantasy, Horror",
+                                "genre": "Science-Fiction, Animation, Kids & Family, Comedy, Mystery & Thriller, Fantasy, Horror, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/86693805/s276/over-the-garden-wall.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt5645432,SHOW,/us/tv-show/the-old-man",
+                                "title": "The Old Man",
+                                "artist": "Jeff Bridges, John Lithgow, Alia Shawkat, Navid Negahban",
+                                "author": "",
+                                "description": "Dan Chase absconded from the CIA decades ago and now lives off the grid. When an assassin arrives and tries to take Chase out, the old operative learns that to ensure his future he now must reconcile his past.",
+                                "genre": "Action & Adventure, Drama, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/283944641/s276/the-old-man.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt33070481,MOVIE,/us/movie/from-russia-with-lev",
+                                "title": "From Russia With Lev",
+                                "artist": "Rudolph Giuliani, Hunter Biden",
+                                "author": "Billy Corben",
+                                "description": "A documentary exploring Lev Parnas' involvement in the Trump-Ukraine scandal that resulted in the former president's impeachment, detailing Parnas' unexpected entanglement with Trump and Giuliani, leading to his incarceration.",
+                                "genre": "Documentary, Crime",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320689110/s276/from-russia-with-lev.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt12637874,SHOW,/us/tv-show/fallout-2023",
+                                "title": "Fallout",
+                                "artist": "Ella Purnell, Aaron Moten, Moisés Arias, Walton Goggins",
+                                "author": "",
+                                "description": "In a future, post-apocalyptic Los Angeles brought about by nuclear decimation, citizens must live in underground bunkers to protect themselves from radiation, mutants and bandits.",
+                                "genre": "War & Military, Action & Adventure, Drama, Science-Fiction",
+                                "thumbnail_url": "https://images.justwatch.com/poster/313866771/s276/fallout-2023.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt15232542,SHOW,/us/tv-show/american-sports-story",
+                                "title": "American Sports Story",
+                                "artist": "Josh Andrés Rivera, Jaylen Barron, Lindsay Mendez, Ean Castellanos",
+                                "author": "",
+                                "description": "Re-examines a prominent event involving a sports figure. First season will follow the story of Aaron Hernandez, the former New England Patriots and convicted murderer.",
+                                "genre": "Drama, Sport",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320078867/s276/american-sports-story.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt1259528,MOVIE,/us/movie/den-of-thieves",
+                                "title": "Den of Thieves",
+                                "artist": "Gerard Butler, Dawn Olivieri, O'Shea Jackson Jr., Pablo Schreiber",
+                                "author": "Christian Gudegast",
+                                "description": "A gritty crime saga which follows the lives of an elite unit of the LA County Sheriff's Dept. and the state's most successful bank robbery crew as the outlaws plan a seemingly impossible heist on the Federal Reserve Bank.",
+                                "genre": "Mystery & Thriller, Action & Adventure, Crime, Drama",
+                                "thumbnail_url": "https://images.justwatch.com/poster/54948312/s276/den-of-thieves.webp",
                                 "initialized": true
                             },
                             {
@@ -327,36 +327,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0086759,SHOW,/us/tv-show/miami-vice",
-                                "title": "Miami Vice",
-                                "artist": "Don Johnson, Philip Michael Thomas, Saundra Santiago, Olivia Brown",
-                                "author": "",
-                                "description": "The story of the Miami Police Department's vice squad and its efforts to end drug trafficking and prostitution, centered on the unlikely partnership of Sonny Crockett and Ricardo Tubbs - who first meet when Tubbs is undercover in a drug cartel.",
-                                "genre": "Crime, Drama, Mystery & Thriller, Action & Adventure",
-                                "thumbnail_url": "https://images.justwatch.com/poster/241661834/s276/miami-vice.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt2911666,MOVIE,/us/movie/john-wick",
-                                "title": "John Wick",
-                                "artist": "Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe",
-                                "author": "Chad Stahelski",
-                                "description": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-                                "genre": "Mystery & Thriller, Action & Adventure, Crime",
-                                "thumbnail_url": "https://images.justwatch.com/poster/188059074/s276/john-wick.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt1259528,MOVIE,/us/movie/den-of-thieves",
-                                "title": "Den of Thieves",
-                                "artist": "Gerard Butler, Dawn Olivieri, O'Shea Jackson Jr., Pablo Schreiber",
-                                "author": "Christian Gudegast",
-                                "description": "A gritty crime saga which follows the lives of an elite unit of the LA County Sheriff's Dept. and the state's most successful bank robbery crew as the outlaws plan a seemingly impossible heist on the Federal Reserve Bank.",
-                                "genre": "Mystery & Thriller, Crime, Drama, Action & Adventure",
-                                "thumbnail_url": "https://images.justwatch.com/poster/54948312/s276/den-of-thieves.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt29766398,SHOW,/us/tv-show/la-maison",
                                 "title": "La Maison",
                                 "artist": "Lambert Wilson, Amira Casar, Carole Bouquet, Zita Hanrot",
@@ -364,6 +334,46 @@
                                 "description": "An iconic fashion house is thrown into scandal leaving the family's legendary fashion couture house hanging by a thread. Perle Foster and Paloma Castel team up to reinvent LEDU and claim their place in the Ledu clan and the fashion world.",
                                 "genre": "Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320744626/s276/la-maison.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt30102397,SHOW,/us/tv-show/a-very-royal-scandal",
+                                "title": "A Very Royal Scandal",
+                                "artist": "Ruth Wilson, Michael Sheen, Joanna Scanlan, Alex Jennings",
+                                "author": "",
+                                "description": "Explores Emily Maitlis journey as a News night journalist and Prince Andrew's disastrous interview with her.",
+                                "genre": "Drama",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320127640/s276/a-very-royal-scandal.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt14452776,SHOW,/us/tv-show/the-bear",
+                                "title": "The Bear",
+                                "artist": "Jeremy Allen White, Ebon Moss-Bachrach, Ayo Edebiri, Lionel Boyce",
+                                "author": "",
+                                "description": "A young chef from the fine dining world returns to Chicago to run his family's sandwich shop.",
+                                "genre": "Comedy, Drama",
+                                "thumbnail_url": "https://images.justwatch.com/poster/286140049/s276/the-bear.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0200276,SHOW,/us/tv-show/the-west-wing",
+                                "title": "The West Wing",
+                                "artist": "Martin Sheen, Allison Janney, John Spencer, Bradley Whitford",
+                                "author": "",
+                                "description": "The West Wing is an American television serial drama created by Aaron Sorkin that was originally broadcast on NBC from September 22, 1999, to May 14, 2006. The series is set primarily in the West Wing of the White House, where the Oval Office and offices of presidential senior staff are located, during the fictional Democratic administration of Josiah Bartlet.",
+                                "genre": "Drama",
+                                "thumbnail_url": "https://images.justwatch.com/poster/240194591/s276/the-west-wing.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt14060708,SHOW,/us/tv-show/hpi",
+                                "title": "HIP - High Intellectual Potential",
+                                "artist": "Audrey Fleurot, Mehdi Nebbou, Bruno Sanches, Bérangère Mc Neese",
+                                "author": "",
+                                "description": "Morgane is 38-years old, has three children, two exes and an IQ of 160; her destiny as a cleaner is turned upside-down when her extraordinary abilities are spotted by the police who offer her a job as a consultant.",
+                                "genre": "Comedy, Mystery & Thriller, Crime, Kids & Family",
+                                "thumbnail_url": "https://images.justwatch.com/poster/319859690/s276/hpi.webp",
                                 "initialized": true
                             },
                             {
@@ -387,23 +397,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt30102397,SHOW,/us/tv-show/a-very-royal-scandal",
-                                "title": "A Very Royal Scandal",
-                                "artist": "Ruth Wilson, Michael Sheen, Joanna Scanlan, Alex Jennings",
-                                "author": "",
-                                "description": "Explores Emily Maitlis journey as a News night journalist and Prince Andrew's disastrous interview with her.",
-                                "genre": "Drama",
-                                "thumbnail_url": "https://images.justwatch.com/poster/320127640/s276/a-very-royal-scandal.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt13649112,SHOW,/us/tv-show/baby-reindeer",
-                                "title": "Baby Reindeer",
-                                "artist": "Richard Gadd, Jessica Gunning, Nava Mau",
-                                "author": "",
-                                "description": "When a struggling comedian shows one act of kindness to a vulnerable woman, it sparks a suffocating obsession which threatens to wreck both their lives.",
-                                "genre": "Drama",
-                                "thumbnail_url": "https://images.justwatch.com/poster/313744588/s276/baby-reindeer.webp",
+                                "url": "tt26753003,MOVIE,/us/movie/trap-2024",
+                                "title": "Trap",
+                                "artist": "Josh Hartnett, Ariel Donoghue, Saleka, Alison Pill",
+                                "author": "M. Night Shyamalan",
+                                "description": "A father and teen daughter attend a pop concert, where they realize they're at the center of a dark and sinister event.",
+                                "genre": "Mystery & Thriller, Horror, Crime",
+                                "thumbnail_url": "https://images.justwatch.com/poster/319859347/s276/trap-2024.webp",
                                 "initialized": true
                             }
                         ],
@@ -472,7 +472,7 @@
                                 "artist": "Nao Tamura, Yuichi Nakamura, Tomo Muranaka, Yuki Kaji",
                                 "author": "",
                                 "description": "A gate to another dimension has burst open, and from it emerge gigantic invincible creatures that threaten all of humanity. Earth's only defense is a mysterious group of warriors who have co-opted the alien technology in order to fight back!",
-                                "genre": "Action & Adventure, Science-Fiction, Animation",
+                                "genre": "Animation, Action & Adventure, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/260841834/s276/world-trigger.webp",
                                 "initialized": true
                             },
@@ -547,16 +547,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt2639756,SHOW,/us/tv-show/the-world-from-above",
-                                "title": "The World from Above",
-                                "artist": "Philippe Sollier, Richard Mervyn",
-                                "author": "",
-                                "description": "The World from Above is a unique continuing series of aerial programmes offering an entirely different view of the world. From 10,000ft, down to just a few feet the stabilised high definition aerial camera seeks out the beautiful, as well as the dramatic, on journeys across very different parts of the world including Europe, Africa and the United States.",
-                                "genre": "Documentary",
-                                "thumbnail_url": "https://images.justwatch.com/poster/318909896/s276/the-world-from-above.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": ",SHOW,/us/tv-show/world-dice-tour",
                                 "title": "World Dice Tour",
                                 "artist": "Pani Bottle, Kwak Joon-bin, Lee Won-ji, Noh Hong-chul",
@@ -564,6 +554,16 @@
                                 "description": "Three travel content creators competing to win a trip to space embark on the adventure of a lifetime, rolling the dice to decide where they'll go next.",
                                 "genre": "Reality TV",
                                 "thumbnail_url": "https://images.justwatch.com/poster/304427115/s276/world-dice-tour.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt2639756,SHOW,/us/tv-show/the-world-from-above",
+                                "title": "The World from Above",
+                                "artist": "Philippe Sollier, Richard Mervyn",
+                                "author": "",
+                                "description": "The World from Above is a unique continuing series of aerial programmes offering an entirely different view of the world. From 10,000ft, down to just a few feet the stabilised high definition aerial camera seeks out the beautiful, as well as the dramatic, on journeys across very different parts of the world including Europe, Africa and the United States.",
+                                "genre": "Documentary",
+                                "thumbnail_url": "https://images.justwatch.com/poster/318909896/s276/the-world-from-above.webp",
                                 "initialized": true
                             },
                             {
@@ -612,7 +612,7 @@
                                 "artist": "Carole Baillien, Alice Ley, Esther Aflalo, Mélanie Dermont",
                                 "author": "",
                                 "description": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
-                                "genre": "Animation, Action & Adventure, Fantasy, Comedy, Kids & Family, Made in Europe",
+                                "genre": "Animation, Action & Adventure, Comedy, Kids & Family, Fantasy, Made in Europe",
                                 "thumbnail_url": "https://images.justwatch.com/poster/309927594/s276/world-of-winx.webp",
                                 "initialized": true
                             },
@@ -622,7 +622,7 @@
                                 "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
                                 "author": "",
                                 "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
-                                "genre": "Science-Fiction, Mystery & Thriller, Animation, Drama, Romance",
+                                "genre": "Mystery & Thriller, Animation, Drama, Science-Fiction, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/249969107/s276/worlds-end-harem.webp",
                                 "initialized": true
                             },
@@ -662,7 +662,7 @@
                                 "artist": "Jonah Hauer-King, Julia Brown, Helen Hunt, Zofia Wichłacz",
                                 "author": "",
                                 "description": "World War II-era drama centered on the lives of ordinary people affected by the war.",
-                                "genre": "Romance, War & Military, Drama",
+                                "genre": "War & Military, Drama, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/148817724/s276/world-on-fire.webp",
                                 "initialized": true
                             },
@@ -677,16 +677,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0783466,SHOW,/us/tv-show/worlds-most-extreme-homes",
-                                "title": "World's Most Extreme Homes",
-                                "artist": "Ruth England",
-                                "author": "",
-                                "description": "It may look weird to an onlooker but it's home, sweet, home to the owners of the most bizarre and unusual dwellings around the world.",
-                                "genre": "Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/138713147/s276/worlds-most-extreme-homes.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt6819736,SHOW,/us/tv-show/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us",
                                 "title": "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
                                 "artist": "Ryohei Arai, Azusa Tadokoro, Akari Uehara, Satomi Sato",
@@ -697,13 +687,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0084917,MOVIE,/us/movie/the-world-according-to-garp",
-                                "title": "The World According to Garp",
-                                "artist": "Robin Williams, Mary Beth Hurt, Glenn Close, John Lithgow",
-                                "author": "George Roy Hill",
-                                "description": "A struggling young writer finds his life and work dominated by his unfaithful wife and his radical feminist mother, whose best-selling manifesto turns her into a cultural icon.",
-                                "genre": "Drama, Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/259911994/s276/the-world-according-to-garp.webp",
+                                "url": "tt0783466,SHOW,/us/tv-show/worlds-most-extreme-homes",
+                                "title": "World's Most Extreme Homes",
+                                "artist": "Ruth England",
+                                "author": "",
+                                "description": "It may look weird to an onlooker but it's home, sweet, home to the owners of the most bizarre and unusual dwellings around the world.",
+                                "genre": "Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/138713147/s276/worlds-most-extreme-homes.webp",
                                 "initialized": true
                             },
                             {
@@ -777,16 +767,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
-                                "title": "The World Wars",
-                                "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
-                                "author": "John Ealer",
-                                "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
-                                "genre": "Documentary, War & Military, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/176468126/s276/the-world-wars.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt1878805,SHOW,/us/tv-show/world-without-end",
                                 "title": "World Without End",
                                 "artist": "Oliver Maltman, David Bradley, Ben Chaplin, Charlotte Riley",
@@ -804,6 +784,26 @@
                                 "description": "An American reality TV series that deals with police videos from across the world. Video footage of car chases, subsequent arrests, robberies, riots and other crimes appears on the show.",
                                 "genre": "Action & Adventure, Comedy, Crime, Reality TV, Documentary",
                                 "thumbnail_url": "https://images.justwatch.com/poster/177620157/s276/worlds-wildest-police-videos.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
+                                "title": "The World Wars",
+                                "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
+                                "author": "John Ealer",
+                                "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
+                                "genre": "Documentary, War & Military, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/176468126/s276/the-world-wars.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0084917,MOVIE,/us/movie/the-world-according-to-garp",
+                                "title": "The World According to Garp",
+                                "artist": "Robin Williams, Mary Beth Hurt, Glenn Close, John Lithgow",
+                                "author": "George Roy Hill",
+                                "description": "A struggling young writer finds his life and work dominated by his unfaithful wife and his radical feminist mother, whose best-selling manifesto turns her into a cultural icon.",
+                                "genre": "Drama, Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/259911994/s276/the-world-according-to-garp.webp",
                                 "initialized": true
                             },
                             {
@@ -829,7 +829,7 @@
                     "artist": "Kathryn Hahn, Joe Locke, Sasheer Zamata, Ali Ahn",
                     "author": "",
                     "description": "The infamous witch Agatha Harkness finds herself down and out of power after the suspicious goth Teen helps her break free from a distorted spell. Her interest is piqued when he begs her to take him on the legendary Witches’ Road, a magical gauntlet of trials that, if survived, rewards a witch with what they’re missing. Together, Agatha and this mysterious Teen pull together a desperate coven and set off down, down, down The Witches' Road.",
-                    "genre": "Science-Fiction, Action & Adventure, Mystery & Thriller, Comedy, Drama, Fantasy",
+                    "genre": "Science-Fiction, Action & Adventure, Mystery & Thriller, Fantasy, Comedy, Drama",
                     "thumbnail_url": "https://images.justwatch.com/poster/320432727/s718/agatha-house-of-harkness.webp",
                     "initialized": true
                 },

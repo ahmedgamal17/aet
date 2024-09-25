@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tasuuketsu/",
+                                "title": "Tasuuketsu",
+                                "thumbnail_url": "https://i1.wp.com/animenosub.to/wp-content/uploads/2024/06/1719560665-3479-143629.jpg"
+                            },
+                            {
                                 "url": "/anime/isekai-shikkaku/",
                                 "title": "Isekai Shikkaku",
                                 "thumbnail_url": "https://i0.wp.com/animenosub.to/wp-content/uploads/2024/07/1720523470-5380-143457.jpg"
@@ -210,11 +215,6 @@
                                 "url": "/anime/make-heroine-ga-oosugiru/",
                                 "title": "Make Heroine ga Oosugiru!",
                                 "thumbnail_url": "https://i1.wp.com/animenosub.to/wp-content/uploads/2024/07/Make-Heroine-ga-Oosugiru-poster.jpg"
-                            },
-                            {
-                                "url": "/anime/the-fable/",
-                                "title": "The Fable",
-                                "thumbnail_url": "https://i0.wp.com/animenosub.to/wp-content/uploads/2024/04/1712336056-5333-141155.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -318,9 +318,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://str1.vtube.network/hls/x5s43wn6pzyki6cgaptmr6fjgvyd2whptr3cxwnclcuaqzot4jrb3vxgempa/index-v1-a1.m3u8",
+                        "url": "https://str1.vtube.network/hls/x5s43wn6pzyki6cgaptmr6fjgvyd2whptr3cxwnclcuarxjv3syolubqecxa/index-v1-a1.m3u8",
                         "quality": "RAW - Vtube - 1080p ",
-                        "videoUrl": "https://str1.vtube.network/hls/x5s43wn6pzyki6cgaptmr6fjgvyd2whptr3cxwnclcuaqzot4jrb3vxgempa/index-v1-a1.m3u8",
+                        "videoUrl": "https://str1.vtube.network/hls/x5s43wn6pzyki6cgaptmr6fjgvyd2whptr3cxwnclcuarxjv3syolubqecxa/index-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -330,9 +330,9 @@
                         }
                     },
                     {
-                        "url": "https://str1.vtube.network/hls/x5s4yqn5pzyki6cgaptmrof4gvfyg7uhvjxndj2o4wq7xo3nrhprxq7tilha/index-v1-a1.m3u8",
+                        "url": "https://str1.vtube.network/hls/x5s4yqn5pzyki6cgaptmrof4gvfyg7uhvjxndj2o4wq7wa4lw4gy7morj6na/index-v1-a1.m3u8",
                         "quality": "Vtube - 1080p ",
-                        "videoUrl": "https://str1.vtube.network/hls/x5s4yqn5pzyki6cgaptmrof4gvfyg7uhvjxndj2o4wq7xo3nrhprxq7tilha/index-v1-a1.m3u8",
+                        "videoUrl": "https://str1.vtube.network/hls/x5s4yqn5pzyki6cgaptmrof4gvfyg7uhvjxndj2o4wq7wa4lw4gy7morj6na/index-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -342,17 +342,17 @@
                         }
                     },
                     {
-                        "url": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4mf3ytpjwgcii3cxxd3a/index-v1-a1.m3u8",
+                        "url": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4mf3z5ipr5llq3gbptba/index-v1-a1.m3u8",
                         "quality": "Omega - 480p",
-                        "videoUrl": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4mf3ytpjwgcii3cxxd3a/index-v1-a1.m3u8",
+                        "videoUrl": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4mf3z5ipr5llq3gbptba/index-v1-a1.m3u8",
                         "headers": {
                             "Referer": "https://vidmoly.to"
                         }
                     },
                     {
-                        "url": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4fx3ytpjwgcesdbbnpua/index-v1-a1.m3u8",
+                        "url": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4fx3z5ipr5ldtwf3j6la/index-v1-a1.m3u8",
                         "quality": "Omega - 1080p",
-                        "videoUrl": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4fx3ytpjwgcesdbbnpua/index-v1-a1.m3u8",
+                        "videoUrl": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4fx3z5ipr5ldtwf3j6la/index-v1-a1.m3u8",
                         "headers": {
                             "Referer": "https://vidmoly.to"
                         }
