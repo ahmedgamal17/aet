@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/everybody-still-hates-chris",
+                                "title": "Everybody Still Hates Chris",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933731.jpg"
+                            },
+                            {
+                                "url": "/anime/tea-town-teddy-bears",
+                                "title": "Tea Town Teddy Bears",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933730.jpg"
+                            },
+                            {
+                                "url": "/anime/hitoribocchi-no-isekai-kouryaku",
+                                "title": "Hitoribocchi no Isekai Kouryaku",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933729.jpg"
+                            },
+                            {
                                 "url": "/anime/the-longhouse-tales",
                                 "title": "The Longhouse Tales",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933728.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/true-beauty",
                                 "title": "True Beauty",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933713.jpg"
-                            },
-                            {
-                                "url": "/anime/delicos-nursery",
-                                "title": "Delico's Nursery",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933712.jpg"
-                            },
-                            {
-                                "url": "/anime/level-1-demon-lord-and-one-room-hero",
-                                "title": "Level 1 Demon Lord and One Room Hero",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933711.jpg"
-                            },
-                            {
-                                "url": "/anime/rick-and-morty-the-anime-english-subbed",
-                                "title": "Rick and Morty: The Anime English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933710.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-longhouse-tales",
-                    "title": "The Longhouse Tales",
-                    "description": "A young coyote, Dwight, falls from the sky into a quirky animal community. Comic adventures and magical transformations ensue, based on Aboriginal Canadian folklore.",
-                    "genre": "Animation, Comedy, Family, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933728.jpg",
+                    "url": "/anime/everybody-still-hates-chris",
+                    "title": "Everybody Still Hates Chris",
+                    "description": "Animated sequel series which follows Everybody Hates Chris (2005), focusing on Chris Rock’s life as a kid in 1980’s Brooklyn, New York.",
+                    "genre": "Animation, Comedy, Drama, Music, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933731.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,14 +616,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/the-longhouse-tales-episode-26-picture-perfect",
-                        "name": "Season 1 - Episode 26",
-                        "episode_number": 126.0
+                        "url": "/everybody-still-hates-chris-episode-2-everybody-still-hates-block-parties",
+                        "name": "Season 1 - Episode 2",
+                        "episode_number": 102.0
                     },
                     {
-                        "url": "/the-longhouse-tales-episode-25-keepers-of-the-light",
-                        "name": "Season 1 - Episode 25",
-                        "episode_number": 125.0
+                        "url": "/everybody-still-hates-chris-episode-1-everybody-still-hates-the-ged",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
                     }
                 ],
                 "passed": true
@@ -631,9 +631,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtFiZEqGdc7PppYYXc7UzTqvBIojYT8uHNgeVA9-KI6X2rojD8NYv4k1llwovlLeWK_BZz7zKTqTt1BuSnJrhH8zptRZDtCXPHsUIRPQX-0JvBjiTyN5WtwZT4JrieTfRs_FLjVL33VXZ-BUy-TU8piXH6_f9F3-7Pjpwsfyupi64AWYM140ecOfwGQGZ-KWzcQDInkeOpxFAutPSecq6erJ72SFVAI2SNkTPJgJk-UXWtqzRVDJIaAAVJqxdRUoT8xJt130FCmsABestyayACnPSPSzSTgAGdZ_7WCOpV7z8ty9LFUSygbLYG7Qf3vcgw",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnuULqt3j9QktJLaleBzh0Plf5ktNz7aiCR5h41vF3vM-C4SFUndLgX6KttYYKn70WD1Oi6IwGpUZwbluFxIMV0AK1avHUz-9MglhkcXXAkyCR3DlUckJFkEtE1Knhe9S3ndNDRWYjgQwgHgmqQm0HCBQIwoqYR8x0R2qz9G3udkhLIZb3ChgSULiKd2MwMndux7mHdXIIMnKtkW-eWRwUs5h-An6lnIHTSa7FvGFjo6IVi6ufP4JBPhVfVERYoyppPz1j_ZZAhMedbtgX4MRuXVInRi9yUYP0IqY4hL9YLn2AG-5orxtsIB0iCGyfQH3AJbvl9lfsSB96dn0B98kw0m-kImiUzo4CX23SwJOH1YsVENRUr7Uv1tTKkrQK9nMiPv2Jt0Z55jIynWBgiQFpo849z0Pi33_ItwRq9BO2kh",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnuULqt3j9QktJLaleBzh0Plf5ktNz7aiCR5h41vF3vM-C4SFUndLgX6KttYYKn70WD1Oi6IwGpUZwbluFxIMV0AK1avHUz-9MglhkcXXAkyCR3DlUckJFkEtE1Knhe9S3ndNDRWYjgQwgHgmqQm0HCBQIwoqYR8x0R2qz9G3udkhLIZb3ChgSULiKd2MwMndux7mHdXIIMnKtkW-eWRwUs5h-An6lnIHTSa7FvGFjo6IVi6ufP4JBPhVfVERYoyppPz1j_ZZAhMedbtgX4MRuXVInRi9yUYP0IqY4hL9YLn2AG-5orxtsIB0iCGyfQH3AJbvl9lfsSB96dn0B98kw0m-kImiUzo4CX23SwJOH1YsVENRUr7Uv1tTKkrQK9nMiPv2Jt0Z55jIynWBgiQFpo849z0Pi33_ItwRq9BO2kh"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnuULqt3j9QktJLaleBzh0Plf5ktNz7aiCR5h41vF3vM-C4SFUndLgX6KttYYKn70WD1Oi6IwGpUZwbluFxIMV0AK1avHUz-9MglhkcXXAkyCR3DlUckJFkEtE1Knhe9S7Ac2lYVn_v-AA-Mo1o7EudZfZaoiIkPM9PPcI8MUAL3yxoPWCEql8aAgPQnpGpkpUVNT2l9tdyD9Fe5gNpe54dUw_oUo5w93BkdzXUGmxeoO8jVZ2KJ3Ewoxd2NxITaG_Hv-mY-NfwBYeZisDZnqdLqCQr87ZaYnJIw16pbEt5ICuPoDpFYBqfogeUTV2aurBEsN4HQdoACpHr-SVCgIBK1N1lVdye2yaU9OXtg-BSaNZnVOoNRBAmQ3Vm7bgJUUZBeX7wmok3-cSW58lFZoNHQwIw_lINSFEwlYZF1d10c",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnuULqt3j9QktJLaleBzh0Plf5ktNz7aiCR5h41vF3vM-C4SFUndLgX6KttYYKn70WD1Oi6IwGpUZwbluFxIMV0AK1avHUz-9MglhkcXXAkyCR3DlUckJFkEtE1Knhe9S7Ac2lYVn_v-AA-Mo1o7EudZfZaoiIkPM9PPcI8MUAL3yxoPWCEql8aAgPQnpGpkpUVNT2l9tdyD9Fe5gNpe54dUw_oUo5w93BkdzXUGmxeoO8jVZ2KJ3Ewoxd2NxITaG_Hv-mY-NfwBYeZisDZnqdLqCQr87ZaYnJIw16pbEt5ICuPoDpFYBqfogeUTV2aurBEsN4HQdoACpHr-SVCgIBK1N1lVdye2yaU9OXtg-BSaNZnVOoNRBAmQ3Vm7bgJUUZBeX7wmok3-cSW58lFZoNHQwIw_lINSFEwlYZF1d10c"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnuULqt3j9QktJLaleBzh0Plf5ktNz7aiCR5h41vF3vM-C4SFUndLgX6KttYYKn70WD1Oi6IwGpUZwbluFxIMV0AK1avHUz-9MglhkcXXAkyCR3DlUckJFkEtE1Knhe9S_V8m53whZSnHOzaEKn4lCUJrnZVU62i7Lv79M_tf7HxyIV-vC2zOKRZkp_P1IrhZvgH_4sMdG9lYxKrTKZqL1f0Fln4ZfNJefARwjLAshizEenjaGClxGftab-soNB0FzyebLCb1uzbry28O-eXseRbGSQjx0IqjlFGNt8J7HkG-CS4RIAslp5D68qNGzWzUrQFRqmwVBNFePFEGUuyM1IacYUSPbXjtbpeeqUyZeGuQBEwz2ITS2iidId8WRFKaC_GMNNyjvQFSYUiXWRcsHs",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtFiZEqGdc7PppYYXc7UzTqvBIojYT8uHNgeVA9-KI6X2rojD8NYv4k1llwovlLeWK_BZz7zKTqTt1BuSnJrhH8zptRZDtCXPHsUIRPQX-0JvBjiTyN5WtwZT4JrieTfRs_FLjVL33VXZ-BUy-TU8piXH6_f9F3-7Pjpwsfyupi64AWYM140ecOfwGQGZ-KWzcQDInkeOpxFAutPSecq6erJ72SFVAI2SNkTPJgJk-UXWtqzRVDJIaAAVJqxdRUoT8xJt130FCmsABestyayACnPSPSzSTgAGdZ_7WCOpV7z8ty9LFUSygbLYG7Qf3vcgw"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnuULqt3j9QktJLaleBzh0Plf5ktNz7aiCR5h41vF3vM-C4SFUndLgX6KttYYKn70WD1Oi6IwGpUZwbluFxIMV0AK1avHUz-9MglhkcXXAkyCR3DlUckJFkEtE1Knhe9S_V8m53whZSnHOzaEKn4lCUJrnZVU62i7Lv79M_tf7HxyIV-vC2zOKRZkp_P1IrhZvgH_4sMdG9lYxKrTKZqL1f0Fln4ZfNJefARwjLAshizEenjaGClxGftab-soNB0FzyebLCb1uzbry28O-eXseRbGSQjx0IqjlFGNt8J7HkG-CS4RIAslp5D68qNGzWzUrQFRqmwVBNFePFEGUuyM1IacYUSPbXjtbpeeqUyZeGuQBEwz2ITS2iidId8WRFKaC_GMNNyjvQFSYUiXWRcsHs"
                     }
                 ],
                 "passed": true

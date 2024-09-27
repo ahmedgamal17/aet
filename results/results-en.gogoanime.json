@@ -47,6 +47,21 @@
                                 "thumbnail_url": "https://gogocdn.net/cover/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen.png"
                             },
                             {
+                                "url": "/category/rezero-kara-hajimeru-isekai-seikatsu-3rd-season",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+                                "thumbnail_url": "https://gogocdn.net/cover/rezero-kara-hajimeru-isekai-seikatsu-3rd-season.png"
+                            },
+                            {
+                                "url": "/category/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
+                                "thumbnail_url": "https://gogocdn.net/cover/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season.png"
+                            },
+                            {
+                                "url": "/category/sword-art-online-alternative-gun-gale-online-ii",
+                                "title": "Sword Art Online Alternative: Gun Gale Online II",
+                                "thumbnail_url": "https://gogocdn.net/cover/sword-art-online-alternative-gun-gale-online-ii.png"
+                            },
+                            {
                                 "url": "/category/2-5-jigen-no-ririsa",
                                 "title": "2.5-jigen no Ririsa",
                                 "thumbnail_url": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png"
@@ -86,24 +101,9 @@
                                 "thumbnail_url": "https://gogocdn.net/cover/fairy-tail-100-years-quest-1719513557.png"
                             },
                             {
-                                "url": "/category/nierautomata-ver1-1a-part-2",
-                                "title": "NieR:Automata Ver1.1a Part 2",
-                                "thumbnail_url": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png"
-                            },
-                            {
-                                "url": "/category/boku-no-hero-academia-7th-season",
-                                "title": "Boku no Hero Academia 7th Season",
-                                "thumbnail_url": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png"
-                            },
-                            {
-                                "url": "/category/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2",
-                                "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
-                                "thumbnail_url": "https://gogocdn.net/cover/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2-1719514641.png"
-                            },
-                            {
-                                "url": "/category/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
-                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-                                "thumbnail_url": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png"
+                                "url": "/category/seirei-gensouki-2",
+                                "title": "Seirei Gensouki 2",
+                                "thumbnail_url": "https://gogocdn.net/cover/seirei-gensouki-2-1727379332.png"
                             }
                         ],
                         "hasNextPage": true
@@ -115,6 +115,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/category/senpai-wa-otokonoko",
+                                "title": "Senpai wa Otokonoko",
+                                "thumbnail_url": "https://gogocdn.net/cover/senpai-wa-otokonoko-1719517276.png"
+                            },
                             {
                                 "url": "/category/chiikawa",
                                 "title": "Chiikawa",
@@ -208,11 +213,6 @@
                                 "url": "/category/egumi-legacy",
                                 "title": "Egumi Legacy",
                                 "thumbnail_url": "https://gogocdn.net/cover/egumi-legacy.png"
-                            },
-                            {
-                                "url": "/category/isekai-shikkaku",
-                                "title": "Isekai Shikkaku",
-                                "thumbnail_url": "https://gogocdn.net/cover/isekai-shikkaku-1726022121.png"
                             }
                         ],
                         "hasNextPage": true
@@ -366,13 +366,13 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=BvH9JJL6Yx06p0vJ3dljvw&expires=1727382597"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=gMEal5dEOHw3rw_ldDOABg&expires=1727408800"
                         }
                     },
                     {
-                        "url": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfzvxmc627lsfolxm646lkpngq43cre/video.mp4",
+                        "url": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfsfs4dgfk7v4you62edtiib7farfjl/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfzvxmc627lsfolxm646lkpngq43cre/video.mp4",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfsfs4dgfk7v4you62edtiib7farfjl/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Origin": "https://anitaku.to",
@@ -380,9 +380,9 @@
                         }
                     },
                     {
-                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=jER1QCDxvThOIU4djmCRuiR0nskyCCxcR2cewK5ya6s&s=1727375398&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=jXxgiR_xqRwNdvaEbhlGajuUKRTJsmPNEU0YwZp-Dyw&s=1727401601&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=jER1QCDxvThOIU4djmCRuiR0nskyCCxcR2cewK5ya6s&s=1727375398&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=jXxgiR_xqRwNdvaEbhlGajuUKRTJsmPNEU0YwZp-Dyw&s=1727401601&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -407,13 +407,13 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=BvH9JJL6Yx06p0vJ3dljvw&expires=1727382597"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=gMEal5dEOHw3rw_ldDOABg&expires=1727408800"
                         }
                     },
                     {
-                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=jER1QCDxvThOIU4djmCRuiR0nskyCCxcR2cewK5ya6s&s=1727375398&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=jXxgiR_xqRwNdvaEbhlGajuUKRTJsmPNEU0YwZp-Dyw&s=1727401601&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "quality": "StreamWish - 720p",
-                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=jER1QCDxvThOIU4djmCRuiR0nskyCCxcR2cewK5ya6s&s=1727375398&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=jXxgiR_xqRwNdvaEbhlGajuUKRTJsmPNEU0YwZp-Dyw&s=1727401601&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -438,13 +438,13 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=BvH9JJL6Yx06p0vJ3dljvw&expires=1727382597"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=gMEal5dEOHw3rw_ldDOABg&expires=1727408800"
                         }
                     },
                     {
-                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=jER1QCDxvThOIU4djmCRuiR0nskyCCxcR2cewK5ya6s&s=1727375398&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "url": "https://6wyav2r9i6j.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=jXxgiR_xqRwNdvaEbhlGajuUKRTJsmPNEU0YwZp-Dyw&s=1727401601&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "quality": "StreamWish - 480p",
-                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=jER1QCDxvThOIU4djmCRuiR0nskyCCxcR2cewK5ya6s&s=1727375398&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "videoUrl": "https://6wyav2r9i6j.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=jXxgiR_xqRwNdvaEbhlGajuUKRTJsmPNEU0YwZp-Dyw&s=1727401601&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -469,7 +469,7 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=BvH9JJL6Yx06p0vJ3dljvw&expires=1727382597"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=gMEal5dEOHw3rw_ldDOABg&expires=1727408800"
                         }
                     },
                     {
