@@ -292,6 +292,10 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/الكلب-يعرف-كل-شيء-الحلقة-02/",
+                        "name": "02 : الحلقة"
+                    },
+                    {
                         "url": "/الكلب-يعرف-كل-شيء-الحلقة-01/",
                         "name": "01 : الحلقة"
                     }
@@ -301,14 +305,39 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=Myqx038294UGRv&expires=1727511126&ip=G0WsD0MAKxSHDN&token=QGqmFG4eoAt2",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Myqx038294UGRv&expires=1727511126&ip=G0WsD0MAKxSHDN&token=QGqmFG4eoAt2"
+                        "url": "https://vd334.mycdn.me/?expires=1727548288573&srcIp=20.84.127.109&pr=10&srcAg=GECKO&ms=185.226.53.43&type=3&sig=c2m-9YMEun0&ct=0&urls=45.136.20.71&clientType=0&zs=43&id=6979613362845",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd334.mycdn.me/?expires=1727548288573&srcIp=20.84.127.109&pr=10&srcAg=GECKO&ms=185.226.53.43&type=3&sig=c2m-9YMEun0&ct=0&urls=45.136.20.71&clientType=0&zs=43&id=6979613362845"
                     },
                     {
-                        "url": "https://m170.uqload.ws/3rfk4jp44nw2q4drdkspvn7vl3kiqc47l3i2jh56u35wsrapok6oeiw344ga/v.mp4",
+                        "url": "https://vd334.mycdn.me/?expires=1727548288573&srcIp=20.84.127.109&pr=10&srcAg=GECKO&ms=185.226.53.43&type=2&sig=N0Bvw8WkeHk&ct=0&urls=45.136.20.71&clientType=0&zs=43&id=6979613362845",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd334.mycdn.me/?expires=1727548288573&srcIp=20.84.127.109&pr=10&srcAg=GECKO&ms=185.226.53.43&type=2&sig=N0Bvw8WkeHk&ct=0&urls=45.136.20.71&clientType=0&zs=43&id=6979613362845"
+                    },
+                    {
+                        "url": "https://vd334.mycdn.me/?expires=1727548288573&srcIp=20.84.127.109&pr=10&srcAg=GECKO&ms=185.226.53.43&type=1&sig=J5V6MNDxMFk&ct=0&urls=45.136.20.71&clientType=0&zs=43&id=6979613362845",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd334.mycdn.me/?expires=1727548288573&srcIp=20.84.127.109&pr=10&srcAg=GECKO&ms=185.226.53.43&type=1&sig=J5V6MNDxMFk&ct=0&urls=45.136.20.71&clientType=0&zs=43&id=6979613362845"
+                    },
+                    {
+                        "url": "https://vd334.mycdn.me/?expires=1727548288573&srcIp=20.84.127.109&pr=10&srcAg=GECKO&ms=185.226.53.43&type=0&sig=6DYoysrGC00&ct=0&urls=45.136.20.71&clientType=0&zs=43&id=6979613362845",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd334.mycdn.me/?expires=1727548288573&srcIp=20.84.127.109&pr=10&srcAg=GECKO&ms=185.226.53.43&type=0&sig=6DYoysrGC00&ct=0&urls=45.136.20.71&clientType=0&zs=43&id=6979613362845"
+                    },
+                    {
+                        "url": "https://vd334.mycdn.me/?expires=1727548288573&srcIp=20.84.127.109&pr=10&srcAg=GECKO&ms=185.226.53.43&type=4&sig=-haF_-wW9G4&ct=0&urls=45.136.20.71&clientType=0&zs=43&id=6979613362845",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd334.mycdn.me/?expires=1727548288573&srcIp=20.84.127.109&pr=10&srcAg=GECKO&ms=185.226.53.43&type=4&sig=-haF_-wW9G4&ct=0&urls=45.136.20.71&clientType=0&zs=43&id=6979613362845"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=KkjwXKr2j0SABx&expires=1727531890&ip=FROsFxqnDS9X&token=db10G0lpTW3N",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=KkjwXKr2j0SABx&expires=1727531890&ip=FROsFxqnDS9X&token=db10G0lpTW3N"
+                    },
+                    {
+                        "url": "https://m160.uqload.ws/3rfkxzpl4nw2q4drdkspv7vjbluqsydqqwkvadb43asw34242qnqlybjfnca/v.mp4",
                         "quality": "Uqload",
-                        "videoUrl": "https://m170.uqload.ws/3rfk4jp44nw2q4drdkspvn7vl3kiqc47l3i2jh56u35wsrapok6oeiw344ga/v.mp4",
+                        "videoUrl": "https://m160.uqload.ws/3rfkxzpl4nw2q4drdkspv7vjbluqsydqqwkvadb43asw34242qnqlybjfnca/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.co/"
                         }
