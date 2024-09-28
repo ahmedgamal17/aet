@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/if-you-wish-upon-me/",
+                                "title": "If You Wish Upon Me",
+                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2022/08/If-You-Wish-Upon-Me.jpg"
+                            },
+                            {
+                                "url": "/series/neymar-the-perfect-chaos/",
+                                "title": "Neymar: The Perfect Chaos",
+                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2022/01/مسلسل-Neymar-The-Perfect-Chaos-الموسم-الاول.jpg"
+                            },
+                            {
                                 "url": "/series/مسلسل-the-umbrella-academy/",
                                 "title": "مسلسل The Umbrella Academy",
                                 "thumbnail_url": "https://wecima.movie/wp-content/uploads/2019/04/tt1312171--351x520.jpg"
@@ -42,16 +52,6 @@
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/06/مسلسل-Loki-موسم-1.jpg"
                             },
                             {
-                                "url": "/series/if-you-wish-upon-me/",
-                                "title": "If You Wish Upon Me",
-                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2022/08/If-You-Wish-Upon-Me.jpg"
-                            },
-                            {
-                                "url": "/series/neymar-the-perfect-chaos/",
-                                "title": "Neymar: The Perfect Chaos",
-                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2022/01/مسلسل-Neymar-The-Perfect-Chaos-الموسم-الاول.jpg"
-                            },
-                            {
                                 "url": "/series/navarasa/",
                                 "title": "Navarasa",
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/08/مسلسل-Navarasa-موسم-1.jpg"
@@ -67,16 +67,6 @@
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2022/04/Who-Rules-The-World-2022.jpg"
                             },
                             {
-                                "url": "/series/الكفارة/",
-                                "title": "الكفارة",
-                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2020/11/الكفارة.jpg"
-                            },
-                            {
-                                "url": "/series/prosecution-elite/",
-                                "title": "Prosecution Elite",
-                                "thumbnail_url": "https://mycima.wecima.cam/wp-content/uploads/2023/06/Prosecution-Elite-موسم-1.jpg"
-                            },
-                            {
                                 "url": "/series/sell-your-haunted-house/",
                                 "title": "Sell Your Haunted House",
                                 "thumbnail_url": "https://wecima.tube/wp-content/uploads/2021/04/MV5BYzUzOWUwNDAtMTZkOS00NDg4LTgwN2UtNGUzMzI0NWVmZTgyXkEyXkFqcGdeQXVyNDU4MDQ0MjM@._V1_UY12002106411335.jpg"
@@ -90,6 +80,16 @@
                                 "url": "/series/the-last-of-us/",
                                 "title": "The Last of Us",
                                 "thumbnail_url": "https://myciiima.autos/wp-content/uploads/2023/01/مسلسل-The-Last-of-Us-الموسم-الاول.jpg"
+                            },
+                            {
+                                "url": "/series/الكفارة/",
+                                "title": "الكفارة",
+                                "thumbnail_url": "https://wecima.tube/wp-content/uploads/2020/11/الكفارة.jpg"
+                            },
+                            {
+                                "url": "/series/prosecution-elite/",
+                                "title": "Prosecution Elite",
+                                "thumbnail_url": "https://mycima.wecima.cam/wp-content/uploads/2023/06/Prosecution-Elite-موسم-1.jpg"
                             },
                             {
                                 "url": "/series/the-chosen/",
@@ -574,11 +574,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/مسلسل-the-umbrella-academy/",
-                    "title": "مسلسل The Umbrella Academy",
-                    "author": "",
-                    "description": "",
-                    "genre": "اكشن",
+                    "url": "/series/if-you-wish-upon-me/",
+                    "title": "If You Wish Upon Me",
+                    "author": "A&E Studios, Climax Studio",
+                    "description": "Alternative Name: إذا قلت أمنيتك If You Wish Upon Me",
+                    "genre": "دراما",
                     "initialized": true
                 },
                 "passed": true
@@ -586,14 +586,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/مشاهدة-مسلسل-the-umbrella-academy-موسم-4-حلقة-6-والاخيرة/",
-                        "name": "الموسم 4 : الحلقة 6",
-                        "episode_number": 4.6
+                        "url": "/watch/مشاهدة-مسلسل-if-you-wish-upon-me-موسم-1-حلقة-16-والاخيرة/",
+                        "name": "الموسم 1 : الحلقة 16",
+                        "episode_number": 1.16
                     },
                     {
-                        "url": "/watch/مشاهدة-مسلسل-the-umbrella-academy-موسم-4-حلقة-5/",
-                        "name": "الموسم 4 : الحلقة 5",
-                        "episode_number": 4.5
+                        "url": "/watch/مشاهدة-مسلسل-if-you-wish-upon-me-موسم-1-حلقة-15/",
+                        "name": "الموسم 1 : الحلقة 15",
+                        "episode_number": 1.15
                     }
                 ],
                 "passed": true
@@ -601,24 +601,27 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://3g3xcvx1.zfghrew10.shop/to3qvk7djvvsy46b3vsgxn5cjytz76w7egh6k3tftz7zc2yfouzm7hnufwgq/v.mp4",
-                        "quality": "Vidbom: 544p",
-                        "videoUrl": "https://3g3xcvx1.zfghrew10.shop/to3qvk7djvvsy46b3vsgxn5cjytz76w7egh6k3tftz7zc2yfouzm7hnufwgq/v.mp4"
+                        "url": "https://m160.uqload.ws/3rfkyw2sxvw2q4drdjipjlfzauqcp3sbh6denonhthif2bhphtkeugclikla/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m160.uqload.ws/3rfkyw2sxvw2q4drdjipjlfzauqcp3sbh6denonhthif2bhphtkeugclikla/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
                     },
                     {
-                        "url": "https://no6x-01.ukra1.shop/hls/,pdomami6ocm4f4kmlf6sd23rfpwgw3bkgtujqvrpkt2bvvfsxzllmervdnmq,.urlset/master.m3u8",
+                        "url": "https://3g3xcvx1.zfghrew10.shop/to3qxplljbvsy46b3uvgx7vejpc73lbvamjclsxzcso7hxrymq2jntapknbq/v.mp4",
+                        "quality": "Vidbom: 584p",
+                        "videoUrl": "https://3g3xcvx1.zfghrew10.shop/to3qxplljbvsy46b3uvgx7vejpc73lbvamjclsxzcso7hxrymq2jntapknbq/v.mp4"
+                    },
+                    {
+                        "url": "https://nox8-07.ukra1.shop/hls/,pdomolwdpom4f4kmlhlcf7dwpww75obma6t3mc6envemmvajca5uwtkdyl5q,.urlset/master.m3u8",
                         "quality": "Vidshare: 480p",
-                        "videoUrl": "https://no6x-01.ukra1.shop/hls/,pdomami6ocm4f4kmlf6sd23rfpwgw3bkgtujqvrpkt2bvvfsxzllmervdnmq,.urlset/master.m3u8"
+                        "videoUrl": "https://nox8-07.ukra1.shop/hls/,pdomolwdpom4f4kmlhlcf7dwpww75obma6t3mc6envemmvajca5uwtkdyl5q,.urlset/master.m3u8"
                     },
                     {
-                        "url": "https://nxxn53-14.times20qu20.shop/6jmnq4hk2mazsalrivlaf5pjk4jt2fnq2anoqln6im7l2vqxvrbnfana2wlq/v.mp4",
-                        "quality": "Vidbom: 544p",
-                        "videoUrl": "https://nxxn53-14.times20qu20.shop/6jmnq4hk2mazsalrivlaf5pjk4jt2fnq2anoqln6im7l2vqxvrbnfana2wlq/v.mp4"
-                    },
-                    {
-                        "url": "https://wecima.movie/run/4d576c9877d833a97b9c76dafe07065299b95e37878439c37dfb21042fbca2008c17e588fe7ea5fc07e1c52de7f1b6bcc06374ece70927eaf4380d6c6f40c734ca7677e4d469511d403656e6d6aaa030dd2bf9dcbe7f23c54aa6a9a65f2533e87b2c9d/?Key=yDbqfuzcXHgh1e3gmT8sFw&Expires=1727498766&auto=true",
+                        "url": "https://wecima.movie/run/4d0c05c713fb1dcfd661d6dbeb10c11071dae2caad0564b3681142f760e857286565fed8adacc94655335a40f64bc84052d06e1235c2f8fdfd4fd1535dcd5959a64b938e0ff8f4f97e745a2c22349072e6201235425603e344fc7acfdf052079251363/?Key=fr9xx3gohD8TSJw-R2otNw&Expires=1727514293&auto=true",
                         "quality": "Default (may take a while)",
-                        "videoUrl": "https://wecima.movie/run/4d576c9877d833a97b9c76dafe07065299b95e37878439c37dfb21042fbca2008c17e588fe7ea5fc07e1c52de7f1b6bcc06374ece70927eaf4380d6c6f40c734ca7677e4d469511d403656e6d6aaa030dd2bf9dcbe7f23c54aa6a9a65f2533e87b2c9d/?Key=yDbqfuzcXHgh1e3gmT8sFw&Expires=1727498766&auto=true",
+                        "videoUrl": "https://wecima.movie/run/4d0c05c713fb1dcfd661d6dbeb10c11071dae2caad0564b3681142f760e857286565fed8adacc94655335a40f64bc84052d06e1235c2f8fdfd4fd1535dcd5959a64b938e0ff8f4f97e745a2c22349072e6201235425603e344fc7acfdf052079251363/?Key=fr9xx3gohD8TSJw-R2otNw&Expires=1727514293&auto=true",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://wecima.show/"
