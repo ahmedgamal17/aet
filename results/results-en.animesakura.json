@@ -3,26 +3,23 @@
         "name": "Anime Sakura (EN)",
         "results": {
             "popular": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected quotation mark '\"', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<html>\n    <he.....",
+                "error": "java.net.UnknownHostException: mkvseries.com: Temporary failure in name resolution",
                 "passed": false
             },
             "latest": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected quotation mark '\"', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<html>\n    <he.....",
+                "error": "java.net.UnknownHostException: mkvseries.com",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: mkvseries.com",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "description": "\n\n",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.UnknownHostException: mkvseries.com",
+                "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.net.UnknownHostException: mkvseries.com",
                 "passed": false
             },
             "videos": {

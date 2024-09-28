@@ -1,6 +1,6 @@
 ## Extension status
 
-### 36/88(41%) are working
+### 37/88(42%) are working
 
 | Extension            |  Status   | Log                                                                                                                                       |
 | :------------------- | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -47,7 +47,7 @@
 | en.animeowl          | ❌<br>1/6  | [results-en.animeowl.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animeowl.json)                   |
 | en.animepahe         |     ✅     | [results-en.animepahe.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animepahe.json)                 |
 | en.animeparadise     | ❌<br>5/6  | [results-en.animeparadise.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animeparadise.json)         |
-| en.animesakura       | ❌<br>1/6  | [results-en.animesakura.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animesakura.json)             |
+| en.animesakura       | ❌<br>0/6  | [results-en.animesakura.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animesakura.json)             |
 | en.animetake         | ❌<br>0/6  | [results-en.animetake.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animetake.json)                 |
 | en.asiaflix          | ❌<br>0/6  | [results-en.asiaflix.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.asiaflix.json)                   |
 | en.asianload         | ❌<br>0/5  | [results-en.asianload.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.asianload.json)                 |
@@ -71,7 +71,7 @@
 | en.kimoitv           | ❌<br>0/6  | [results-en.kimoitv.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kimoitv.json)                     |
 | en.kissanime         | ❌<br>0/6  | [results-en.kissanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kissanime.json)                 |
 | en.kisskh            |     ✅     | [results-en.kisskh.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kisskh.json)                       |
-| en.luciferdonghua    | ❌<br>5/6  | [results-en.luciferdonghua.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.luciferdonghua.json)       |
+| en.luciferdonghua    |     ✅     | [results-en.luciferdonghua.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.luciferdonghua.json)       |
 | en.multimovies       | ❌<br>0/6  | [results-en.multimovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.multimovies.json)             |
 | en.myanime           |     ✅     | [results-en.myanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.myanime.json)                     |
 | en.myrunningman      | ❌<br>5/6  | [results-en.myrunningman.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.myrunningman.json)           |
