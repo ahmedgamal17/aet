@@ -12,7 +12,7 @@
                                 "artist": "Harold Perrineau, Catalina Sandino Moreno, Eion Bailey, Hannah Cheramy",
                                 "author": "",
                                 "description": "Unravel the mystery of a city in middle U.S.A. that imprisons everyone who enters. As the residents struggle to maintain a sense of normality and seek a way out, they must also survive the threats of the surrounding forest.",
-                                "genre": "Mystery & Thriller, Drama, Horror, Science-Fiction",
+                                "genre": "Drama, Horror, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/304461294/s276/from.webp",
                                 "initialized": true
                             },
@@ -112,7 +112,7 @@
                                 "artist": "Steve Martin, Martin Short, Selena Gomez, Michael Cyril Creighton",
                                 "author": "",
                                 "description": "Three strangers - who live in the same New York City apartment building and share an obsession with true crime - suddenly find themselves embroiled in a murder.",
-                                "genre": "Mystery & Thriller, Comedy, Crime, Drama",
+                                "genre": "Drama, Mystery & Thriller, Comedy, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/306764050/s276/only-murders-in-the-building.webp",
                                 "initialized": true
                             },
@@ -202,7 +202,7 @@
                                 "artist": "Zendaya, Mike Faist, Josh O'Connor, Darnell Appling",
                                 "author": "Luca Guadagnino",
                                 "description": "Tennis player turned coach Tashi has taken her husband, Art, and transformed him into a world-famous Grand Slam champion. To jolt him out of his recent losing streak, she signs him up for a \"Challenger\" event — close to the lowest level of pro tournament — where he finds himself standing across the net from his former best friend and Tashi's former boyfriend.",
-                                "genre": "Romance, Drama, Sport, Comedy",
+                                "genre": "Romance, Drama, Comedy, Sport",
                                 "thumbnail_url": "https://images.justwatch.com/poster/312170745/s276/challengers.webp",
                                 "initialized": true
                             },
@@ -262,7 +262,7 @@
                                 "artist": "Daisy Edgar-Jones, Glen Powell, Anthony Ramos, Brandon Perea",
                                 "author": "Lee Isaac Chung",
                                 "description": "As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
-                                "genre": "Mystery & Thriller, Action & Adventure",
+                                "genre": "Action & Adventure, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/315736719/s276/twisters.webp",
                                 "initialized": true
                             },
@@ -322,7 +322,7 @@
                                 "artist": "Ryan Reynolds, Hugh Jackman, Emma Corrin, Matthew Macfadyen",
                                 "author": "Shawn Levy",
                                 "description": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
-                                "genre": "Science-Fiction, Action & Adventure, Comedy",
+                                "genre": "Action & Adventure, Comedy, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/318387357/s276/deadpool-3.webp",
                                 "initialized": true
                             },
@@ -342,7 +342,7 @@
                                 "artist": "Jeff Bridges, John Lithgow, Alia Shawkat, Navid Negahban",
                                 "author": "",
                                 "description": "Dan Chase absconded from the CIA decades ago and now lives off the grid. When an assassin arrives and tries to take Chase out, the old operative learns that to ensure his future he now must reconcile his past.",
-                                "genre": "Drama, Action & Adventure, Mystery & Thriller",
+                                "genre": "Action & Adventure, Drama, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/283944641/s276/the-old-man.webp",
                                 "initialized": true
                             },
@@ -362,7 +362,7 @@
                                 "artist": "Josh Hartnett, Ariel Donoghue, Saleka, Alison Pill",
                                 "author": "M. Night Shyamalan",
                                 "description": "A father and teen daughter attend a pop concert, where they realize they're at the center of a dark and sinister event.",
-                                "genre": "Horror, Mystery & Thriller, Crime",
+                                "genre": "Mystery & Thriller, Crime, Horror",
                                 "thumbnail_url": "https://images.justwatch.com/poster/319859347/s276/trap-2024.webp",
                                 "initialized": true
                             },
@@ -667,16 +667,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt6819736,SHOW,/us/tv-show/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us",
-                                "title": "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
-                                "artist": "Ryohei Arai, Azusa Tadokoro, Akari Uehara, Satomi Sato",
-                                "author": "",
-                                "description": "The fleeting and sad story about little girls known as fairy weapons and an associate hero that survived. This is a world after it was attacked by unidentified monsters known as beasts and many of the species in the world, including humans, had been destroyed. The species that had managed to survived left the ground and were living on a floating island called Regal Ele. Willem Kmetsch wakes up above the clouds 500 years later and couldn’t protect the ones who he wanted to protect. Actually, he was living in despair because he was the only survivor.",
-                                "genre": "Action & Adventure, Science-Fiction, Fantasy, Romance, Animation, Drama",
-                                "thumbnail_url": "https://images.justwatch.com/poster/307402070/s276/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt10739764,SHOW,/us/tv-show/worlds-greatest-palaces",
                                 "title": "World's Greatest Palaces",
                                 "artist": "Christien Anholt",
@@ -684,6 +674,16 @@
                                 "description": "The history of the greatest and most lavish palaces in the world.",
                                 "genre": "Documentary, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/173301144/s276/worlds-greatest-palaces.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt6819736,SHOW,/us/tv-show/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us",
+                                "title": "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
+                                "artist": "Ryohei Arai, Azusa Tadokoro, Akari Uehara, Satomi Sato",
+                                "author": "",
+                                "description": "The fleeting and sad story about little girls known as fairy weapons and an associate hero that survived. This is a world after it was attacked by unidentified monsters known as beasts and many of the species in the world, including humans, had been destroyed. The species that had managed to survived left the ground and were living on a floating island called Regal Ele. Willem Kmetsch wakes up above the clouds 500 years later and couldn’t protect the ones who he wanted to protect. Actually, he was living in despair because he was the only survivor.",
+                                "genre": "Action & Adventure, Science-Fiction, Animation, Drama, Fantasy, Romance",
+                                "thumbnail_url": "https://images.justwatch.com/poster/307402070/s276/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us.webp",
                                 "initialized": true
                             },
                             {
@@ -707,16 +707,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
-                                "title": "World's End Harem",
-                                "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
-                                "author": "",
-                                "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
-                                "genre": "Animation, Drama, Science-Fiction, Mystery & Thriller, Romance",
-                                "thumbnail_url": "https://images.justwatch.com/poster/320028644/s276/worlds-end-harem.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
                                 "title": "Jurassic World Dominion",
                                 "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
@@ -724,6 +714,16 @@
                                 "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
                                 "genre": "Science-Fiction, Action & Adventure, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
+                                "title": "World's End Harem",
+                                "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
+                                "author": "",
+                                "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
+                                "genre": "Animation, Drama, Science-Fiction, Mystery & Thriller, Romance",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320028644/s276/worlds-end-harem.webp",
                                 "initialized": true
                             },
                             {
@@ -777,16 +777,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0155394,SHOW,/us/tv-show/worlds-wildest-police-videos",
-                                "title": "World's Wildest Police Videos",
-                                "artist": "John Bunnell",
-                                "author": "",
-                                "description": "An American reality TV series that deals with police videos from across the world. Video footage of car chases, subsequent arrests, robberies, riots and other crimes appears on the show.",
-                                "genre": "Action & Adventure, Comedy, Crime, Reality TV, Documentary",
-                                "thumbnail_url": "https://images.justwatch.com/poster/177620157/s276/worlds-wildest-police-videos.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
                                 "title": "The World Wars",
                                 "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
@@ -794,6 +784,16 @@
                                 "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
                                 "genre": "Documentary, War & Military, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/176468126/s276/the-world-wars.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0155394,SHOW,/us/tv-show/worlds-wildest-police-videos",
+                                "title": "World's Wildest Police Videos",
+                                "artist": "John Bunnell",
+                                "author": "",
+                                "description": "An American reality TV series that deals with police videos from across the world. Video footage of car chases, subsequent arrests, robberies, riots and other crimes appears on the show.",
+                                "genre": "Action & Adventure, Comedy, Crime, Reality TV, Documentary",
+                                "thumbnail_url": "https://images.justwatch.com/poster/177620157/s276/worlds-wildest-police-videos.webp",
                                 "initialized": true
                             },
                             {
@@ -807,13 +807,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt3909336,MOVIE,/us/movie/worlds-apart-2015",
-                                "title": "Worlds Apart",
-                                "artist": "J.K. Simmons, Maria Kavoyianni, Andrea Osvárt, Christopher Papakaliatis",
-                                "author": "Christopher Papakaliatis",
-                                "description": "Three separate narratives each following a love story between a foreigner and a Greek. Each story represents a different generation falling in love during a time of socioeconomic turmoil that dominates Southern Europe as a whole, only to connect as a single story in the end.",
-                                "genre": "Drama, Romance",
-                                "thumbnail_url": "https://images.justwatch.com/poster/45122637/s276/worlds-apart-2015.webp",
+                                "url": "tt9738716,MOVIE,/us/movie/the-world-to-come",
+                                "title": "The World to Come",
+                                "artist": "Katherine Waterston, Casey Affleck, Vanessa Kirby, Christopher Abbott",
+                                "author": "Mona Fastvold",
+                                "description": "In 1856, two women forge a close connection despite their isolation on the American frontier.",
+                                "genre": "Western, Romance, Drama, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/301898205/s276/the-world-to-come.webp",
                                 "initialized": true
                             }
                         ],
@@ -829,7 +829,7 @@
                     "artist": "Harold Perrineau, Catalina Sandino Moreno, Eion Bailey, Hannah Cheramy",
                     "author": "",
                     "description": "Unravel the mystery of a city in middle U.S.A. that imprisons everyone who enters. As the residents struggle to maintain a sense of normality and seek a way out, they must also survive the threats of the surrounding forest.",
-                    "genre": "Mystery & Thriller, Drama, Horror, Science-Fiction",
+                    "genre": "Drama, Horror, Science-Fiction, Mystery & Thriller",
                     "thumbnail_url": "https://images.justwatch.com/poster/304461294/s718/from.webp",
                     "initialized": true
                 },
