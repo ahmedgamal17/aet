@@ -545,9 +545,114 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-241210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEuENvNC8aNEVEtEvE9IMvXBvE2ENvNCImNEVEIj0Y2J_aug859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859IB_&uipk=5&nbs=1&deadline=1727668233&gen=playurlv2&os=akam&oi=1729874767&trid=5491d01b43f0420bbad6317ce3f5ba04i&mid=1040037567&platform=android&upsig=1f631a9c5b5670474cafed6189082975&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727668233~hmac=ece95ae9e2026c42ec106f043563ae76954a9fc3ee685f9c82e6e0c1f3c00d1a&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-261220110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=b6ae727d68534b5c89b4984b928b0d73i&mid=1040037567&platform=pc&upsig=4567d6f38500b988bb06d62bcca73a30&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=7e0726dd7bf444f0b6e834e924820925bd4cde54dcb58c4aa6e8d472ad3d889e&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "quality": "BirdStream - 1080p - 1.70 MB/s",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-261220110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=b6ae727d68534b5c89b4984b928b0d73i&mid=1040037567&platform=pc&upsig=4567d6f38500b988bb06d62bcca73a30&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=7e0726dd7bf444f0b6e834e924820925bd4cde54dcb58c4aa6e8d472ad3d889e&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_zh_hans.vtt",
+                                "lang": "中文（简体） (zh-Hans)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_th.vtt",
+                                "lang": "ภาษาไทย (th)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_ms.vtt",
+                                "lang": "Bahasa Melayu (ms)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_en.vtt",
+                                "lang": "English (en)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_id.vtt",
+                                "lang": "Bahasa Indonesia (id)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_vi.vtt",
+                                "lang": "Tiếng Việt (vi)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-261210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=732ce41b2b744de28b8eec9ec1a146a0i&mid=1040037567&platform=pc&upsig=307cc18ea81fc2404f6bd07c9bf18bca&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=e9da5c0c1f22de5dbc8b08fe5f47b0603e9809ddec2f38e25e3b2d57fcbd2c27&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "quality": "BirdStream - 1080p - 2.70 MB/s",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-261210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=732ce41b2b744de28b8eec9ec1a146a0i&mid=1040037567&platform=pc&upsig=307cc18ea81fc2404f6bd07c9bf18bca&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=e9da5c0c1f22de5dbc8b08fe5f47b0603e9809ddec2f38e25e3b2d57fcbd2c27&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_zh_hans.vtt",
+                                "lang": "中文（简体） (zh-Hans)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_th.vtt",
+                                "lang": "ภาษาไทย (th)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_ms.vtt",
+                                "lang": "Bahasa Melayu (ms)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_en.vtt",
+                                "lang": "English (en)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_id.vtt",
+                                "lang": "Bahasa Indonesia (id)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_vi.vtt",
+                                "lang": "Tiếng Việt (vi)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-241220110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=b6ae727d68534b5c89b4984b928b0d73i&mid=1040037567&platform=pc&upsig=843f9c657334dbe98e3d8eb0361aed9b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=e900d5ff454716a799fcf7e42c5a4cc50f811ac1a677195b4e7ae42cb2447ad3&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "quality": "BirdStream - 720p - 305.91 KB/s",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-241220110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=b6ae727d68534b5c89b4984b928b0d73i&mid=1040037567&platform=pc&upsig=843f9c657334dbe98e3d8eb0361aed9b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=e900d5ff454716a799fcf7e42c5a4cc50f811ac1a677195b4e7ae42cb2447ad3&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_zh_hans.vtt",
+                                "lang": "中文（简体） (zh-Hans)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_th.vtt",
+                                "lang": "ภาษาไทย (th)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_ms.vtt",
+                                "lang": "Bahasa Melayu (ms)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_en.vtt",
+                                "lang": "English (en)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_id.vtt",
+                                "lang": "Bahasa Indonesia (id)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_vi.vtt",
+                                "lang": "Tiếng Việt (vi)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-241210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=732ce41b2b744de28b8eec9ec1a146a0i&mid=1040037567&platform=pc&upsig=9645f04859653cf9f9aa919578fa9cd7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=789685ac5f27f77321e261af6e8f34770d75ce13fb460b4e89616638bf21380d&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
                         "quality": "BirdStream - 720p - 631.73 KB/s",
-                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-241210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEuENvNC8aNEVEtEvE9IMvXBvE2ENvNCImNEVEIj0Y2J_aug859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859IB_&uipk=5&nbs=1&deadline=1727668233&gen=playurlv2&os=akam&oi=1729874767&trid=5491d01b43f0420bbad6317ce3f5ba04i&mid=1040037567&platform=android&upsig=1f631a9c5b5670474cafed6189082975&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727668233~hmac=ece95ae9e2026c42ec106f043563ae76954a9fc3ee685f9c82e6e0c1f3c00d1a&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-241210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=732ce41b2b744de28b8eec9ec1a146a0i&mid=1040037567&platform=pc&upsig=9645f04859653cf9f9aa919578fa9cd7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=789685ac5f27f77321e261af6e8f34770d75ce13fb460b4e89616638bf21380d&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -580,9 +685,44 @@
                         ]
                     },
                     {
-                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-231210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEuENvNC8aNEVEtEvE9IMvXBvE2ENvNCImNEVEIj0Y2J_aug859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859IB_&uipk=5&nbs=1&deadline=1727668233&gen=playurlv2&os=akam&oi=1729874767&trid=5491d01b43f0420bbad6317ce3f5ba04i&mid=1040037567&platform=android&upsig=10068d0ed5617dd7c856a9ebb5980a3e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727668233~hmac=bb5b439edeb46ded7f32da2af8540b8f17ce6c4133fadc26154cc704c28854c9&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-231220110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=b6ae727d68534b5c89b4984b928b0d73i&mid=1040037567&platform=pc&upsig=c83256335b97cae9389f5f7c7ab7a32e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=c407df84d2a5c2866562108bac40435bfa920a4a5bd7af808d55f0f225096881&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "quality": "BirdStream - 480p - 187.73 KB/s",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-231220110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=b6ae727d68534b5c89b4984b928b0d73i&mid=1040037567&platform=pc&upsig=c83256335b97cae9389f5f7c7ab7a32e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=c407df84d2a5c2866562108bac40435bfa920a4a5bd7af808d55f0f225096881&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_zh_hans.vtt",
+                                "lang": "中文（简体） (zh-Hans)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_th.vtt",
+                                "lang": "ภาษาไทย (th)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_ms.vtt",
+                                "lang": "Bahasa Melayu (ms)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_en.vtt",
+                                "lang": "English (en)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_id.vtt",
+                                "lang": "Bahasa Indonesia (id)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_vi.vtt",
+                                "lang": "Tiếng Việt (vi)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-231210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=732ce41b2b744de28b8eec9ec1a146a0i&mid=1040037567&platform=pc&upsig=209f8fa1cf41a4850879f372821870b9&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=b07171fbba49a85317064a85758be9ff345fda50139643beb1e73bb22926646b&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
                         "quality": "BirdStream - 480p - 350.15 KB/s",
-                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-231210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEuENvNC8aNEVEtEvE9IMvXBvE2ENvNCImNEVEIj0Y2J_aug859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859IB_&uipk=5&nbs=1&deadline=1727668233&gen=playurlv2&os=akam&oi=1729874767&trid=5491d01b43f0420bbad6317ce3f5ba04i&mid=1040037567&platform=android&upsig=10068d0ed5617dd7c856a9ebb5980a3e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727668233~hmac=bb5b439edeb46ded7f32da2af8540b8f17ce6c4133fadc26154cc704c28854c9&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-231210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=732ce41b2b744de28b8eec9ec1a146a0i&mid=1040037567&platform=pc&upsig=209f8fa1cf41a4850879f372821870b9&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=b07171fbba49a85317064a85758be9ff345fda50139643beb1e73bb22926646b&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -615,9 +755,9 @@
                         ]
                     },
                     {
-                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-211210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEuENvNC8aNEVEtEvE9IMvXBvE2ENvNCImNEVEIj0Y2J_aug859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859IB_&uipk=5&nbs=1&deadline=1727668233&gen=playurlv2&os=akam&oi=1729874767&trid=5491d01b43f0420bbad6317ce3f5ba04i&mid=1040037567&platform=android&upsig=dec19537423f73cd103609f6055249dc&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727668233~hmac=627ef58dc55f68ae2202ba413b22cc3a6ef075624b088bf379ee5742e1d27b70&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-211210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=732ce41b2b744de28b8eec9ec1a146a0i&mid=1040037567&platform=pc&upsig=48a6679e8c05648739bb74b2cb5b2618&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=f1e6467e68dfade9a90b3a53bf1a0dee4fa38c27ce11a3ce1f4003c5b80bd4a6&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
                         "quality": "BirdStream - 360p - 231.98 KB/s",
-                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-211210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEuENvNC8aNEVEtEvE9IMvXBvE2ENvNCImNEVEIj0Y2J_aug859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859IB_&uipk=5&nbs=1&deadline=1727668233&gen=playurlv2&os=akam&oi=1729874767&trid=5491d01b43f0420bbad6317ce3f5ba04i&mid=1040037567&platform=android&upsig=dec19537423f73cd103609f6055249dc&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727668233~hmac=627ef58dc55f68ae2202ba413b22cc3a6ef075624b088bf379ee5742e1d27b70&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-211210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=732ce41b2b744de28b8eec9ec1a146a0i&mid=1040037567&platform=pc&upsig=48a6679e8c05648739bb74b2cb5b2618&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=f1e6467e68dfade9a90b3a53bf1a0dee4fa38c27ce11a3ce1f4003c5b80bd4a6&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -650,9 +790,44 @@
                         ]
                     },
                     {
-                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-2e1210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEuENvNC8aNEVEtEvE9IMvXBvE2ENvNCImNEVEIj0Y2J_aug859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859IB_&uipk=5&nbs=1&deadline=1727668233&gen=playurlv2&os=akam&oi=1729874767&trid=5491d01b43f0420bbad6317ce3f5ba04i&mid=1040037567&platform=android&upsig=4a5a7aab1df834d9b0158248f3dd1415&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727668233~hmac=1528a2202462d15d0a902f85f19330803f11e1200ac77d54943ab3ac84d1b97a&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-211220110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=b6ae727d68534b5c89b4984b928b0d73i&mid=1040037567&platform=pc&upsig=022664423301ac972be67a03a8d5dd1a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=82e8fdb0d30d421d986a7569b6100fb00aee4f455306e4ac461a689bf48a63e5&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "quality": "BirdStream - 360p - 129.93 KB/s",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-211220110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=b6ae727d68534b5c89b4984b928b0d73i&mid=1040037567&platform=pc&upsig=022664423301ac972be67a03a8d5dd1a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=82e8fdb0d30d421d986a7569b6100fb00aee4f455306e4ac461a689bf48a63e5&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_zh_hans.vtt",
+                                "lang": "中文（简体） (zh-Hans)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_th.vtt",
+                                "lang": "ภาษาไทย (th)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_ms.vtt",
+                                "lang": "Bahasa Melayu (ms)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_en.vtt",
+                                "lang": "English (en)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_id.vtt",
+                                "lang": "Bahasa Indonesia (id)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_vi.vtt",
+                                "lang": "Tiếng Việt (vi)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-2e1210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=732ce41b2b744de28b8eec9ec1a146a0i&mid=1040037567&platform=pc&upsig=6b7afff01cd7004fe693285ded0324fd&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=c6e3290f8fdff71c0d2f94b4e48a769e5e43c97530d83141e3a25d9a3026a415&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
                         "quality": "BirdStream - 240p - 127.97 KB/s",
-                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-2e1210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEuENvNC8aNEVEtEvE9IMvXBvE2ENvNCImNEVEIj0Y2J_aug859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859IB_&uipk=5&nbs=1&deadline=1727668233&gen=playurlv2&os=akam&oi=1729874767&trid=5491d01b43f0420bbad6317ce3f5ba04i&mid=1040037567&platform=android&upsig=4a5a7aab1df834d9b0158248f3dd1415&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727668233~hmac=1528a2202462d15d0a902f85f19330803f11e1200ac77d54943ab3ac84d1b97a&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-2e1210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=732ce41b2b744de28b8eec9ec1a146a0i&mid=1040037567&platform=pc&upsig=6b7afff01cd7004fe693285ded0324fd&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=c6e3290f8fdff71c0d2f94b4e48a769e5e43c97530d83141e3a25d9a3026a415&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -685,9 +860,79 @@
                         ]
                     },
                     {
-                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-2f1210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEuENvNC8aNEVEtEvE9IMvXBvE2ENvNCImNEVEIj0Y2J_aug859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859IB_&uipk=5&nbs=1&deadline=1727668233&gen=playurlv2&os=akam&oi=1729874767&trid=5491d01b43f0420bbad6317ce3f5ba04i&mid=1040037567&platform=android&upsig=4d72ff1849436bfa7715954512109ab7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727668233~hmac=1082367f52e02e08e0225c0bff8842c24f44ddec199ef6355b28d355d9ad48fe&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-2e1220110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=b6ae727d68534b5c89b4984b928b0d73i&mid=1040037567&platform=pc&upsig=79c421273f35c86c13b49ce3a951ab8c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=831bdcb60e79bfb735f8df9f6174e1d5ba7b1fdeab0cf45a42f7cab0e222a832&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "quality": "BirdStream - 240p - 77.55 KB/s",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-2e1220110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=b6ae727d68534b5c89b4984b928b0d73i&mid=1040037567&platform=pc&upsig=79c421273f35c86c13b49ce3a951ab8c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=831bdcb60e79bfb735f8df9f6174e1d5ba7b1fdeab0cf45a42f7cab0e222a832&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_zh_hans.vtt",
+                                "lang": "中文（简体） (zh-Hans)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_th.vtt",
+                                "lang": "ภาษาไทย (th)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_ms.vtt",
+                                "lang": "Bahasa Melayu (ms)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_en.vtt",
+                                "lang": "English (en)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_id.vtt",
+                                "lang": "Bahasa Indonesia (id)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_vi.vtt",
+                                "lang": "Tiếng Việt (vi)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-2f1220110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=b6ae727d68534b5c89b4984b928b0d73i&mid=1040037567&platform=pc&upsig=6177c454a160fcaaeb74a85b132d7e38&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=9c30220703c9e13b9115f49b4aa172a3b8ced82af52fab0df6792b9a47b5343b&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "quality": "BirdStream - 144p - 40.71 KB/s",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-2f1220110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=b6ae727d68534b5c89b4984b928b0d73i&mid=1040037567&platform=pc&upsig=6177c454a160fcaaeb74a85b132d7e38&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=9c30220703c9e13b9115f49b4aa172a3b8ced82af52fab0df6792b9a47b5343b&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_zh_hans.vtt",
+                                "lang": "中文（简体） (zh-Hans)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_th.vtt",
+                                "lang": "ภาษาไทย (th)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_ms.vtt",
+                                "lang": "Bahasa Melayu (ms)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_en.vtt",
+                                "lang": "English (en)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_id.vtt",
+                                "lang": "Bahasa Indonesia (id)"
+                            },
+                            {
+                                "url": "https://vidco.pro/pinky-assets/subtitles/cb8712e7_vi.vtt",
+                                "lang": "Tiếng Việt (vi)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-2f1210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=732ce41b2b744de28b8eec9ec1a146a0i&mid=1040037567&platform=pc&upsig=8dfd540bee5796771e8513338df78588&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=f2d39e37d10d2eabe541e93c81f7b2d637f466c6404afa734a99f1af4318ae1c&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
                         "quality": "BirdStream - 144p - 61.17 KB/s",
-                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-2f1210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEuENvNC8aNEVEtEvE9IMvXBvE2ENvNCImNEVEIj0Y2J_aug859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859IB_&uipk=5&nbs=1&deadline=1727668233&gen=playurlv2&os=akam&oi=1729874767&trid=5491d01b43f0420bbad6317ce3f5ba04i&mid=1040037567&platform=android&upsig=4d72ff1849436bfa7715954512109ab7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727668233~hmac=1082367f52e02e08e0225c0bff8842c24f44ddec199ef6355b28d355d9ad48fe&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-2f1210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727683555&gen=playurlv2&os=akam&oi=1729874767&trid=732ce41b2b744de28b8eec9ec1a146a0i&mid=1040037567&platform=pc&upsig=8dfd540bee5796771e8513338df78588&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1727683555~hmac=f2d39e37d10d2eabe541e93c81f7b2d637f466c6404afa734a99f1af4318ae1c&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
