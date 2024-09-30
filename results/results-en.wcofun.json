@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-simpsons-season-36",
+                                "title": "The Simpsons Season 36",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933736.jpg"
+                            },
+                            {
                                 "url": "/anime/nageki-no-bourei-wa-intai-shitai",
                                 "title": "Nageki no Bourei wa Intai shitai",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933735.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/jellyfish-cant-swim-in-the-night",
                                 "title": "Jellyfish Can't Swim in the Night",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933721.jpg"
-                            },
-                            {
-                                "url": "/anime/murai-no-koi",
-                                "title": "Murai no Koi",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933720.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/nageki-no-bourei-wa-intai-shitai",
-                    "title": "Nageki no Bourei wa Intai shitai",
-                    "description": "The golden age has dawned for treasure hunters, who raid treasure vaults all over the world in search of glory, despite the dangers. Immeasurable wealth, fame, and power await those who prevail.",
-                    "genre": "Action, Adventure, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933735.jpg",
+                    "url": "/anime/the-simpsons-season-36",
+                    "title": "The Simpsons Season 36",
+                    "description": "The thirty-sixth season of the American animated television series The Simpsons premiered on Fox on September 29, 2024.[1] This is the second of two seasons ordered by Fox. It is produced by Gracie Films and 20th Television Animation. The primary showrunner for the season is Matt Selman.",
+                    "genre": "Comedy, Satire, Sitcom, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933736.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,9 +616,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/nageki-no-bourei-wa-intai-shitai-episode-1-english-subbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
+                        "url": "/the-simpsons-season-36-episode-1-barts-birthday",
+                        "name": "Season 36 - Episode 1",
+                        "episode_number": 3601.0
                     }
                 ],
                 "passed": true
@@ -626,19 +626,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuW9OzH5cStLgM1BtrOqd7RpIwBR9TOggyTNddbIxv7ksRM2xiBiJuX75eAKoJqXMSZEFZFm_OKa5NyjYfD0yqj44F6a3jib9whP8YjZ8F1WQdIVRJX0FUh3AIm5zUMCO0mQAyjyrjVWtT0329k67FWltChx1i-OzR78_LXss2sICyGESao2BJH2sTlN3gyu3Zr08TU5x3wYpQTT1jCpwkopt3aJVoCEES0qKWIw41ettvljbdfdnR6KCAIeni-XsJZfRNtzHwvrBepRfUQp0PEilPz5uwn9aNe4ix09ia7FomTzYlmxsSH1P7PuWNCwolHjWwPmeDbpnhlItgRxFnUWhFB3eKyP33DeY0OV26P4GjDNVO_CiBG78RICSrX3nli-hyxwKPl7vWAH5L0fklcHJCmoZN-KznxQ718IY9EayNOUN3wbm5ITyvY-xJaWy2Y",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgN3p-5vLCe1CI5GvQ8FW3tS8wOIbvPGOhxyljo0YeFwPZa4MoL75K-IPf8dO9l2ZClh2nEnnEjI2JqziKpnVD-51HqfPhIEbFqeCSq3BErTyGSbC83i7XYv-Z8SEYFnF_rdVYejG3Lj1GjiYMQ10vYrlAaeY0KP3mVOo8Aj4CnJd70zhxsyFWhBiiX3ziFJKWlmrQZR0swK9eRB8vNBk7k4F583jk5-mMBsLU6KI2X9s5HmuaLf08u_vbl5IGp1kM0-l4eOqvsQbnSJMEt6Twu41osgHsy9ts76bbDL7_N_EnGBTO6Oslo8mWjfnyTjb6L7UIcp0F89-tZ3hH0eT6694eT5YQD2yF1oZ-KOxLbJ",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuW9OzH5cStLgM1BtrOqd7RpIwBR9TOggyTNddbIxv7ksRM2xiBiJuX75eAKoJqXMSZEFZFm_OKa5NyjYfD0yqj44F6a3jib9whP8YjZ8F1WQdIVRJX0FUh3AIm5zUMCO0mQAyjyrjVWtT0329k67FWltChx1i-OzR78_LXss2sICyGESao2BJH2sTlN3gyu3Zr08TU5x3wYpQTT1jCpwkopt3aJVoCEES0qKWIw41ettvljbdfdnR6KCAIeni-XsJZfRNtzHwvrBepRfUQp0PEilPz5uwn9aNe4ix09ia7FomTzYlmxsSH1P7PuWNCwolHjWwPmeDbpnhlItgRxFnUWhFB3eKyP33DeY0OV26P4GjDNVO_CiBG78RICSrX3nli-hyxwKPl7vWAH5L0fklcHJCmoZN-KznxQ718IY9EayNOUN3wbm5ITyvY-xJaWy2Y"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgN3p-5vLCe1CI5GvQ8FW3tS8wOIbvPGOhxyljo0YeFwPZa4MoL75K-IPf8dO9l2ZClh2nEnnEjI2JqziKpnVD-51HqfPhIEbFqeCSq3BErTyGSbC83i7XYv-Z8SEYFnF_rdVYejG3Lj1GjiYMQ10vYrlAaeY0KP3mVOo8Aj4CnJd70zhxsyFWhBiiX3ziFJKWlmrQZR0swK9eRB8vNBk7k4F583jk5-mMBsLU6KI2X9s5HmuaLf08u_vbl5IGp1kM0-l4eOqvsQbnSJMEt6Twu41osgHsy9ts76bbDL7_N_EnGBTO6Oslo8mWjfnyTjb6L7UIcp0F89-tZ3hH0eT6694eT5YQD2yF1oZ-KOxLbJ"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuW9OzH5cStLgM1BtrOqd7RpIwBR9TOggyTNddbIxv7ksRM2xiBiJuX75eAKoJqXMSZEFZFm_OKa5NyjYfD0yqj44F6a3jib9whP8YjZ8F1WQdIVRJX0FUh3AIm5zUMCO0mQAyjyrjVWtT0329k67FWl8ovoFHO10BLlgSwHKBPdo8EZUONs6_EHi8DmDiL8G4sMaz6zKJqUP1_SEXpb9bIFJ0PUpke0FWzt6OnG1C00Og3jP68P0ECJi1CN9bhTghUQfCwyWYlt0SsmndC4_FIyTHTSYsAhQdSIhmCh7Ros5xE8n2CR9Fc5A9rl0vSh39COAF_fGFY52W3Jqi3yV4nHcUrPVNF_79IqigBUkdTOMjqASZyR42hpP3fo8mPLz6rvBbV9a6o9ZAh6riI_i2V6j3XZYZkKqGDwIImBZdEWEDjlLKg8mOlE1gR-HBeTOwg",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgN3p-5vLCe1CI5GvQ8FW3tS8wOIbvPGOhxyljo0YeFwPZa4MoL75K-IPf8dO9l2ZHq4tUrUj7NxKkATe8Z1i_40-BtHwVZPOfoNgogQWd4APeYu6_iqEuDmK796-yvex7JjfeKcbtW7UOnbhQjU2f-kuoW9e3CYjdjLHucj8zoVlj-PFmD3L5_Wz0Zzx6KtwYDByBTjUqTMt3cRj5k69iLzGpIArSVwVZc1mM7kZ1VK9wQTpLdWh_QSRRB-0zVYDHoytOtnEIJI9jeO6U2BoVTff68cMX3zLMI3RDbmnFd_tkt9KfE8dnGKPKMp6E9qzJG7VQatR5at_5spFxkOqMh2ILm8pLuvJdXIlZtLhT2i",
                         "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuW9OzH5cStLgM1BtrOqd7RpIwBR9TOggyTNddbIxv7ksRM2xiBiJuX75eAKoJqXMSZEFZFm_OKa5NyjYfD0yqj44F6a3jib9whP8YjZ8F1WQdIVRJX0FUh3AIm5zUMCO0mQAyjyrjVWtT0329k67FWl8ovoFHO10BLlgSwHKBPdo8EZUONs6_EHi8DmDiL8G4sMaz6zKJqUP1_SEXpb9bIFJ0PUpke0FWzt6OnG1C00Og3jP68P0ECJi1CN9bhTghUQfCwyWYlt0SsmndC4_FIyTHTSYsAhQdSIhmCh7Ros5xE8n2CR9Fc5A9rl0vSh39COAF_fGFY52W3Jqi3yV4nHcUrPVNF_79IqigBUkdTOMjqASZyR42hpP3fo8mPLz6rvBbV9a6o9ZAh6riI_i2V6j3XZYZkKqGDwIImBZdEWEDjlLKg8mOlE1gR-HBeTOwg"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgN3p-5vLCe1CI5GvQ8FW3tS8wOIbvPGOhxyljo0YeFwPZa4MoL75K-IPf8dO9l2ZHq4tUrUj7NxKkATe8Z1i_40-BtHwVZPOfoNgogQWd4APeYu6_iqEuDmK796-yvex7JjfeKcbtW7UOnbhQjU2f-kuoW9e3CYjdjLHucj8zoVlj-PFmD3L5_Wz0Zzx6KtwYDByBTjUqTMt3cRj5k69iLzGpIArSVwVZc1mM7kZ1VK9wQTpLdWh_QSRRB-0zVYDHoytOtnEIJI9jeO6U2BoVTff68cMX3zLMI3RDbmnFd_tkt9KfE8dnGKPKMp6E9qzJG7VQatR5at_5spFxkOqMh2ILm8pLuvJdXIlZtLhT2i"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuW9OzH5cStLgM1BtrOqd7RpIwBR9TOggyTNddbIxv7ksRM2xiBiJuX75eAKoJqXMSZEFZFm_OKa5NyjYfD0yqj44F6a3jib9whP8YjZ8F1WQdIVRJX0FUh3AIm5zUMCO0mQAyjyrjVWtT0329k67FWlUaqeYKVdlAbDX70BGISQZ6eshKuR00T7Te4qqmC4M2EIDhMHKRouc3YZ0Dk7-qCnujgSb6SI0vyMZSuuU_bXPkRBqBZhSwrbuBTll6kF5OeryErbv6OzWP9CbO8gjfPwp-SY7SZTtlFh7r9AHjIdhFN6PPoxW04-bYE6vSaj3afslHr46cfZrzhUe5ZK5v_XTcGvxeKMiQkyHj5z5HOz-9TwxbKM89098W2sUgUGG469OgOyTyg-w7lE2uiLFe0ttLVBNyvzNbblPL9XLjs9nerg_ajlQLfLIS6wmrTm38s",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgN3p-5vLCe1CI5GvQ8FW3tS8wOIbvPGOhxyljo0YeFwPZa4MoL75K-IPf8dO9l2ZPuByY3qGX_euXVuwiM3mGNrB1V0juMT7cxGAjJotkqUrOMNXJoywx3ctMTo__up4_no9erqYPzrQ0vTuf8czHimQvaLIg9inD2tmf7I8LzL2tm8CKEXjCGhzZamt-uRCMKeoTh1_CqCv4SW37QIoc_eexMmsEyUk9X8-_-mhzCeSiMuEjJxqbclc11IVt44kWdWt94g2QozGE4X78aiPRKNhpDSg92GNKOPy26XcE7PRcMMaL0OmZbN8KyhEG5Ds5u_W1tZpZxReZDQ8KjHO1o",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuW9OzH5cStLgM1BtrOqd7RpIwBR9TOggyTNddbIxv7ksRM2xiBiJuX75eAKoJqXMSZEFZFm_OKa5NyjYfD0yqj44F6a3jib9whP8YjZ8F1WQdIVRJX0FUh3AIm5zUMCO0mQAyjyrjVWtT0329k67FWlUaqeYKVdlAbDX70BGISQZ6eshKuR00T7Te4qqmC4M2EIDhMHKRouc3YZ0Dk7-qCnujgSb6SI0vyMZSuuU_bXPkRBqBZhSwrbuBTll6kF5OeryErbv6OzWP9CbO8gjfPwp-SY7SZTtlFh7r9AHjIdhFN6PPoxW04-bYE6vSaj3afslHr46cfZrzhUe5ZK5v_XTcGvxeKMiQkyHj5z5HOz-9TwxbKM89098W2sUgUGG469OgOyTyg-w7lE2uiLFe0ttLVBNyvzNbblPL9XLjs9nerg_ajlQLfLIS6wmrTm38s"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgN3p-5vLCe1CI5GvQ8FW3tS8wOIbvPGOhxyljo0YeFwPZa4MoL75K-IPf8dO9l2ZPuByY3qGX_euXVuwiM3mGNrB1V0juMT7cxGAjJotkqUrOMNXJoywx3ctMTo__up4_no9erqYPzrQ0vTuf8czHimQvaLIg9inD2tmf7I8LzL2tm8CKEXjCGhzZamt-uRCMKeoTh1_CqCv4SW37QIoc_eexMmsEyUk9X8-_-mhzCeSiMuEjJxqbclc11IVt44kWdWt94g2QozGE4X78aiPRKNhpDSg92GNKOPy26XcE7PRcMMaL0OmZbN8KyhEG5Ds5u_W1tZpZxReZDQ8KjHO1o"
                     }
                 ],
                 "passed": true
