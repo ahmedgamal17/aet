@@ -67,6 +67,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/My-Hero-Academia-7",
+                                "title": "My Hero Academia 7",
+                                "thumbnail_url": "https://i.imgur.com/5BL9c7U.jpeg"
+                            },
+                            {
                                 "url": "/Monster",
                                 "title": "Monster",
                                 "thumbnail_url": "https://i.imgur.com/70B4aYZ.jpeg"
@@ -120,11 +125,6 @@
                                 "url": "/World-Trigger-2nd-Season",
                                 "title": "World Trigger 2nd Season",
                                 "thumbnail_url": "https://i.imgur.com/WwmQ65Wl.jpg"
-                            },
-                            {
-                                "url": "/The-Rising-of-the-Shield-Hero-Season-3",
-                                "title": "The Rising of the Shield Hero Season 3",
-                                "thumbnail_url": "https://i.imgur.com/NXiDCqXl.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -231,9 +231,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn-lfs.hf.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1727893707&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzg5MzcwN319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=T8TnI6ZPoZ5LXsoxjqxX0phXYEBGP5tAefK61y7hXToOFWaxmXCQGTKobHPy2MWtkg03TaE2xieCQKydrDkOkJ%7EZmmgMa%7Ehf6usiK8YFVjFLm7Mpo3%7E3FOINrlYfRRb-QZj-56UOj6vV1h0ufTLMFd4b1qzWC6Lu4dB56%7EVTV3Zo5JqQWKE05Tb0%7E0Tu0apJIboUWkShUmADKLXtsqDkvKffSoI4VhmZxy9vPCr8rWiBPFY9xEgQp0ms2h%7EgmDVbHtp4Yoq3jI7Hluv1d8PQcMjti4TjJFiMMsGkeQSTYHzXYLMozwK0Hlf11R9MZ5UrMRrCeeuDgqE61Qp1p3Kn1Q__&Key-Pair-Id=K3RPWS32NSSJCE",
+                        "url": "https://cdn-lfs.hf.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1727920184&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzkyMDE4NH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=GWTjDsmatDyjyoMpfVrFehPcePfbyIFj-dzFdReokwYkr2p%7EoEtJTdFdsQdmbSEV4ZZVGRrcvsuBGrI-xvZmEQ-DVJ8UmLWfx9fHvAn8HGwil5iFZkZyKZxrp3oiPbqFxGxFzpHIhIOxMj10%7EJfvZ8LBh6Se-jCiOtJRJ-0G9pnNjt%7EKUGe%7EVShh0uVwTkhlk03K%7ENlxpQezEKS6aaB9gZYOnrdeihKC5K5RKXG-Rh0lzRFZm9YDdfEUxHVIuHuxs0%7EAgxP5lmzk5%7EDg0nUPjmUtLo09usAyuwFbTgTqrrs52sZ4nH2n3cWay7lNShmikk0-0Dqp43NqbDrrIsw5fg__&Key-Pair-Id=K3RPWS32NSSJCE",
                         "quality": "720p # 1 (BDA-HF)",
-                        "videoUrl": "https://cdn-lfs.hf.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1727893707&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzg5MzcwN319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=T8TnI6ZPoZ5LXsoxjqxX0phXYEBGP5tAefK61y7hXToOFWaxmXCQGTKobHPy2MWtkg03TaE2xieCQKydrDkOkJ%7EZmmgMa%7Ehf6usiK8YFVjFLm7Mpo3%7E3FOINrlYfRRb-QZj-56UOj6vV1h0ufTLMFd4b1qzWC6Lu4dB56%7EVTV3Zo5JqQWKE05Tb0%7E0Tu0apJIboUWkShUmADKLXtsqDkvKffSoI4VhmZxy9vPCr8rWiBPFY9xEgQp0ms2h%7EgmDVbHtp4Yoq3jI7Hluv1d8PQcMjti4TjJFiMMsGkeQSTYHzXYLMozwK0Hlf11R9MZ5UrMRrCeeuDgqE61Qp1p3Kn1Q__&Key-Pair-Id=K3RPWS32NSSJCE"
+                        "videoUrl": "https://cdn-lfs.hf.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1727920184&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzkyMDE4NH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=GWTjDsmatDyjyoMpfVrFehPcePfbyIFj-dzFdReokwYkr2p%7EoEtJTdFdsQdmbSEV4ZZVGRrcvsuBGrI-xvZmEQ-DVJ8UmLWfx9fHvAn8HGwil5iFZkZyKZxrp3oiPbqFxGxFzpHIhIOxMj10%7EJfvZ8LBh6Se-jCiOtJRJ-0G9pnNjt%7EKUGe%7EVShh0uVwTkhlk03K%7ENlxpQezEKS6aaB9gZYOnrdeihKC5K5RKXG-Rh0lzRFZm9YDdfEUxHVIuHuxs0%7EAgxP5lmzk5%7EDg0nUPjmUtLo09usAyuwFbTgTqrrs52sZ4nH2n3cWay7lNShmikk0-0Dqp43NqbDrrIsw5fg__&Key-Pair-Id=K3RPWS32NSSJCE"
                     },
                     {
                         "url": "//bestdubbedanime.com/xz/api/v.php?u=bWNaWURCV3BqZHdvKy9mbEVzZ2o1Zz09",
