@@ -3,114 +3,8 @@
         "name": "AnimeOnsen (ALL)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "oTnW7ZwxBrL3Euh3",
-                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/oTnW7ZwxBrL3Euh3"
-                            },
-                            {
-                                "url": "v8FixWHfgOlTwwx1",
-                                "title": "Nageki no Bourei wa Intai shitai",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/v8FixWHfgOlTwwx1"
-                            },
-                            {
-                                "url": "zoDAB6rPB6t8xVPW",
-                                "title": "Kami no Tou: Ouji no Kikan",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/zoDAB6rPB6t8xVPW"
-                            },
-                            {
-                                "url": "EQYWatIybecPmI6S",
-                                "title": "Tsue to Tsurugi no Wistoria",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/EQYWatIybecPmI6S"
-                            },
-                            {
-                                "url": "I1F0mNSOCo8lO292",
-                                "title": "2.5-jigen no Ririsa",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/I1F0mNSOCo8lO292"
-                            },
-                            {
-                                "url": "0rW0wUurpCtpzoYn",
-                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/0rW0wUurpCtpzoYn"
-                            },
-                            {
-                                "url": "NyECsm2kL7WczZTQ",
-                                "title": "Uzumaki",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/NyECsm2kL7WczZTQ"
-                            },
-                            {
-                                "url": "TewtMcEHcmEiTwUs",
-                                "title": "The Fable",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/TewtMcEHcmEiTwUs"
-                            },
-                            {
-                                "url": "I9jdE1B8jnLFMOOn",
-                                "title": "Make Heroine ga Oosugiru!",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/I9jdE1B8jnLFMOOn"
-                            },
-                            {
-                                "url": "5CgoHwrJEiP6fNmS",
-                                "title": "Atri: My Dear Moments",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/5CgoHwrJEiP6fNmS"
-                            },
-                            {
-                                "url": "G2r58lIGH5d8hRPh",
-                                "title": "Nige Jouzu no Wakagimi",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/G2r58lIGH5d8hRPh"
-                            },
-                            {
-                                "url": "AHb2gx9H1bFWCAkS",
-                                "title": "Tensui no Sakuna-hime",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/AHb2gx9H1bFWCAkS"
-                            },
-                            {
-                                "url": "4SPAFAU0ZPudmg0Q",
-                                "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/4SPAFAU0ZPudmg0Q"
-                            },
-                            {
-                                "url": "tAnH5a1ZCvYdyOec",
-                                "title": "Monogatari Series: Off & Monster Season",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/tAnH5a1ZCvYdyOec"
-                            },
-                            {
-                                "url": "XUuAIQPIkrVPfIfr",
-                                "title": "Boku no Hero Academia 7th Season",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/XUuAIQPIkrVPfIfr"
-                            },
-                            {
-                                "url": "hXKcKM2EBMmUhdkP",
-                                "title": "Senpai wa Otokonoko",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/hXKcKM2EBMmUhdkP"
-                            },
-                            {
-                                "url": "E5QPb6ajWzZL5ZYz",
-                                "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/E5QPb6ajWzZL5ZYz"
-                            },
-                            {
-                                "url": "D0tfjxt7DM9iK0nE",
-                                "title": "NieR:Automata Ver1.1a Part 2",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/D0tfjxt7DM9iK0nE"
-                            },
-                            {
-                                "url": "PNYtfirZGuS1TOXa",
-                                "title": "Tensei shitara Slime Datta Ken 3rd Season",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/PNYtfirZGuS1TOXa"
-                            },
-                            {
-                                "url": "leuVVArR5TeUXOwL",
-                                "title": "Kono Sekai wa Fukanzen Sugiru",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/leuVVArR5TeUXOwL"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -314,14 +208,14 @@
             },
             "details": {
                 "result": {
-                    "url": "oTnW7ZwxBrL3Euh3",
-                    "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
-                    "author": "Felix Film, Ga-Crew",
-                    "description": "Noel longs to be a Seeker like his heroic grandfather, slaying the beasts that emerge from Abysses and exploring far-off lands. Unfortunately, it turns out he's nothing but a measly Talker–a job with no combat skills whatsoever. Undaunted, Noel sets out to establish the strongest clan in all the land, using his silver-tongued Talker skills to unite assassins and heroes under his leadership.\n\n(Source: Seven Seas Entertainment)",
-                    "genre": "Action, Adventure, Fantasy",
+                    "url": "iIp5feNrFjxu6iAN",
+                    "title": "Shinkalion: Change the World",
+                    "author": "Production I.G, Signal.MD",
+                    "description": "Once upon a time, an unidentified enemy, the Unknown, suddenly appeared. The \"Super Evolutionary Railway Development Agency,\" had developed the \"Shinkalion,\" a robot that transforms into a bullet train, as a countermeasure against this threat.\n\n(Source: Official Website, translated)\n",
+                    "genre": "Action, Kids, Mecha, School, Sci-Fi",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/oTnW7ZwxBrL3Euh3",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/iIp5feNrFjxu6iAN",
                     "initialized": true
                 },
                 "passed": true
@@ -329,9 +223,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "oTnW7ZwxBrL3Euh3/video/1",
-                        "name": "Episode 1: Why the Weakest Aims to Be the Strongest",
-                        "episode_number": 1.0
+                        "url": "iIp5feNrFjxu6iAN/video/23",
+                        "name": "Episode 23: Ido and Morito",
+                        "episode_number": 23.0
+                    },
+                    {
+                        "url": "iIp5feNrFjxu6iAN/video/22",
+                        "name": "Episode 22: Culture Festival",
+                        "episode_number": 22.0
                     }
                 ],
                 "passed": true
@@ -339,49 +238,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/oTnW7ZwxBrL3Euh3/1/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/iIp5feNrFjxu6iAN/23/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/oTnW7ZwxBrL3Euh3/1/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/iIp5feNrFjxu6iAN/23/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/oTnW7ZwxBrL3Euh3/en-US/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/iIp5feNrFjxu6iAN/en-US/23",
                                 "lang": "English"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/oTnW7ZwxBrL3Euh3/ru-RU/1",
-                                "lang": "Русский"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/oTnW7ZwxBrL3Euh3/pt-BR/1",
-                                "lang": "Português (Brasil)"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/oTnW7ZwxBrL3Euh3/it-IT/1",
-                                "lang": "Italiano"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/oTnW7ZwxBrL3Euh3/fr-FR/1",
-                                "lang": "Français"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/oTnW7ZwxBrL3Euh3/es-LA/1",
-                                "lang": "Español"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/oTnW7ZwxBrL3Euh3/es-ES/1",
-                                "lang": "Español (Spain)"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/oTnW7ZwxBrL3Euh3/de-DE/1",
-                                "lang": "Deutsch"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/oTnW7ZwxBrL3Euh3/ar-ME/1",
-                                "lang": "العربية"
                             }
                         ]
                     }
