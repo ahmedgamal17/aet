@@ -147,9 +147,9 @@
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1868/121646.jpg"
                             },
                             {
-                                "url": "yFmDMFnpJxvdtwhhD",
-                                "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158028-swkNb3I8EH4x.png"
+                                "url": "ncNQiQiTh4Zwk4rAv",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164702-FjpM96MPdzVm.jpg"
                             },
                             {
                                 "url": "cstcbG4EquLyDnAwN",
@@ -163,7 +163,7 @@
                 "passed": true
             },
             "latest": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.SearchResult', but it was missing at path: $",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             },
             "search": {
@@ -210,9 +210,9 @@
                         }
                     },
                     {
-                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/06938/gds2q6pd1gwm_h/index-v1-a1.m3u8?t=n-F2rTJrRqgsIxWtumE7FEr06u0b7-0lB3fHcfM9FWQ&s=1727786777&e=10800&f=34694073&srv=13&asn=8075&sp=4000",
+                        "url": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/06938/gds2q6pd1gwm_h/index-v1-a1.m3u8?t=3LxXuhMAXGo__zf3Ildgy75ffTKH3XqJl26dw-TQkYM&s=1727807471&e=10800&f=34694073&srv=13&asn=8075&sp=4000",
                         "quality": "Fm-Hls - 1080p",
-                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/06938/gds2q6pd1gwm_h/index-v1-a1.m3u8?t=n-F2rTJrRqgsIxWtumE7FEr06u0b7-0lB3fHcfM9FWQ&s=1727786777&e=10800&f=34694073&srv=13&asn=8075&sp=4000",
+                        "videoUrl": "https://be6224.rcr92.lim01.cdn112.com/hls2/01/06938/gds2q6pd1gwm_h/index-v1-a1.m3u8?t=3LxXuhMAXGo__zf3Ildgy75ffTKH3XqJl26dw-TQkYM&s=1727807471&e=10800&f=34694073&srv=13&asn=8075&sp=4000",
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://filemoon.to",
@@ -220,9 +220,9 @@
                         }
                     },
                     {
-                        "url": "https://w32u1co2fb.cdn-jupiter.com/hls2/01/04962/b3qznztpgn81_n/index-v1-a1.m3u8?t=nGTI5xgI4yXAzvQgTTP7Rxiwa0fEwGSGFg-hOd6Z5Ho&s=1727786776&e=129600&f=24811380&srv=d7izxzkm5jvh&i=0.4&sp=500&p1=d7izxzkm5jvh&p2=d7izxzkm5jvh&asn=8075",
+                        "url": "https://w32u1co2fb.cdn-jupiter.com/hls2/01/04962/b3qznztpgn81_n/index-v1-a1.m3u8?t=bsdjq5yqzHEf4nyCvRTGQo2JDo7fE682uMSFvLAY-14&s=1727807470&e=129600&f=24811380&srv=d7izxzkm5jvh&i=0.4&sp=500&p1=d7izxzkm5jvh&p2=d7izxzkm5jvh&asn=8075",
                         "quality": "Sw - 720p",
-                        "videoUrl": "https://w32u1co2fb.cdn-jupiter.com/hls2/01/04962/b3qznztpgn81_n/index-v1-a1.m3u8?t=nGTI5xgI4yXAzvQgTTP7Rxiwa0fEwGSGFg-hOd6Z5Ho&s=1727786776&e=129600&f=24811380&srv=d7izxzkm5jvh&i=0.4&sp=500&p1=d7izxzkm5jvh&p2=d7izxzkm5jvh&asn=8075",
+                        "videoUrl": "https://w32u1co2fb.cdn-jupiter.com/hls2/01/04962/b3qznztpgn81_n/index-v1-a1.m3u8?t=bsdjq5yqzHEf4nyCvRTGQo2JDo7fE682uMSFvLAY-14&s=1727807470&e=129600&f=24811380&srv=d7izxzkm5jvh&i=0.4&sp=500&p1=d7izxzkm5jvh&p2=d7izxzkm5jvh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -241,9 +241,9 @@
                         }
                     },
                     {
-                        "url": "https://a1.mp4upload.com:183/d/x2x3pweoz3b4quuomwre6i2uc3qlpgaq7amye34rds57dyvnu5ax5v5br2ndwc6ztjxy3tad/video.mp4",
+                        "url": "https://a1.mp4upload.com:183/d/x2x3pweoz3b4quuomwre6i2uc3qlpgaq7amye34rds5usm7y5akzcy43eyu2fjcv6dl7trcp/video.mp4",
                         "quality": "Mp4 - Mp4Upload - 1080p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x3pweoz3b4quuomwre6i2uc3qlpgaq7amye34rds57dyvnu5ax5v5br2ndwc6ztjxy3tad/video.mp4",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x3pweoz3b4quuomwre6i2uc3qlpgaq7amye34rds5usm7y5akzcy43eyu2fjcv6dl7trcp/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"

@@ -66,17 +66,17 @@
   },
   {
     "pkg": "all.torrentioanime",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.torrentioanime.json"
   },
   {
     "pkg": "ar.akwam",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.akwam.json"
   },
   {
     "pkg": "ar.anime4up",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.anime4up.json"
   },
   {
@@ -281,7 +281,7 @@
   },
   {
     "pkg": "en.hahomoe",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hahomoe.json"
   },
   {

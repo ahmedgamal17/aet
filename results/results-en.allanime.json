@@ -147,6 +147,21 @@
                     {
                         "animes": [
                             {
+                                "url": "JvMjTjdPyYBDGqQxL<&sep><&sep>amagami-san-chi-no-enmusubi",
+                                "title": "Amagami-san Chi no Enmusubi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164172-GY2aqItIuqtR.jpg"
+                            },
+                            {
+                                "url": "ynAj58596dcaS67Dx<&sep><&sep>rekishi-ni-nokoru-akujo-ni-naru-zo",
+                                "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1005/145339.jpg"
+                            },
+                            {
+                                "url": "P78McXosziWRo4yX8<&sep><&sep>rekishi-ni-nokoru-akujo-ni-naruzo",
+                                "title": "Rekishi ni Nokoru Akujo ni Naruzo",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168139-nGLXIdSksKCI.jpg"
+                            },
+                            {
                                 "url": "d2PMyPbDAthsitf5x<&sep><&sep>wan-jie-du-zun-season-2",
                                 "title": "Wan Jie Du Zun Season 2",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153777-FrjNCGMKjO9R.png"
@@ -260,21 +275,6 @@
                                 "url": "92xgxfFaY7SmkRpNz<&sep><&sep>mahoutsukai-tai-vs-shamanic-princess",
                                 "title": "Mahoutsukai Tai! vs. Shamanic Princess",
                                 "thumbnail_url": "https://gogocdn.net/cover/mahoutsukai-tai-vs-shamanic-princess.png"
-                            },
-                            {
-                                "url": "SewetpizPdkYM7KJk<&sep><&sep>vapor-trail",
-                                "title": "Vapor Trail",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169746-wyxr9LLbmiGQ.jpg"
-                            },
-                            {
-                                "url": "bcv7SKDWRrBZQ73C9<&sep><&sep>zhui-xu-season-2",
-                                "title": "Zhui Xu Season 2",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b181836-wiJq7NMVKP69.jpg"
-                            },
-                            {
-                                "url": "j8JBSbBitqhir2ASP<&sep><&sep>dubu-wangu",
-                                "title": "Dubu Wangu",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b170561-0TlLcLr95PQd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -463,9 +463,9 @@
                         }
                     },
                     {
-                        "url": "https://www039.anicdnstream.info/videos/hls/tVv8YqRYa8d6TgWc6QFriA/1727801195/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.1080.m3u8",
+                        "url": "https://www039.anicdnstream.info/videos/hls/0DefKBqNJgc0Y02w-F1_Qg/1727821666/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.1080.m3u8",
                         "quality": "1080p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/tVv8YqRYa8d6TgWc6QFriA/1727801195/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.1080.m3u8",
+                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/0DefKBqNJgc0Y02w-F1_Qg/1727821666/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -487,9 +487,9 @@
                         }
                     },
                     {
-                        "url": "https://www039.anicdnstream.info/videos/hls/tVv8YqRYa8d6TgWc6QFriA/1727801195/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.720.m3u8",
+                        "url": "https://www039.anicdnstream.info/videos/hls/0DefKBqNJgc0Y02w-F1_Qg/1727821666/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.720.m3u8",
                         "quality": "720p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/tVv8YqRYa8d6TgWc6QFriA/1727801195/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.720.m3u8",
+                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/0DefKBqNJgc0Y02w-F1_Qg/1727821666/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.720.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -499,9 +499,9 @@
                         }
                     },
                     {
-                        "url": "https://www039.anicdnstream.info/videos/hls/tVv8YqRYa8d6TgWc6QFriA/1727801195/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.480.m3u8",
+                        "url": "https://www039.anicdnstream.info/videos/hls/0DefKBqNJgc0Y02w-F1_Qg/1727821666/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.480.m3u8",
                         "quality": "480p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/tVv8YqRYa8d6TgWc6QFriA/1727801195/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.480.m3u8",
+                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/0DefKBqNJgc0Y02w-F1_Qg/1727821666/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.480.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -511,9 +511,9 @@
                         }
                     },
                     {
-                        "url": "https://www039.anicdnstream.info/videos/hls/tVv8YqRYa8d6TgWc6QFriA/1727801195/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.360.m3u8",
+                        "url": "https://www039.anicdnstream.info/videos/hls/0DefKBqNJgc0Y02w-F1_Qg/1727821666/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.360.m3u8",
                         "quality": "360p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/tVv8YqRYa8d6TgWc6QFriA/1727801195/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.360.m3u8",
+                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/0DefKBqNJgc0Y02w-F1_Qg/1727821666/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.360.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -564,9 +564,9 @@
                         "videoUrl": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EQY_e0TYtdFOtbPwCkoqcw4BS4mWP5cnbKUdFiNIFfmFgw"
                     },
                     {
-                        "url": "https://a1.mp4upload.com:183/d/x2x3pweoz3b4quuomwre6i2uc3qlpgaq7amye34rds57dyvnu5jhexpwknn5ty3mjf5dvzjc/video.mp4",
+                        "url": "https://a1.mp4upload.com:183/d/x2x3pweoz3b4quuomwre6i2uc3qlpgaq7amye34rds5usm7y5attadwl7df2du6xvquagx2d/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x3pweoz3b4quuomwre6i2uc3qlpgaq7amye34rds57dyvnu5jhexpwknn5ty3mjf5dvzjc/video.mp4",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x3pweoz3b4quuomwre6i2uc3qlpgaq7amye34rds5usm7y5attadwl7df2du6xvquagx2d/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
