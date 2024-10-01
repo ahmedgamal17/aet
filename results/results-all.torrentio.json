@@ -112,7 +112,7 @@
                                 "artist": "Demi Moore, Margaret Qualley, Dennis Quaid, Gore Abrams",
                                 "author": "Coralie Fargeat",
                                 "description": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-                                "genre": "Comedy, Drama, Horror",
+                                "genre": "Horror, Comedy, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320520686/s276/the-substance.webp",
                                 "initialized": true
                             },
@@ -122,7 +122,7 @@
                                 "artist": "Amy Poehler, Maya Hawke, Kensington Tallman, Liza Lapira",
                                 "author": "Kelsey Mann",
                                 "description": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
-                                "genre": "Fantasy, Animation, Comedy, Drama, Kids & Family",
+                                "genre": "Animation, Kids & Family, Action & Adventure, Comedy, Drama, Fantasy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/317102237/s276/inside-out-2.webp",
                                 "initialized": true
                             },
@@ -142,7 +142,7 @@
                                 "artist": "Patrick Brammall, Harriet Dyer, Genevieve Hegney, Emma Harvie",
                                 "author": "",
                                 "description": "A microbrewery owner and a student doctor are brought together by a car accident that injures a stray dog they agree to adopt, forcing them to navigate each other's vulnerabilities.",
-                                "genre": "Comedy, Drama, Romance",
+                                "genre": "Romance, Comedy, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320179985/s276/colin-from-accounts.webp",
                                 "initialized": true
                             },
@@ -202,7 +202,7 @@
                                 "artist": "Will Ferrell, Harper Steele, Tim Meadows, Seth Meyers",
                                 "author": "Josh Greenbaum",
                                 "description": "When Will Ferrell's good friend Harper comes out as a trans woman, they take a road trip to bond and reintroduce Harper to the country as her true self.",
-                                "genre": "Documentary, Comedy",
+                                "genre": "Comedy, Documentary",
                                 "thumbnail_url": "https://images.justwatch.com/poster/321034274/s276/will-and-harper.webp",
                                 "initialized": true
                             },
@@ -212,7 +212,7 @@
                                 "artist": "Julia Garner, Dianne Wiest, Kevin McNally, Jim Sturgess",
                                 "author": "Natalie Erika James",
                                 "description": "A struggling young dancer finds herself drawn in by dark forces when a peculiar, well-connected older couple promise her a shot at fame.",
-                                "genre": "Horror, Mystery & Thriller",
+                                "genre": "Mystery & Thriller, Horror",
                                 "thumbnail_url": "https://images.justwatch.com/poster/319837845/s276/apartment-7a.webp",
                                 "initialized": true
                             },
@@ -262,7 +262,7 @@
                                 "artist": "Maika Monroe, Nicolas Cage, Blair Underwood, Alicia Witt",
                                 "author": "Oz Perkins",
                                 "description": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
-                                "genre": "Horror, Mystery & Thriller, Crime",
+                                "genre": "Crime, Horror, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/311450894/s276/longlegs.webp",
                                 "initialized": true
                             },
@@ -322,7 +322,7 @@
                                 "artist": "Ryan Reynolds, Hugh Jackman, Emma Corrin, Matthew Macfadyen",
                                 "author": "Shawn Levy",
                                 "description": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
-                                "genre": "Comedy, Action & Adventure, Science-Fiction",
+                                "genre": "Comedy, Science-Fiction, Action & Adventure",
                                 "thumbnail_url": "https://images.justwatch.com/poster/318387357/s276/deadpool-3.webp",
                                 "initialized": true
                             },
@@ -362,7 +362,7 @@
                                 "artist": "Daisy Edgar-Jones, Glen Powell, Anthony Ramos, Brandon Perea",
                                 "author": "Lee Isaac Chung",
                                 "description": "As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
-                                "genre": "Mystery & Thriller, Action & Adventure",
+                                "genre": "Action & Adventure, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/315736719/s276/twisters.webp",
                                 "initialized": true
                             },
@@ -447,16 +447,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt10127188,SHOW,/us/tv-show/world-series-of-poker",
-                                "title": "World Series of Poker",
-                                "artist": "",
-                                "author": "",
-                                "description": "The World Series of Poker is a series of poker tournaments held annually in Las Vegas and, since 2004, sponsored by Caesars Entertainment Corporation. It dates its origins to 1970, when Benny Binion invited seven of the best-known poker players to the Horseshoe Casino for a single tournament, with a set start and stop time, and a winner determined by a secret ballot of the seven players.",
-                                "genre": "Sport, Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/320489787/s276/world-series-of-poker.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0363391,SHOW,/us/tv-show/world-poker-tour",
                                 "title": "World Poker Tour",
                                 "artist": "",
@@ -464,6 +454,16 @@
                                 "description": "Poker players from around the world compete for large cash prizes",
                                 "genre": "Reality TV",
                                 "thumbnail_url": "https://images.justwatch.com/poster/262158762/s276/world-poker-tour.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt10127188,SHOW,/us/tv-show/world-series-of-poker",
+                                "title": "World Series of Poker",
+                                "artist": "",
+                                "author": "",
+                                "description": "The World Series of Poker is a series of poker tournaments held annually in Las Vegas and, since 2004, sponsored by Caesars Entertainment Corporation. It dates its origins to 1970, when Benny Binion invited seven of the best-known poker players to the Horseshoe Casino for a single tournament, with a set start and stop time, and a winner determined by a secret ballot of the seven players.",
+                                "genre": "Sport, Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320489787/s276/world-series-of-poker.webp",
                                 "initialized": true
                             },
                             {
@@ -567,16 +567,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt1001484,SHOW,/us/tv-show/world-of-quest",
-                                "title": "World of Quest",
-                                "artist": "Ron Pardo, Landon Norris, Kedar Brown, James Rankin",
-                                "author": "",
-                                "description": "World of Quest is a Canadian animated series based on the graphic novel story by Jason Kruse published by Komikwerks.",
-                                "genre": "Animation, Comedy, Science-Fiction, Kids & Family, Music & Musical, Action & Adventure",
-                                "thumbnail_url": "https://images.justwatch.com/poster/270309621/s276/world-of-quest.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt4219244,SHOW,/us/tv-show/world-break-aria-of-curse-for-a-holy-swordsman",
                                 "title": "World Break: Aria of Curse for a Holy Swordsman",
                                 "artist": "Aoi Yuki, Ayana Taketatsu, Kaito Ishikawa, Maaya Uchida",
@@ -584,6 +574,16 @@
                                 "description": "The scenery takes place in a private high school involving the concept of \"saviors.\" They are known as people who possess awakened memories of their past lives. The story tells of a young boy named Moroha Haimura who comes to this private school. At the school, there are two types of people: Saviors, who fight enemies with weapons and techniques gleaned from the Puraana powers from their own bodies, and Kuroma, who wipe out enemies with magic to manipulate the Maana powers that surpass physics. Moroha Haimura is the first person with past lives of both Shirogane and Kuroma.",
                                 "genre": "Animation, Romance, Action & Adventure, Fantasy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/175939333/s276/world-break-aria-of-curse-for-a-holy-swordsman.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt1001484,SHOW,/us/tv-show/world-of-quest",
+                                "title": "World of Quest",
+                                "artist": "Ron Pardo, Landon Norris, Kedar Brown, James Rankin",
+                                "author": "",
+                                "description": "World of Quest is a Canadian animated series based on the graphic novel story by Jason Kruse published by Komikwerks.",
+                                "genre": "Animation, Comedy, Science-Fiction, Kids & Family, Music & Musical, Action & Adventure",
+                                "thumbnail_url": "https://images.justwatch.com/poster/270309621/s276/world-of-quest.webp",
                                 "initialized": true
                             },
                             {
@@ -667,16 +667,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt10739764,SHOW,/us/tv-show/worlds-greatest-palaces",
-                                "title": "World's Greatest Palaces",
-                                "artist": "Christien Anholt",
-                                "author": "",
-                                "description": "The history of the greatest and most lavish palaces in the world.",
-                                "genre": "Documentary, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/173301144/s276/worlds-greatest-palaces.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt6819736,SHOW,/us/tv-show/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us",
                                 "title": "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
                                 "artist": "Ryohei Arai, Azusa Tadokoro, Akari Uehara, Satomi Sato",
@@ -687,6 +677,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt10739764,SHOW,/us/tv-show/worlds-greatest-palaces",
+                                "title": "World's Greatest Palaces",
+                                "artist": "Christien Anholt",
+                                "author": "",
+                                "description": "The history of the greatest and most lavish palaces in the world.",
+                                "genre": "Documentary, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/173301144/s276/worlds-greatest-palaces.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt0783466,SHOW,/us/tv-show/worlds-most-extreme-homes",
                                 "title": "World's Most Extreme Homes",
                                 "artist": "Ruth England",
@@ -694,16 +694,6 @@
                                 "description": "It may look weird to an onlooker but it's home, sweet, home to the owners of the most bizarre and unusual dwellings around the world.",
                                 "genre": "Reality TV",
                                 "thumbnail_url": "https://images.justwatch.com/poster/138713147/s276/worlds-most-extreme-homes.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
-                                "title": "World's Funniest Animals",
-                                "artist": "Elizabeth Stanton",
-                                "author": "",
-                                "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
-                                "genre": "Reality TV, Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
                                 "initialized": true
                             },
                             {
@@ -724,6 +714,16 @@
                                 "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
                                 "genre": "Animation, Drama, Science-Fiction, Mystery & Thriller, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320028644/s276/worlds-end-harem.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
+                                "title": "World's Funniest Animals",
+                                "artist": "Elizabeth Stanton",
+                                "author": "",
+                                "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
+                                "genre": "Reality TV, Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
                                 "initialized": true
                             },
                             {
@@ -757,6 +757,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt1831534,SHOW,/us/tv-show/the-world-wild-vet",
+                                "title": "The World Wild Vet",
+                                "artist": "Luke Gamble",
+                                "author": "",
+                                "description": "Vet Adventures takes viewers on a whirlwind trek across the globe as Luke Gamble, a vet from a small village in the south of England, ventures to places where animal welfare is low on the agenda and vets are often non-existent. While helping and saving as many animals as possible Luke immerses himself into the different cultures and traditions of each country he visits. With long hours, little sleep, life on the road to contend with and daily activities that involve anything from anesthetizing a leopard to educating local people about animal welfare issues, Luke takes everything in his stride. Building on Luke's charm, passion and enormous on-screen presence the stories will shock, appall and inspire the audience in equal measure as Luke travels across the open plains of Africa, the tropical rain-forests of South America and the mountains of Nepal. In each episode Luke deals with huge moral questions that will put his veterinary knowledge to the test, creating a series packed full of drama alongside aspirational stories of people who dedicate their lives to animal welfare and selflessly seek to better the natural world around them.",
+                                "genre": "Documentary, Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/139048664/s276/the-world-wild-vet.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt1878805,SHOW,/us/tv-show/world-without-end",
                                 "title": "World Without End",
                                 "artist": "Oliver Maltman, David Bradley, Ben Chaplin, Charlotte Riley",
@@ -777,13 +787,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt1831534,SHOW,/us/tv-show/the-world-wild-vet",
-                                "title": "The World Wild Vet",
-                                "artist": "Luke Gamble",
-                                "author": "",
-                                "description": "Vet Adventures takes viewers on a whirlwind trek across the globe as Luke Gamble, a vet from a small village in the south of England, ventures to places where animal welfare is low on the agenda and vets are often non-existent. While helping and saving as many animals as possible Luke immerses himself into the different cultures and traditions of each country he visits. With long hours, little sleep, life on the road to contend with and daily activities that involve anything from anesthetizing a leopard to educating local people about animal welfare issues, Luke takes everything in his stride. Building on Luke's charm, passion and enormous on-screen presence the stories will shock, appall and inspire the audience in equal measure as Luke travels across the open plains of Africa, the tropical rain-forests of South America and the mountains of Nepal. In each episode Luke deals with huge moral questions that will put his veterinary knowledge to the test, creating a series packed full of drama alongside aspirational stories of people who dedicate their lives to animal welfare and selflessly seek to better the natural world around them.",
-                                "genre": "Documentary, Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/139048664/s276/the-world-wild-vet.webp",
+                                "url": ",MOVIE,/us/movie/world-of-tomorrow",
+                                "title": "World of Tomorrow",
+                                "artist": "Julia Pott, Winona Mae, Sara Cushman",
+                                "author": "Don Hertzfeldt",
+                                "description": "A little girl is taken on a mind-bending tour of her distant future.",
+                                "genre": "Animation, Drama, Science-Fiction",
+                                "thumbnail_url": "https://images.justwatch.com/poster/247284109/s276/world-of-tomorrow.webp",
                                 "initialized": true
                             },
                             {
@@ -797,23 +807,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": ",MOVIE,/us/movie/world-of-tomorrow",
-                                "title": "World of Tomorrow",
-                                "artist": "Julia Pott, Winona Mae, Sara Cushman",
-                                "author": "Don Hertzfeldt",
-                                "description": "A little girl is taken on a mind-bending tour of her distant future.",
-                                "genre": "Animation, Drama, Science-Fiction",
-                                "thumbnail_url": "https://images.justwatch.com/poster/247284109/s276/world-of-tomorrow.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt3909336,MOVIE,/us/movie/worlds-apart-2015",
-                                "title": "Worlds Apart",
-                                "artist": "J.K. Simmons, Maria Kavoyianni, Andrea Osvárt, Christopher Papakaliatis",
-                                "author": "Christopher Papakaliatis",
-                                "description": "Three separate narratives each following a love story between a foreigner and a Greek. Each story represents a different generation falling in love during a time of socioeconomic turmoil that dominates Southern Europe as a whole, only to connect as a single story in the end.",
-                                "genre": "Drama, Romance",
-                                "thumbnail_url": "https://images.justwatch.com/poster/45122637/s276/worlds-apart-2015.webp",
+                                "url": ",MOVIE,/us/movie/the-animatrix",
+                                "title": "The Animatrix",
+                                "artist": "Keanu Reeves, Carrie-Anne Moss, Clayton Watson, Pamela Adlon",
+                                "author": "Peter Chung, Yoshiaki Kawajiri, Takeshi Koike, Mahiro Maeda, Koji Morimoto, Shinichiro Watanabe, Andrew R. Jones",
+                                "description": "Straight from the creators of the groundbreaking Matrix trilogy, this collection of short animated films from the world's leading anime directors fuses computer graphics and Japanese anime to provide the background of the Matrix universe and the conflict between man and machines. The shorts include Final Flight of the Osiris, The Second Renaissance, Kid's Story, Program, World Record, Beyond, A Detective Story and Matriculated.",
+                                "genre": "Science-Fiction, Animation",
+                                "thumbnail_url": "https://images.justwatch.com/poster/203383915/s276/the-animatrix.webp",
                                 "initialized": true
                             }
                         ],
@@ -882,6 +882,11 @@
                         "videoUrl": "magnet:?xt=urn:btih:761cd61b7e559971692174f50ff06c9f8e6883b4&dn=761cd61b7e559971692174f50ff06c9f8e6883b4&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0"
                     },
                     {
+                        "url": "magnet:?xt=urn:btih:78bac76aa7637c88d0f4bbda79b9f9bb75a28224&dn=78bac76aa7637c88d0f4bbda79b9f9bb75a28224&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0",
+                        "quality": "1080p\nNobody Wants This S01E10 Bat Mitzvah Crashers 1080p HEVC x265-MeGusta\n👤 20 💾 466.69 MB ⚙️ EZTV",
+                        "videoUrl": "magnet:?xt=urn:btih:78bac76aa7637c88d0f4bbda79b9f9bb75a28224&dn=78bac76aa7637c88d0f4bbda79b9f9bb75a28224&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0"
+                    },
+                    {
                         "url": "magnet:?xt=urn:btih:3670677c1516f902b6718c72dd0105b80458619e&dn=3670677c1516f902b6718c72dd0105b80458619e&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0",
                         "quality": "1080p\nNobody Wants This S01E10 Bat Mitzvah Crashers 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX\n👤 11 💾 1.2 GB ⚙️ EZTV",
                         "videoUrl": "magnet:?xt=urn:btih:3670677c1516f902b6718c72dd0105b80458619e&dn=3670677c1516f902b6718c72dd0105b80458619e&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0"
@@ -895,11 +900,6 @@
                         "url": "magnet:?xt=urn:btih:89e936c731f03bc8626d610b80d8be63682de60c&dn=89e936c731f03bc8626d610b80d8be63682de60c&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0",
                         "quality": "1080p\nNobody Wants This S01E10 FINAL MULTI 1080p WEB X264-HiggsBoson\n👤 2 💾 1.34 GB ⚙️ EZTV\nMulti Audio",
                         "videoUrl": "magnet:?xt=urn:btih:89e936c731f03bc8626d610b80d8be63682de60c&dn=89e936c731f03bc8626d610b80d8be63682de60c&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0"
-                    },
-                    {
-                        "url": "magnet:?xt=urn:btih:78bac76aa7637c88d0f4bbda79b9f9bb75a28224&dn=78bac76aa7637c88d0f4bbda79b9f9bb75a28224&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0",
-                        "quality": "1080p\nNobody Wants This S01E10 Bat Mitzvah Crashers 1080p HEVC x265-MeGusta\n👤 1 💾 466.69 MB ⚙️ EZTV",
-                        "videoUrl": "magnet:?xt=urn:btih:78bac76aa7637c88d0f4bbda79b9f9bb75a28224&dn=78bac76aa7637c88d0f4bbda79b9f9bb75a28224&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0"
                     }
                 ],
                 "passed": true

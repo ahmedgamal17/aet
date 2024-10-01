@@ -1,7 +1,7 @@
 [
   {
     "pkg": "all.animeonsen",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.animeonsen.json"
   },
   {
@@ -71,12 +71,12 @@
   },
   {
     "pkg": "ar.akwam",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.akwam.json"
   },
   {
     "pkg": "ar.anime4up",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.anime4up.json"
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "pkg": "en.allanimechi",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanimechi.json"
   },
   {
@@ -281,7 +281,7 @@
   },
   {
     "pkg": "en.hahomoe",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hahomoe.json"
   },
   {
