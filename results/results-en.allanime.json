@@ -147,6 +147,26 @@
                     {
                         "animes": [
                             {
+                                "url": "4nBrSD3zWMsCt9ax8<&sep><&sep>murai-no-koi",
+                                "title": "Murai no Koi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150930-b4A2tGh7DMa9.jpg"
+                            },
+                            {
+                                "url": "8jgbSEFdr9sNM6giP<&sep><&sep>nian-wushuang",
+                                "title": "Nian Wushuang",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166418-rqnQuBVIXQ9F.jpg"
+                            },
+                            {
+                                "url": "ep7LKiiyr2QwBABya<&sep><&sep>the-uninhabited-wonderland",
+                                "title": "The Uninhabited Wonderland",
+                                "thumbnail_url": "https://gogocdn.net/cover/the-uninhabited-wonderland.png"
+                            },
+                            {
+                                "url": "v8eRiDdvfpnHSbrds<&sep><&sep>zhe-tian",
+                                "title": "Zhe Tian",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137671-PzYKwpStSLIF.png"
+                            },
+                            {
                                 "url": "cGw4bD4Cqj63jwq7Y<&sep><&sep>zhen-wu-dianfeng-season-2",
                                 "title": "Zhen Wu Dianfeng Season 2",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1877/135536.webp"
@@ -177,11 +197,6 @@
                                 "thumbnail_url": "https://gogocdn.net/cover/shi-cao-lao-long-bei-guan-yi-e-long-zhi-ming-2nd-season-japanese-dub.png"
                             },
                             {
-                                "url": "qhKwy6Pg6GvT33PgQ<&sep><&sep>gakuen-tokusou-hikaruon",
-                                "title": "Gakuen Tokusou Hikaruon",
-                                "thumbnail_url": "https://gogocdn.net/cover/gakuen-tokusou-hikaruon.png"
-                            },
-                            {
                                 "url": "yhKdDRSL5x7dRWWND<&sep><&sep>kyoufu-no-bio-ningen-saishuu-kyoushi",
                                 "title": "Kyoufu no Bio Ningen Saishuu Kyoushi",
                                 "thumbnail_url": "https://gogocdn.net/cover/kyoufu-no-bio-ningen-saishuu-kyoushi.png"
@@ -210,11 +225,6 @@
                                 "url": "JvMjTjdPyYBDGqQxL<&sep><&sep>amagami-san-chi-no-enmusubi",
                                 "title": "Amagami-san Chi no Enmusubi",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164172-GY2aqItIuqtR.jpg"
-                            },
-                            {
-                                "url": "ynAj58596dcaS67Dx<&sep><&sep>rekishi-ni-nokoru-akujo-ni-naru-zo",
-                                "title": "Rekishi ni Nokoru Akujo ni Naru zo",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1005/145339.jpg"
                             },
                             {
                                 "url": "P78McXosziWRo4yX8<&sep><&sep>rekishi-ni-nokoru-akujo-ni-naruzo",
@@ -265,16 +275,6 @@
                                 "url": "kzutfMgFu6BxSkwGS<&sep><&sep>aishang-ta-de-liyou-japanese-dub-",
                                 "title": "Aishang Ta de Liyou (Japanese Dub)",
                                 "thumbnail_url": "https://gogocdn.net/cover/aishang-ta-de-liyou-japanese-dub.png"
-                            },
-                            {
-                                "url": "r6bYnFT6WC823HEp9<&sep><&sep>jueshi-zhan-hun",
-                                "title": "Jueshi Zhan Hun",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132461-QEHBKbouieSm.png"
-                            },
-                            {
-                                "url": "wXWaFL4HvKnRtB56M<&sep><&sep>karasu-tengu-kabuto-ougon-no-me-no-kemono",
-                                "title": "Karasu Tengu Kabuto: Ougon no Me no Kemono",
-                                "thumbnail_url": "https://gogocdn.net/cover/karasu-tengu-kabuto-ougon-no-me-no-kemono.png"
                             }
                         ],
                         "hasNextPage": true
@@ -463,9 +463,9 @@
                         }
                     },
                     {
-                        "url": "https://www039.anicdnstream.info/videos/hls/mp1qFA0FdOUd9Eol_nN3xg/1727864841/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.1080.m3u8",
+                        "url": "https://www039.anicdnstream.info/videos/hls/RAjevCGOrV9sZcR31D8M7w/1727887106/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.1080.m3u8",
                         "quality": "1080p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/mp1qFA0FdOUd9Eol_nN3xg/1727864841/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.1080.m3u8",
+                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/RAjevCGOrV9sZcR31D8M7w/1727887106/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -487,9 +487,9 @@
                         }
                     },
                     {
-                        "url": "https://www039.anicdnstream.info/videos/hls/mp1qFA0FdOUd9Eol_nN3xg/1727864841/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.720.m3u8",
+                        "url": "https://www039.anicdnstream.info/videos/hls/RAjevCGOrV9sZcR31D8M7w/1727887106/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.720.m3u8",
                         "quality": "720p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/mp1qFA0FdOUd9Eol_nN3xg/1727864841/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.720.m3u8",
+                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/RAjevCGOrV9sZcR31D8M7w/1727887106/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.720.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -499,9 +499,9 @@
                         }
                     },
                     {
-                        "url": "https://www039.anicdnstream.info/videos/hls/mp1qFA0FdOUd9Eol_nN3xg/1727864841/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.480.m3u8",
+                        "url": "https://www039.anicdnstream.info/videos/hls/RAjevCGOrV9sZcR31D8M7w/1727887106/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.480.m3u8",
                         "quality": "480p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/mp1qFA0FdOUd9Eol_nN3xg/1727864841/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.480.m3u8",
+                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/RAjevCGOrV9sZcR31D8M7w/1727887106/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.480.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -511,9 +511,9 @@
                         }
                     },
                     {
-                        "url": "https://www039.anicdnstream.info/videos/hls/mp1qFA0FdOUd9Eol_nN3xg/1727864841/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.360.m3u8",
+                        "url": "https://www039.anicdnstream.info/videos/hls/RAjevCGOrV9sZcR31D8M7w/1727887106/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.360.m3u8",
                         "quality": "360p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/mp1qFA0FdOUd9Eol_nN3xg/1727864841/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.360.m3u8",
+                        "videoUrl": "https://www039.anicdnstream.info/videos/hls/RAjevCGOrV9sZcR31D8M7w/1727887106/233445/0b594d900f47daabc194844092384914/ep.1120.1726972459.360.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -564,9 +564,9 @@
                         "videoUrl": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EQY_e0TYtdFOtbPwCkoqcw4BS4mWP5cnbKUdFiNIFfmFgw"
                     },
                     {
-                        "url": "https://a1.mp4upload.com:183/d/x2x3pweoz3b4quuomwre6i2uc3qlpgaq7amye34rds57dn5vlecfqjvddnpubdwqj5v74udf/video.mp4",
+                        "url": "https://a1.mp4upload.com:183/d/x2x3pweoz3b4quuomwre6i2uc3qlpgaq7amye34rds543samhkhp7sj6hfwez3lxmdo6zqgp/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x3pweoz3b4quuomwre6i2uc3qlpgaq7amye34rds57dn5vlecfqjvddnpubdwqj5v74udf/video.mp4",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x3pweoz3b4quuomwre6i2uc3qlpgaq7amye34rds543samhkhp7sj6hfwez3lxmdo6zqgp/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
