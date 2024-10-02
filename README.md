@@ -17,7 +17,7 @@
 | all.sudatchi         |     ✅     | [results-all.sudatchi.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.sudatchi.json)                 |
 | all.supjav           | ❌<br>3/15 | [results-all.supjav.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.supjav.json)                     |
 | all.torrentio        |     ✅     | [results-all.torrentio.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.torrentio.json)               |
-| all.torrentioanime   | ❌<br>5/6  | [results-all.torrentioanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.torrentioanime.json)     |
+| all.torrentioanime   |     ✅     | [results-all.torrentioanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.torrentioanime.json)     |
 | ar.akwam             |     ✅     | [results-ar.akwam.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.akwam.json)                         |
 | ar.anime4up          |     ✅     | [results-ar.anime4up.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.anime4up.json)                   |
 | ar.animeblkom        | ❌<br>0/5  | [results-ar.animeblkom.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.animeblkom.json)               |
@@ -67,7 +67,7 @@
 | en.kaido             |     ✅     | [results-en.kaido.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kaido.json)                         |
 | en.kawaiifu          |     ✅     | [results-en.kawaiifu.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kawaiifu.json)                   |
 | en.kayoanime         | ❌<br>4/6  | [results-en.kayoanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kayoanime.json)                 |
-| en.kickassanime      |     ✅     | [results-en.kickassanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kickassanime.json)           |
+| en.kickassanime      | ❌<br>0/6  | [results-en.kickassanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kickassanime.json)           |
 | en.kimoitv           | ❌<br>0/6  | [results-en.kimoitv.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kimoitv.json)                     |
 | en.kissanime         | ❌<br>0/6  | [results-en.kissanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kissanime.json)                 |
 | en.kisskh            |     ✅     | [results-en.kisskh.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kisskh.json)                       |

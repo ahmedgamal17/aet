@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/acro-trip-english-subbed",
+                                "title": "Acro Trip English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933742.jpg"
+                            },
+                            {
                                 "url": "/anime/kankin-kuiki-level-x",
                                 "title": "Kankin Kuiki Level X",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933741.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/boo-boom-the-long-way-home",
                                 "title": "Boo-Boom! The Long Way Home",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933727.jpg"
-                            },
-                            {
-                                "url": "/anime/tales-of-the-teenage-mutant-ninja-turtles",
-                                "title": "Tales of the Teenage Mutant Ninja Turtles",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933726.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/kankin-kuiki-level-x",
-                    "title": "Kankin Kuiki Level X",
-                    "description": "Ryoka is awakened by flurry of text messages from her mother! Panicked and rushed, Mom is clearly concerned for Ryoka’s safety, but she is not too keen on letting her daughter know why. Her reasoning being that nothing could really properly describe what is happening!",
-                    "genre": "Horror, Mystery, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933741.jpg",
+                    "url": "/anime/acro-trip-english-subbed",
+                    "title": "Acro Trip English Subbed",
+                    "description": "Chizuko Date is an otaku girl who lives in a city in Niigata Prefecture. Chizuko is obsessed with Berry Blossom, the magical girl who protects the city. However, Chroma—the leader of the local evil organization Fossa Magna—is inept and weak, so hardly anyone else cares about Berry Blossom and Chroma’s frequent battles anymore. Chizuko vows to shine a light on the magical girl’s exploits—and this fervent desire takes this seemingly shy middle school girl down a dark path filled with strange folks…",
+                    "genre": "Comedy, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933742.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,14 +616,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/kankin-kuiki-level-x-episode-4-english-subbed",
-                        "name": "Season 1 - Episode 4",
-                        "episode_number": 104.0
+                        "url": "/acro-trip-episode-2-english-subbed",
+                        "name": "Season 1 - Episode 2",
+                        "episode_number": 102.0
                     },
                     {
-                        "url": "/kankin-kuiki-level-x-episode-3-english-subbed",
-                        "name": "Season 1 - Episode 3",
-                        "episode_number": 103.0
+                        "url": "/acro-trip-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
                     }
                 ],
                 "passed": true
@@ -631,19 +631,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXsBI9gaQ_bKhD11fhGcDBncGDH0sY0CJcE5dULJ8QQhg0HbyIriCcffkoub4dKA7ByIoQxoPC57mOk6D0KZRrmAXdKa-VZK8kWzUeWPhXzXoM8OInjI97bmS3VUIGnDvD1tEAnswU2LlZija8qQi447sgoXSMx_byeCTwrrU97LnSNDrcrBBreOaPDNcEj3x3f7LPEFCjfrmo_uOtQrmJROkqha0PaVwE90_Opl1QXk3-xFym5k3l79JZy_sICv-spB6GD_8Lf4nbtwBx3i7rvJg_fnhW8yBy_qJ_Jr2DAPpHV6rr3zC_3507057PewiK9wwjAfseWWEH6dKWQ77ymsBEwMR0_j7iOw_aBIZAOLT7w72fgOl_HyF9mYxsmHC0",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWl_q2dJFs5wDw91A3a9EH0wZbp8J27BREP5RfW00AF8NqyrTARYYCmMyrhicbSSjQoXJQ-RmZQsCJKQtrtZfZm3_lEXZ6KCAq2MZ1UIwt2lFMsj9OBZhgE61xvmm-pDeVtytp-0AMKBPnTDSMeA3G4zU-wSg2_WIAszuqHNtZaj21nUhpqO5DuVLxwm6Ht2ixf4PGbQdKSNWmSv9Sy0nTPdJ6ecg8AYiTmjAVm4vBMBJWYHLwS3ILo4xE1pKat3h0ajx5T7Vi8mTxqK4Nf8lIQ-JkhnBIC0O5iJU1grcQGouhLIdtyOR-SQPUSiqNP8OrrKNbdl35JzaUe0-yIsFN0iMID0RQIA4b-bDq2fA0a3g",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXsBI9gaQ_bKhD11fhGcDBncGDH0sY0CJcE5dULJ8QQhg0HbyIriCcffkoub4dKA7ByIoQxoPC57mOk6D0KZRrmAXdKa-VZK8kWzUeWPhXzXoM8OInjI97bmS3VUIGnDvD1tEAnswU2LlZija8qQi447sgoXSMx_byeCTwrrU97LnSNDrcrBBreOaPDNcEj3x3f7LPEFCjfrmo_uOtQrmJROkqha0PaVwE90_Opl1QXk3-xFym5k3l79JZy_sICv-spB6GD_8Lf4nbtwBx3i7rvJg_fnhW8yBy_qJ_Jr2DAPpHV6rr3zC_3507057PewiK9wwjAfseWWEH6dKWQ77ymsBEwMR0_j7iOw_aBIZAOLT7w72fgOl_HyF9mYxsmHC0"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWl_q2dJFs5wDw91A3a9EH0wZbp8J27BREP5RfW00AF8NqyrTARYYCmMyrhicbSSjQoXJQ-RmZQsCJKQtrtZfZm3_lEXZ6KCAq2MZ1UIwt2lFMsj9OBZhgE61xvmm-pDeVtytp-0AMKBPnTDSMeA3G4zU-wSg2_WIAszuqHNtZaj21nUhpqO5DuVLxwm6Ht2ixf4PGbQdKSNWmSv9Sy0nTPdJ6ecg8AYiTmjAVm4vBMBJWYHLwS3ILo4xE1pKat3h0ajx5T7Vi8mTxqK4Nf8lIQ-JkhnBIC0O5iJU1grcQGouhLIdtyOR-SQPUSiqNP8OrrKNbdl35JzaUe0-yIsFN0iMID0RQIA4b-bDq2fA0a3g"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXsBI9gaQ_bKhD11fhGcDBncGDH0sY0CJcE5dULJ8QQhg0HbyIriCcffkoub4dKA7ByIoQxoPC57mOk6D0KZRrmAXdKa-VZK8kWzUeWPhXzXicibIEcNl2sOJg0NoEtLFy_xapfndZp5OUrm1BbEjXYiJJIYCer6Jq1VGIHUMvdDRnvii4SKShkrrYQ-BZkQCh3ehUUvNAHxVCC89O158Vy8MCT011Ad_V2HyW5PYuCC0GBJtw2gfR7na6i7keESPOYlIfUVXlKKan7TKO30zMaR2jIDigoi2gGErBUBxmMN99AsQ09k-iLIOzfBItYU5vw1txpC3kis80xgaJDR_YWMINsuL0P98QIoGxRqm1Uglos6YQXCsMyhliIgQRqlqA",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWl_q2dJFs5wDw91A3a9EH0wZbp8J27BREP5RfW00AF8NqyrTARYYCmMyrhicbSSjQoXJQ-RmZQsCJKQtrtZfZmO-uM_JLvqrF-AvfPAKj3CjGaZ4bWbbEYhOdCVy4-Y3fgp_hI6fiiGG9Jsry9YrDruiIsrgF9pK1ztDZxXAFxwBdRaYS9jvIDfvfOzW-gBhOgZhE3pwSfRjQXCyf46RtL_5DoU-Ni8snM6j-HMEHkWZJNaVmIM_coYrFo07Yy9gsN79EPP2uswpXFfbGVKnj96-yStRu6tJjP1Aa0CS8QUkauG5--5xFtuawoX94qEnWIPytstYu2kpjPqgUbeyINRlZ4nU1y3GprMLk4txu2wQ",
                         "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXsBI9gaQ_bKhD11fhGcDBncGDH0sY0CJcE5dULJ8QQhg0HbyIriCcffkoub4dKA7ByIoQxoPC57mOk6D0KZRrmAXdKa-VZK8kWzUeWPhXzXicibIEcNl2sOJg0NoEtLFy_xapfndZp5OUrm1BbEjXYiJJIYCer6Jq1VGIHUMvdDRnvii4SKShkrrYQ-BZkQCh3ehUUvNAHxVCC89O158Vy8MCT011Ad_V2HyW5PYuCC0GBJtw2gfR7na6i7keESPOYlIfUVXlKKan7TKO30zMaR2jIDigoi2gGErBUBxmMN99AsQ09k-iLIOzfBItYU5vw1txpC3kis80xgaJDR_YWMINsuL0P98QIoGxRqm1Uglos6YQXCsMyhliIgQRqlqA"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWl_q2dJFs5wDw91A3a9EH0wZbp8J27BREP5RfW00AF8NqyrTARYYCmMyrhicbSSjQoXJQ-RmZQsCJKQtrtZfZmO-uM_JLvqrF-AvfPAKj3CjGaZ4bWbbEYhOdCVy4-Y3fgp_hI6fiiGG9Jsry9YrDruiIsrgF9pK1ztDZxXAFxwBdRaYS9jvIDfvfOzW-gBhOgZhE3pwSfRjQXCyf46RtL_5DoU-Ni8snM6j-HMEHkWZJNaVmIM_coYrFo07Yy9gsN79EPP2uswpXFfbGVKnj96-yStRu6tJjP1Aa0CS8QUkauG5--5xFtuawoX94qEnWIPytstYu2kpjPqgUbeyINRlZ4nU1y3GprMLk4txu2wQ"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXsBI9gaQ_bKhD11fhGcDBncGDH0sY0CJcE5dULJ8QQhg0HbyIriCcffkoub4dKA7ByIoQxoPC57mOk6D0KZRrmAXdKa-VZK8kWzUeWPhXzXqeNu_op96roDL690j6v7v1VBA2Kp1G4Qp_lF0-YN0sBibfbL2-lI-4dt8yYoiy-pDu3oyZjSFyR1EGM-o811XDcsDWtiqX5Rxa36k86romZKcId0MJ_ysruW9o5sPTzC77MCEOpBoDwcpmfZOO__rTeU-ZA9GEQBkVwzoCCB0iZMFWY9Ei23eF5VDcG-KpdC21Z1YBkVM8dOeA49SkgmAiCjN31AgVyw1_xFyYvYstUpXlwCAuKJf8xzDf8RYzoicVfUD34HIu7PJkF6yfrpBY",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWl_q2dJFs5wDw91A3a9EH0wZbp8J27BREP5RfW00AF8NqyrTARYYCmMyrhicbSSjQoXJQ-RmZQsCJKQtrtZfZm8kCQJndijS5lriT7VMI08X4LK2VoUdNEWHXp1vNHQEAEnuI3vDTSsvXKi2UPAaXiOGvdV3bT7lUH_fMdyQUhWu8gtGSZeEcUvDy1_SCd7FvcHr4c7u4U9o5sFf_pp5N7EPE_ECiN1ZUO_a2M-NZC96pe_wXUpW4n-WLSCwLSAe5uitMjTobHltNikIDOj6ejgc-2aAtoJJ9ReiSVoG75qgzMXXtlJNm0PS14wZ-_w0heOVUqGY5hh218GOWV5vx_",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXsBI9gaQ_bKhD11fhGcDBncGDH0sY0CJcE5dULJ8QQhg0HbyIriCcffkoub4dKA7ByIoQxoPC57mOk6D0KZRrmAXdKa-VZK8kWzUeWPhXzXqeNu_op96roDL690j6v7v1VBA2Kp1G4Qp_lF0-YN0sBibfbL2-lI-4dt8yYoiy-pDu3oyZjSFyR1EGM-o811XDcsDWtiqX5Rxa36k86romZKcId0MJ_ysruW9o5sPTzC77MCEOpBoDwcpmfZOO__rTeU-ZA9GEQBkVwzoCCB0iZMFWY9Ei23eF5VDcG-KpdC21Z1YBkVM8dOeA49SkgmAiCjN31AgVyw1_xFyYvYstUpXlwCAuKJf8xzDf8RYzoicVfUD34HIu7PJkF6yfrpBY"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWl_q2dJFs5wDw91A3a9EH0wZbp8J27BREP5RfW00AF8NqyrTARYYCmMyrhicbSSjQoXJQ-RmZQsCJKQtrtZfZm8kCQJndijS5lriT7VMI08X4LK2VoUdNEWHXp1vNHQEAEnuI3vDTSsvXKi2UPAaXiOGvdV3bT7lUH_fMdyQUhWu8gtGSZeEcUvDy1_SCd7FvcHr4c7u4U9o5sFf_pp5N7EPE_ECiN1ZUO_a2M-NZC96pe_wXUpW4n-WLSCwLSAe5uitMjTobHltNikIDOj6ejgc-2aAtoJJ9ReiSVoG75qgzMXXtlJNm0PS14wZ-_w0heOVUqGY5hh218GOWV5vx_"
                     }
                 ],
                 "passed": true
