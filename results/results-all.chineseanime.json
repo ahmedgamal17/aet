@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ji-yao-lu-qicheng-pian-another-journey-to-the-west/",
+                                "title": "Ji Yao Lu: Qicheng Pian (Another Journey to the West)",
+                                "thumbnail_url": "https://i0.wp.com/comicxy.com/wp-content/uploads/2024/10/Ji-Yao-Lu-Qicheng-Pian-Another-Journey-to-the-West.png"
+                            },
+                            {
                                 "url": "/anime/perfect-world/",
                                 "title": "Perfect World",
                                 "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2021/09/perfect-world.webp"
@@ -210,11 +215,6 @@
                                 "url": "/anime/the-sovereign-of-all-realms-season-2/",
                                 "title": "The Sovereign of All Realms Season 2",
                                 "thumbnail_url": "https://i0.wp.com/comicxy.com/wp-content/uploads/2022/08/the-sovergien-of-all-relam.jpg"
-                            },
-                            {
-                                "url": "/anime/spirit-sword-sovereign-season-4/",
-                                "title": "Spirit Sword Sovereign Season 4",
-                                "thumbnail_url": "https://i0.wp.com/comicxy.com/wp-content/uploads/2021/09/1630642897-sss-s4-new.png"
                             }
                         ],
                         "hasNextPage": true
@@ -316,9 +316,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://proxy-005.dc3.dailymotion.com/sec(PMGnmIIS0FCqNAkIsZs62zcL8v7hJI9cN7_GIo99CAbHq_dupXvIxZaJfzQ67xMqUAX1qb8JIhBbGp29pF-860HbTRQtLhlIFNSRXeG7-a37Y0td2lJp0fGP1E8PAoVB)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "url": "https://proxy-005.dc3.dailymotion.com/sec(03Y111g0KGLrmZAIKnWtl9CUaDYTQ251dlk3GypKkgaISDCP8HBnyuvMfhXQKWb6nCFy_MNtjLFAf91TgmDx7YhEUfRQKD2h43bZoaTsma2tdGQTdRI5tGj2MVhzBgSa)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "quality": "All Subtitle player 2 - 216p",
-                        "videoUrl": "https://proxy-005.dc3.dailymotion.com/sec(PMGnmIIS0FCqNAkIsZs62zcL8v7hJI9cN7_GIo99CAbHq_dupXvIxZaJfzQ67xMqUAX1qb8JIhBbGp29pF-860HbTRQtLhlIFNSRXeG7-a37Y0td2lJp0fGP1E8PAoVB)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "videoUrl": "https://proxy-005.dc3.dailymotion.com/sec(03Y111g0KGLrmZAIKnWtl9CUaDYTQ251dlk3GypKkgaISDCP8HBnyuvMfhXQKWb6nCFy_MNtjLFAf91TgmDx7YhEUfRQKD2h43bZoaTsma2tdGQTdRI5tGj2MVhzBgSa)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -407,9 +407,9 @@
                         ]
                     },
                     {
-                        "url": "https://proxy-001.dc3.dailymotion.com/sec(PMGnmIIS0FCqNAkIsZs62zcL8v7hJI9cN7_GIo99CAbHq_dupXvIxZaJfzQ67xMqUAX1qb8JIhBbGp29pF-860HbTRQtLhlIFNSRXeG7-a37Y0td2lJp0fGP1E8PAoVB)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "url": "https://proxy-001.dc3.dailymotion.com/sec(03Y111g0KGLrmZAIKnWtl9CUaDYTQ251dlk3GypKkgaISDCP8HBnyuvMfhXQKWb6nCFy_MNtjLFAf91TgmDx7YhEUfRQKD2h43bZoaTsma2tdGQTdRI5tGj2MVhzBgSa)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "quality": "All Subtitle player 2 - 216p",
-                        "videoUrl": "https://proxy-001.dc3.dailymotion.com/sec(PMGnmIIS0FCqNAkIsZs62zcL8v7hJI9cN7_GIo99CAbHq_dupXvIxZaJfzQ67xMqUAX1qb8JIhBbGp29pF-860HbTRQtLhlIFNSRXeG7-a37Y0td2lJp0fGP1E8PAoVB)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "videoUrl": "https://proxy-001.dc3.dailymotion.com/sec(03Y111g0KGLrmZAIKnWtl9CUaDYTQ251dlk3GypKkgaISDCP8HBnyuvMfhXQKWb6nCFy_MNtjLFAf91TgmDx7YhEUfRQKD2h43bZoaTsma2tdGQTdRI5tGj2MVhzBgSa)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
