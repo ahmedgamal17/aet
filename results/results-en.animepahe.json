@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5645",
+                                "title": "Rick and Morty: The Anime",
+                                "artist": "Amazon",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/9265c30c275591fcfdf21103fff9b02cf4be588dcd49cf2530bda8067c6dc7fc.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5698",
                                 "title": "Trillion Game",
                                 "artist": "SubsPlease",
@@ -71,12 +77,6 @@
                                 "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/381a5111fa2b1a72c2bd846a323ca5ad07ceddac6a4578961d1dc3c54403bae1.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5696",
-                                "title": "Kamierabi 2nd Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/feea1f497a04bb989e7f9f802020cee9b7168eb98372937291b03aaeb62f6c90.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5645",
+                                "title": "Rick and Morty: The Anime",
+                                "artist": "Amazon",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/9265c30c275591fcfdf21103fff9b02cf4be588dcd49cf2530bda8067c6dc7fc.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5698",
                                 "title": "Trillion Game",
                                 "artist": "SubsPlease",
@@ -153,12 +159,6 @@
                                 "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/381a5111fa2b1a72c2bd846a323ca5ad07ceddac6a4578961d1dc3c54403bae1.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5696",
-                                "title": "Kamierabi 2nd Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/feea1f497a04bb989e7f9f802020cee9b7168eb98372937291b03aaeb62f6c90.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5698",
-                    "title": "Trillion Game",
-                    "author": "Madhouse",
-                    "description": "Meet Haru Tennouji, a charismatic communicator beloved by all, regardless of age or gender. He may come across as easygoing, but beneath that façade lies an unwavering ambition for success. When offered a prestigious position at the nation's largest IT company, \"Dragon Bank,\" he does the unexpected—turning it down in favor of embarking on an entrepreneurial journey alongside his friend, Manabu Taira. Their audacious objective: to amass a staggering 1 trillion dollars. Now, let's introduce Manabu, a brilliant engineer armed with remarkable IT acumen. Personality-wise, he's the antithesis of Haru—introverted, and a tad awkward in social interactions. Having faced rejection from \"Dragon Bank\" due to his communication challenges, he joins forces with Haru, sharing in the colossal ambition of earning that elusive 1 trillion dollars.\n\nSynonyms: $1,000,000,000,000 Game",
-                    "genre": "Drama",
+                    "url": "/anime/?anime_id=5645",
+                    "title": "Rick and Morty: The Anime",
+                    "author": "Telecom Animation Film",
+                    "description": "No synopsis information has been added to this title.",
+                    "genre": "",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/2e8f2af48c8b393790d918a40f7e819920dfe40d2eaa2aed0b791f41ddd3bca9.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/739bc063bc9d3a8b81582568bb78f389b4ea09349bf435fae88cff40bff6856a.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/9cba6da9-430c-f9ed-a429-9c43a8293f2a/be24fee8ef63293105bb2e10c00d1615e7105e4149a199bd67c2088ef23a00cc",
-                        "name": "Episode 2",
-                        "date_upload": 1728001671000,
-                        "episode_number": 2.0
+                        "url": "/play/257956fb-3723-3ab9-a505-18d6b299fdf8/af280052e6d76f50e0790edf260517b868a7ab5505ee9f7bb1fbede4094014c8",
+                        "name": "Episode 8",
+                        "date_upload": 1728023193000,
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/play/9cba6da9-430c-f9ed-a429-9c43a8293f2a/187b770a7f943593065dc38b98696fc22bcfedf51ca959c6522fa1fbcd9f7ddb",
-                        "name": "Episode 1",
-                        "date_upload": 1727977848000,
-                        "episode_number": 1.0
+                        "url": "/play/257956fb-3723-3ab9-a505-18d6b299fdf8/c0937482f61853513a9e3cf544b1b15e580fac5d27adabe46110ccda61e7fa13",
+                        "name": "Episode 7",
+                        "date_upload": 1727413740000,
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,29 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/68672f874eb4d3f8121c4fa48018abf2ccb97f934dea7b15992276f189c81b6b?file=AnimePahe_Trillion_Game_-_02_1080p_SubsPlease.mp4&token=NwAUbOWcY4h8FDBw5MpvUg&expires=1728020835",
-                        "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/68672f874eb4d3f8121c4fa48018abf2ccb97f934dea7b15992276f189c81b6b?file=AnimePahe_Trillion_Game_-_02_1080p_SubsPlease.mp4&token=NwAUbOWcY4h8FDBw5MpvUg&expires=1728020835"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/32d5edb484dbab7d9a212fb6383004d8b70b495caa42b8ea07653adf943452b6?file=AnimePahe_Rick_and_Morty_-_The_Anime_-_08_1080p_Amazon.mp4&token=ZN70NwBhGhIdyMOlTSRDyQ&expires=1728037940",
+                        "quality": "Amazon · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/32d5edb484dbab7d9a212fb6383004d8b70b495caa42b8ea07653adf943452b6?file=AnimePahe_Rick_and_Morty_-_The_Anime_-_08_1080p_Amazon.mp4&token=ZN70NwBhGhIdyMOlTSRDyQ&expires=1728037940"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/d67433db3fdac26307ea8309d2c3f2e8798d27eeab191d95ea4f64b452a6149d?file=AnimePahe_Trillion_Game_-_02_720p_SubsPlease.mp4&token=4xsVN1asLY4xylJ0QKkeiA&expires=1728020833",
-                        "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/d67433db3fdac26307ea8309d2c3f2e8798d27eeab191d95ea4f64b452a6149d?file=AnimePahe_Trillion_Game_-_02_720p_SubsPlease.mp4&token=4xsVN1asLY4xylJ0QKkeiA&expires=1728020833"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/9fa6c27188cc1536122d268da55c7e8eeee9cbe9e5523ad026bc94ea1c28eb63?file=AnimePahe_Rick_and_Morty_-_The_Anime_-_08_720p_Amazon.mp4&token=P1vHKIYVWOGs9y_2TV3ZsQ&expires=1728037939",
+                        "quality": "Amazon · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/9fa6c27188cc1536122d268da55c7e8eeee9cbe9e5523ad026bc94ea1c28eb63?file=AnimePahe_Rick_and_Morty_-_The_Anime_-_08_720p_Amazon.mp4&token=P1vHKIYVWOGs9y_2TV3ZsQ&expires=1728037939"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/f1da1446d377189d003e4a3047174c6e8a6658755c9d6e88b408f5a49b1fe935?file=AnimePahe_Trillion_Game_-_02_360p_SubsPlease.mp4&token=CKCH8pGK-vpu03K4eqHq-w&expires=1728020832",
-                        "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/f1da1446d377189d003e4a3047174c6e8a6658755c9d6e88b408f5a49b1fe935?file=AnimePahe_Trillion_Game_-_02_360p_SubsPlease.mp4&token=CKCH8pGK-vpu03K4eqHq-w&expires=1728020832"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/d03cde27541fd63fa4e1f33f70f15930d226efa22768807c683df1d07e373918?file=AnimePahe_Rick_and_Morty_-_The_Anime_-_08_360p_Amazon.mp4&token=oa98SWxnSQ3SfNaBUpmMew&expires=1728037938",
+                        "quality": "Amazon · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/d03cde27541fd63fa4e1f33f70f15930d226efa22768807c683df1d07e373918?file=AnimePahe_Rick_and_Morty_-_The_Anime_-_08_360p_Amazon.mp4&token=oa98SWxnSQ3SfNaBUpmMew&expires=1728037938"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/acb6a695d462aad572c0b1e1ebfb53555443c55ec66aa6ce4129dba5ebaff3ad?file=AnimePahe_Rick_and_Morty_-_The_Anime_Eng_Dub_-_08_720p_Amazon.mp4&token=GtIwQaPSgNlCllO1PMeaZA&expires=1728037943",
+                        "quality": "Amazon · 720p eng",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/acb6a695d462aad572c0b1e1ebfb53555443c55ec66aa6ce4129dba5ebaff3ad?file=AnimePahe_Rick_and_Morty_-_The_Anime_Eng_Dub_-_08_720p_Amazon.mp4&token=GtIwQaPSgNlCllO1PMeaZA&expires=1728037943"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/16da9765178a59a9cbd6dae0120eb91fba4515d9320ced55124ef3cc5ed2f8ea?file=AnimePahe_Rick_and_Morty_-_The_Anime_Eng_Dub_-_08_360p_Amazon.mp4&token=AXRJDKLZ3gc-ECCUOsNUew&expires=1728037942",
+                        "quality": "Amazon · 360p eng",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/16da9765178a59a9cbd6dae0120eb91fba4515d9320ced55124ef3cc5ed2f8ea?file=AnimePahe_Rick_and_Morty_-_The_Anime_Eng_Dub_-_08_360p_Amazon.mp4&token=AXRJDKLZ3gc-ECCUOsNUew&expires=1728037942"
                     }
                 ],
                 "passed": true
