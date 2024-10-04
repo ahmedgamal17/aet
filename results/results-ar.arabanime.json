@@ -15,7 +15,7 @@
                 "passed": false
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='connect ENETUNREACH 2606:4700:3037::ac43:c1f5:443 - Local (:::0)\n  name='Error\n  stack='Error: connect ENETUNREACH 2606:4700:3037::ac43:c1f5:443 - Local (:::0)\n    at internalConnect (node:net:1100:16)\n    at defaultTriggerAsyncIdScope (node:internal/async_hooks:462:18)\n    at node:net:1306:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)\n}\nCall log:\n- → GET https://www.arabanime.net/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=8cd322107dcf207e\n-   user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0\n-   accept: */*\n-   accept-encoding: gzip, deflate, br\n-   host: www.arabanime.net\n-   accept-language: en-US,en;q=0.5\n-   referer: https://www.arabanime.net/?__cf_chl_rt_tk=9vPLSVERnPiY7JCUPHS.nVmuvT0fGe7PuZKPtivBUe0-1728023529-0.0.1.1-4756\n-   sec-fetch-dest: script\n-   sec-fetch-mode: no-cors\n-   sec-fetch-site: same-origin\n-   connection: keep-alive\n",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "episodes": {
