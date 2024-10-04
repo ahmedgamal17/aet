@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ya-she-silent-house/",
+                                "title": "Ya She (Silent House)",
+                                "thumbnail_url": "https://i3.wp.com/comicxy.com/wp-content/uploads/2024/10/Ya-She-Silent-House.png"
+                            },
+                            {
                                 "url": "/anime/soul-land-2-the-unrivaled-tang-sect/",
                                 "title": "Soul Land 2 : The Unrivaled Tang Sect",
                                 "thumbnail_url": "https://i2.wp.com/comicxy.com/wp-content/uploads/2023/06/Soul-Land-2-The-Unrivaled-Tang-Sect.jpg"
@@ -210,11 +215,6 @@
                                 "url": "/anime/shrounding-the-heavens-zhe-tian/",
                                 "title": "Shrounding the Heavens (Zhe Tian)",
                                 "thumbnail_url": "https://i2.wp.com/comicxy.com/wp-content/uploads/2023/05/Shrounding-the-Heavens-Zhe-Tian.webp"
-                            },
-                            {
-                                "url": "/anime/peerless-martial-spirit/",
-                                "title": "Peerless Martial Spirit",
-                                "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2021/09/1630489397-110438.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -316,9 +316,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://proxy-005.dc3.dailymotion.com/sec(fJXxPPORyxSF-n7AbyNNS5jEztAZdY9OEAArEjwrUObXp-ErDfqXXgSMDn3roN44VuZTr044_IE_f0rUJPdg5mk8BVVFprI3PQ5q_Uq2G26-EBBHM2bxr5_IYRyaRRIP)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "url": "https://proxy-005.dc3.dailymotion.com/sec(OAsCMR4nPS3O7H_wzs2Vd8XUsgomE4ZzicvvLe2GPduTGbIJB2obRyoAifNZ4ekBiUVwiDAqq0nXDJgUuqUoHSUTLdXx7K18lYKqL-MCHW1iA4y8mo9XVBDLL0chmonZ)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "quality": "All Subtitle player 2 - 216p",
-                        "videoUrl": "https://proxy-005.dc3.dailymotion.com/sec(fJXxPPORyxSF-n7AbyNNS5jEztAZdY9OEAArEjwrUObXp-ErDfqXXgSMDn3roN44VuZTr044_IE_f0rUJPdg5mk8BVVFprI3PQ5q_Uq2G26-EBBHM2bxr5_IYRyaRRIP)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "videoUrl": "https://proxy-005.dc3.dailymotion.com/sec(OAsCMR4nPS3O7H_wzs2Vd8XUsgomE4ZzicvvLe2GPduTGbIJB2obRyoAifNZ4ekBiUVwiDAqq0nXDJgUuqUoHSUTLdXx7K18lYKqL-MCHW1iA4y8mo9XVBDLL0chmonZ)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -407,9 +407,9 @@
                         ]
                     },
                     {
-                        "url": "https://proxy-001.dc3.dailymotion.com/sec(fJXxPPORyxSF-n7AbyNNS5jEztAZdY9OEAArEjwrUObXp-ErDfqXXgSMDn3roN44VuZTr044_IE_f0rUJPdg5mk8BVVFprI3PQ5q_Uq2G26-EBBHM2bxr5_IYRyaRRIP)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "url": "https://proxy-001.dc3.dailymotion.com/sec(OAsCMR4nPS3O7H_wzs2Vd8XUsgomE4ZzicvvLe2GPduTGbIJB2obRyoAifNZ4ekBiUVwiDAqq0nXDJgUuqUoHSUTLdXx7K18lYKqL-MCHW1iA4y8mo9XVBDLL0chmonZ)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "quality": "All Subtitle player 2 - 216p",
-                        "videoUrl": "https://proxy-001.dc3.dailymotion.com/sec(fJXxPPORyxSF-n7AbyNNS5jEztAZdY9OEAArEjwrUObXp-ErDfqXXgSMDn3roN44VuZTr044_IE_f0rUJPdg5mk8BVVFprI3PQ5q_Uq2G26-EBBHM2bxr5_IYRyaRRIP)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "videoUrl": "https://proxy-001.dc3.dailymotion.com/sec(OAsCMR4nPS3O7H_wzs2Vd8XUsgomE4ZzicvvLe2GPduTGbIJB2obRyoAifNZ4ekBiUVwiDAqq0nXDJgUuqUoHSUTLdXx7K18lYKqL-MCHW1iA4y8mo9XVBDLL0chmonZ)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
