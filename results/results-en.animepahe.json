@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5706",
+                                "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/18173b2062bfa900ab23ebf29dd28ac00d57d1e03e16535d05b536145490b705.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5654",
+                                "title": "Sword Art Online Alternative: Gun Gale Online II",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/4a5e685abc5b5f816f0b1c3901a5d25657e62ab950c78beded4d8c8241eb77c6.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5693",
+                                "title": "The iDOLM@STER Shiny Colors 2nd Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/652dbc085ab22e29402a1aef698343392ed9e5fba222c1082c98a26e24de8af0.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5600",
+                                "title": "2.5-jigen no Ririsa",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/b5ee85f6622900ff0f481cfd345cbacd60b934f8471754777f267e5bf3744d7a.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5642",
+                                "title": "The King's Avatar 3",
+                                "artist": "Vampire",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/9c182d3bb891de562eab318132c8a73e064edf8148e6c8590f26735cff1868ea.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5669",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
                                 "artist": "SubsPlease",
@@ -47,36 +77,6 @@
                                 "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/2db908d7cfba63501a3d0399343b7fed8f956ab29240b3f792df09530ab9d6d6.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5417",
-                                "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c34f5f5167a26e3512a957577a0bb5b14f3a2a2d925cb7d404a8efb42186da37.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5661",
-                                "title": "Kekkon suru tte, Hontou desu ka",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2159185a9db3128b1a7e8aaad582abb8bac44fe1b0b863939d085ad80192867b.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5666",
-                                "title": "Hitoribocchi no Isekai Kouryaku",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/474a97da19acba0ef28f71b90ba633818a7b556ed7ef12359390922a2518db08.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5704",
-                                "title": "NegaPosi Angler",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/9dd738e67603eb89952a0414eb313df63fbd09b61402037f3d4772ed257746c3.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5690",
-                                "title": "Kinoko Inu",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/ec4402815abaab435459e5ae0a4841e66410244f9e8fb111f1e9d11f27c3d9fa.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5706",
+                                "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/18173b2062bfa900ab23ebf29dd28ac00d57d1e03e16535d05b536145490b705.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5654",
+                                "title": "Sword Art Online Alternative: Gun Gale Online II",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/4a5e685abc5b5f816f0b1c3901a5d25657e62ab950c78beded4d8c8241eb77c6.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5693",
+                                "title": "The iDOLM@STER Shiny Colors 2nd Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/652dbc085ab22e29402a1aef698343392ed9e5fba222c1082c98a26e24de8af0.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5600",
+                                "title": "2.5-jigen no Ririsa",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/b5ee85f6622900ff0f481cfd345cbacd60b934f8471754777f267e5bf3744d7a.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5642",
+                                "title": "The King's Avatar 3",
+                                "artist": "Vampire",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/9c182d3bb891de562eab318132c8a73e064edf8148e6c8590f26735cff1868ea.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5669",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
                                 "artist": "SubsPlease",
@@ -129,36 +159,6 @@
                                 "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/2db908d7cfba63501a3d0399343b7fed8f956ab29240b3f792df09530ab9d6d6.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5417",
-                                "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c34f5f5167a26e3512a957577a0bb5b14f3a2a2d925cb7d404a8efb42186da37.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5661",
-                                "title": "Kekkon suru tte, Hontou desu ka",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2159185a9db3128b1a7e8aaad582abb8bac44fe1b0b863939d085ad80192867b.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5666",
-                                "title": "Hitoribocchi no Isekai Kouryaku",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/474a97da19acba0ef28f71b90ba633818a7b556ed7ef12359390922a2518db08.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5704",
-                                "title": "NegaPosi Angler",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/9dd738e67603eb89952a0414eb313df63fbd09b61402037f3d4772ed257746c3.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5690",
-                                "title": "Kinoko Inu",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/ec4402815abaab435459e5ae0a4841e66410244f9e8fb111f1e9d11f27c3d9fa.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5669",
-                    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-                    "author": "LIDENFILMS",
-                    "description": "Second season of Rurouni Kenshin: Meiji Kenkaku Romantan (2023).\n\nSynonyms: Rurouni Kenshin Season 2",
-                    "genre": "Action",
+                    "url": "/anime/?anime_id=5706",
+                    "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+                    "author": "Ashi Productions",
+                    "description": "College student Tokiwa gets invited to a mixer by his female classmate Suo. But when he arrives with his friends, they're greeted by three dazzlingly handsome men?!\n\nSynonyms: The Story of How I Went to a Mixer and There Were No Women There",
+                    "genre": "Comedy, Romance",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/b11a0f29c9507e04ee425eff5f0689b5b8798fc4e5f9b30afb55d42dc3ba8463.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/dc6ff50b737a1f3dc8451f9b53ec4ee90e0e12f09ae2935dd04c9aac16a1567c.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,10 +233,10 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/40f945b1-288f-8f2f-2f63-ba96758c4de8/5223a5ae0379451a56b7ab709510a6101750cb84c7a7de087f292470f4c1f0c5",
-                        "name": "Episode 25",
-                        "date_upload": 1728042292000,
-                        "episode_number": 25.0
+                        "url": "/play/e07591b5-ff81-473b-6f7e-f27a277cd9b2/bcec767c4e2ac3b232b41aa6c451d31439df32d4eb155cbb0647f4b174c087d5",
+                        "name": "Episode 1",
+                        "date_upload": 1728066155000,
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -244,19 +244,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/4b09a5cac3ba437e4b87a3731bcee4317e7fd048d95909f42adc8fa826473740?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_25_1080p_SubsPlease.mp4&token=OnaGMZAzJJBAZPTgOvzBaQ&expires=1728060285",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/9c0ba23f3a165560f36e79cc1d59cc1e2834113149075f6c71773d7339d476c4?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_01_1080p_SubsPlease.mp4&token=3rOEGaJEbrzZUfn2xWoLww&expires=1728081069",
                         "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/4b09a5cac3ba437e4b87a3731bcee4317e7fd048d95909f42adc8fa826473740?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_25_1080p_SubsPlease.mp4&token=OnaGMZAzJJBAZPTgOvzBaQ&expires=1728060285"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/9c0ba23f3a165560f36e79cc1d59cc1e2834113149075f6c71773d7339d476c4?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_01_1080p_SubsPlease.mp4&token=3rOEGaJEbrzZUfn2xWoLww&expires=1728081069"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/5c5321550bc29389c3c25c38fd8917d12da8560e7b8f5aea6daf9ecf1b0e4e8b?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_25_720p_SubsPlease.mp4&token=SRAhyYOMbmfGNR-lQxgMkg&expires=1728060284",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/f54b145989533bdde14b96f8e82f95ade4926e5c3a0365be69158d00383eb5e9?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_01_720p_SubsPlease.mp4&token=x0F3rJexuCQoOQwW8Ezh1g&expires=1728081067",
                         "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/5c5321550bc29389c3c25c38fd8917d12da8560e7b8f5aea6daf9ecf1b0e4e8b?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_25_720p_SubsPlease.mp4&token=SRAhyYOMbmfGNR-lQxgMkg&expires=1728060284"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/f54b145989533bdde14b96f8e82f95ade4926e5c3a0365be69158d00383eb5e9?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_01_720p_SubsPlease.mp4&token=x0F3rJexuCQoOQwW8Ezh1g&expires=1728081067"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/76465fb99e0e21d0337e09a3b41e599c052e6877b943336d92249cdb769e96a5?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_25_360p_SubsPlease.mp4&token=9dgsCQ39F7BHEZ8Y8MJTYw&expires=1728060282",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/ce4d1af373044ce51ca8a79985f48e8abceb8124fe9ed9f120edf7b50dd30cbf?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_01_360p_SubsPlease.mp4&token=Qo5KmowoEf4HoloFRmTTgw&expires=1728081066",
                         "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/76465fb99e0e21d0337e09a3b41e599c052e6877b943336d92249cdb769e96a5?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_25_360p_SubsPlease.mp4&token=9dgsCQ39F7BHEZ8Y8MJTYw&expires=1728060282"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/ce4d1af373044ce51ca8a79985f48e8abceb8124fe9ed9f120edf7b50dd30cbf?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_01_360p_SubsPlease.mp4&token=Qo5KmowoEf4HoloFRmTTgw&expires=1728081066"
                     }
                 ],
                 "passed": true
