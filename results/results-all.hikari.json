@@ -167,6 +167,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/237/Koukyoushihen_Eureka_Seven",
+                                "title": "Koukyoushihen Eureka Seven",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/12/34443l.jpg"
+                            },
+                            {
+                                "url": "/anime/50612/Dr_Stone_Ryuusui",
+                                "title": "Dr. Stone: Ryuusui",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg"
+                            },
+                            {
                                 "url": "/anime/22071/Mikakunin_de_Shinkoukei_Mite_Are_ga_Watashitachi_no_Tomatteiru_Ryokan_yo",
                                 "title": "Mikakunin de Shinkoukei: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo.",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/10/76811l.jpg"
@@ -305,16 +315,6 @@
                                 "url": "/anime/5530/Pandora_Hearts",
                                 "title": "Pandora Hearts",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/4/75535l.jpg"
-                            },
-                            {
-                                "url": "/anime/11977/Mahou_Shoujo_MadokaMagica_Movie_1_Hajimari_no_Monogatari",
-                                "title": "Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/6/42331l.jpg"
-                            },
-                            {
-                                "url": "/anime/11979/Mahou_Shoujo_MadokaMagica_Movie_2_Eien_no_Monogatari",
-                                "title": "Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/6/42265l.jpg"
                             }
                         ],
                         "hasNextPage": true

@@ -92,6 +92,16 @@
                     {
                         "animes": [
                             {
+                                "url": "{\"slug\":\"re-zero-kara-hajimeru-isekai-seikatsu-3\",\"id\":\"1GoNcyLosRpatKuM\"}",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
+                                "thumbnail_url": "https://media.kitsu.app/anime/47235/poster_image/c1a45bad289baec1223a4371969da321.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"acro-trip\",\"id\":\"M7lys0JqvIR74xPf\"}",
+                                "title": "Acro Trip",
+                                "thumbnail_url": "https://media.kitsu.app/anime/46805/poster_image/99706818941cd0b26a615e49f2bdf6e7.jpg"
+                            },
+                            {
                                 "url": "{\"slug\":\"atri-my-dear-moments\",\"id\":\"zTomtkWj33zBuW6t\"}",
                                 "title": "ATRI: My Dear Moments",
                                 "thumbnail_url": "https://media.kitsu.app/anime/46525/poster_image/07354bf051d61f80d0c11216a80b3209.jpg"
@@ -132,11 +142,6 @@
                                 "thumbnail_url": "https://media.kitsu.app/anime/45159/poster_image/d5b457ff66829e27cb9da82bc7ce6877.jpg"
                             },
                             {
-                                "url": "{\"slug\":\"na-nare-hana-nare\",\"id\":\"6552aa820e1c4b82158a120d\"}",
-                                "title": "Na Nare Hana Nare",
-                                "thumbnail_url": "https://media.kitsu.app/anime/48213/poster_image/3f0c0ca57235275bc9ba98822fd63645.jpg"
-                            },
-                            {
                                 "url": "{\"slug\":\"tower-of-god-season-2\",\"id\":\"sCX3ESK8MAl5NoCk\"}",
                                 "title": "Kami no Tou: Tower of God 2nd Season",
                                 "thumbnail_url": "https://media.kitsu.app/anime/46312/poster_image/68968bc92f2fc0da7fe45b43bddbd7fb.jpg"
@@ -157,14 +162,9 @@
                                 "thumbnail_url": "https://media.kitsu.app/anime/48423/poster_image/d13a533bcb6ef82931664d783743345e.png"
                             },
                             {
-                                "url": "{\"slug\":\"nige-jouzu-no-wakagimi\",\"id\":\"yFrBK4oAKLtMRA5Y\"}",
-                                "title": "Nige Jouzu no Wakagimi",
-                                "thumbnail_url": "https://media.kitsu.app/anime/47197/poster_image/bfc9552e494d660985b9d6e4e4f3e43c.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"kono-sekai-wa-fukanzen-sugiru\",\"id\":\"JnW9VupleWFj9JAD\"}",
-                                "title": "Kono Sekai wa Fukanzen Sugiru",
-                                "thumbnail_url": "https://media.kitsu.app/anime/47236/poster_image/5dc8c6ef1371580917509cc11fe6e3df.png"
+                                "url": "{\"slug\":\"na-nare-hana-nare\",\"id\":\"6552aa820e1c4b82158a120d\"}",
+                                "title": "Na Nare Hana Nare",
+                                "thumbnail_url": "https://media.kitsu.app/anime/48213/poster_image/3f0c0ca57235275bc9ba98822fd63645.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -212,6 +212,11 @@
                                 "thumbnail_url": "https://media.kitsu.app/anime/44289/poster_image/5a688053ea687f40b9c01d77e591ff87.jpg"
                             },
                             {
+                                "url": "{\"slug\":\"re-zero-kara-hajimeru-isekai-seikatsu-3\",\"id\":\"1GoNcyLosRpatKuM\"}",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
+                                "thumbnail_url": "https://media.kitsu.app/anime/47235/poster_image/c1a45bad289baec1223a4371969da321.jpg"
+                            },
+                            {
                                 "url": "{\"slug\":\"kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2\",\"id\":\"vvWlvGMHVjvYdvMu\"}",
                                 "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season 2",
                                 "thumbnail_url": "https://media.kitsu.app/anime/45272/poster_image/c2bfedd7cfc106523dfb4335a8c50cc4.jpg"
@@ -245,11 +250,6 @@
                                 "url": "{\"slug\":\"cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore\",\"id\":\"a5c2zKQ9vr2yQa6K\"}",
                                 "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
                                 "thumbnail_url": "https://media.kitsu.app/anime/poster_images/43612/original.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life\",\"id\":\"654ec068c05da78e2cf93f6f\"}",
-                                "title": "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
-                                "thumbnail_url": "https://media.kitsu.app/anime/48125/poster_image/5b24219ca70b781cce0ba1c2b3c55e76.jpg"
                             }
                         ],
                         "hasNextPage": false
