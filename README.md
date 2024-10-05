@@ -19,7 +19,7 @@
 | all.torrentio        |     ✅     | [results-all.torrentio.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.torrentio.json)               |
 | all.torrentioanime   |     ✅     | [results-all.torrentioanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.torrentioanime.json)     |
 | ar.akwam             | ❌<br>4/5  | [results-ar.akwam.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.akwam.json)                         |
-| ar.anime4up          |     ✅     | [results-ar.anime4up.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.anime4up.json)                   |
+| ar.anime4up          | ❌<br>3/5  | [results-ar.anime4up.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.anime4up.json)                   |
 | ar.animeblkom        | ❌<br>0/5  | [results-ar.animeblkom.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.animeblkom.json)               |
 | ar.animeiat          |     ✅     | [results-ar.animeiat.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.animeiat.json)                   |
 | ar.animelek          | ❌<br>5/6  | [results-ar.animelek.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.animelek.json)                   |
@@ -29,7 +29,7 @@
 | ar.asia2tv           |     ✅     | [results-ar.asia2tv.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.asia2tv.json)                     |
 | ar.cimaleek          | ❌<br>4/6  | [results-ar.cimaleek.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.cimaleek.json)                   |
 | ar.egydead           | ❌<br>1/6  | [results-ar.egydead.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.egydead.json)                     |
-| ar.faselhd           | ❌<br>5/6  | [results-ar.faselhd.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.faselhd.json)                     |
+| ar.faselhd           | ❌<br>4/6  | [results-ar.faselhd.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.faselhd.json)                     |
 | ar.mycima            |     ✅     | [results-ar.mycima.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.mycima.json)                       |
 | ar.okanime           | ❌<br>4/6  | [results-ar.okanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.okanime.json)                     |
 | ar.tuktukcinema      | ❌<br>0/6  | [results-ar.tuktukcinema.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.tuktukcinema.json)           |
@@ -71,7 +71,7 @@
 | en.kimoitv           | ❌<br>0/6  | [results-en.kimoitv.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kimoitv.json)                     |
 | en.kissanime         | ❌<br>0/6  | [results-en.kissanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kissanime.json)                 |
 | en.kisskh            |     ✅     | [results-en.kisskh.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kisskh.json)                       |
-| en.luciferdonghua    | ❌<br>5/6  | [results-en.luciferdonghua.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.luciferdonghua.json)       |
+| en.luciferdonghua    |     ✅     | [results-en.luciferdonghua.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.luciferdonghua.json)       |
 | en.multimovies       | ❌<br>0/6  | [results-en.multimovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.multimovies.json)             |
 | en.myanime           |     ✅     | [results-en.myanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.myanime.json)                     |
 | en.myrunningman      | ❌<br>5/6  | [results-en.myrunningman.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.myrunningman.json)           |
