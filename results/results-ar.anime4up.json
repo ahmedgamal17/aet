@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ansatsu-kyoushitsu-2nd-season/",
+                                "title": "Ansatsu Kyoushitsu 2nd Season",
+                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.06_14h26m00s_003_-215x300.png"
+                            },
+                            {
+                                "url": "/anime/tsuma-shougakusei-ni-naru/",
+                                "title": "Tsuma, Shougakusei ni Naru.",
+                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.06_13h01m31s_001_-215x300.png"
+                            },
+                            {
                                 "url": "/anime/ranma1-2-2024/",
                                 "title": "Ranma1/2 (2024)",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/bx178533-md2BV8esGezM-215x300.jpg"
@@ -235,16 +245,6 @@
                                 "url": "/anime/charlotte/",
                                 "title": "Charlotte",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/08/Ashampoo_Snap_2024.08.10_15h38m34s_001_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/rezero-kara-hajimeru-isekai-seikatsu-3rd-season/",
-                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
-                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/08/re-zero-season-3-key-visual-v0-v3vakalzmtpa1-215x300.webp"
-                            },
-                            {
-                                "url": "/anime/kitarou-tanjou-gegege-no-nazo/",
-                                "title": "Kitarou Tanjou: Gegege no Nazo",
-                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/08/Kitarou_Tanjou_Gegege_no_Nazo-cover-215x300.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -364,48 +364,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/ranma1-2-2024/",
-                    "title": "Ranma1/2 (2024)",
-                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 24 دقيقة\nالموسم: خريف 2024\nالمصدر: مانجا\n\nعاد رانما ساوتومي من الصين بعد خوضه تدريبًا مكثفًا في فنون القتال مع والده ليكتشف أنه مخطوب لفتاة لم يلتقِ بها من قبل، تدعى أكاني وهي ابنة صديق والده ومديرة لدوجو العائلة إلا أن العلاقة بينهما لا تسير بسلاسة حيث لا يتوافقان على الإطلاق وتزداد الأمور تعقيدًا بسبب لعنة غريبة أصابت رانما خلال رحلته في الصين.",
-                    "genre": "شونين, مدرسي, فنتازيا, فنون قتالية, رومانسي, كوميدي, TV, يعرض الان, خريف 2024",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/bx178533-md2BV8esGezM.jpg",
+                    "url": "/anime/ansatsu-kyoushitsu-2nd-season/",
+                    "title": "Ansatsu Kyoushitsu 2nd Season",
+                    "description": "النوع: TV\nبداية العرض: 2016\nحالة الأنمي: مكتمل\nعدد الحلقات: 25\nمدة الحلقة: 23 دقيقة\nالموسم: شتاء 2016\nالمصدر: مانجا\n\nقصة انمي Ansatsu Kyoushitsu 2nd Season تتمة لاحداث الموسم السابق وتدور القصة بعد عودة الطلاب لاستكمال الدراسة في النصف الثاني للسنة الدراسية بعد أعمالهم البطولية في الجزيرة أثناء العطلة الصيفية. تابع الفصل 3-E شحذ أسلحتهم مع إبقاء أنظارهم على معلمهم “كورو-سينسي”. كما أصبح لديهم الكثير للقلق بشأنه إضافة لكونهم قلقين من معلمهم نفسه، ومع ذلك، فإن الأعداء القتلة، القدماء منهم والجدد يسعون للحصول على رأس الأخطبوط. وعلاوة على ذلك، يقف المنافسين من الفصل A مع مدير المدرسة جنبا إلى جنب لمنع طلاب الفصل E من تحقيق علامات مدرسية عالية. ولكن المجموعة تواصل العمل سويّا للتغلب على الأعداء واغتيال معلمهم بنجاح.",
+                    "genre": "أكشن, كوميدي, مدرسي, شونين, TV, مكتمل, شتاء 2016",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.06_14h26m00s_003_.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/ranma1-2-2024-الحلقة-1/",
-                        "name": "الحلقة 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://m70.uqload.ws/3rfk37bf4nw2q4drdkqpvpvzlh7dtgn3ilifa64fx2vle3yjtbdi435kdnya/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m70.uqload.ws/3rfk37bf4nw2q4drdkqpvpvzlh7dtgn3ilifa64fx2vle3yjtbdi435kdnya/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://a3.mp4upload.com:183/d/xsxzu7uoz3b4quuopwregncglhydsp4cvdzijohlhnkyules5htot2qzycrzrcc4l5btw7ju/video.mp4",
-                        "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxzu7uoz3b4quuopwregncglhydsp4cvdzijohlhnkyules5htot2qzycrzrcc4l5btw7ju/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "166531",
+                                "title": "[Oshi no Ko] 2nd Season",
+                                "author": "CyberAgent, Doga Kobo, Doga Kobo, KADOKAWA, Shueisha",
+                                "description": "The second season of [Oshi no Ko].\n\n\nAqua’s desire for revenge takes center stage as he navigates the dark underbelly of the entertainment world alongside his twin sister, Ruby. While Ruby follows in their slain mother’s footsteps to become an idol, Aqua joins a famous theater troupe in hopes of uncovering clues to the identity of his father — the man who arranged their mother’s untimely death, and the man who once starred in the same troupe Aqua hopes to infiltrate.\n\n\n(Source: HIDIVE)",
+                                "genre": "Achronological Order, Acting, Anti-Hero, Drama, Drawing, Idol, Love Triangle, Male Protagonist, Mystery, Psychological, Reincarnation, Revenge, Seinen, Supernatural, Swordplay, Time Skip, Tragedy, Tsundere, Twins, Urban",
+                                "status": 2,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166531-dAL5MsqDHUkj.jpg",
+                                "initialized": true
+                            },
+                            {
                                 "url": "21",
                                 "title": "ONE PIECE",
                                 "author": "4Kids Entertainment, Asahi Production, Asatsu DK, Avex Pictures, Fuji TV, Funimation, Magic Bus, Mushi Production, Studio Guts, TAP, Toei Animation",
@@ -37,13 +47,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "169755",
-                                "title": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
-                                "author": "Dentsu, PIERROT FILMS, Shueisha, Studio Pierrot, TV Tokyo",
-                                "description": "The third part of BLEACH: Sennen Kessen-hen. ",
-                                "genre": "Action, Adventure, Gods, Male Protagonist, Shounen, Super Power, Supernatural, Swordplay, Urban Fantasy, War",
+                                "url": "111314",
+                                "title": "Uzumaki",
+                                "author": "Adult Swim, Akatsuki, Drive, Fugaku, Production I.G",
+                                "description": "Four episode anime adaptation of the Junji Ito manga. \n\n\nKurozu-cho, a small fogbound town on the coast of Japan, is cursed. According to Shuichi Saito, the withdrawn boyfriend of teenager Kirie Goshima, their town is haunted not by a person or being but by a pattern: uzumaki, the spiral, the hypnotic secret shape of the world. It manifests itself in small ways: seashells, ferns, whirlpools in water, whirlwinds in air. And in large ways: the spiral marks on people's bodies, the insane obsessions of Shuichi's father, the voice from the cochlea in your inner ear. As the madness spreads, the inhabitants of Kurouzu-cho are pulled ever deeper, as if into a whirlpool from which there is no return...\n\n\n(Source: Viz Media)",
+                                "genre": "Achromatic, Augmented Reality, Body Horror, Cannibalism, Cosmic Horror, Detective, Drama, Episodic, Female Protagonist, Gore, Horror, Lost Civilization, Mystery, Philosophy, Primarily Child Cast, Primarily Teen Cast, Rotoscoping, Seinen, Supernatural, Survival, Tragedy, Unrequited Love, Urban Fantasy, Volleyball",
                                 "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111314-vZDqyfXNfsPY.png",
                                 "initialized": true
                             },
                             {
@@ -57,13 +67,23 @@
                                 "initialized": true
                             },
                             {
-                                "url": "111314",
-                                "title": "Uzumaki",
-                                "author": "Adult Swim, Akatsuki, Drive, Fugaku, Production I.G",
-                                "description": "Four episode anime adaptation of the Junji Ito manga. \n\n\nKurozu-cho, a small fogbound town on the coast of Japan, is cursed. According to Shuichi Saito, the withdrawn boyfriend of teenager Kirie Goshima, their town is haunted not by a person or being but by a pattern: uzumaki, the spiral, the hypnotic secret shape of the world. It manifests itself in small ways: seashells, ferns, whirlpools in water, whirlwinds in air. And in large ways: the spiral marks on people's bodies, the insane obsessions of Shuichi's father, the voice from the cochlea in your inner ear. As the madness spreads, the inhabitants of Kurouzu-cho are pulled ever deeper, as if into a whirlpool from which there is no return...\n\n\n(Source: Viz Media)",
-                                "genre": "Achromatic, Augmented Reality, Body Horror, Cannibalism, Cosmic Horror, Detective, Drama, Episodic, Female Protagonist, Gore, Horror, Lost Civilization, Mystery, Philosophy, Primarily Child Cast, Primarily Teen Cast, Rotoscoping, Seinen, Supernatural, Survival, Tragedy, Unrequited Love, Urban Fantasy, Volleyball",
+                                "url": "169755",
+                                "title": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
+                                "author": "Dentsu, PIERROT FILMS, Shueisha, Studio Pierrot, TV Tokyo",
+                                "description": "The third part of BLEACH: Sennen Kessen-hen. ",
+                                "genre": "Achromatic, Action, Adventure, Gods, Male Protagonist, Shounen, Super Power, Supernatural, Swordplay, Urban Fantasy, War",
                                 "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111314-vZDqyfXNfsPY.png",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "158898",
+                                "title": "Yozakura-san Chi no Daisakusen",
+                                "author": "JR Higashi Nihon Kikaku, Mainichi Broadcasting System, NBCUniversal Entertainment Japan, SILVER LINK., SILVER LINK., Shueisha, Studio Pierrot",
+                                "description": "Taiyou Asano is a super shy high school student and the only person he can talk to is his childhood friend, Mutsumi Yozakura. It turns out that Mutsumi is the daughter of the ultimate spy family! Even worse, Mutsumi is being harassed by her overprotective, nightmare of a brother, Kyouichirou. What drastic steps will Taiyou have to take to save Mutsumi?! A spy family comedy - the mission begins!\n\n(Source: MANGA Plus)",
+                                "genre": "Action, Bisexual, Body Horror, Comedy, Conspiracy, Crossdressing, Episodic, Espionage, Family Life, Guns, Heterosexual, LGBTQ+ Themes, Male Protagonist, Marriage, Nudity, Romance, School, Shounen, Super Power, Surreal Comedy, Swordplay, Tragedy",
+                                "status": 1,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png",
                                 "initialized": true
                             },
                             {
@@ -87,16 +107,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "174043",
-                                "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
-                                "author": "ABC Animation, APDREAM, Bushiroad Move, Futabasha, KLOCKWORX, NBCUniversal Entertainment Japan, Pony Canyon, Procen Studio, Studio elle, Zero-G Act",
-                                "description": "The story follows Raust, a healer who can only use one basic spell and is expelled from a first-class party for being too weak. While the leader of that party realizes how great his abilities actually are after hiring another healer, Raust finds new friends like Narsena who support him and his rise to the top.\n\n(Source: Crunchyroll News)",
-                                "genre": "Action, Adventure, Fantasy, Magic, Male Protagonist",
-                                "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174043-aHYSmA5B76TZ.jpg",
-                                "initialized": true
-                            },
-                            {
                                 "url": "178533",
                                 "title": "Ranma 1/2 (2024)",
                                 "author": "MAPPA, MAPPA, Nippon Television Network, Shogakukan, Shogakukan-Shueisha Productions",
@@ -117,13 +127,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "173533",
-                                "title": "Monogatari Series: Off & Monster Season",
-                                "author": "Aniplex, Kodansha, Shaft, Shaft",
-                                "description": "The sequel to the 'Final Season' story arc of the Monogatari series.\n\n\nFrom the past to the future, their story continues. \n\n\nNow that he has graduated from high school, Koyomi Araragi’s story ends here. His story is truly over now, but the stories of the girls Koyomi saved - their stories - are not over yet.\n\n\nThis is the prequel or sequel to their stories and their struggles.\n\n\n(Source: Monogatari Series USA Official Website)\n\nNote: Relations are provisional and subject to change.",
-                                "genre": "Afterlife, Clone, Coming of Age, Drama, Drawing, Fairy Tale, Female Protagonist, Fishing, Gods, Gore, Hikikomori, Mystery, Philosophy, Primarily Female Cast, Rakugo, Suicide, Supernatural, Urban Fantasy, Vampire, Youkai, Zombie",
+                                "url": "174043",
+                                "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+                                "author": "ABC Animation, APDREAM, Bushiroad Move, Futabasha, KLOCKWORX, NBCUniversal Entertainment Japan, Pony Canyon, Procen Studio, Studio elle, Zero-G Act",
+                                "description": "The story follows Raust, a healer who can only use one basic spell and is expelled from a first-class party for being too weak. While the leader of that party realizes how great his abilities actually are after hiring another healer, Raust finds new friends like Narsena who support him and his rise to the top.\n\n(Source: Crunchyroll News)",
+                                "genre": "Action, Adventure, Fantasy, Magic, Male Protagonist",
                                 "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173533-9DN3nHtT2FBm.png",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174043-aHYSmA5B76TZ.jpg",
                                 "initialized": true
                             },
                             {
@@ -137,23 +147,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "154963",
-                                "title": "ATRI: My Dear Moments",
-                                "author": "Aniplex, TROYCA, bilibili",
-                                "description": "In the near future, a sudden and unexplained sea rise has left much of human civilization underwater. Ikaruga Natsuki, a boy who lost his mother and one of his legs in an accident some years earlier, returns disillusioned from a harsh life in the big city to find his old countryside home half-swallowed by the sea. Left without a family, all he has to his name is the ship and submarine left to him by his oceanologist grandmother, and her debts. His only hope to restore the dreams for the future that he has lost is to take up an opportunity presented to him by the suspicious debt collector Catherine. They set sail to search the sunken ruins of his grandmother's laboratory in order to find a treasure rumor says she left there. But what they find is not riches or jewels; it is a strange girl lying asleep in a coffin at the bottom of the sea, Atri. Atri is a robot, but her appearance and her wealth of emotions would fool anyone into thinking she's a living, breathing human being. In gratitude for being salvaged, she makes a declaration to Natsuki.\n\n(Source: Crunchyroll)",
-                                "genre": "Artificial Intelligence, CGI, Cyberpunk, Disability, Drama, Dystopian, Environmental, Female Protagonist, Heterosexual, Lost Civilization, Male Protagonist, Post-Apocalyptic, Robots, Romance, Sci-Fi, Time Skip",
+                                "url": "156822",
+                                "title": "Tensei Shitara Slime Datta Ken 3rd Season",
+                                "author": "8-bit, 8-bit, ADK Marketing Solutions, BANDAI SPIRITS, BS11, Bandai Namco Filmworks, Bandai Namco Music Live, Kodansha, Micro Magazine Sha, Nippon Television Network, Sony Music Solutions",
+                                "description": "The third season of Tensei Shitara Slime Datta Ken.\n\nRimuru has officially become a Demon Lord after defeating Clayman. Following Walpurgis, the Demon Lords' banquet, Rimuru's domain is expanded to include the entire Great Forest of Jura. Anticipating a flood of representatives from all races showing up to pay their respects, Rimuru decides to throw a festival to commemorate the opening of Tempest, using it as an opportunity to gain new citizens and present Demon Lord Rimuru to the world. Meanwhile, in the Holy Empire of Lubelius, home base of the monster-hating cult of Luminism, Holy Knight Captain Hinata receives a message from Rimuru. But the message is actually a fabricated declaration of war sent by some unknown party. Upon learning that Hinata is heading for Tempest, Rimuru makes a decision... Thus begins a new challenge for Rimuru, striving to distinguish friend from foe in his pursuit of the ideal nation where humans and monsters can prosper together. \n\n(Source: Crunchyroll)\n",
+                                "genre": "Action, Adventure, Agender, Comedy, Demons, Dragons, Ensemble Cast, Fantasy, Female Harem, Goblin, Isekai, Kingdom Management, Magic, Male Protagonist, Monster Boy, Monster Girl, Office, Politics, Reincarnation, Shapeshifting, Shounen, Slavery, Super Power, Vampire, War, Youkai",
                                 "status": 2,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154963-Ju6Ey3P5YHs2.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "171457",
-                                "title": "Make Heroine ga Oosugiru!",
-                                "author": "A-1 Pictures, Aniplex, BS11, Contents Seed, Good Smile Company, JR Toukai Agency, TOKYO MX, Yomiuri TV",
-                                "description": "Kazuhiko Nukumizu is a high school boy content to blend in with the background mob, until he witnessed his more popular classmate Anna Yanami get dumped by her childhood friend. He felt like he had to try to comfort Yanami, but this led him to become entangled with other girls who have met defeat at love?",
-                                "genre": "Comedy, Female Protagonist, Food, Heterosexual, Love Triangle, Male Protagonist, Meta, Parody, Primarily Teen Cast, Romance, Satire, School, School Club, Seinen, Tanned Skin, Tomboy, Unrequited Love, Urban, Writing",
-                                "status": 2,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171457-Z8tZRk7LhcZk.jpg",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156822-Jzo2ITWgm4kM.jpg",
                                 "initialized": true
                             },
                             {
@@ -167,23 +167,23 @@
                                 "initialized": true
                             },
                             {
-                                "url": "166531",
-                                "title": "[Oshi no Ko] 2nd Season",
-                                "author": "CyberAgent, Doga Kobo, Doga Kobo, KADOKAWA, Shueisha",
-                                "description": "The second season of [Oshi no Ko].\n\n\nAqua’s desire for revenge takes center stage as he navigates the dark underbelly of the entertainment world alongside his twin sister, Ruby. While Ruby follows in their slain mother’s footsteps to become an idol, Aqua joins a famous theater troupe in hopes of uncovering clues to the identity of his father — the man who arranged their mother’s untimely death, and the man who once starred in the same troupe Aqua hopes to infiltrate.\n\n\n(Source: HIDIVE)",
-                                "genre": "Achronological Order, Acting, Anti-Hero, Drama, Drawing, Idol, Love Triangle, Male Protagonist, Mystery, Psychological, Reincarnation, Revenge, Seinen, Supernatural, Swordplay, Time Skip, Tragedy, Tsundere, Twins, Urban",
-                                "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166531-dAL5MsqDHUkj.jpg",
+                                "url": "154963",
+                                "title": "ATRI: My Dear Moments",
+                                "author": "Aniplex, TROYCA, bilibili",
+                                "description": "In the near future, a sudden and unexplained sea rise has left much of human civilization underwater. Ikaruga Natsuki, a boy who lost his mother and one of his legs in an accident some years earlier, returns disillusioned from a harsh life in the big city to find his old countryside home half-swallowed by the sea. Left without a family, all he has to his name is the ship and submarine left to him by his oceanologist grandmother, and her debts. His only hope to restore the dreams for the future that he has lost is to take up an opportunity presented to him by the suspicious debt collector Catherine. They set sail to search the sunken ruins of his grandmother's laboratory in order to find a treasure rumor says she left there. But what they find is not riches or jewels; it is a strange girl lying asleep in a coffin at the bottom of the sea, Atri. Atri is a robot, but her appearance and her wealth of emotions would fool anyone into thinking she's a living, breathing human being. In gratitude for being salvaged, she makes a declaration to Natsuki.\n\n(Source: Crunchyroll)",
+                                "genre": "Artificial Intelligence, CGI, Cyberpunk, Disability, Drama, Dystopian, Environmental, Female Protagonist, Heterosexual, Lost Civilization, Male Protagonist, Post-Apocalyptic, Robots, Romance, Sci-Fi, Time Skip",
+                                "status": 2,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154963-Ju6Ey3P5YHs2.jpg",
                                 "initialized": true
                             },
                             {
-                                "url": "156822",
-                                "title": "Tensei Shitara Slime Datta Ken 3rd Season",
-                                "author": "8-bit, 8-bit, ADK Marketing Solutions, BANDAI SPIRITS, BS11, Bandai Namco Filmworks, Bandai Namco Music Live, Kodansha, Micro Magazine Sha, Nippon Television Network, Sony Music Solutions",
-                                "description": "The third season of Tensei Shitara Slime Datta Ken.\n\nRimuru has officially become a Demon Lord after defeating Clayman. Following Walpurgis, the Demon Lords' banquet, Rimuru's domain is expanded to include the entire Great Forest of Jura. Anticipating a flood of representatives from all races showing up to pay their respects, Rimuru decides to throw a festival to commemorate the opening of Tempest, using it as an opportunity to gain new citizens and present Demon Lord Rimuru to the world. Meanwhile, in the Holy Empire of Lubelius, home base of the monster-hating cult of Luminism, Holy Knight Captain Hinata receives a message from Rimuru. But the message is actually a fabricated declaration of war sent by some unknown party. Upon learning that Hinata is heading for Tempest, Rimuru makes a decision... Thus begins a new challenge for Rimuru, striving to distinguish friend from foe in his pursuit of the ideal nation where humans and monsters can prosper together. \n\n(Source: Crunchyroll)\n",
-                                "genre": "Action, Adventure, Agender, Comedy, Demons, Dragons, Ensemble Cast, Fantasy, Female Harem, Goblin, Isekai, Kingdom Management, Magic, Male Protagonist, Monster Boy, Monster Girl, Office, Politics, Reincarnation, Shapeshifting, Shounen, Slavery, Super Power, Vampire, War, Youkai",
-                                "status": 2,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156822-Jzo2ITWgm4kM.jpg",
+                                "url": "173533",
+                                "title": "Monogatari Series: Off & Monster Season",
+                                "author": "Aniplex, Kodansha, Shaft, Shaft",
+                                "description": "The sequel to the 'Final Season' story arc of the Monogatari series.\n\n\nFrom the past to the future, their story continues. \n\n\nNow that he has graduated from high school, Koyomi Araragi’s story ends here. His story is truly over now, but the stories of the girls Koyomi saved - their stories - are not over yet.\n\n\nThis is the prequel or sequel to their stories and their struggles.\n\n\n(Source: Monogatari Series USA Official Website)\n\nNote: Relations are provisional and subject to change.",
+                                "genre": "Afterlife, Clone, Coming of Age, Drama, Drawing, Fairy Tale, Female Protagonist, Fishing, Gods, Gore, Hikikomori, Mystery, Philosophy, Primarily Female Cast, Rakugo, Suicide, Supernatural, Urban Fantasy, Vampire, Youkai, Zombie",
+                                "status": 1,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173533-9DN3nHtT2FBm.png",
                                 "initialized": true
                             },
                             {
@@ -197,36 +197,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "162804",
-                                "title": "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san",
-                                "author": "Doga Kobo, Doga Kobo, KADOKAWA, SEGA",
-                                "description": "Alya is a transfer student enjoying popularity at her new high school, often sporting a cold shoulder while earning high marks in class. She ignores her nerdy classmate, Kuze Masachika, except for when she blurts out a flirtatious line to him in Russian. Little does she know, Kuze understands Russian, though he pretends not to. Let’s see where this wacky love story takes them!\n\n(Source: Crunchyroll)",
-                                "genre": "Comedy, Estranged Family, Female Harem, Female Protagonist, Gyaru, Heterosexual, Kuudere, Language Barrier, Love Triangle, Maids, Male Protagonist, Meta, Otaku Culture, Politics, Primarily Female Cast, Primarily Teen Cast, Romance, School, Slice of Life, Tsundere",
-                                "status": 2,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162804-TBeptcAfvqTd.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "168500",
-                                "title": "Maou-sama, Retry! R",
-                                "author": "Gekkou",
-                                "description": "The Demon Lord continues his adventure in this re-vamped series! After encountering the mysterious entity in the lowest level of the Bastille Dungeon, he sets out for Hellion Territory, where Grand Devils vie for domination of the realm. With the addition of a new advisor—the (seemingly) hopeless optimist Akane—the Demon Lord’s army grows even more colorful, and their hijinks even wackier.\n\n(Source:  J-Novel Club)",
-                                "genre": "Action, Adventure, Anti-Hero, Comedy, Economics, Fantasy, Femboy, Guns, Isekai, Kemonomimi, Magic, Male Protagonist, Martial Arts, Orphan, Reincarnation, Swordplay",
-                                "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168500-wwpXjBBlXDpx.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "165790",
-                                "title": "Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding",
-                                "author": "Ashi Productions, Ashi Productions, BS11, Pony Canyon, Rakuten, Sotsu",
-                                "description": "Takuya and Rika work at the same travel agency in Tokyo and are both happily introverted and single. But their company is opening a new branch in Alaska next year, and employees without a spouse will be recruited to work there. Desperate to avoid the move, and though they’ve hardly spoken before, they decide to fake an engagement. Can these quiet coworkers become a convincing couple?\n\n\n(Source: Crunchyroll)",
-                                "genre": "Age Gap, Fake Relationship, Female Protagonist, Heterosexual, Kuudere, Male Protagonist, Marriage, Office Lady, Primarily Adult Cast, Romance, Rural, Seinen, Urban, Work",
-                                "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165790-OwIZI9ArGR4Q.jpg",
-                                "initialized": true
-                            },
-                            {
                                 "url": "269",
                                 "title": "BLEACH",
                                 "author": "Dentsu, Studio Pierrot, TV Tokyo, Viz Media",
@@ -234,6 +204,26 @@
                                 "genre": "Action, Adventure, Afterlife, Anachronism, Centaur, Cultivation, Demons, Ensemble Cast, Ghost, Isekai, Kuudere, Language Barrier, Male Protagonist, Memory Manipulation, Ninja, Nudity, Philosophy, Shounen, Spearplay, Super Power, Supernatural, Swordplay, Tanned Skin, Time Manipulation, Time Skip, Tomboy, Urban Fantasy",
                                 "status": 2,
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-wc062RMqud8B.png",
+                                "initialized": true
+                            },
+                            {
+                                "url": "171457",
+                                "title": "Make Heroine ga Oosugiru!",
+                                "author": "A-1 Pictures, Aniplex, BS11, Contents Seed, Good Smile Company, JR Toukai Agency, TOKYO MX, Yomiuri TV",
+                                "description": "Kazuhiko Nukumizu is a high school boy content to blend in with the background mob, until he witnessed his more popular classmate Anna Yanami get dumped by her childhood friend. He felt like he had to try to comfort Yanami, but this led him to become entangled with other girls who have met defeat at love?",
+                                "genre": "Comedy, Female Protagonist, Food, Heterosexual, Love Triangle, Male Protagonist, Meta, Parody, Primarily Teen Cast, Romance, Satire, School, School Club, Seinen, Tanned Skin, Tomboy, Unrequited Love, Urban, Writing",
+                                "status": 2,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171457-Z8tZRk7LhcZk.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "139095",
+                                "title": "FAIRY TAIL: 100 YEARS QUEST",
+                                "author": "J.C. Staff",
+                                "description": "Natsu, Lucy, Happy, Erza, and the whole Fairy Tail Guild are back in action! And they’ve decided to tackle the “100 Years Quest”—a job no one’s dared take on since the founding of the guild more than a century ago. A mysterious town, a baffling spirit, a ghastly new enemy … and a brand new continent to explore. When you’re with real friends, the adventures never stop!\n\n(Source: Kodansha USA)",
+                                "genre": "Action, Adventure, Comedy, Dragons, Ensemble Cast, Fantasy, Female Protagonist, Found Family, Magic, Male Protagonist, Primarily Adult Cast, Primarily Teen Cast, Shounen",
+                                "status": 1,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139095-xXcToL6L4vuv.jpg",
                                 "initialized": true
                             },
                             {
@@ -247,6 +237,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "162804",
+                                "title": "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san",
+                                "author": "Doga Kobo, Doga Kobo, KADOKAWA, SEGA",
+                                "description": "Alya is a transfer student enjoying popularity at her new high school, often sporting a cold shoulder while earning high marks in class. She ignores her nerdy classmate, Kuze Masachika, except for when she blurts out a flirtatious line to him in Russian. Little does she know, Kuze understands Russian, though he pretends not to. Let’s see where this wacky love story takes them!\n\n(Source: Crunchyroll)",
+                                "genre": "Comedy, Estranged Family, Female Harem, Female Protagonist, Gyaru, Heterosexual, Kuudere, Language Barrier, Love Triangle, Maids, Male Protagonist, Meta, Otaku Culture, Politics, Primarily Female Cast, Primarily Teen Cast, Romance, School, Slice of Life, Tsundere",
+                                "status": 2,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162804-TBeptcAfvqTd.jpg",
+                                "initialized": true
+                            },
+                            {
                                 "url": "167141",
                                 "title": "Sword Art Online Alternative: Gun Gale Online II",
                                 "author": "A-1 Pictures, Aniplex, Bandai Namco Entertainment, EGG FIRM, KADOKAWA, Straight Edge",
@@ -257,33 +257,33 @@
                                 "initialized": true
                             },
                             {
-                                "url": "173693",
-                                "title": "Hitoribocchi no Isekai Kouryaku",
-                                "author": "BS Fuji, GREE Entertainment, Hayabusa Film, Movic, OVERLAP, Passione, Pony Canyon, TOKYO MX",
-                                "description": "Haruka has been living his high school life as a loner, but all of a sudden, he and his classmates are summoned into another world. A God gives him a list of skills he can freely pick... Or at least that was how it was supposed to be, as all the valuable skills have been taken by the other classmates first. After Haruka scolded God, he snapped back and gave all the remaining bad skills to Haruka. Thanks to the \"Loner\" skill, Haruka begins his lonely adventure in another world.\n\n\n(Source: Muse Asia)\n\nNote: Each episode streamed a week early on some streaming services. The original TV broadcast started on October 4th, 2024.",
-                                "genre": "Action, Adventure, Fantasy, Female Harem, Hikikomori, Isekai, Magic, Male Protagonist, Meta, Necromancy, Royal Affairs, Surreal Comedy, Survival",
+                                "url": "162896",
+                                "title": "Nige Jouzu no Wakagimi",
+                                "author": "Aniplex, BS11, CloverWorks, CloverWorks, Shueisha, TOKYO MX",
+                                "description": "In the year 1333, the Kamakura shogunate government comes crumbling down. A trusted vassal, Ashikaga Takauji, betrays the shogunate and organizes a rebellion. Houjou Tokiyuki, the rightful heir, escapes the massacre with a Shinto priest named Suwa Yorishige to Kamakura. On the run and fighting to stay alive, Tokiyuki sets in motion his plan to reclaim his birthright.\n\n(Source: Crunchyroll)",
+                                "genre": "Action, Adventure, Anachronism, Archery, CGI, Fugitive, Gore, Historical, Magic, Male Protagonist, Primarily Child Cast, Primarily Male Cast, Religion, Revenge, Samurai, Shounen, Shrine Maiden, Spearplay, Surreal Comedy, Swordplay, Tragedy, War",
+                                "status": 2,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "154587",
+                                "title": "Sousou no Frieren",
+                                "author": "Aniplex, Dentsu, MADHOUSE, Nippon Television Network, Shogakukan, Shogakukan-Shueisha Productions, Toho",
+                                "description": "The adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her? Decades after their victory, the funeral of one her friends confronts Frieren with her own near immortality. Frieren sets out to fulfill the last wishes of her comrades and finds herself beginning a new adventure…\n\n\n(Source: Crunchyroll)",
+                                "genre": "Adoption, Adventure, Demons, Dragons, Drama, Dungeon, Elf, Episodic, Fantasy, Female Protagonist, Foreign, Found Family, Heterosexual, Iyashikei, Kuudere, Magic, Philosophy, Religion, Rotoscoping, Rural, Time Skip, Tragedy, Travel",
+                                "status": 2,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "165790",
+                                "title": "Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding",
+                                "author": "Ashi Productions, Ashi Productions, BS11, Pony Canyon, Rakuten, Sotsu",
+                                "description": "Takuya and Rika work at the same travel agency in Tokyo and are both happily introverted and single. But their company is opening a new branch in Alaska next year, and employees without a spouse will be recruited to work there. Desperate to avoid the move, and though they’ve hardly spoken before, they decide to fake an engagement. Can these quiet coworkers become a convincing couple?\n\n\n(Source: Crunchyroll)",
+                                "genre": "Age Gap, Fake Relationship, Female Protagonist, Heterosexual, Kuudere, Male Protagonist, Marriage, Office Lady, Primarily Adult Cast, Romance, Rural, Seinen, Urban, Work",
                                 "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173693-tRLdDE1BieXe.png",
-                                "initialized": true
-                            },
-                            {
-                                "url": "182561",
-                                "title": "BLEACH 20th PV",
-                                "author": "Aniplex, PIERROT FILMS, Viz Media",
-                                "description": "A special animation made to commemorate the 20th anniversary of the BLEACH anime.",
-                                "genre": "Action, Adventure, Ensemble Cast, No Dialogue, Shounen, Supernatural",
-                                "status": 2,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182561-lJDC9FT3jBhL.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "173694",
-                                "title": "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
-                                "author": "BS11, Docomo Anime Store, MAGNET, Nichion, OVERLAP, Pony Canyon, Seven Arcs, Studio Pierrot, TBS",
-                                "description": "Touka always faded into the background at school. And when he’s summoned to another world with his classmates, that still doesn’t change! They all acquire top-rank skills, except Touka, who’s deemed a failure and cast to ancient ruins by the goddess Vicius. Turns out, his low-rank skills may not be so useless after all. Now, he seeks revenge against the goddess, and his true nature is revealed.\n\n(Source: Crunchyroll)",
-                                "genre": "Action, Adventure, Anti-Hero, Bullying, CGI, Drama, Elf, Fantasy, Fugitive, Gore, Gyaru, Isekai, Male Protagonist, Revenge, Survival",
-                                "status": 2,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173694-XcwGOMBxboOO.png",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165790-OwIZI9ArGR4Q.jpg",
                                 "initialized": true
                             },
                             {
@@ -317,6 +317,86 @@
                     {
                         "animes": [
                             {
+                                "url": "2406",
+                                "title": "Sazae-san",
+                                "author": "Eiken, Fuji TV",
+                                "description": "The main character is a mother named Sazae-san. She lives in a house with her husband, her kids and her parents. The show is the ultimate family program and tends to follow traditional themes. Think of this show as the Japanese equivalent to \"The Partridge Family\" and you'll get a good feel for this show's atmosphere. Don't expect to see things like violence, swearing, kung-fu action or magical girls. The plots are more like \"Today, Sazae-san goes to the new mall and gets lost\". Such \"boring\" plotlines and the simplistic art are often a turn-off to non-Japanese audiences, but most Japanese find the show incredibly good. As a result, it continues to be one of the top ratings grabbers on TV and is one of the few anime that is considered \"acceptable\" by adults.",
+                                "genre": "Comedy, Educational, Ensemble Cast, Family Life, Female Protagonist, Josei, Slice of Life",
+                                "status": 1,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2406-nP8NIct9Sci3.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "6149",
+                                "title": "Chibi Maruko-chan (1995)",
+                                "author": "Nippon Animation, Sakura Production",
+                                "description": "Momoko Sakura is an elementary school student who likes popular idol Momoe Yamaguchi and mangas. She is often called \"Chibi Maruko-chan\" due to her young age and small size. She lives together with her parents, her grandparents and her elder sister in a little town. In school, she has many friends with whom she studies and plays together everyday, including her close pal, Tama-chan; the student committee members, Maruo-kun and Migiwa-san; and the B-class trio: 'little master' Hanawa-kun, Hamaji-Bu Taro and Sekiguchi-kun. This is a fun-loving and enjoyable anime that portrays the simple things in life.\n\n\n(Source: Anime News Network)",
+                                "genre": "Chibi, Comedy, Episodic, Female Protagonist, Kids, School, Slice of Life",
+                                "status": 1,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6149-w9IRcMlFkn4i.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "118123",
+                                "title": "Holo no Graffiti",
+                                "author": "Cover Corp",
+                                "description": "From unraveling the secrets of opening and closing doors to defusing surprise packages more commonly known as bombs, there is never a dull day at the Hololive Production office! Holo no Graffiti follows an eccentric cast of Virtual YouTubers, also known as \"VTubers,\" going about their absurd yet hilarious daily lives, detailing all their cute moments and mishaps.\n\n\n(Source: MAL Rewrite)",
+                                "genre": "Action, Adventure, Aliens, Angels, Band, Battle Royale, Body Swapping, Cars, Comedy, Conspiracy, Cute Girls Doing Cute Things, Dancing, Demons, Detective, Dragons, Elf, Ensemble Cast, Episodic, Fishing, Full CGI, Ghost, Idol, Judo, Kaiju, Kemonomimi, Maids, Meta, Necromancy, Nekomimi, Office Lady, Parody, Pirates, Primarily Female Cast, Real Robot, Shrine Maiden, Slapstick, Space, Succubus, Surreal Comedy, Tomboy, VTuber, Vampire, Video Games, Witch, Yuri",
+                                "status": 1,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118123-xqn5fYsjKXJU.png",
+                                "initialized": true
+                            },
+                            {
+                                "url": "139095",
+                                "title": "FAIRY TAIL: 100 YEARS QUEST",
+                                "author": "J.C. Staff",
+                                "description": "Natsu, Lucy, Happy, Erza, and the whole Fairy Tail Guild are back in action! And they’ve decided to tackle the “100 Years Quest”—a job no one’s dared take on since the founding of the guild more than a century ago. A mysterious town, a baffling spirit, a ghastly new enemy … and a brand new continent to explore. When you’re with real friends, the adventures never stop!\n\n(Source: Kodansha USA)",
+                                "genre": "Action, Adventure, Comedy, Dragons, Ensemble Cast, Fantasy, Female Protagonist, Found Family, Magic, Male Protagonist, Primarily Adult Cast, Primarily Teen Cast, Shounen",
+                                "status": 1,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139095-xXcToL6L4vuv.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "155502",
+                                "title": "Love Live! Superstar!! 3rd Season",
+                                "author": "Lantis, Sunrise",
+                                "description": "The third season of Love Live! Superstar!!",
+                                "genre": "Cute Girls Doing Cute Things, Dancing, Female Protagonist, Idol, Music, Primarily Female Cast, Primarily Teen Cast, School Club, Slice of Life",
+                                "status": 1,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155502-PYqyrtywELYr.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "158898",
+                                "title": "Yozakura-san Chi no Daisakusen",
+                                "author": "JR Higashi Nihon Kikaku, Mainichi Broadcasting System, NBCUniversal Entertainment Japan, SILVER LINK., SILVER LINK., Shueisha, Studio Pierrot",
+                                "description": "Taiyou Asano is a super shy high school student and the only person he can talk to is his childhood friend, Mutsumi Yozakura. It turns out that Mutsumi is the daughter of the ultimate spy family! Even worse, Mutsumi is being harassed by her overprotective, nightmare of a brother, Kyouichirou. What drastic steps will Taiyou have to take to save Mutsumi?! A spy family comedy - the mission begins!\n\n(Source: MANGA Plus)",
+                                "genre": "Action, Bisexual, Body Horror, Comedy, Conspiracy, Crossdressing, Episodic, Espionage, Family Life, Guns, Heterosexual, LGBTQ+ Themes, Male Protagonist, Marriage, Nudity, Romance, School, Shounen, Super Power, Surreal Comedy, Swordplay, Tragedy",
+                                "status": 1,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png",
+                                "initialized": true
+                            },
+                            {
+                                "url": "176292",
+                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
+                                "author": "Telecom Animation Film",
+                                "description": "The second season of Nanatsu no Taizai: Mokushiroku no Yonkishi.",
+                                "genre": "Action, Adventure, Fantasy, Otaku Culture, Shounen",
+                                "status": 1,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176292-meJTWM8zQjjp.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "111314",
+                                "title": "Uzumaki",
+                                "author": "Adult Swim, Akatsuki, Drive, Fugaku, Production I.G",
+                                "description": "Four episode anime adaptation of the Junji Ito manga. \n\n\nKurozu-cho, a small fogbound town on the coast of Japan, is cursed. According to Shuichi Saito, the withdrawn boyfriend of teenager Kirie Goshima, their town is haunted not by a person or being but by a pattern: uzumaki, the spiral, the hypnotic secret shape of the world. It manifests itself in small ways: seashells, ferns, whirlpools in water, whirlwinds in air. And in large ways: the spiral marks on people's bodies, the insane obsessions of Shuichi's father, the voice from the cochlea in your inner ear. As the madness spreads, the inhabitants of Kurouzu-cho are pulled ever deeper, as if into a whirlpool from which there is no return...\n\n\n(Source: Viz Media)",
+                                "genre": "Achromatic, Augmented Reality, Body Horror, Cannibalism, Cosmic Horror, Detective, Drama, Episodic, Female Protagonist, Gore, Horror, Lost Civilization, Mystery, Philosophy, Primarily Child Cast, Primarily Teen Cast, Rotoscoping, Seinen, Supernatural, Survival, Tragedy, Unrequited Love, Urban Fantasy, Volleyball",
+                                "status": 1,
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111314-vZDqyfXNfsPY.png",
+                                "initialized": true
+                            },
+                            {
                                 "url": "171080",
                                 "title": "Himitsu no AiPri",
                                 "author": "Avex Pictures, Dongwoo Animation, Dongwoo Animation, NAS, OLM, OLM, Shogakukan, TV Tokyo, Takara Tomy",
@@ -342,7 +422,7 @@
                                 "author": "OLM, Takara Tomy",
                                 "description": "Second season of Punirunes.",
                                 "genre": "Female Protagonist, Full CGI, Kids, Slice of Life",
-                                "status": 3,
+                                "status": 1,
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179292-jOcVLoMwkFKo.png",
                                 "initialized": true
                             },
@@ -491,7 +571,7 @@
                                 "title": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
                                 "author": "Dentsu, PIERROT FILMS, Shueisha, Studio Pierrot, TV Tokyo",
                                 "description": "The third part of BLEACH: Sennen Kessen-hen. ",
-                                "genre": "Action, Adventure, Gods, Male Protagonist, Shounen, Super Power, Supernatural, Swordplay, Urban Fantasy, War",
+                                "genre": "Achromatic, Action, Adventure, Gods, Male Protagonist, Shounen, Super Power, Supernatural, Swordplay, Urban Fantasy, War",
                                 "status": 1,
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg",
                                 "initialized": true
@@ -524,76 +604,6 @@
                                 "genre": "Action, Drama, Fantasy, Puppetry",
                                 "status": 1,
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138522-2TpRW4cf9PYZ.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "174913",
-                                "title": "Kagaku×Bouken Survival!",
-                                "author": "NHK, NHK Enterprises, Studio Gallop, Toei Animation",
-                                "description": "No Description",
-                                "genre": "Educational, Kids, Survival",
-                                "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174913-xwwD9Q2GteBR.png",
-                                "initialized": true
-                            },
-                            {
-                                "url": "235",
-                                "title": "Meitantei Conan",
-                                "author": "Animax, TMS Entertainment, TMS-Kyokuchi, YTV, Yomiuri TV",
-                                "description": "Kudo Shinichi is a seventeen year-old high school detective whom people call the \"Modern Sherlock Holmes.\" However, one night after a date with his childhood sweetheart, Ran, Shinichi witnessed an illegal trade and, caught off his guard, was knocked unconscious and fed a drug that was supposed to kill him... but he woke up and found himself shrunken to a seven year-old. In order to track down the men who did this to him, Shinichi hid his identity and lived with Ran, whose father happened to be a hopeless detective, and with that came a series of murders and mysteries that he must solve. \n\n(Source: Anime News Network)\n\n\nNote:\n- Includes Keisatsu Gakkou-hen - Wild Police Story in episodes 1029, 1038, 1042, 1061\n- Episodes 11, 52, 76, 118, 162, 184, 208, 342, 356, 449, 452, 487, 488, 489, 490, 515, 516, 521, 522, 651, 734, 804, 805, 927, 928 aired with a runtime of ~50 minutes as opposed to the standard 25 minute long episode.\n- Episodes 96, 129, 174, 219, 263, 304, 383, 479 aired with a runtime of ~90 minutes as opposed to the standard 25 minute long episode.\n- Episode 345, 425 aired with a runtime of ~115 minutes as opposed to the standard 25 minute long episode.\n",
-                                "genre": "Adventure, Age Regression, CGI, Comedy, Conspiracy, Crime, Criminal Organization, Crossover, Detective, Educational, Ensemble Cast, Episodic, Espionage, Female Harem, Football, Fugitive, Heterosexual, Idol, Karuta, Love Triangle, Magic, Male Protagonist, Martial Arts, Mystery, Ojou-sama, Police, Primarily Adult Cast, Primarily Teen Cast, Psychological, School, Shounen, Tanned Skin, Tomboy, Tragedy, Tsundere, Video Games",
-                                "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-XucEZpR3CRaV.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "163139",
-                                "title": "Boku no Hero Academia 7",
-                                "author": "Dentsu, Movic, Shueisha, Sony Music Entertainment, Toho, bones",
-                                "description": "The seventh season of Boku no Hero Academia.\n\nFollowing an all-out battle with the Paranormal Liberation Front, it is difficult for the people of Japan to continue placing faith in their heroes. To combat the combined power of Tomura Shigaraki and All For One, All Might calls for his ally from the West—the strongest woman on the planet, Star and Stripe.\n\nHowever, All For One decides to intercept Star and her fleet to get his hands on her overpowered quirk before she can enter Japanese airspace. Although Endeavor, Hawks, and Best Jeanist are headed to the rendezvous point, Star makes a gamble in the present to save her comrades.\n\n(Source: MAL Rewrite)\n\nNote: The season was preceded by a 4-episode special titled 'Boku no Hero Academia: Memories' recapping events from the 6th season along with adding a few minutes of new material each episode.",
-                                "genre": "Action, Adventure, Anti-Hero, Ensemble Cast, Foreign, Gore, Military, Post-Apocalyptic, Primarily Teen Cast, Shounen, Super Power, Superhero, Terrorism, Tragedy, Urban Fantasy, Villainess, War, Yandere",
-                                "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163139-JchZhUFlNTWU.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "8687",
-                                "title": "Doraemon (2005)",
-                                "author": "Shin-Ei Animation, Studio Pierrot, TV Asahi",
-                                "description": "A new Doraemon series produced by the same team as the 1979 series (in association with Studio Pierrot) with new voice actors and staff and updated character designs.",
-                                "genre": "Achronological Order, Adventure, Alternate Universe, Baseball, Bullying, College, Comedy, Episodic, Kids, Primarily Child Cast, Robots, School, Sci-Fi",
-                                "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8687.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "966",
-                                "title": "Crayon Shin-chan",
-                                "author": "Funimation, Shin-Ei Animation, TV Asahi",
-                                "description": "Crayon Shin-chan follows the wacky antics and adventures of five-year-old Shinnosuke \"Shin\" Nohara and his parents, neighbors, and friends and is set in Kasukabe, Saitama Prefecture, Japan.\n\nMany of the jokes in the series stem from Shin-chan's occasionally weird, unnatural and inappropriate use of language, as well as from his inappropriate behavior. A typical gag involves Shin-chan confounding his parents by using the wrong phrase for the occasion; for example, saying \"Welcome back!\" instead of \"I am back!\" when he comes home.\n\nDuring the beginning of the series, the TV show was mostly based on the storyline in the original manga. As the show progressed, more and more episodes became anime-original.",
-                                "genre": "Acting, Comedy, Ecchi, Episodic, Family Life, Gangs, Kids, Male Protagonist, School, Slice of Life",
-                                "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "178729",
-                                "title": "Ooi! Tonbo 2nd Season",
-                                "author": "BS TV Tokyo, Golf Digest Company, Happinet Phantom Studios, Kouichi Shinyou Kinko, OLM, OLM, REMOW, Shogakukan, Shogakukan Music & Digital Entertainment, Shogakukan-Shueisha Productions, TV Tokyo, TV Tokyo Direct, Toho, Video Promotions",
-                                "description": "The second season of Ooi! Tonbo.",
-                                "genre": "Drama, Female Protagonist, Golf, Sports",
-                                "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b178729-Zo9MyiBE2sYp.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "18941",
-                                "title": "Shimajirou no Wow!",
-                                "author": "Benesse Corporation, TV Setouchi, The Answer Studio",
-                                "description": "Fourth season of the Shimajirou children's television series.",
-                                "genre": "Adventure, Comedy, Fantasy, Kids, Magic",
-                                "status": 1,
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18941.jpg",
                                 "initialized": true
                             }
                         ],
@@ -914,14 +924,14 @@
             },
             "details": {
                 "result": {
-                    "url": "21",
-                    "title": "ONE PIECE",
-                    "author": "4Kids Entertainment, Asahi Production, Asatsu DK, Avex Pictures, Fuji TV, Funimation, Magic Bus, Mushi Production, Studio Guts, TAP, Toei Animation",
-                    "description": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.\n\nEnter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach One Piece.\n\n*This includes following special episodes:\n- Chopperman to the Rescue! Protect the TV Station by the Shore! (Episode 336)\n- The Strongest Tag-Team! Luffy and Toriko's Hard Struggle! (Episode 492)\n- Team Formation! Save Chopper (Episode 542)\n- History's Strongest Collaboration vs. Glutton of the Sea (Episode 590)\n- 20th Anniversary! Special Romance Dawn (Episode 907)",
-                    "genre": "Acting, Action, Adoption, Adventure, Anachronism, Angels, Animals, Anthropomorphism, Anti-Hero, Aromantic, Artificial Intelligence, Asexual, Assassins, Battle Royale, Body Swapping, CGI, Clone, Comedy, Conspiracy, Crime, Cyborg, Desert, Dragons, Drama, Drugs, Dystopian, Ensemble Cast, Espionage, Fairy, Fantasy, Female Protagonist, Food, Found Family, Fugitive, Gender Bending, Gods, Guns, Henshin, Kuudere, LGBTQ+ Themes, Lost Civilization, Male Protagonist, Marriage, Medicine, Mermaid, Monster Boy, Monster Girl, Musical Theater, Ninja, Philosophy, Pirates, Politics, Post-Apocalyptic, Primarily Adult Cast, Prison, Revenge, Robots, Samurai, Shapeshifting, Ships, Shounen, Skeleton, Slapstick, Slavery, Super Power, Swordplay, Time Manipulation, Time Skip, Tragedy, Trains, Travel, Unrequited Love, War, Zombie",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg",
+                    "url": "166531",
+                    "title": "[Oshi no Ko] 2nd Season",
+                    "author": "CyberAgent, Doga Kobo, Doga Kobo, KADOKAWA, Shueisha",
+                    "description": "The second season of [Oshi no Ko].\n\n\nAqua’s desire for revenge takes center stage as he navigates the dark underbelly of the entertainment world alongside his twin sister, Ruby. While Ruby follows in their slain mother’s footsteps to become an idol, Aqua joins a famous theater troupe in hopes of uncovering clues to the identity of his father — the man who arranged their mother’s untimely death, and the man who once starred in the same troupe Aqua hopes to infiltrate.\n\n\n(Source: HIDIVE)",
+                    "genre": "Achronological Order, Acting, Anti-Hero, Drama, Drawing, Idol, Love Triangle, Male Protagonist, Mystery, Psychological, Reincarnation, Revenge, Seinen, Supernatural, Swordplay, Time Skip, Tragedy, Tsundere, Twins, Urban",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166531-dAL5MsqDHUkj.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -929,25 +939,66 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/stream/series/kitsu:12:1281.json",
-                        "name": "Episode 1281 : ",
-                        "date_upload": 1728174600000,
-                        "episode_number": 1281.0,
+                        "url": "/stream/series/kitsu:47659:13.json",
+                        "name": "Episode 13 : Wish",
+                        "date_upload": 1728208800000,
+                        "episode_number": 13.0,
                         "scanlator": ""
                     },
                     {
-                        "url": "/stream/series/kitsu:12:1280.json",
-                        "name": "Episode 1280 : ",
-                        "date_upload": 1728174600000,
-                        "episode_number": 1280.0,
+                        "url": "/stream/series/kitsu:47659:12.json",
+                        "name": "Episode 12 : Reunion",
+                        "date_upload": 1727258400000,
+                        "episode_number": 12.0,
                         "scanlator": ""
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "magnet:?xt=urn:btih:c3af1840fd52cadf54da22c8825138aab5ad73cd&dn=c3af1840fd52cadf54da22c8825138aab5ad73cd&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0",
+                        "quality": "1080p\n[SubsPlease] Oshi no Ko - 24 (1080p) [B6DA248B].mkv\n👤 3465 💾 923.15 MB ⚙️ NyaaSi",
+                        "videoUrl": "magnet:?xt=urn:btih:c3af1840fd52cadf54da22c8825138aab5ad73cd&dn=c3af1840fd52cadf54da22c8825138aab5ad73cd&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0"
+                    },
+                    {
+                        "url": "magnet:?xt=urn:btih:066ea5155d43c18f850754e94171878beb9f49a9&dn=066ea5155d43c18f850754e94171878beb9f49a9&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0",
+                        "quality": "1080p\n[SubsPlease] Oshi no Ko - 13 (1080p) [A6802FB7].mkv\n👤 889 💾 932.29 MB ⚙️ NyaaSi",
+                        "videoUrl": "magnet:?xt=urn:btih:066ea5155d43c18f850754e94171878beb9f49a9&dn=066ea5155d43c18f850754e94171878beb9f49a9&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0"
+                    },
+                    {
+                        "url": "magnet:?xt=urn:btih:c56f8cc7e795debd78bd2b4d01e63a5520031c94&dn=c56f8cc7e795debd78bd2b4d01e63a5520031c94&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0",
+                        "quality": "1080p\n[Erai-raws] Oshi no Ko 2nd Season - 13 [1080p] [ENG]\n👤 487 💾 928.75 MB ⚙️ NyaaSi",
+                        "videoUrl": "magnet:?xt=urn:btih:c56f8cc7e795debd78bd2b4d01e63a5520031c94&dn=c56f8cc7e795debd78bd2b4d01e63a5520031c94&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0"
+                    },
+                    {
+                        "url": "magnet:?xt=urn:btih:0d60cb54a0fe71b6cb9ef2b59e715f662c6aeeb6&dn=0d60cb54a0fe71b6cb9ef2b59e715f662c6aeeb6&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0",
+                        "quality": "1080p\n[ToonsHub] Oshi No Ko S02E13 1080p AMZN WEB-DL DDP2.0 H.264 (English-Sub)\n👤 391 💾 899.72 MB ⚙️ NyaaSi",
+                        "videoUrl": "magnet:?xt=urn:btih:0d60cb54a0fe71b6cb9ef2b59e715f662c6aeeb6&dn=0d60cb54a0fe71b6cb9ef2b59e715f662c6aeeb6&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0"
+                    },
+                    {
+                        "url": "magnet:?xt=urn:btih:a1b518bc5531323e88c8672f888658a18bc28cd4&dn=a1b518bc5531323e88c8672f888658a18bc28cd4&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0",
+                        "quality": "1080p\n[ToonsHub] OSHI NO KO S02E13 1080p NF WEB-DL DDP2.0 H.264 (Multi-Subs)\n👤 265 💾 868.06 MB ⚙️ NyaaSi\nMulti Subs / 🇬🇧 / 🇰🇷 / 🇨🇳 / 🇮🇩 / 🇲🇾 / 🇹🇭",
+                        "videoUrl": "magnet:?xt=urn:btih:a1b518bc5531323e88c8672f888658a18bc28cd4&dn=a1b518bc5531323e88c8672f888658a18bc28cd4&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0"
+                    },
+                    {
+                        "url": "magnet:?xt=urn:btih:89508108606069585074868da4983b688a556ea8&dn=89508108606069585074868da4983b688a556ea8&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0",
+                        "quality": "1080p\nOSHI NO KO S02E13 Wish 1080p NF WEB-DL DDP2.0 H 264-VARYG (Multi-Subs)\n👤 154 💾 870.63 MB ⚙️ NyaaSi\nMulti Subs",
+                        "videoUrl": "magnet:?xt=urn:btih:89508108606069585074868da4983b688a556ea8&dn=89508108606069585074868da4983b688a556ea8&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0"
+                    },
+                    {
+                        "url": "magnet:?xt=urn:btih:3716b8871394273f9b2ac026893a0195b020edec&dn=3716b8871394273f9b2ac026893a0195b020edec&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0",
+                        "quality": "1080p\n[ASW] Oshi no Ko - 13 [1080p HEVC x265 10Bit][AAC]\n👤 145 💾 231 MB ⚙️ NyaaSi",
+                        "videoUrl": "magnet:?xt=urn:btih:3716b8871394273f9b2ac026893a0195b020edec&dn=3716b8871394273f9b2ac026893a0195b020edec&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0"
+                    },
+                    {
+                        "url": "magnet:?xt=urn:btih:936ade7d2c1a58872dd54179df65345ec43ea5eb&dn=936ade7d2c1a58872dd54179df65345ec43ea5eb&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0",
+                        "quality": "1080p\n[New-raws] Oshi No Ko S2 - 13 [1080p] [ENG].mkv\n👤 84 💾 219.82 MB ⚙️ NyaaSi",
+                        "videoUrl": "magnet:?xt=urn:btih:936ade7d2c1a58872dd54179df65345ec43ea5eb&dn=936ade7d2c1a58872dd54179df65345ec43ea5eb&tr=http://nyaa.tracker.wf:7777/announce&tr=http://anidex.moe:6969/announce&tr=http://tracker.anirena.com:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://share.camoe.cn:8080/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://9.rarbg.me:2940&tr=udp://9.rarbg.to:2820&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://tracker.internetwarriors.net:1337&tr=udp://tracker.openbittorrent.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://www.torrent.eu.org:451/announce&index=0"
+                    }
+                ],
+                "passed": true
             }
         }
     }
