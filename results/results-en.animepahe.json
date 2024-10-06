@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=4",
+                                "title": "One Piece",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/5ad4c35e46febbd0f12efe6ea7284ebfbeb5d60731194906dd7ac376d5175b1f.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5495",
                                 "title": "Wonderful Precure!",
                                 "artist": "SubsPlease",
@@ -71,12 +77,6 @@
                                 "title": "Meitantei Conan",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/108bdcfa3eeff26d91e28f2beba6696581f78f7e34538fc2ec20134f1b83ae5d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5509",
-                                "title": "Boku no Hero Academia 7th Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/0407deca10f380e55daf1a015f2d41a57c77158d5f1b7a6917483d1e1f27f638.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=4",
+                                "title": "One Piece",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/5ad4c35e46febbd0f12efe6ea7284ebfbeb5d60731194906dd7ac376d5175b1f.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5495",
                                 "title": "Wonderful Precure!",
                                 "artist": "SubsPlease",
@@ -153,12 +159,6 @@
                                 "title": "Meitantei Conan",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/108bdcfa3eeff26d91e28f2beba6696581f78f7e34538fc2ec20134f1b83ae5d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5509",
-                                "title": "Boku no Hero Academia 7th Season",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/0407deca10f380e55daf1a015f2d41a57c77158d5f1b7a6917483d1e1f27f638.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5495",
-                    "title": "Wonderful Precure!",
+                    "url": "/anime/?anime_id=4",
+                    "title": "One Piece",
                     "author": "Toei Animation",
-                    "description": "The Wonderful Precure! anime is set in Animal Town, a town where animals and people live together in harmony. Second-year junior high school student Iroha Inukai is best friends with her dog named Komugi. Out for a walk one day, Iroha and Komugi encounter a mysterious creature named Garugaru, who goes on a rampage in the city. Komugi suddenly transforms into a Pretty Cure named Cure Wonderful, to protect Iroha.",
-                    "genre": "Action, Fantasy",
+                    "description": "Barely surviving in a barrel after passing through a terrible whirlpool at sea, carefree Monkey D. Luffy ends up aboard a ship under attack by fearsome pirates. Despite being a naive-looking teenager, he is not to be underestimated. Unmatched in battle, Luffy is a pirate himself who resolutely pursues the coveted One Piece treasure and the King of the Pirates title that comes with it. The late King of the Pirates, Gol D. Roger, stirred up the world before his death by disclosing the whereabouts of his hoard of riches and daring everyone to obtain it. Ever since then, countless powerful pirates have sailed dangerous seas for the prized One Piece only to never return. Although Luffy lacks a crew and a proper ship, he is endowed with a superhuman ability and an unbreakable spirit that make him not only a formidable adversary but also an inspiration to many. As he faces numerous challenges with a big smile on his face, Luffy gathers one-of-a-kind companions to join him in his ambitious endeavor, together embracing perils and wonders on their once-in-a-lifetime adventure.\n\nSynonyms: OP",
+                    "genre": "Action, Adventure, Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/e60f5ac3e90f911c585fe4e4857542a4e84b20049189ff28603808d52ae88b0d.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/355e6e3127aa31f0d806114169b52c4fb6da4b87df7f9c1809b9e3de97b8aac5.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/2e9b4f95-c48e-5e3a-fa21-342605ec2900/988fee12d1c763b01658b624535d837bb119d191d0bcefb94713ab5780239f32",
-                        "name": "Episode 36",
-                        "date_upload": 1728178565000,
-                        "episode_number": 36.0
+                        "url": "/play/88b3cffc-faf1-f257-944a-52c7814947a0/fa0d40566b1cd26a71b29fbe682fa0931a40e3d7dae18455ee77dddd2fa9bb79",
+                        "name": "Episode 1121",
+                        "date_upload": 1728180322000,
+                        "episode_number": 1121.0
                     },
                     {
-                        "url": "/play/2e9b4f95-c48e-5e3a-fa21-342605ec2900/0a2316774b5ca40dd5cbb5d731f2a5681fe1975b0fc774eef5d3f37b7f9da750",
-                        "name": "Episode 35",
-                        "date_upload": 1727573786000,
-                        "episode_number": 35.0
+                        "url": "/play/88b3cffc-faf1-f257-944a-52c7814947a0/fbab0eed906301bc581517816acdba43ee68884e80072b39fefb963860f6af59",
+                        "name": "Episode 1120",
+                        "date_upload": 1726970699000,
+                        "episode_number": 1120.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/8f74c7451030aa58d7451c2093d2cc1d6283fc80219f2a4ec1fe39e3a98eda8f?file=AnimePahe_Wonderful_Precure_-_36_1080p_SubsPlease.mp4&token=1QiUtkbFnawDR7S7WxRfNw&expires=1728194020",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/4651b64c6e8a458d35dc0ee592453a87ef7f88cb891390307d7658f2aeed8ebf?file=AnimePahe_One_Piece_-_1121_1080p_SubsPlease.mp4&token=pFPPo0G3EhdDhaibAMMGuA&expires=1728210641",
                         "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/8f74c7451030aa58d7451c2093d2cc1d6283fc80219f2a4ec1fe39e3a98eda8f?file=AnimePahe_Wonderful_Precure_-_36_1080p_SubsPlease.mp4&token=1QiUtkbFnawDR7S7WxRfNw&expires=1728194020"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/4651b64c6e8a458d35dc0ee592453a87ef7f88cb891390307d7658f2aeed8ebf?file=AnimePahe_One_Piece_-_1121_1080p_SubsPlease.mp4&token=pFPPo0G3EhdDhaibAMMGuA&expires=1728210641"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/bd31a88ac9ff32799abbd8ad9406abef552f7ff02b4278c701d778df667272bf?file=AnimePahe_Wonderful_Precure_-_36_720p_SubsPlease.mp4&token=XMyQVf9MhpDw6IJd6pvcpw&expires=1728194019",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/6d7efca48eab480a62532e7019cb7953c0064ab002538e7e2468b9a79f4cda16?file=AnimePahe_One_Piece_-_1121_720p_SubsPlease.mp4&token=UI_Jqv_zkPqY9fAbrjDhTg&expires=1728210640",
                         "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/bd31a88ac9ff32799abbd8ad9406abef552f7ff02b4278c701d778df667272bf?file=AnimePahe_Wonderful_Precure_-_36_720p_SubsPlease.mp4&token=XMyQVf9MhpDw6IJd6pvcpw&expires=1728194019"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/6d7efca48eab480a62532e7019cb7953c0064ab002538e7e2468b9a79f4cda16?file=AnimePahe_One_Piece_-_1121_720p_SubsPlease.mp4&token=UI_Jqv_zkPqY9fAbrjDhTg&expires=1728210640"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/88082131ee63ae93d8a139331903f5594897f4a67a4ea1d2ff9935f332990ab5?file=AnimePahe_Wonderful_Precure_-_36_360p_SubsPlease.mp4&token=8WfC0ui5fR9FP_s1QF6VlQ&expires=1728194017",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/eb4b9f2eca0b9af1405883cf8a06fb26ca63724eeb9e8a22cf0d17dc549d947b?file=AnimePahe_One_Piece_-_1121_360p_SubsPlease.mp4&token=YaMD9K30H-s2Oh2yyQY5Zg&expires=1728210638",
                         "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/88082131ee63ae93d8a139331903f5594897f4a67a4ea1d2ff9935f332990ab5?file=AnimePahe_Wonderful_Precure_-_36_360p_SubsPlease.mp4&token=8WfC0ui5fR9FP_s1QF6VlQ&expires=1728194017"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/eb4b9f2eca0b9af1405883cf8a06fb26ca63724eeb9e8a22cf0d17dc549d947b?file=AnimePahe_One_Piece_-_1121_360p_SubsPlease.mp4&token=YaMD9K30H-s2Oh2yyQY5Zg&expires=1728210638"
                     }
                 ],
                 "passed": true

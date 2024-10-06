@@ -22,7 +22,7 @@
                                 "artist": "Harold Perrineau, Catalina Sandino Moreno, Eion Bailey, Hannah Cheramy",
                                 "author": "",
                                 "description": "Unravel the mystery of a city in middle U.S.A. that imprisons everyone who enters. As the residents struggle to maintain a sense of normality and seek a way out, they must also survive the threats of the surrounding forest.",
-                                "genre": "Science-Fiction, Mystery & Thriller, Drama, Horror",
+                                "genre": "Drama, Horror, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/304461294/s276/from.webp",
                                 "initialized": true
                             },
@@ -62,7 +62,7 @@
                                 "artist": "Charlie Vickers, Morfydd Clark, Robert Aramayo, Daniel Weyman",
                                 "author": "",
                                 "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-                                "genre": "Drama, Action & Adventure, Science-Fiction, Fantasy",
+                                "genre": "Action & Adventure, Science-Fiction, Drama, Fantasy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/260075695/s276/the-lord-of-the-rings-the-rings-of-power.webp",
                                 "initialized": true
                             },
@@ -312,7 +312,7 @@
                                 "artist": "Willa Fitzgerald, Kyle Gallner, Jason Patric, Giovanni Ribisi",
                                 "author": "JT Mollner",
                                 "description": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer's vicious murder spree.",
-                                "genre": "Horror, Mystery & Thriller, Crime",
+                                "genre": "Mystery & Thriller, Horror, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/319989167/s276/strange-darling.webp",
                                 "initialized": true
                             },
@@ -467,16 +467,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt10519126,SHOW,/us/tv-show/world-war-two",
-                                "title": "World War Two",
-                                "artist": "David Reynolds",
-                                "author": "",
-                                "description": "Follow the deadliest conflict in human history in real time, week by week, blow by blow.",
-                                "genre": "War & Military, Documentary, History, Made in Europe",
-                                "thumbnail_url": "https://images.justwatch.com/poster/104030004/s276/world-war-two.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt3950102,SHOW,/us/tv-show/world-trigger",
                                 "title": "World Trigger",
                                 "artist": "Nao Tamura, Yuichi Nakamura, Tomo Muranaka, Yuki Kaji",
@@ -484,6 +474,16 @@
                                 "description": "A gate to another dimension has burst open, and from it emerge gigantic invincible creatures that threaten all of humanity. Earth's only defense is a mysterious group of warriors who have co-opted the alien technology in order to fight back!",
                                 "genre": "Animation, Action & Adventure, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/260841834/s276/world-trigger.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt10519126,SHOW,/us/tv-show/world-war-two",
+                                "title": "World War Two",
+                                "artist": "David Reynolds",
+                                "author": "",
+                                "description": "Follow the deadliest conflict in human history in real time, week by week, blow by blow.",
+                                "genre": "War & Military, Documentary, History, Made in Europe",
+                                "thumbnail_url": "https://images.justwatch.com/poster/104030004/s276/world-war-two.webp",
                                 "initialized": true
                             },
                             {
@@ -567,16 +567,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt4219244,SHOW,/us/tv-show/world-break-aria-of-curse-for-a-holy-swordsman",
-                                "title": "World Break: Aria of Curse for a Holy Swordsman",
-                                "artist": "Aoi Yuki, Ayana Taketatsu, Kaito Ishikawa, Maaya Uchida",
-                                "author": "",
-                                "description": "The scenery takes place in a private high school involving the concept of \"saviors.\" They are known as people who possess awakened memories of their past lives. The story tells of a young boy named Moroha Haimura who comes to this private school. At the school, there are two types of people: Saviors, who fight enemies with weapons and techniques gleaned from the Puraana powers from their own bodies, and Kuroma, who wipe out enemies with magic to manipulate the Maana powers that surpass physics. Moroha Haimura is the first person with past lives of both Shirogane and Kuroma.",
-                                "genre": "Animation, Action & Adventure, Fantasy, Romance",
-                                "thumbnail_url": "https://images.justwatch.com/poster/175939333/s276/world-break-aria-of-curse-for-a-holy-swordsman.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt1001484,SHOW,/us/tv-show/world-of-quest",
                                 "title": "World of Quest",
                                 "artist": "Ron Pardo, Landon Norris, Kedar Brown, James Rankin",
@@ -584,6 +574,16 @@
                                 "description": "World of Quest is a Canadian animated series based on the graphic novel story by Jason Kruse published by Komikwerks.",
                                 "genre": "Science-Fiction, Animation, Comedy, Kids & Family, Music & Musical, Action & Adventure",
                                 "thumbnail_url": "https://images.justwatch.com/poster/270309621/s276/world-of-quest.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt4219244,SHOW,/us/tv-show/world-break-aria-of-curse-for-a-holy-swordsman",
+                                "title": "World Break: Aria of Curse for a Holy Swordsman",
+                                "artist": "Aoi Yuki, Ayana Taketatsu, Kaito Ishikawa, Maaya Uchida",
+                                "author": "",
+                                "description": "The scenery takes place in a private high school involving the concept of \"saviors.\" They are known as people who possess awakened memories of their past lives. The story tells of a young boy named Moroha Haimura who comes to this private school. At the school, there are two types of people: Saviors, who fight enemies with weapons and techniques gleaned from the Puraana powers from their own bodies, and Kuroma, who wipe out enemies with magic to manipulate the Maana powers that surpass physics. Moroha Haimura is the first person with past lives of both Shirogane and Kuroma.",
+                                "genre": "Animation, Action & Adventure, Fantasy, Romance",
+                                "thumbnail_url": "https://images.justwatch.com/poster/175939333/s276/world-break-aria-of-curse-for-a-holy-swordsman.webp",
                                 "initialized": true
                             },
                             {
@@ -612,18 +612,8 @@
                                 "artist": "Carole Baillien, Alice Ley, Esther Aflalo, Mélanie Dermont",
                                 "author": "",
                                 "description": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
-                                "genre": "Action & Adventure, Animation, Fantasy, Comedy, Kids & Family, Made in Europe",
+                                "genre": "Animation, Action & Adventure, Comedy, Kids & Family, Fantasy, Made in Europe",
                                 "thumbnail_url": "https://images.justwatch.com/poster/309927594/s276/world-of-winx.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt1262981,MOVIE,/us/movie/worlds-greatest-dad",
-                                "title": "World's Greatest Dad",
-                                "artist": "Robin Williams, Alexie Gilmore, Daryl Sabara, Evan Martin",
-                                "author": "Bobcat Goldthwait",
-                                "description": "In the wake of a freak accident, Lance suffers the worst tragedy and the greatest opportunity of his life. He is suddenly faced with the possibility of fame, fortune and popularity, if he can only live with the knowledge of how he got there.",
-                                "genre": "Drama, Comedy, Romance",
-                                "thumbnail_url": "https://images.justwatch.com/poster/261334509/s276/worlds-greatest-dad.webp",
                                 "initialized": true
                             },
                             {
@@ -634,6 +624,16 @@
                                 "description": "Each year, seven strangers in their twenties, from different backgrounds and countries, are chosen to come live together in a major city.",
                                 "genre": "Reality TV, Comedy, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/267056478/s276/the-real-world.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt1262981,MOVIE,/us/movie/worlds-greatest-dad",
+                                "title": "World's Greatest Dad",
+                                "artist": "Robin Williams, Alexie Gilmore, Daryl Sabara, Evan Martin",
+                                "author": "Bobcat Goldthwait",
+                                "description": "In the wake of a freak accident, Lance suffers the worst tragedy and the greatest opportunity of his life. He is suddenly faced with the possibility of fame, fortune and popularity, if he can only live with the knowledge of how he got there.",
+                                "genre": "Drama, Comedy, Romance",
+                                "thumbnail_url": "https://images.justwatch.com/poster/261334509/s276/worlds-greatest-dad.webp",
                                 "initialized": true
                             },
                             {
@@ -737,16 +737,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
-                                "title": "Jurassic World Dominion",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
-                                "author": "Colin Trevorrow",
-                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
-                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0070904,SHOW,/us/tv-show/world-on-a-wire",
                                 "title": "World on a Wire",
                                 "artist": "Klaus Löwitsch, Mascha Rabben, Karl-Heinz Vosgerau, Adrian Hoven",
@@ -757,13 +747,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt1878805,SHOW,/us/tv-show/world-without-end",
-                                "title": "World Without End",
-                                "artist": "Oliver Maltman, David Bradley, Ben Chaplin, Charlotte Riley",
-                                "author": "Michael Caton-Jones",
-                                "description": "Two hundred years after the construction of the great cathedral, the medieval town of Kingsbridge is  taken under siege by Queen Isabella. Caris, a visionary young woman, inspires her people to stand up for their rights and revolt against to the most powerful forces of her time, the Church and the Crown.",
-                                "genre": "Drama, Romance, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/112959698/s276/world-without-end.webp",
+                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
+                                "title": "Jurassic World Dominion",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
+                                "author": "Colin Trevorrow",
+                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
+                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
                                 "initialized": true
                             },
                             {
@@ -777,6 +767,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt1878805,SHOW,/us/tv-show/world-without-end",
+                                "title": "World Without End",
+                                "artist": "Oliver Maltman, David Bradley, Ben Chaplin, Charlotte Riley",
+                                "author": "Michael Caton-Jones",
+                                "description": "Two hundred years after the construction of the great cathedral, the medieval town of Kingsbridge is  taken under siege by Queen Isabella. Caris, a visionary young woman, inspires her people to stand up for their rights and revolt against to the most powerful forces of her time, the Church and the Crown.",
+                                "genre": "Drama, Romance, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/112959698/s276/world-without-end.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt2847178,SHOW,/us/tv-show/worlds-wildest-police-videos",
                                 "title": "World's Wildest Police Videos",
                                 "artist": "John Bunnell",
@@ -784,16 +784,6 @@
                                 "description": "An American reality TV series that deals with police videos from across the world. Video footage of car chases, subsequent arrests, robberies, riots and other crimes appears on the show.",
                                 "genre": "Comedy, Action & Adventure, Crime, Reality TV, Documentary",
                                 "thumbnail_url": "https://images.justwatch.com/poster/177620157/s276/worlds-wildest-police-videos.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": ",MOVIE,/us/movie/world-of-tomorrow",
-                                "title": "World of Tomorrow",
-                                "artist": "Julia Pott, Winona Mae, Sara Cushman",
-                                "author": "Don Hertzfeldt",
-                                "description": "A little girl is taken on a mind-bending tour of her distant future.",
-                                "genre": "Animation, Drama, Science-Fiction",
-                                "thumbnail_url": "https://images.justwatch.com/poster/247284109/s276/world-of-tomorrow.webp",
                                 "initialized": true
                             },
                             {
@@ -807,13 +797,23 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt3909336,MOVIE,/us/movie/worlds-apart-2015",
-                                "title": "Worlds Apart",
-                                "artist": "J.K. Simmons, Maria Kavoyianni, Andrea Osvárt, Christopher Papakaliatis",
-                                "author": "Christopher Papakaliatis",
-                                "description": "Three separate narratives each following a love story between a foreigner and a Greek. Each story represents a different generation falling in love during a time of socioeconomic turmoil that dominates Southern Europe as a whole, only to connect as a single story in the end.",
-                                "genre": "Drama, Romance",
-                                "thumbnail_url": "https://images.justwatch.com/poster/45122637/s276/worlds-apart-2015.webp",
+                                "url": ",MOVIE,/us/movie/world-of-tomorrow",
+                                "title": "World of Tomorrow",
+                                "artist": "Julia Pott, Winona Mae, Sara Cushman",
+                                "author": "Don Hertzfeldt",
+                                "description": "A little girl is taken on a mind-bending tour of her distant future.",
+                                "genre": "Animation, Drama, Science-Fiction",
+                                "thumbnail_url": "https://images.justwatch.com/poster/247284109/s276/world-of-tomorrow.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt8258934,SHOW,/us/tv-show/worlds-most-epic",
+                                "title": "World's Most Epic",
+                                "artist": "Jeff Wilburn",
+                                "author": "",
+                                "description": "The history and technology behind a fleet of remarkable machines from around the world.",
+                                "genre": "Documentary",
+                                "thumbnail_url": "https://images.justwatch.com/poster/59365966/s276/worlds-most-epic.webp",
                                 "initialized": true
                             }
                         ],
