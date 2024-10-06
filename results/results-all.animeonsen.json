@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "NyECsm2kL7WczZTQ",
+                                "title": "Uzumaki",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/NyECsm2kL7WczZTQ"
+                            },
+                            {
+                                "url": "v8FixWHfgOlTwwx1",
+                                "title": "Nageki no Bourei wa Intai shitai",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/v8FixWHfgOlTwwx1"
+                            },
+                            {
+                                "url": "0rW0wUurpCtpzoYn",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/0rW0wUurpCtpzoYn"
+                            },
+                            {
                                 "url": "ULg1598bBOrlWjys",
                                 "title": "Oshi no Ko 2nd Season",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/ULg1598bBOrlWjys"
@@ -90,21 +105,6 @@
                                 "url": "wCXwaP6wMEUmdNkz",
                                 "title": "Mecha-ude (TV)",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/wCXwaP6wMEUmdNkz"
-                            },
-                            {
-                                "url": "SEtiRCkuqHz75R3O",
-                                "title": "Trillion Game",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/SEtiRCkuqHz75R3O"
-                            },
-                            {
-                                "url": "eAPhCAnbwoHnIizl",
-                                "title": "NegaPosi Angler",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/eAPhCAnbwoHnIizl"
-                            },
-                            {
-                                "url": "cQz3fNzkdtoeesxF",
-                                "title": "Kekkon suru tte, Hontou desu ka",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/cQz3fNzkdtoeesxF"
                             }
                         ],
                         "hasNextPage": true
@@ -314,14 +314,14 @@
             },
             "details": {
                 "result": {
-                    "url": "ULg1598bBOrlWjys",
-                    "title": "Oshi no Ko 2nd Season",
-                    "author": "Doga Kobo",
-                    "description": "With the help of producer Masaya Kaburagi, Aquamarine \"Aqua\" Hoshino and Kana Arima have landed the roles of Touki and Tsurugi in Lala Lai Theatrical Company's stage adaptation of the popular manga series Tokyo Blade. Co-starring with them is Aqua's girlfriend, Akane Kurokawa, who plays Touki's fiancée, Princess Saya. Due to the fanbase preferring Tsurugi as Touki's love interest, Saya has made fewer and fewer appearances in the manga, making it difficult for Akane to fully immerse herself in the role. Her struggles are compounded by differences between the play's script and the original work—differences that also frustrate Tokyo Blade's author, Abiko Samejima.\n\nAqua, however, is more concerned with his personal goals than he is with the play. He has only one objective in mind: to grow closer to director Toshirou Kindaichi and find out what he knows about Aqua's mother, Ai.\n\n[Written by MAL Rewrite]",
-                    "genre": "Drama, Reincarnation, Seinen, Showbiz",
+                    "url": "NyECsm2kL7WczZTQ",
+                    "title": "Uzumaki",
+                    "author": "Akatsuki, Fugaku",
+                    "description": "In the town of Kurouzu-cho, Kirie Goshima lives a fairly normal life with her family. As she walks to the train station one day to meet her boyfriend, Shuuichi Saito, she sees his father staring at a snail shell in an alley. Thinking nothing of it, she mentions the incident to Shuuichi, who says that his father has been acting weird lately. Shuuichi reveals his rising desire to leave the town with Kirie, saying that the town is infected with spirals.\n\nBut his father's obsession with the shape soon proves deadly, beginning a chain of horrific and unexplainable events that causes the residents of Kurouzu-cho to spiral into madness.\n\n[Written by MAL Rewrite]",
+                    "genre": "Avant Garde, Drama, Horror, Psychological, Seinen, Supernatural, Suspense",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/ULg1598bBOrlWjys",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/NyECsm2kL7WczZTQ",
                     "initialized": true
                 },
                 "passed": true
@@ -329,14 +329,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "ULg1598bBOrlWjys/video/13",
-                        "name": "Episode 13: Wish",
-                        "episode_number": 13.0
+                        "url": "NyECsm2kL7WczZTQ/video/2",
+                        "name": "Episode 2: Episode 2",
+                        "episode_number": 2.0
                     },
                     {
-                        "url": "ULg1598bBOrlWjys/video/12",
-                        "name": "Episode 12: Reunion",
-                        "episode_number": 12.0
+                        "url": "NyECsm2kL7WczZTQ/video/1",
+                        "name": "Episode 1: Episode 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -344,17 +344,25 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/ULg1598bBOrlWjys/13/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/NyECsm2kL7WczZTQ/2/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/ULg1598bBOrlWjys/13/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/NyECsm2kL7WczZTQ/2/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/ULg1598bBOrlWjys/en-US/13",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/NyECsm2kL7WczZTQ/en-US/2",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/NyECsm2kL7WczZTQ/pt-BR/2",
+                                "lang": "Português (Brasil)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/NyECsm2kL7WczZTQ/es-LA/2",
+                                "lang": "Español"
                             }
                         ]
                     }

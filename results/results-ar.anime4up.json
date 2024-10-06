@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/mf-ghost-2nd-season/",
+                                "title": "MF Ghost 2nd Season",
+                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.06_18h17m29s_007_-215x300.png"
+                            },
+                            {
+                                "url": "/anime/kami-no-tou-koubou-sen/",
+                                "title": "Kami no Tou: Koubou-sen",
+                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.06_16h23m18s_005_-215x300.png"
+                            },
+                            {
                                 "url": "/anime/ansatsu-kyoushitsu-2nd-season/",
                                 "title": "Ansatsu Kyoushitsu 2nd Season",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.06_14h26m00s_003_-215x300.png"
@@ -235,16 +245,6 @@
                                 "url": "/anime/one-punch-man-road-to-hero/",
                                 "title": "One Punch Man: Road to Hero",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/08/Ashampoo_Snap_2024.08.11_00h14m05s_003_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/charlotte-tsuyoimono-tachi/",
-                                "title": "Charlotte: Tsuyoimono-tachi",
-                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/08/Ashampoo_Snap_2024.08.10_23h42m42s_002_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/charlotte/",
-                                "title": "Charlotte",
-                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/08/Ashampoo_Snap_2024.08.10_15h38m34s_001_-215x300.png"
                             }
                         ],
                         "hasNextPage": true
@@ -364,24 +364,48 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/ansatsu-kyoushitsu-2nd-season/",
-                    "title": "Ansatsu Kyoushitsu 2nd Season",
-                    "description": "النوع: TV\nبداية العرض: 2016\nحالة الأنمي: مكتمل\nعدد الحلقات: 25\nمدة الحلقة: 23 دقيقة\nالموسم: شتاء 2016\nالمصدر: مانجا\n\nقصة انمي Ansatsu Kyoushitsu 2nd Season تتمة لاحداث الموسم السابق وتدور القصة بعد عودة الطلاب لاستكمال الدراسة في النصف الثاني للسنة الدراسية بعد أعمالهم البطولية في الجزيرة أثناء العطلة الصيفية. تابع الفصل 3-E شحذ أسلحتهم مع إبقاء أنظارهم على معلمهم “كورو-سينسي”. كما أصبح لديهم الكثير للقلق بشأنه إضافة لكونهم قلقين من معلمهم نفسه، ومع ذلك، فإن الأعداء القتلة، القدماء منهم والجدد يسعون للحصول على رأس الأخطبوط. وعلاوة على ذلك، يقف المنافسين من الفصل A مع مدير المدرسة جنبا إلى جنب لمنع طلاب الفصل E من تحقيق علامات مدرسية عالية. ولكن المجموعة تواصل العمل سويّا للتغلب على الأعداء واغتيال معلمهم بنجاح.",
-                    "genre": "أكشن, كوميدي, مدرسي, شونين, TV, مكتمل, شتاء 2016",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.06_14h26m00s_003_.png",
+                    "url": "/anime/mf-ghost-2nd-season/",
+                    "title": "MF Ghost 2nd Season",
+                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 23 دقيقة\nالموسم: خريف 2024\nالمصدر: مانجا\n\nقصة انمي MF Ghost 2nd Season تتمة لاحداث الموسم السابق.",
+                    "genre": "سينين, سباق, TV, يعرض الان, خريف 2024",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.06_18h17m29s_007_.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/mf-ghost-2nd-season-الحلقة-1/",
+                        "name": "الحلقة 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://a2.mp4upload.com:183/d/xwxso4uoz3b4quuopwreei2lkuced3ufv6yq2cwq26w2dioq6gexh63i34stgnvni4eys3ib/video.mp4",
+                        "quality": "Mp4Upload - 480p",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxso4uoz3b4quuopwreei2lkuced3ufv6yq2cwq26w2dioq6gexh63i34stgnvni4eys3ib/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m10.uqload.ws/3rfkvzy64nw2q4drdkqpvknnbaivpupqtaqra3pkpo2cs76hkqecngvycgbq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m10.uqload.ws/3rfkvzy64nw2q4drdkqpvknnbaivpupqtaqra3pkpo2cs76hkqecngvycgbq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
