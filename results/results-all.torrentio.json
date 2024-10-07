@@ -42,7 +42,7 @@
                                 "artist": "Melanie Lynskey, Tawny Cypress, Sophie Nélisse, Jasmin Savoy Brown",
                                 "author": "",
                                 "description": "A wildly talented girls high school soccer team become the unlucky survivors of a plane crash deep in the Canadian wilderness.",
-                                "genre": "Drama, Horror, Mystery & Thriller",
+                                "genre": "Horror, Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/304427602/s276/yellowjackets.webp",
                                 "initialized": true
                             },
@@ -82,7 +82,7 @@
                                 "artist": "Shion Wakayama, Natsuki Hanae, Nana Mizuki, Ayane Sakura",
                                 "author": "",
                                 "description": "After Momo rescues Okarun from getting bullied, the two of them start talking. However, an argument ensues between them – Momo believes in ghosts but denies aliens, and Okarun believes in aliens but denies ghosts. To make the mutual deniers believe in each other, Momo goes to an abandoned hospital known for its UFO sightings, and Okarun goes to a tunnel that is said to be haunted. In each place, they encounter overwhelming paranormal activity that transcends comprehension. Amid these predicaments, Momo awakens her hidden power and Okarun gains the power of a curse to challenge the paranormal forces!",
-                                "genre": "Animation, Action & Adventure, Comedy, Science-Fiction, Fantasy, Romance, Mystery & Thriller",
+                                "genre": "Animation, Action & Adventure, Comedy, Science-Fiction, Romance, Mystery & Thriller, Fantasy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/312596115/s276/dan-da-dan.webp",
                                 "initialized": true
                             },
@@ -482,7 +482,7 @@
                                 "artist": "Nao Tamura, Yuichi Nakamura, Tomo Muranaka, Yuki Kaji",
                                 "author": "",
                                 "description": "A gate to another dimension has burst open, and from it emerge gigantic invincible creatures that threaten all of humanity. Earth's only defense is a mysterious group of warriors who have co-opted the alien technology in order to fight back!",
-                                "genre": "Animation, Action & Adventure, Science-Fiction",
+                                "genre": "Action & Adventure, Science-Fiction, Animation",
                                 "thumbnail_url": "https://images.justwatch.com/poster/260841834/s276/world-trigger.webp",
                                 "initialized": true
                             },
@@ -597,7 +597,7 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt4854988,SHOW,/us/tv-show/worlds-deadliest",
+                                "url": "tt4854976,SHOW,/us/tv-show/worlds-deadliest",
                                 "title": "World's Deadliest",
                                 "artist": "Jeremy Davidson",
                                 "author": "",
@@ -612,7 +612,7 @@
                                 "artist": "Carole Baillien, Alice Ley, Esther Aflalo, Mélanie Dermont",
                                 "author": "",
                                 "description": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
-                                "genre": "Animation, Action & Adventure, Comedy, Kids & Family, Fantasy, Made in Europe",
+                                "genre": "Action & Adventure, Animation, Comedy, Kids & Family, Fantasy, Made in Europe",
                                 "thumbnail_url": "https://images.justwatch.com/poster/309927594/s276/world-of-winx.webp",
                                 "initialized": true
                             },
@@ -662,18 +662,8 @@
                                 "artist": "Jonah Hauer-King, Julia Brown, Helen Hunt, Zofia Wichłacz",
                                 "author": "",
                                 "description": "World War II-era drama centered on the lives of ordinary people affected by the war.",
-                                "genre": "War & Military, Drama, Romance",
+                                "genre": "Drama, Romance, War & Military",
                                 "thumbnail_url": "https://images.justwatch.com/poster/148817724/s276/world-on-fire.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt6819736,SHOW,/us/tv-show/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us",
-                                "title": "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
-                                "artist": "Ryohei Arai, Azusa Tadokoro, Akari Uehara, Satomi Sato",
-                                "author": "",
-                                "description": "The fleeting and sad story about little girls known as fairy weapons and an associate hero that survived. This is a world after it was attacked by unidentified monsters known as beasts and many of the species in the world, including humans, had been destroyed. The species that had managed to survived left the ground and were living on a floating island called Regal Ele. Willem Kmetsch wakes up above the clouds 500 years later and couldn’t protect the ones who he wanted to protect. Actually, he was living in despair because he was the only survivor.",
-                                "genre": "Action & Adventure, Science-Fiction, Romance, Animation, Drama, Fantasy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/307402070/s276/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us.webp",
                                 "initialized": true
                             },
                             {
@@ -684,6 +674,16 @@
                                 "description": "The history of the greatest and most lavish palaces in the world.",
                                 "genre": "Documentary, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/173301144/s276/worlds-greatest-palaces.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt6819736,SHOW,/us/tv-show/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us",
+                                "title": "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
+                                "artist": "Ryohei Arai, Azusa Tadokoro, Akari Uehara, Satomi Sato",
+                                "author": "",
+                                "description": "The fleeting and sad story about little girls known as fairy weapons and an associate hero that survived. This is a world after it was attacked by unidentified monsters known as beasts and many of the species in the world, including humans, had been destroyed. The species that had managed to survived left the ground and were living on a floating island called Regal Ele. Willem Kmetsch wakes up above the clouds 500 years later and couldn’t protect the ones who he wanted to protect. Actually, he was living in despair because he was the only survivor.",
+                                "genre": "Action & Adventure, Science-Fiction, Animation, Drama, Fantasy, Romance",
+                                "thumbnail_url": "https://images.justwatch.com/poster/307402070/s276/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us.webp",
                                 "initialized": true
                             },
                             {
@@ -747,16 +747,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
-                                "title": "Jurassic World Dominion",
-                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
-                                "author": "Colin Trevorrow",
-                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
-                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
-                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt1831534,SHOW,/us/tv-show/the-world-wild-vet",
                                 "title": "The World Wild Vet",
                                 "artist": "Luke Gamble",
@@ -777,13 +767,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
-                                "title": "The World Wars",
-                                "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
-                                "author": "John Ealer",
-                                "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
-                                "genre": "Documentary, War & Military, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/176468126/s276/the-world-wars.webp",
+                                "url": "tt8041270,MOVIE,/us/movie/jurassic-world-dominion",
+                                "title": "Jurassic World Dominion",
+                                "artist": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
+                                "author": "Colin Trevorrow",
+                                "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
+                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
+                                "thumbnail_url": "https://images.justwatch.com/poster/300590311/s276/jurassic-world-dominion.webp",
                                 "initialized": true
                             },
                             {
@@ -792,8 +782,18 @@
                                 "artist": "John Bunnell",
                                 "author": "",
                                 "description": "An American reality TV series that deals with police videos from across the world. Video footage of car chases, subsequent arrests, robberies, riots and other crimes appears on the show.",
-                                "genre": "Comedy, Action & Adventure, Crime, Reality TV, Documentary",
+                                "genre": "Action & Adventure, Comedy, Reality TV, Crime, Documentary",
                                 "thumbnail_url": "https://images.justwatch.com/poster/177620157/s276/worlds-wildest-police-videos.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt3543006,SHOW,/us/tv-show/the-world-wars",
+                                "title": "The World Wars",
+                                "artist": "Dean Gosdin, Ian Beyts, David Mitchum Brown, C. Conrad Cady",
+                                "author": "John Ealer",
+                                "description": "The story of three decades of war told through the eyes of various men who were its key players: Roosevelt, Hitler, Patton, Mussolini, Churchill, Tojo, DeGaulle and MacArthur. The series examines the two wars as one contiguous timeline starting in 1914 and concluding in 1945 with these unique individuals coming of age in World War I before ultimately calling the shots in World War II.",
+                                "genre": "Documentary, War & Military, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/176468126/s276/the-world-wars.webp",
                                 "initialized": true
                             },
                             {
