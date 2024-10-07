@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/natsume-yuujinchou-shichi/",
+                                "title": "Natsume Yuujinchou Shichi",
+                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/bx166611-MXGsOlPv2IKj-215x300.png"
+                            },
+                            {
                                 "url": "/anime/seirei-gensouki-2/",
                                 "title": "Seirei Gensouki 2",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/bx141182-xNtdR0PenhRR-215x300.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo-onsen-manyuuki/",
                                 "title": "Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?: Onsen Manyuuki",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/09/Ashampoo_Snap_2024.09.18_03h12m05s_001_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/murai-no-koi/",
-                                "title": "Murai no Koi",
-                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/09/MV5BMWQ5NDQwODktNmM1Yi00MzQ5LWJjOGQtY2YzN2ZjMTZkNTc2XkEyXkFqcGc@._V1_-215x300.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -364,24 +364,48 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/seirei-gensouki-2/",
-                    "title": "Seirei Gensouki 2",
-                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 23 دقيقة\nالموسم: خريف 2024\nالمصدر: رواية\n\nالموسم الثاني من الأنمي.",
-                    "genre": "حريم, مغامرات, أكشن, فنتازيا, رومانسي, TV, يعرض الان, خريف 2024",
+                    "url": "/anime/natsume-yuujinchou-shichi/",
+                    "title": "Natsume Yuujinchou Shichi",
+                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 24 دقيقة\nالموسم: خريف 2024\nالمصدر: مانجا\n\nتتمة أحداث فيلم Natsume Yuujinchou Movie: Utsusemi ni Musubu",
+                    "genre": "خارق للعادة, دراما, فنتازيا, TV, يعرض الان, خريف 2024",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/bx141182-xNtdR0PenhRR.jpg",
+                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/bx166611-MXGsOlPv2IKj.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/natsume-yuujinchou-shichi-الحلقة-1/",
+                        "name": "الحلقة 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m30.uqload.ws/3rfk5wiu4nw2q4drdkq7v45xcmmug777i6eicc7tcweicw62xjwztwivayta/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m30.uqload.ws/3rfk5wiu4nw2q4drdkq7v45xcmmug777i6eicc7tcweicw62xjwztwivayta/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    },
+                    {
+                        "url": "https://a4.mp4upload.com:183/d/xkxz3bmjz3b4quuop2reymkqidqugxpkenjd32vf7ebetw2akledit77gmfseibaj3x4fkq2/video.mp4",
+                        "quality": "Mp4Upload - 480p",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxz3bmjz3b4quuop2reymkqidqugxpkenjd32vf7ebetw2akledit77gmfseibaj3x4fkq2/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
