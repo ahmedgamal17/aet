@@ -61,7 +61,7 @@
   },
   {
     "pkg": "all.torrentio",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.torrentio.json"
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "pkg": "en.allanimechi",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanimechi.json"
   },
   {
@@ -256,12 +256,12 @@
   },
   {
     "pkg": "en.dramacool",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.dramacool.json"
   },
   {
     "pkg": "en.edytjedhgmdhm",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.edytjedhgmdhm.json"
   },
   {

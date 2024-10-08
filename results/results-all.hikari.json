@@ -167,6 +167,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/1571/Ghost_Hunt",
+                                "title": "Ghost Hunt",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/11/73908l.jpg"
+                            },
+                            {
+                                "url": "/anime/132/GetBackers",
+                                "title": "GetBackers",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1056/109721l.jpg"
+                            },
+                            {
+                                "url": "/anime/33839/Alice_in_Deadly_School",
+                                "title": "Alice in Deadly School",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1614/110455l.jpg"
+                            },
+                            {
                                 "url": "/anime/653/Galaxy_Angel_3",
                                 "title": "Galaxy Angel 3",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/8/2757l.jpg"
@@ -300,21 +315,6 @@
                                 "url": "/anime/26057/Fate-kaleid_liner_PrismaIllya_2wei_Mahou_Shoujo_in_Onsen_Ryokou",
                                 "title": "Fate-kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1889/126452l.jpg"
-                            },
-                            {
-                                "url": "/anime/25011/Fate-kaleid_liner_PrismaIllya_2wei_Specials",
-                                "title": "Fate-kaleid liner Prisma☆Illya 2wei! Specials",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/11/64197l.jpg"
-                            },
-                            {
-                                "url": "/anime/18851/Fate-kaleid_liner_PrismaIllya_Undoukai_de_Dance",
-                                "title": "Fate-kaleid liner Prisma☆Illya: Undoukai de Dance!",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/7/60279l.jpg"
-                            },
-                            {
-                                "url": "/anime/33456/Fate-kaleid_liner_PrismaIllya_3rei_Specials",
-                                "title": "Fate-kaleid liner Prisma☆Illya 3rei!! Specials",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1588/121787l.jpg"
                             }
                         ],
                         "hasNextPage": true
