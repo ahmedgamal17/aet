@@ -167,6 +167,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/40421/Given_Movie_1",
+                                "title": "Given Movie 1",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1648/111422l.jpg"
+                            },
+                            {
+                                "url": "/anime/487/Girls_Bravo_Second_Season",
+                                "title": "Girls Bravo: Second Season",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1538/133872l.jpg"
+                            },
+                            {
+                                "url": "/anime/241/Girls_Bravo_First_Season",
+                                "title": "Girls Bravo: First Season",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/12/48027l.jpg"
+                            },
+                            {
                                 "url": "/anime/1571/Ghost_Hunt",
                                 "title": "Ghost Hunt",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/11/73908l.jpg"
@@ -300,21 +315,6 @@
                                 "url": "/anime/33049/Fate-stay_night_Movie_Heavens_Feel_II_Lost_Butterfly",
                                 "title": "Fate-stay night Movie: Heaven's Feel - II. Lost Butterfly",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg"
-                            },
-                            {
-                                "url": "/anime/25537/Fate-stay_night_Movie_Heavens_Feel_I_Presage_Flower",
-                                "title": "Fate-stay night Movie: Heaven's Feel - I. Presage Flower",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1274/102213l.jpg"
-                            },
-                            {
-                                "url": "/anime/6922/Fate-stay_night_Movie_Unlimited_Blade_Works",
-                                "title": "Fate-stay night Movie: Unlimited Blade Works",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1889/95111l.jpg"
-                            },
-                            {
-                                "url": "/anime/26057/Fate-kaleid_liner_PrismaIllya_2wei_Mahou_Shoujo_in_Onsen_Ryokou",
-                                "title": "Fate-kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1889/126452l.jpg"
                             }
                         ],
                         "hasNextPage": true
