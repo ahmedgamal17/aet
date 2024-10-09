@@ -262,6 +262,31 @@
                                 "thumbnail_url": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8839/1726210268839-h"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9512?isq=false",
+                                "title": "Love In The Desert",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/4cjcdpj8mz2249t1727165031435/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/8684?isq=false",
+                                "title": "Go Back Lover",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/0xpysxstlaa7v5c1728359447085/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9649?isq=false",
+                                "title": "Fatal Allure - She Must",
+                                "thumbnail_url": "https://m.ykimg.com/0535000066F622D0C7BFE91324C671AE"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9599?isq=false",
+                                "title": "Beloved of a Lifetime",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/kzni8jy52ngvov81727850548942/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9557?isq=false",
+                                "title": "The Princess (2024)",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/wwzwry8yipm09qj1727333162752/0?.jpg"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/9491?isq=false",
                                 "title": "Family by Choice",
                                 "thumbnail_url": "https://prod-images.viu.com/3539505242/3f0b34521daca8433c603ad09581fc79b6dbad51?im=Resize,width=1920"
@@ -275,16 +300,6 @@
                                 "url": "/api/DramaList/Drama/9498?isq=false",
                                 "title": "Dear Hyeri",
                                 "thumbnail_url": "https://prod-images.viu.com/1627708906/502dc6633309910fa18b8adfcc88d58c030a2a80?im=Resize,width=1920"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/8684?isq=false",
-                                "title": "Go Back Lover",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/0xpysxstlaa7v5c1728359447085/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9512?isq=false",
-                                "title": "Love In The Desert",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/4cjcdpj8mz2249t1727165031435/0"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9523?isq=false",
@@ -307,11 +322,6 @@
                                 "thumbnail_url": "https://puui.wetvinfo.com/vcover_hz_pic/0/iwf554loilcazjm1692953444488/0?.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9649?isq=false",
-                                "title": "Fatal Allure - She Must",
-                                "thumbnail_url": "https://m.ykimg.com/0535000066F622D0C7BFE91324C671AE"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/9347?isq=false",
                                 "title": "Jack & Joker: U Steal My Heart! (Uncut Ver.)",
                                 "thumbnail_url": "//pic8.iqiyipic.com/image/20240909/00/54/a_100583976_m_601_zh-CN_m3_720_405.webp"
@@ -325,16 +335,6 @@
                                 "url": "/api/DramaList/Drama/9650?isq=false",
                                 "title": "My Merry Marriage",
                                 "thumbnail_url": "https://prod-images.viu.com/4173574412/e6050d5bc4a540d91003a0fb97ab0bd95ac7fa6a?im=Resize,width=1920"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9599?isq=false",
-                                "title": "Beloved of a Lifetime",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/kzni8jy52ngvov81727850548942/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9557?isq=false",
-                                "title": "The Princess (2024)",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/wwzwry8yipm09qj1727333162752/0?.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9545?isq=false",
@@ -571,23 +571,23 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "file:///tmp/subs16592553249137921859srt",
+                                "url": "file:///tmp/subs9855500417088186233srt",
                                 "lang": "English"
                             },
                             {
-                                "url": "file:///tmp/subs7114475943895598137srt",
+                                "url": "file:///tmp/subs10453233299455861320srt",
                                 "lang": "Khmer"
                             },
                             {
-                                "url": "file:///tmp/subs18218112902593108094srt",
+                                "url": "file:///tmp/subs10557685825694917378srt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "file:///tmp/subs11491361318871670098srt",
+                                "url": "file:///tmp/subs10145499431698490870srt",
                                 "lang": "Indonesia"
                             },
                             {
-                                "url": "file:///tmp/subs15749746509677956379srt",
+                                "url": "file:///tmp/subs16041756343012567334srt",
                                 "lang": "Malay"
                             }
                         ]
