@@ -116,6 +116,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/category/murai-no-koi",
+                                "title": "Murai no Koi",
+                                "thumbnail_url": "https://gogocdn.net/cover/murai-no-koi-1725457733.png"
+                            },
+                            {
                                 "url": "/category/tibet-inu-monogatari-chinsese-dub",
                                 "title": "Tibet Inu Monogatari (Chinsese Dub)",
                                 "thumbnail_url": "https://gogocdn.net/cover/tibet-inu-monogatari-chinsese-dub.png"
@@ -209,11 +214,6 @@
                                 "url": "/category/seirei-gensouki-2",
                                 "title": "Seirei Gensouki 2",
                                 "thumbnail_url": "https://gogocdn.net/cover/seirei-gensouki-2-1727379332.png"
-                            },
-                            {
-                                "url": "/category/natsume-yuujinchou-shichi",
-                                "title": "Natsume Yuujinchou Shichi",
-                                "thumbnail_url": "https://gogocdn.net/cover/natsume-yuujinchou-shichi.png"
                             }
                         ],
                         "hasNextPage": true
@@ -367,13 +367,13 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=f1jE_2_jTQcb5Ia7sw8pLg&expires=1728462772"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=7IAXOD_3VfTL6NyTdCApCg&expires=1728485067"
                         }
                     },
                     {
-                        "url": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqf4jboct4rfraxko73drlzfepnauxhg/video.mp4",
+                        "url": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqf3vfxnzq5m5soukcdcpyy3rouz5fen/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqf4jboct4rfraxko73drlzfepnauxhg/video.mp4",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqf3vfxnzq5m5soukcdcpyy3rouz5fen/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Origin": "https://anitaku.to",
@@ -381,9 +381,9 @@
                         }
                     },
                     {
-                        "url": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=GaxeMkT4mFYNv-HTeiRo5O6ngrEzRZABlL5wObqfmwk&s=1728455574&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "url": "https://yhqd4yg264.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=sBdKmLNrCBjRfmP7PFWxrdo2y6F1mE_UVvZ7TRNW-0M&s=1728477868&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=GaxeMkT4mFYNv-HTeiRo5O6ngrEzRZABlL5wObqfmwk&s=1728455574&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "videoUrl": "https://yhqd4yg264.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=sBdKmLNrCBjRfmP7PFWxrdo2y6F1mE_UVvZ7TRNW-0M&s=1728477868&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -408,13 +408,13 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=f1jE_2_jTQcb5Ia7sw8pLg&expires=1728462772"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=7IAXOD_3VfTL6NyTdCApCg&expires=1728485067"
                         }
                     },
                     {
-                        "url": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=GaxeMkT4mFYNv-HTeiRo5O6ngrEzRZABlL5wObqfmwk&s=1728455574&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "url": "https://yhqd4yg264.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=sBdKmLNrCBjRfmP7PFWxrdo2y6F1mE_UVvZ7TRNW-0M&s=1728477868&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "quality": "StreamWish - 720p",
-                        "videoUrl": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=GaxeMkT4mFYNv-HTeiRo5O6ngrEzRZABlL5wObqfmwk&s=1728455574&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "videoUrl": "https://yhqd4yg264.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=sBdKmLNrCBjRfmP7PFWxrdo2y6F1mE_UVvZ7TRNW-0M&s=1728477868&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -439,13 +439,13 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=f1jE_2_jTQcb5Ia7sw8pLg&expires=1728462772"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=7IAXOD_3VfTL6NyTdCApCg&expires=1728485067"
                         }
                     },
                     {
-                        "url": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=GaxeMkT4mFYNv-HTeiRo5O6ngrEzRZABlL5wObqfmwk&s=1728455574&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "url": "https://yhqd4yg264.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=sBdKmLNrCBjRfmP7PFWxrdo2y6F1mE_UVvZ7TRNW-0M&s=1728477868&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "quality": "StreamWish - 480p",
-                        "videoUrl": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=GaxeMkT4mFYNv-HTeiRo5O6ngrEzRZABlL5wObqfmwk&s=1728455574&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "videoUrl": "https://yhqd4yg264.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=sBdKmLNrCBjRfmP7PFWxrdo2y6F1mE_UVvZ7TRNW-0M&s=1728477868&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -470,7 +470,7 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=f1jE_2_jTQcb5Ia7sw8pLg&expires=1728462772"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=7IAXOD_3VfTL6NyTdCApCg&expires=1728485067"
                         }
                     },
                     {
@@ -481,15 +481,6 @@
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
                             "Referer": "https://s3taku.com/abpl1245?id=MjI3NTA1&title=Sasayaku+You+ni+Koi+wo+Utau+Episode+10"
-                        }
-                    },
-                    {
-                        "url": "https://dood.wf/e/yi9yodwie2q0",
-                        "quality": "Doodstream mirror",
-                        "videoUrl": "https://y577uags.cloudatacdn.com/u5kjwgwi3hd3sdgge636gly7cguidaao2cok4jzjulvbg3r5oanl3apc3jaq/s20tyqju63~xVKO1vB0dj?token=mby99ipecnbnuq9vzu918p8m&expiry=1728455575732",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://dood.wf/"
                         }
                     }
                 ],
