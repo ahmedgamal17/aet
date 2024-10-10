@@ -117,6 +117,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/trillion-game/",
+                                "title": "Trillion Game",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Trillion-Game-66fee05e74c4c.jpg"
+                            },
+                            {
+                                "url": "/anime/sayounara-ryuusei-konnichiwa-jinsei/",
+                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Sayounara-Ryuusei-Konnichiwa-Jinsei-66fedac6b78ba.jpg"
+                            },
+                            {
+                                "url": "/anime/mecha-ude-tv/",
+                                "title": "Mecha-ude (TV)",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Mecha-ude-TV--66fed6fe521ff.jpg"
+                            },
+                            {
+                                "url": "/anime/dandadan/",
+                                "title": "Dandadan",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Dandadan-66fecd9ecdf8d.jpg"
+                            },
+                            {
+                                "url": "/anime/kekkon-suru-tte-hontou-desu-ka/",
+                                "title": "Kekkon suru tte, Hontou desu ka",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Kekkon-suru-tte-Hontou-desu-ka-66fec43df02a9.jpg"
+                            },
+                            {
                                 "url": "/anime/kamierabi-2nd-season/",
                                 "title": "Kamierabi 2nd Season",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Kamierabi-2nd-Season-66fe7decd389e.jpg"
@@ -290,31 +315,6 @@
                                 "url": "/anime/houkago-shounen-hanako-kun/",
                                 "title": "Houkago Shounen Hanako-kun",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Houkago-Shounen-Hanako-kun-6525c9f916ad7.jpg"
-                            },
-                            {
-                                "url": "/anime/seirei-gensouki-2/",
-                                "title": "Seirei Gensouki 2",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Seirei-Gensouki-2-670412147a819.jpg"
-                            },
-                            {
-                                "url": "/anime/natsume-yuujinchou-shichi/",
-                                "title": "Natsume Yuujinchou Shichi",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Natsume-Yuujinchou-Shichi-67041212bb518.jpg"
-                            },
-                            {
-                                "url": "/anime/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru/",
-                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Saikyou-no-Shienshoku-Wajutsushi-de-Aru-Ore-wa-Sekai-Saikyou-Clan-wo-Shitagaeru-66faae51b8119.jpg"
-                            },
-                            {
-                                "url": "/anime/raise-wa-tanin-ga-ii/",
-                                "title": "Raise wa Tanin ga Ii",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Raise-wa-Tanin-ga-Ii-6703fc41bf6a6.jpg"
-                            },
-                            {
-                                "url": "/anime/hoshifuru-oukoku-no-nina/",
-                                "title": "Hoshifuru Oukoku no Nina",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Hoshifuru-Oukoku-no-Nina-6703f798928d0.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -433,27 +433,27 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a3.mp4upload.com:183/d/xsxuleujz3b4quuop6re2pkocakinbt3xed4ey72iu2xp47yydjhexmvq2oyy7etsf3rizjp/video.mp4",
+                        "url": "https://a3.mp4upload.com:183/d/xsxuleujz3b4quuop6re2pkocakinbt3xed4ey72iu2xp4ls624mzd6mhwojydpqm4el2ath/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxuleujz3b4quuop6re2pkocakinbt3xed4ey72iu2xp47yydjhexmvq2oyy7etsf3rizjp/video.mp4",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxuleujz3b4quuop6re2pkocakinbt3xed4ey72iu2xp4ls624mzd6mhwojydpqm4el2ath/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://a1.mp4upload.com:183/d/x2xu5eujz3b4quuop6reqp2wilecm6wxpo67plt6qdtck5lcpcmxuttnpfc25vn2xqrbbg5o/video.mp4",
+                        "url": "https://a1.mp4upload.com:183/d/x2xu5eujz3b4quuop6reqp2wilecm6wxpo67plt6qdtck57ij3yedhjys4qdvodwiwbri63m/video.mp4",
                         "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xu5eujz3b4quuop6reqp2wilecm6wxpo67plt6qdtck5lcpcmxuttnpfc25vn2xqrbbg5o/video.mp4",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xu5eujz3b4quuop6reqp2wilecm6wxpo67plt6qdtck57ij3yedhjys4qdvodwiwbri63m/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://a4.mp4upload.com:183/d/xkxuxeujz3b4quuop6regikdiihegt4mztunbjqcy4cpkt7pkbo2jr5zjbqm3uqvrm7tym3q/video.mp4",
+                        "url": "https://a4.mp4upload.com:183/d/xkxuxeujz3b4quuop6regikdiihegt4mztunbjqcy4cpktlfmy2gao2q7g3catmdufkp5zyk/video.mp4",
                         "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxuxeujz3b4quuop6regikdiihegt4mztunbjqcy4cpkt7pkbo2jr5zjbqm3uqvrm7tym3q/video.mp4",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxuxeujz3b4quuop6regikdiihegt4mztunbjqcy4cpktlfmy2gao2q7g3catmdufkp5zyk/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
