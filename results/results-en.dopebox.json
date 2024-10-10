@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/watch-haunt-season-online-hd-115234",
+                                "title": "Haunt Season",
+                                "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/be/39/be3949dee54e48eafe11f2d4e3884cb0/be3949dee54e48eafe11f2d4e3884cb0.jpg"
+                            },
+                            {
                                 "url": "/movie/watch-porcelain-online-hd-115213",
                                 "title": "Porcelain",
                                 "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/9f/06/9f060964aa1eaf78a203f67d021826bf/9f060964aa1eaf78a203f67d021826bf.jpg"
@@ -160,11 +165,6 @@
                                 "url": "/movie/watch-invoking-yell-online-hd-115048",
                                 "title": "Invoking Yell",
                                 "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/f0/7b/f07b8ea3ee3dcee9706434bc0f2f768a/f07b8ea3ee3dcee9706434bc0f2f768a.jpg"
-                            },
-                            {
-                                "url": "/movie/watch-finding-love-in-saint-lucia-online-hd-115045",
-                                "title": "Finding Love in Saint Lucia",
-                                "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/78/2c/782c7e9b58f384203812387c40ec4e21/782c7e9b58f384203812387c40ec4e21.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -474,14 +474,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/watch-porcelain-online-hd-115213",
-                    "title": "Porcelain",
-                    "author": "LAHorror.com, LAHorror.com",
-                    "description": " A woman returns to her childhood home following her father's death, and begins to remember the horrors of her past.",
-                    "genre": "Drama, Horror",
+                    "url": "/movie/watch-haunt-season-online-hd-115234",
+                    "title": "Haunt Season",
+                    "author": "First Fright, Happy Dance Productions",
+                    "description": " A masked maniac targets cast members at a suburban Halloween haunt attraction, turning their staged injuries into gruesome real-life horrors. As the terror escalates, the lines between performance and reality blur.",
+                    "genre": "Horror, Comedy, Thriller",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/9f/06/9f060964aa1eaf78a203f67d021826bf/9f060964aa1eaf78a203f67d021826bf.jpg",
+                    "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/be/39/be3949dee54e48eafe11f2d4e3884cb0/be3949dee54e48eafe11f2d4e3884cb0.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -489,8 +489,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ajax/movie/episodes/115213",
-                        "name": "Porcelain",
+                        "url": "/ajax/movie/episodes/115234",
+                        "name": "Haunt Season",
                         "episode_number": 1.0
                     }
                 ],

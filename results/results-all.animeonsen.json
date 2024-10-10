@@ -3,24 +3,395 @@
         "name": "AnimeOnsen (ALL)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "vY4PCYnJrxkZ1ZUX",
+                                "title": "Yeosin Gangnim",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/vY4PCYnJrxkZ1ZUX"
+                            },
+                            {
+                                "url": "9vHZuxEBCr6apvoz",
+                                "title": "Sengoku Youko: Senma Konton-hen",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/9vHZuxEBCr6apvoz"
+                            },
+                            {
+                                "url": "uCX0Ko4rhXBfmv2J",
+                                "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/uCX0Ko4rhXBfmv2J"
+                            },
+                            {
+                                "url": "HOSGSGiL9LnjUC5T",
+                                "title": "Acro Trip",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/HOSGSGiL9LnjUC5T"
+                            },
+                            {
+                                "url": "2ngTGms0Hbzaehn5",
+                                "title": "Tasuuketsu",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/2ngTGms0Hbzaehn5"
+                            },
+                            {
+                                "url": "sztKIP04ZNwCU0fx",
+                                "title": "Amagami-san Chi no Enmusubi",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/sztKIP04ZNwCU0fx"
+                            },
+                            {
+                                "url": "jSDxIokWWrXGIjfP",
+                                "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/jSDxIokWWrXGIjfP"
+                            },
+                            {
+                                "url": "x8q6jxBRTq8OdBnE",
+                                "title": "Youkai Gakkou no Sensei Hajimemashita!",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/x8q6jxBRTq8OdBnE"
+                            },
+                            {
+                                "url": "fsAVNttXllVPtKR5",
+                                "title": "Raise wa Tanin ga Ii",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/fsAVNttXllVPtKR5"
+                            },
+                            {
+                                "url": "uqxVGypeytVqr5hR",
+                                "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/uqxVGypeytVqr5hR"
+                            },
+                            {
+                                "url": "QY4EoWIpOfzi8k94",
+                                "title": "Hoshifuru Oukoku no Nina",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/QY4EoWIpOfzi8k94"
+                            },
+                            {
+                                "url": "oTnW7ZwxBrL3Euh3",
+                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/oTnW7ZwxBrL3Euh3"
+                            },
+                            {
+                                "url": "60uVFegPRvbknEpB",
+                                "title": "Kami no Tou: Koubou-sen",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/60uVFegPRvbknEpB"
+                            },
+                            {
+                                "url": "IbAhbaQgxEX9BgJV",
+                                "title": "MF Ghost 2nd Season",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/IbAhbaQgxEX9BgJV"
+                            },
+                            {
+                                "url": "rR9wYrHTrPuF4cI8",
+                                "title": "Ranma ½ (2024)",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/rR9wYrHTrPuF4cI8"
+                            },
+                            {
+                                "url": "faUXzot4CegXCSVr",
+                                "title": "Tsuma, Shougakusei ni Naru.",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/faUXzot4CegXCSVr"
+                            },
+                            {
+                                "url": "60HvKUfEKQUnwgg8",
+                                "title": "Chi.: Chikyuu no Undou ni Tsuite",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/60HvKUfEKQUnwgg8"
+                            },
+                            {
+                                "url": "NyECsm2kL7WczZTQ",
+                                "title": "Uzumaki",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/NyECsm2kL7WczZTQ"
+                            },
+                            {
+                                "url": "v8FixWHfgOlTwwx1",
+                                "title": "Nageki no Bourei wa Intai shitai",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/v8FixWHfgOlTwwx1"
+                            },
+                            {
+                                "url": "0rW0wUurpCtpzoYn",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/0rW0wUurpCtpzoYn"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "iIp5feNrFjxu6iAN",
+                                "title": "Shinkalion: Change the World",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/iIp5feNrFjxu6iAN"
+                            },
+                            {
+                                "url": "z9CKrRh3tf6SwaBT",
+                                "title": "Dr. Stone: New World",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/z9CKrRh3tf6SwaBT"
+                            },
+                            {
+                                "url": "qy21gYwDfjnuZRoi",
+                                "title": "Seiken Tsukai no World Break",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/qy21gYwDfjnuZRoi"
+                            },
+                            {
+                                "url": "qsihQTLmeJxip5FD",
+                                "title": "Dr. Stone: New World Part 2",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/qsihQTLmeJxip5FD"
+                            },
+                            {
+                                "url": "rEd44yQDYfip4AuO",
+                                "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/rEd44yQDYfip4AuO"
+                            },
+                            {
+                                "url": "GupyyUFj7ZHS5ave",
+                                "title": "Isekai wa Smartphone to Tomo ni.",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/GupyyUFj7ZHS5ave"
+                            },
+                            {
+                                "url": "K0g44NREpwuYQqRC",
+                                "title": "Koi wa Sekai Seifuku no Ato de",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/K0g44NREpwuYQqRC"
+                            },
+                            {
+                                "url": "hbPlCAkNpSmOj7u9",
+                                "title": "Isekai Yakkyoku",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/hbPlCAkNpSmOj7u9"
+                            },
+                            {
+                                "url": "4djMGNwGmjaoPPg3",
+                                "title": "Isekai Ojisan",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/4djMGNwGmjaoPPg3"
+                            },
+                            {
+                                "url": "PmjLZJ2vBTSkynG1",
+                                "title": "Isekai Shokudou",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/PmjLZJ2vBTSkynG1"
+                            },
+                            {
+                                "url": "X5FSLBPPnmvWeoSZ",
+                                "title": "Shuumatsu Train Doko e Iku?",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/X5FSLBPPnmvWeoSZ"
+                            },
+                            {
+                                "url": "4SPAFAU0ZPudmg0Q",
+                                "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/4SPAFAU0ZPudmg0Q"
+                            },
+                            {
+                                "url": "qIUQJP74sGWC1ZCU",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/qIUQJP74sGWC1ZCU"
+                            },
+                            {
+                                "url": "WPZ0v4Jak06SntuC",
+                                "title": "Isekai Meikyuu de Harem wo",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/WPZ0v4Jak06SntuC"
+                            },
+                            {
+                                "url": "9wONy67NCtwO0kh0",
+                                "title": "Isekai Nonbiri Nouka",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/9wONy67NCtwO0kh0"
+                            },
+                            {
+                                "url": "0w8kKINm3XK8soki",
+                                "title": "Isekai wa Smartphone to Tomo ni. 2",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/0w8kKINm3XK8soki"
+                            },
+                            {
+                                "url": "FIpom48nByv5gZDT",
+                                "title": "Isekai Shokudou 2",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/FIpom48nByv5gZDT"
+                            },
+                            {
+                                "url": "leuVVArR5TeUXOwL",
+                                "title": "Kono Sekai wa Fukanzen Sugiru",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/leuVVArR5TeUXOwL"
+                            },
+                            {
+                                "url": "zypxCqdvAF2h9cfF",
+                                "title": "Isekai Shikkaku",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/zypxCqdvAF2h9cfF"
+                            },
+                            {
+                                "url": "EffawgfZD4dPAT57",
+                                "title": "Hitoribocchi no Isekai Kouryaku",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/EffawgfZD4dPAT57"
+                            },
+                            {
+                                "url": "cZJS9RJcBQCF80aM",
+                                "title": "Saikyou Onmyouji no Isekai Tenseiki",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/cZJS9RJcBQCF80aM"
+                            },
+                            {
+                                "url": "HwwyNJBQqN6Rb76K",
+                                "title": "Hyouken no Majutsushi ga Sekai wo Suberu",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/HwwyNJBQqN6Rb76K"
+                            },
+                            {
+                                "url": "9ICmpPRkFGIWtcic",
+                                "title": "Kaminaki Sekai no Kamisama Katsudou",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/9ICmpPRkFGIWtcic"
+                            },
+                            {
+                                "url": "TJxrzUWsXpG4wRJ8",
+                                "title": "Isekai Shoukan wa Nidome desu",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/TJxrzUWsXpG4wRJ8"
+                            },
+                            {
+                                "url": "f0XiPtXX1spMwYPw",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/f0XiPtXX1spMwYPw"
+                            },
+                            {
+                                "url": "VW55WXj2LTbSx9nl",
+                                "title": "Tondemo Skill de Isekai Hourou Meshi",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/VW55WXj2LTbSx9nl"
+                            },
+                            {
+                                "url": "CVchub0m900eo3xj",
+                                "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/CVchub0m900eo3xj"
+                            },
+                            {
+                                "url": "oTnW7ZwxBrL3Euh3",
+                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/oTnW7ZwxBrL3Euh3"
+                            },
+                            {
+                                "url": "RzTPy565DrBoBDks",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/RzTPy565DrBoBDks"
+                            },
+                            {
+                                "url": "ygX1zsIn11Tr1Ut5",
+                                "title": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/ygX1zsIn11Tr1Ut5"
+                            },
+                            {
+                                "url": "WS5aVAggFGwvnT2b",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/WS5aVAggFGwvnT2b"
+                            },
+                            {
+                                "url": "c7DemUc5yh74jdx2",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/c7DemUc5yh74jdx2"
+                            },
+                            {
+                                "url": "mduUJTW14FChRJTP",
+                                "title": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/mduUJTW14FChRJTP"
+                            },
+                            {
+                                "url": "qS2NCdg4TZDNzZzy",
+                                "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/qS2NCdg4TZDNzZzy"
+                            },
+                            {
+                                "url": "ujn3LXCZrOeQXyWv",
+                                "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/ujn3LXCZrOeQXyWv"
+                            },
+                            {
+                                "url": "1cLx4qkIYw00WXhd",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/1cLx4qkIYw00WXhd"
+                            },
+                            {
+                                "url": "0rW0wUurpCtpzoYn",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/0rW0wUurpCtpzoYn"
+                            },
+                            {
+                                "url": "yAzqjoCOgb5tEauN",
+                                "title": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/yAzqjoCOgb5tEauN"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "vY4PCYnJrxkZ1ZUX",
+                    "title": "Yeosin Gangnim",
+                    "author": "Studio N, Cocktail Media",
+                    "description": "Tired of being looked down upon for her unattractive appearance, middle schooler Lim Jugyeong turns to the transformative powers of makeup. First, she experiments with BB cream, lip tint, and eyeliner; then she begins using mascara, double eyelid glue, and colored contacts. Before she knows it, Jugyeong goes from being a girl who is bullied for her ugliness to being praised as a high-class beauty. Constantly surrounded by those who adore her goddess-like appearance, Jugyeong can now live a more than comfortable life at school—she simply has to keep her bare face a secret.\n\nHowever, everything changes when the new transfer student, Lee Suho, enters her life. Not only does the handsome Suho become immediately popular among their peers, but in a chance encounter, he also becomes the only classmate of Jugyeong's to see her face beneath the makeup. With her reputation on the line, Jugyeong must do whatever it takes to hide the truth about her appearance from the rest of her classmates. But the more time she spends with Suho, the more Jugyeong finds herself questioning whether one's true beauty lies solely in their looks.\n\n[Written by MAL Rewrite]",
+                    "genre": "Comedy, Drama, Romance",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/vY4PCYnJrxkZ1ZUX",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "vY4PCYnJrxkZ1ZUX/video/10",
+                        "name": "Episode 10: I Will Confess",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "vY4PCYnJrxkZ1ZUX/video/9",
+                        "name": "Episode 9: Game of Truth",
+                        "episode_number": 9.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/vY4PCYnJrxkZ1ZUX/10/manifest.mpd",
+                        "quality": "Default (720p)",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/vY4PCYnJrxkZ1ZUX/10/manifest.mpd",
+                        "headers": {
+                            "user-agent": "Aniyomi/app (mobile)",
+                            "referer": "https://animeonsen.xyz"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/vY4PCYnJrxkZ1ZUX/en-US/10",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/vY4PCYnJrxkZ1ZUX/ru-RU/10",
+                                "lang": "Русский"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/vY4PCYnJrxkZ1ZUX/pt-BR/10",
+                                "lang": "Português (Brasil)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/vY4PCYnJrxkZ1ZUX/it-IT/10",
+                                "lang": "Italiano"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/vY4PCYnJrxkZ1ZUX/fr-FR/10",
+                                "lang": "Français"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/vY4PCYnJrxkZ1ZUX/es-LA/10",
+                                "lang": "Español"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/vY4PCYnJrxkZ1ZUX/es-ES/10",
+                                "lang": "Español (Spain)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/vY4PCYnJrxkZ1ZUX/de-DE/10",
+                                "lang": "Deutsch"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/vY4PCYnJrxkZ1ZUX/ar-ME/10",
+                                "lang": "العربية"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }
