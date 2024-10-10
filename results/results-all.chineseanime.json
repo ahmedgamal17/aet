@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/searching-for-the-immortals/",
+                                "title": "Searching for the Immortals",
+                                "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2024/09/202409211434223443047.jpeg"
+                            },
+                            {
                                 "url": "/anime/throne-of-seal/",
                                 "title": "Throne of Seal",
                                 "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2022/03/THRONE-OF-SEAL.webp"
@@ -210,11 +215,6 @@
                                 "url": "/anime/slayer-of-demons/",
                                 "title": "Slayer of Demons",
                                 "thumbnail_url": "https://i2.wp.com/comicxy.com/wp-content/uploads/2024/10/Slayer-of-Demons.webp"
-                            },
-                            {
-                                "url": "/anime/swallowed-star-season-4/",
-                                "title": "Swallowed Star Season 4",
-                                "thumbnail_url": "https://i2.wp.com/comicxy.com/wp-content/uploads/2023/09/Swallowed-Star-Season-4.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -316,9 +316,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://proxy-005.dc3.dailymotion.com/sec(d9O-X034jjfoltsH_YFgzorx4AaEaUlDVFBeiIC7tFVD3QxcDXCNCD6OcaI5LYv-nI6Yf25_wp-71KpJ25hXj17BPcw9DOYIXifX5dawryxeNxemmqQB6Cspi2M1ywzW)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "url": "https://proxy-005.dc3.dailymotion.com/sec(LPwb8oUjEj7IIY3eIoj0096zO8kNaIDoTyumqIfzmg6KFcP75D888pKFq9nvcLAhEqL2gb7aWtqCkHIH_xppFWH9KMbPdJ7GIPVG3vb_cdr1LPE9SG5sL7J9WESIJaEi)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "quality": "All Subtitle player 2 - 216p",
-                        "videoUrl": "https://proxy-005.dc3.dailymotion.com/sec(d9O-X034jjfoltsH_YFgzorx4AaEaUlDVFBeiIC7tFVD3QxcDXCNCD6OcaI5LYv-nI6Yf25_wp-71KpJ25hXj17BPcw9DOYIXifX5dawryxeNxemmqQB6Cspi2M1ywzW)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "videoUrl": "https://proxy-005.dc3.dailymotion.com/sec(LPwb8oUjEj7IIY3eIoj0096zO8kNaIDoTyumqIfzmg6KFcP75D888pKFq9nvcLAhEqL2gb7aWtqCkHIH_xppFWH9KMbPdJ7GIPVG3vb_cdr1LPE9SG5sL7J9WESIJaEi)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -407,9 +407,9 @@
                         ]
                     },
                     {
-                        "url": "https://proxy-001.dc3.dailymotion.com/sec(d9O-X034jjfoltsH_YFgzorx4AaEaUlDVFBeiIC7tFVD3QxcDXCNCD6OcaI5LYv-nI6Yf25_wp-71KpJ25hXj17BPcw9DOYIXifX5dawryxeNxemmqQB6Cspi2M1ywzW)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "url": "https://proxy-001.dc3.dailymotion.com/sec(LPwb8oUjEj7IIY3eIoj0096zO8kNaIDoTyumqIfzmg6KFcP75D888pKFq9nvcLAhEqL2gb7aWtqCkHIH_xppFWH9KMbPdJ7GIPVG3vb_cdr1LPE9SG5sL7J9WESIJaEi)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "quality": "All Subtitle player 2 - 216p",
-                        "videoUrl": "https://proxy-001.dc3.dailymotion.com/sec(d9O-X034jjfoltsH_YFgzorx4AaEaUlDVFBeiIC7tFVD3QxcDXCNCD6OcaI5LYv-nI6Yf25_wp-71KpJ25hXj17BPcw9DOYIXifX5dawryxeNxemmqQB6Cspi2M1ywzW)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "videoUrl": "https://proxy-001.dc3.dailymotion.com/sec(LPwb8oUjEj7IIY3eIoj0096zO8kNaIDoTyumqIfzmg6KFcP75D888pKFq9nvcLAhEqL2gb7aWtqCkHIH_xppFWH9KMbPdJ7GIPVG3vb_cdr1LPE9SG5sL7J9WESIJaEi)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
