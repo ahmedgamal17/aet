@@ -387,6 +387,11 @@
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/7VQGc2NEAmmvUEDEkRqi7c9E3vu.jpg"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9610?isq=false",
+                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei - Good Bye, Dragon Life",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/vQDlgfCdHKZ4ipQzk86nEC3AwTr.jpg"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/9608?isq=false",
                                 "title": "Mecha-ude (TV) - Mecha-Ude: Mechanical Arms",
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/15gDxxkCaQNuDfgdiMsi9Pe7tMF.jpg"
@@ -410,11 +415,6 @@
                                 "url": "/api/DramaList/Drama/4890?isq=false",
                                 "title": "Throne of Seal - Shen Yin Wangzuo",
                                 "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/nxxyh0x1vp4nydt1724320695662/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9563?isq=false",
-                                "title": "Stage Fighter",
-                                "thumbnail_url": "https://prod-images.viu.com/736437694/a83f191fb12eb90199c7d66fbfadca6b0528b60a?im=Resize,width=1920"
                             }
                         ],
                         "hasNextPage": true
@@ -571,23 +571,23 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "file:///tmp/subs10111608443714803773srt",
+                                "url": "file:///tmp/subs4640969919270007610srt",
                                 "lang": "English"
                             },
                             {
-                                "url": "file:///tmp/subs635511958978674157srt",
+                                "url": "file:///tmp/subs18339515286551225142srt",
                                 "lang": "Khmer"
                             },
                             {
-                                "url": "file:///tmp/subs12347477629733943182srt",
+                                "url": "file:///tmp/subs8602954355682544106srt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "file:///tmp/subs11770399074160616116srt",
+                                "url": "file:///tmp/subs1573747612851026038srt",
                                 "lang": "Indonesia"
                             },
                             {
-                                "url": "file:///tmp/subs16541530221072645742srt",
+                                "url": "file:///tmp/subs17136460935453161173srt",
                                 "lang": "Malay"
                             }
                         ]

@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/24075/Persona_4_the_Golden_Animation",
+                                "title": "Persona 4 the Golden Animation",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/3/63251l.jpg"
+                            },
+                            {
                                 "url": "/anime/10897/Boku_wa_Tomodachi_ga_Sukunai_Yaminabe_wa_Bishoujo_ga_Zannen_na_Nioi",
                                 "title": "Boku wa Tomodachi ga Sukunai: Yaminabe wa Bishoujo ga Zannen na Nioi",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/8/30097l.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/9367/Freezing",
                                 "title": "Freezing",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/10/28535l.jpg"
-                            },
-                            {
-                                "url": "/anime/30415/HighSpeed_Movie_Free_Starting_Days",
-                                "title": "High☆Speed! Movie: Free! Starting Days",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/8/76967l.jpg"
                             }
                         ],
                         "hasNextPage": true
