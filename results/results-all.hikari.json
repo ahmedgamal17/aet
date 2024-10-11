@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/10588/Persona_4_the_Animation",
+                                "title": "Persona 4 the Animation",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/4/29107l.jpg"
+                            },
+                            {
                                 "url": "/anime/16005/Zettai_Karen_Children_The_Unlimited_Hyoubu_Kyousuke",
                                 "title": "Zettai Karen Children: The Unlimited - Hyoubu Kyousuke",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/11/44522l.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/241/Girls_Bravo_First_Season",
                                 "title": "Girls Bravo: First Season",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/12/48027l.jpg"
-                            },
-                            {
-                                "url": "/anime/1571/Ghost_Hunt",
-                                "title": "Ghost Hunt",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/11/73908l.jpg"
                             }
                         ],
                         "hasNextPage": true
