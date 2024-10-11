@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/watch-caddo-lake-online-hd-115246",
+                                "title": "Caddo Lake",
+                                "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/f7/cb/f7cb7112b6ca270872dd4b6f6023af3f/f7cb7112b6ca270872dd4b6f6023af3f.jpg"
+                            },
+                            {
+                                "url": "/movie/watch-breaking-the-silence-the-maria-soledad-case-online-hd-115243",
+                                "title": "Breaking the Silence: The Maria Soledad Case",
+                                "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/37/8c/378c683e1e3853e2015505b395f27774/378c683e1e3853e2015505b395f27774.jpg"
+                            },
+                            {
+                                "url": "/movie/watch-that-kind-of-love-online-hd-115240",
+                                "title": "That Kind of Love",
+                                "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/d4/18/d418fa9d68cd7022465e79b9fe983377/d418fa9d68cd7022465e79b9fe983377.jpg"
+                            },
+                            {
                                 "url": "/movie/watch-the-dew-point-online-hd-115237",
                                 "title": "The Dew Point",
                                 "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/b9/65/b965a51cd396b4af12581f6fe0268c47/b965a51cd396b4af12581f6fe0268c47.jpg"
@@ -150,21 +165,6 @@
                                 "url": "/movie/watch-autumn-at-apple-hill-online-hd-115078",
                                 "title": "Autumn at Apple Hill",
                                 "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/49/20/492025d5e5c20658736813fa8dfe59a3/492025d5e5c20658736813fa8dfe59a3.jpg"
-                            },
-                            {
-                                "url": "/movie/watch-the-third-war-online-hd-115075",
-                                "title": "The Third War",
-                                "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/d0/aa/d0aad063f92800abe943e5d58fe9b4c3/d0aad063f92800abe943e5d58fe9b4c3.jpg"
-                            },
-                            {
-                                "url": "/movie/watch-baghdad-messi-online-hd-115072",
-                                "title": "Baghdad Messi",
-                                "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/15/cb/15cbcba8d9f1385788e2aefc6aa24402/15cbcba8d9f1385788e2aefc6aa24402.jpg"
-                            },
-                            {
-                                "url": "/movie/watch-milk-online-hd-115069",
-                                "title": "Milk",
-                                "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/47/80/4780a31a92620afbf1be6aef02b83c72/4780a31a92620afbf1be6aef02b83c72.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -474,14 +474,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/watch-the-dew-point-online-hd-115237",
-                    "title": "The Dew Point",
-                    "author": "Fandango, Rai Cinema, RAI Cinema",
-                    "description": " 25-year-old carouser Carlo is sentenced to one year of community service after crashing his car while drunk and on cocaine. He has to serve his sentence at the Villa Bianca nursing home, along with other non-violent felons. He initially lives it as yet another nuisance, but spending time with Villa Bianca's residents — especially Dino, a cultured and sarcastic 80-year-old who has attempted suicide several times — will make Carlo change his outlook on the world and on life itself.",
-                    "genre": "Drama",
+                    "url": "/movie/watch-caddo-lake-online-hd-115246",
+                    "title": "Caddo Lake",
+                    "author": "Blinding Edge Pictures, K Period Media, New Line Cinema",
+                    "description": " When an 8-year-old girl mysteriously vanishes on Caddo Lake, a series of past deaths and disappearances begin to link together, forever altering a broken family’s history.",
+                    "genre": "Mystery, Thriller",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/b9/65/b965a51cd396b4af12581f6fe0268c47/b965a51cd396b4af12581f6fe0268c47.jpg",
+                    "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/f7/cb/f7cb7112b6ca270872dd4b6f6023af3f/f7cb7112b6ca270872dd4b6f6023af3f.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -489,8 +489,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ajax/movie/episodes/115237",
-                        "name": "The Dew Point",
+                        "url": "/ajax/movie/episodes/115246",
+                        "name": "Caddo Lake",
                         "episode_number": 1.0
                     }
                 ],
