@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5712",
+                                "title": "Rising Impact Season 2",
+                                "artist": "Netflix",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/daa16a743df0f39b041693e9c521564db6e94287873a293b24aa7834c1d27019.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5612",
+                                "title": "Cardfight!! Vanguard: Divinez Season 2",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/633caa5cf5113b038346ad7a085eaf2f54769ecdb492d77a1e7e2f4ab6a07065.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5697",
+                                "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2187185aa97adfe50b093685eedc6fa62d45bc7a406ab524e4239a63605a532f.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5706",
                                 "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
                                 "artist": "SubsPlease",
@@ -59,24 +77,6 @@
                                 "title": "Rick and Morty: The Anime",
                                 "artist": "Amazon",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/537a938acb498fcf5c638ac11d12e121b26e07955051c50adf7fd95c460e5907.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5720",
-                                "title": "Ji Yao Lu: Qicheng Pian",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/4942f9888c7a96a6a8ca69f0ee3cc7adfd86f1f7268090b6d6dfc105ec3e5370.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5669",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/caac232f61488beafe79510558eeed9ba2fba36b83e8667aebad07e285994b87.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5698",
-                                "title": "Trillion Game",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c4327de5bbce39a7442be8d2a1f0c4cc4253be3c74cabe96327c025f424adf07.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5712",
+                                "title": "Rising Impact Season 2",
+                                "artist": "Netflix",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/daa16a743df0f39b041693e9c521564db6e94287873a293b24aa7834c1d27019.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5612",
+                                "title": "Cardfight!! Vanguard: Divinez Season 2",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/633caa5cf5113b038346ad7a085eaf2f54769ecdb492d77a1e7e2f4ab6a07065.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5697",
+                                "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2187185aa97adfe50b093685eedc6fa62d45bc7a406ab524e4239a63605a532f.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5706",
                                 "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
                                 "artist": "SubsPlease",
@@ -141,24 +159,6 @@
                                 "title": "Rick and Morty: The Anime",
                                 "artist": "Amazon",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/537a938acb498fcf5c638ac11d12e121b26e07955051c50adf7fd95c460e5907.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5720",
-                                "title": "Ji Yao Lu: Qicheng Pian",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/4942f9888c7a96a6a8ca69f0ee3cc7adfd86f1f7268090b6d6dfc105ec3e5370.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5669",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/caac232f61488beafe79510558eeed9ba2fba36b83e8667aebad07e285994b87.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5698",
-                                "title": "Trillion Game",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c4327de5bbce39a7442be8d2a1f0c4cc4253be3c74cabe96327c025f424adf07.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5706",
-                    "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
-                    "author": "Ashi Productions",
-                    "description": "College student Tokiwa gets invited to a mixer by his female classmate Suo. But when he arrives with his friends, they're greeted by three dazzlingly handsome men?! (Source: Square Enix)\n\nSynonyms: The Story of How I Went to a Mixer and There Were No Women There",
-                    "genre": "Comedy, Romance",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/dc6ff50b737a1f3dc8451f9b53ec4ee90e0e12f09ae2935dd04c9aac16a1567c.jpg",
+                    "url": "/anime/?anime_id=5712",
+                    "title": "Rising Impact Season 2",
+                    "author": "Lay-duce",
+                    "description": "Second season of Rising Impact.",
+                    "genre": "Sports",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/78b1fba8b83dd350006c8ed56408176007cd53b08b79959d84077b026fbbc2f1.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/18ac8ebb-1098-c791-c74d-47ca400856d6/ba4703649248663123d59364ae912b832772db2d840c94feb94c2c92a86bc631",
-                        "name": "Episode 2",
-                        "date_upload": 1728670086000,
-                        "episode_number": 2.0
+                        "url": "/play/da8cc99e-e374-906f-2b83-ac6d8d0a994c/54e2f66895e3c2b81bf3e88d39952d1daa1c21b527837d787c9358ad0f77200b",
+                        "name": "Episode 14",
+                        "date_upload": 1728695768000,
+                        "episode_number": 14.0
                     },
                     {
-                        "url": "/play/18ac8ebb-1098-c791-c74d-47ca400856d6/bd526ab45d47c0bbbd286e94aa6b49ccfad6fed0fb884fef54d208a109078e40",
-                        "name": "Episode 1",
-                        "date_upload": 1728066155000,
-                        "episode_number": 1.0
+                        "url": "/play/da8cc99e-e374-906f-2b83-ac6d8d0a994c/a17b766ff0fcf94f954183271938eff36284c0332f7eb749a0428a19cd42122a",
+                        "name": "Episode 13",
+                        "date_upload": 1728695748000,
+                        "episode_number": 13.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,34 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/3e2ad2a25791ad936ea9eec431286c20577cf41231e916d8481568dd55e44f76?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_02_1080p_SubsPlease.mp4&token=gQuAtFfttBqGxt_0IoZ_1A&expires=1728685838",
-                        "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/3e2ad2a25791ad936ea9eec431286c20577cf41231e916d8481568dd55e44f76?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_02_1080p_SubsPlease.mp4&token=gQuAtFfttBqGxt_0IoZ_1A&expires=1728685838"
+                        "url": "https://eu-07.files.nextcdn.org/get/07/15/765544cede0adc19e53447abeb8085b6562055345c968b6260f59d99589b3567?file=AnimePahe_Rising_Impact_Season_2_-_14_1080p_Netflix.mp4&token=Xblp0XoI3b_w4odbSuVk3A&expires=1728711832",
+                        "quality": "Netflix · 1080p",
+                        "videoUrl": "https://eu-07.files.nextcdn.org/get/07/15/765544cede0adc19e53447abeb8085b6562055345c968b6260f59d99589b3567?file=AnimePahe_Rising_Impact_Season_2_-_14_1080p_Netflix.mp4&token=Xblp0XoI3b_w4odbSuVk3A&expires=1728711832"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/190f7f226383c189359a2d99340aef3393bd016418eafd883bef69a678a3d1fd?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_02_720p_SubsPlease.mp4&token=lw3VmMmFaRw9BTXffHl3gQ&expires=1728685836",
-                        "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/190f7f226383c189359a2d99340aef3393bd016418eafd883bef69a678a3d1fd?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_02_720p_SubsPlease.mp4&token=lw3VmMmFaRw9BTXffHl3gQ&expires=1728685836"
+                        "url": "https://eu-07.files.nextcdn.org/get/07/15/4dbe3a8ea650dc820d0fb2246800e30bb9767c8ee31581ade6640bee1e303974?file=AnimePahe_Rising_Impact_Season_2_Eng_Dub_-_14_1080p_Netflix.mp4&token=S78ejTG2M6-43QPI7Jx4Ug&expires=1728711836",
+                        "quality": "Netflix · 1080p eng",
+                        "videoUrl": "https://eu-07.files.nextcdn.org/get/07/15/4dbe3a8ea650dc820d0fb2246800e30bb9767c8ee31581ade6640bee1e303974?file=AnimePahe_Rising_Impact_Season_2_Eng_Dub_-_14_1080p_Netflix.mp4&token=S78ejTG2M6-43QPI7Jx4Ug&expires=1728711836"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/ecdb800731b6f1c05a61e7f0f10343cae0f37e35c5445cc11b686e3d9defa8cc?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_02_360p_SubsPlease.mp4&token=lB7gqgnQ9CTe19aRbau6wQ&expires=1728685834",
-                        "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/ecdb800731b6f1c05a61e7f0f10343cae0f37e35c5445cc11b686e3d9defa8cc?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_02_360p_SubsPlease.mp4&token=lB7gqgnQ9CTe19aRbau6wQ&expires=1728685834"
+                        "url": "https://eu-07.files.nextcdn.org/get/07/15/094ac20a7fdfcda67fbb2ee4905da8d5acf56817b8ece09bb01f058edad7db62?file=AnimePahe_Rising_Impact_Season_2_-_14_720p_Netflix.mp4&token=xvPC67eZgPQg4ixhR3HBNw&expires=1728711831",
+                        "quality": "Netflix · 720p",
+                        "videoUrl": "https://eu-07.files.nextcdn.org/get/07/15/094ac20a7fdfcda67fbb2ee4905da8d5acf56817b8ece09bb01f058edad7db62?file=AnimePahe_Rising_Impact_Season_2_-_14_720p_Netflix.mp4&token=xvPC67eZgPQg4ixhR3HBNw&expires=1728711831"
+                    },
+                    {
+                        "url": "https://eu-07.files.nextcdn.org/get/07/15/56ede49f7689e20a235e37aea3ef2545f3c3c8475374ef74114be4de7887f6fd?file=AnimePahe_Rising_Impact_Season_2_-_14_360p_Netflix.mp4&token=LCLr2F03FEb1TXioej-sFQ&expires=1728711830",
+                        "quality": "Netflix · 360p",
+                        "videoUrl": "https://eu-07.files.nextcdn.org/get/07/15/56ede49f7689e20a235e37aea3ef2545f3c3c8475374ef74114be4de7887f6fd?file=AnimePahe_Rising_Impact_Season_2_-_14_360p_Netflix.mp4&token=LCLr2F03FEb1TXioej-sFQ&expires=1728711830"
+                    },
+                    {
+                        "url": "https://eu-07.files.nextcdn.org/get/07/15/e32cb0924b618fc6e1b9ae1ffca4f91f328b15be358fa41dd3da50efbf32f42f?file=AnimePahe_Rising_Impact_Season_2_Eng_Dub_-_14_720p_Netflix.mp4&token=ZHbLEPh1-0gUU8rwtGSVgw&expires=1728711834",
+                        "quality": "Netflix · 720p eng",
+                        "videoUrl": "https://eu-07.files.nextcdn.org/get/07/15/e32cb0924b618fc6e1b9ae1ffca4f91f328b15be358fa41dd3da50efbf32f42f?file=AnimePahe_Rising_Impact_Season_2_Eng_Dub_-_14_720p_Netflix.mp4&token=ZHbLEPh1-0gUU8rwtGSVgw&expires=1728711834"
+                    },
+                    {
+                        "url": "https://eu-07.files.nextcdn.org/get/07/15/ccb288338207c1796a9c2ac8b637a4069cc722ab53e880710a24d7ad677d2569?file=AnimePahe_Rising_Impact_Season_2_Eng_Dub_-_14_360p_Netflix.mp4&token=lbPGA2vTuvm6GWKSYwZOEQ&expires=1728711833",
+                        "quality": "Netflix · 360p eng",
+                        "videoUrl": "https://eu-07.files.nextcdn.org/get/07/15/ccb288338207c1796a9c2ac8b637a4069cc722ab53e880710a24d7ad677d2569?file=AnimePahe_Rising_Impact_Season_2_Eng_Dub_-_14_360p_Netflix.mp4&token=lbPGA2vTuvm6GWKSYwZOEQ&expires=1728711833"
                     }
                 ],
                 "passed": true

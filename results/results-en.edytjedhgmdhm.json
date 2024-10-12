@@ -3,28 +3,88 @@
         "name": "edytjedhgmdhm (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/asiandrama/",
+                                "title": "asiandrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/kdrama/",
+                                "title": "kdrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/misc/",
+                                "title": "misc/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/movies/",
+                                "title": "movies/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/README/",
+                                "title": "README/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/tvs/",
+                                "title": "tvs/",
+                                "thumbnail_url": ""
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
+                    "url": "/asiandrama/",
+                    "title": "asiandrama/",
+                    "thumbnail_url": ""
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/asiandrama/All.the.Way.to.the.Sun.S01.2023.1080p.LineTV..WEB-DL.H264.AAC-ANDY/All.the.Way.to.the.Sun.S01E36.2023.1080p.LineTV..WEB-DL.H264.AAC-ANDY.mp4",
+                        "name": "All.the.Way.to.the.Sun.S01E36.2023.1080p.LineTV..WEB-DL.H264.AAC-ANDY",
+                        "date_upload": -1,
+                        "episode_number": 36.0,
+                        "scanlator": "1.83 GB • /"
+                    },
+                    {
+                        "url": "/asiandrama/All.the.Way.to.the.Sun.S01.2023.1080p.LineTV..WEB-DL.H264.AAC-ANDY/All.the.Way.to.the.Sun.S01E35.2023.1080p.LineTV..WEB-DL.H264.AAC-ANDY.mp4",
+                        "name": "All.the.Way.to.the.Sun.S01E35.2023.1080p.LineTV..WEB-DL.H264.AAC-ANDY",
+                        "date_upload": -1,
+                        "episode_number": 35.0,
+                        "scanlator": "1.71 GB • /"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
+                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/All.the.Way.to.the.Sun.S01.2023.1080p.LineTV..WEB-DL.H264.AAC-ANDY/All.the.Way.to.the.Sun.S01E36.2023.1080p.LineTV..WEB-DL.H264.AAC-ANDY.mp4",
                         "quality": "Video",
-                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev"
+                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/All.the.Way.to.the.Sun.S01.2023.1080p.LineTV..WEB-DL.H264.AAC-ANDY/All.the.Way.to.the.Sun.S01E36.2023.1080p.LineTV..WEB-DL.H264.AAC-ANDY.mp4"
                     }
                 ],
                 "passed": true

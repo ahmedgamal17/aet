@@ -392,6 +392,16 @@
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/jd0UJBrusmiNqLLP7Jxk1mmCWHS.jpg"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9679?isq=false",
+                                "title": "Hamidashi Creative",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/4ZHs5z0yA2jBZTBJwQ57vpp7cDw.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9678?isq=false",
+                                "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi. - The Stories of Girls Who Couldn't Be Magicians",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/q776nNDyVQ4AlibFW60k1Q4PyQU.jpg"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/9677?isq=false",
                                 "title": "Goukon ni Ittara Onna ga Inakatta Hanashi - How I Attended an All-Guy's Mixer",
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/53Zyazr2j7VXDljRUQMqiPu9hFr.jpg"
@@ -405,16 +415,6 @@
                                 "url": "/api/DramaList/Drama/9538?isq=false",
                                 "title": "Agatha All Along",
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/3ViiCcM5GNSUkbjNFTw4hB4wxuz.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9594?isq=false",
-                                "title": "Eccentric Romance",
-                                "thumbnail_url": "https://img.gagaoolala.com/media/93827478-678637-lg.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9531?isq=false",
-                                "title": "Love Is a Poison - Doku Koi: Doku mo Sugireba Koi to Naru",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/t9Pia597dvRElFk6gs2UhRHOAKs.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -571,23 +571,23 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "file:///tmp/subs8383420465067520510srt",
+                                "url": "file:///tmp/subs5687450339749920376srt",
                                 "lang": "English"
                             },
                             {
-                                "url": "file:///tmp/subs8334547125535783993srt",
+                                "url": "file:///tmp/subs14987194957617895310srt",
                                 "lang": "Khmer"
                             },
                             {
-                                "url": "file:///tmp/subs6869759062843156493srt",
+                                "url": "file:///tmp/subs15975719863463896114srt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "file:///tmp/subs3689167246060020700srt",
+                                "url": "file:///tmp/subs5250618319022384976srt",
                                 "lang": "Indonesia"
                             },
                             {
-                                "url": "file:///tmp/subs7931914972533100376srt",
+                                "url": "file:///tmp/subs12962174587731139778srt",
                                 "lang": "Malay"
                             }
                         ]
