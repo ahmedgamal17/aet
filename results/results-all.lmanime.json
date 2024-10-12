@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/big-brother/",
+                                "title": "Big Brother",
+                                "thumbnail_url": "https://lmanime.com/wp-content/uploads/2023/08/A-MORTAL.jpg"
+                            },
+                            {
                                 "url": "/peerless-battle-spirit/",
                                 "title": "Peerless Battle Spirit",
                                 "thumbnail_url": "https://lmanime.com/wp-content/uploads/2024/05/006NTbtyly1hp5de5wt4rj30u01hcqdm-768x1365.jpg"
@@ -130,11 +135,6 @@
                                 "url": "/throne-of-seal-temporary/",
                                 "title": "Throne of Seal (Temporary)",
                                 "thumbnail_url": "https://lmanime.com/wp-content/uploads/2024/05/Throne-of-Seal.webp"
-                            },
-                            {
-                                "url": "/big-brother/",
-                                "title": "Big Brother",
-                                "thumbnail_url": "https://lmanime.com/wp-content/uploads/2023/08/A-MORTAL.jpg"
                             },
                             {
                                 "url": "/shadow-of-heaven/",
@@ -319,18 +319,18 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a2.mp4upload.com:183/d/xwxzfm4mz3b4quuoigre2j2sitaedryliwn2ikucqgdeon2tzy7dmvd2uc2zb24tmtulyq3e/video.mp4",
+                        "url": "https://a2.mp4upload.com:183/d/xwxzfm4mz3b4quuoigre2j2sitaedryliwn2ikucqgdfpoieouaesmejiqgdyvpewwlhcmwu/video.mp4",
                         "quality": "(English) - Mp4Upload - 1080p",
-                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxzfm4mz3b4quuoigre2j2sitaedryliwn2ikucqgdeon2tzy7dmvd2uc2zb24tmtulyq3e/video.mp4",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxzfm4mz3b4quuoigre2j2sitaedryliwn2ikucqgdfpoieouaesmejiqgdyvpewwlhcmwu/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://proxy-004.dc3.dailymotion.com/sec(UzH2uD14vhMuZ60JAuwoJaHvMqHGTTrRhOwjdXfBtzuUtii-z03eQIKH5ILaNz7dfnd4MjNhhiTa7gtN2HxjG_nzlrirEESwThDHKSBAK0-wZAkQ-77Pl2mue18AULwG)/video/233/148/550841332_mp4_h264_aac_3.m3u8#cell=core",
+                        "url": "https://proxy-004.dc3.dailymotion.com/sec(mnJVSyBIsE14OrS9qLCBDbkeoiXGICAzMIeXSYHk4vIAXBRVOrqj1rJrpAswBzjvfC_LT4b8VstGzaubIZd4eGkWK0rGDSiyW7VsbbgKqJRNdZloXPP8Rfp7DbPy7nXU)/video/233/148/550841332_mp4_h264_aac_3.m3u8#cell=core",
                         "quality": "Dailymotion (English)288p",
-                        "videoUrl": "https://proxy-004.dc3.dailymotion.com/sec(UzH2uD14vhMuZ60JAuwoJaHvMqHGTTrRhOwjdXfBtzuUtii-z03eQIKH5ILaNz7dfnd4MjNhhiTa7gtN2HxjG_nzlrirEESwThDHKSBAK0-wZAkQ-77Pl2mue18AULwG)/video/233/148/550841332_mp4_h264_aac_3.m3u8#cell=core",
+                        "videoUrl": "https://proxy-004.dc3.dailymotion.com/sec(mnJVSyBIsE14OrS9qLCBDbkeoiXGICAzMIeXSYHk4vIAXBRVOrqj1rJrpAswBzjvfC_LT4b8VstGzaubIZd4eGkWK0rGDSiyW7VsbbgKqJRNdZloXPP8Rfp7DbPy7nXU)/video/233/148/550841332_mp4_h264_aac_3.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -347,9 +347,9 @@
                         ]
                     },
                     {
-                        "url": "https://proxy-001.ix7.dailymotion.com/sec(UzH2uD14vhMuZ60JAuwoJaHvMqHGTTrRhOwjdXfBtzuUtii-z03eQIKH5ILaNz7dfnd4MjNhhiTa7gtN2HxjG_nzlrirEESwThDHKSBAK0-wZAkQ-77Pl2mue18AULwG)/video/233/148/550841332_mp4_h264_aac_3.m3u8#cell=core",
+                        "url": "https://proxy-001.ix7.dailymotion.com/sec(mnJVSyBIsE14OrS9qLCBDbkeoiXGICAzMIeXSYHk4vIAXBRVOrqj1rJrpAswBzjvfC_LT4b8VstGzaubIZd4eGkWK0rGDSiyW7VsbbgKqJRNdZloXPP8Rfp7DbPy7nXU)/video/233/148/550841332_mp4_h264_aac_3.m3u8#cell=core",
                         "quality": "Dailymotion (English)288p",
-                        "videoUrl": "https://proxy-001.ix7.dailymotion.com/sec(UzH2uD14vhMuZ60JAuwoJaHvMqHGTTrRhOwjdXfBtzuUtii-z03eQIKH5ILaNz7dfnd4MjNhhiTa7gtN2HxjG_nzlrirEESwThDHKSBAK0-wZAkQ-77Pl2mue18AULwG)/video/233/148/550841332_mp4_h264_aac_3.m3u8#cell=core",
+                        "videoUrl": "https://proxy-001.ix7.dailymotion.com/sec(mnJVSyBIsE14OrS9qLCBDbkeoiXGICAzMIeXSYHk4vIAXBRVOrqj1rJrpAswBzjvfC_LT4b8VstGzaubIZd4eGkWK0rGDSiyW7VsbbgKqJRNdZloXPP8Rfp7DbPy7nXU)/video/233/148/550841332_mp4_h264_aac_3.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -366,18 +366,18 @@
                         ]
                     },
                     {
-                        "url": "https://a2.mp4upload.com:183/d/xwxzhm4mz3b4quuoigra2ksji4emzclbar4ypher4im3x6inxxcyitx6jqq6pj5vhardosvk/video.mp4",
+                        "url": "https://a2.mp4upload.com:183/d/xwxzhm4mz3b4quuoigra2ksji4emzclbar4ypher4im2w522a33kyrd4evs52xwfrdyhrr5e/video.mp4",
                         "quality": "(العَرَبِيَّة) - Mp4Upload - 1080p",
-                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxzhm4mz3b4quuoigra2ksji4emzclbar4ypher4im3x6inxxcyitx6jqq6pj5vhardosvk/video.mp4",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxzhm4mz3b4quuoigra2ksji4emzclbar4ypher4im2w522a33kyrd4evs52xwfrdyhrr5e/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://proxy-003.ix7.dailymotion.com/sec(3O2X9RLJEQWLBTg4ioDBX8EA04nu2E-Aqy1mucz8llqiNOw6FJfdPJcIEEl4QXO3D_exewkNiDyk-3Z85546_-8pM3nkDuavdHyM6B9DgbOk2ZVJpQGRQMimDVB_97DQ)/video/433/148/550841334_mp4_h264_aac_3.m3u8#cell=core",
+                        "url": "https://proxy-003.ix7.dailymotion.com/sec(sQdA5_qbDeicATcs6Z372y16aXYf8oLqjw8h69daA-EjvmGYrYMxEnqaa14aj8vE5mFjttmDsy4MCEgmJfYVYhNWKDt6vEuc4z1IrctwCmrIRNIS728W9_E_Xi33Wyat)/video/433/148/550841334_mp4_h264_aac_3.m3u8#cell=core",
                         "quality": "Dailymotion (العَرَبِيَّة)288p",
-                        "videoUrl": "https://proxy-003.ix7.dailymotion.com/sec(3O2X9RLJEQWLBTg4ioDBX8EA04nu2E-Aqy1mucz8llqiNOw6FJfdPJcIEEl4QXO3D_exewkNiDyk-3Z85546_-8pM3nkDuavdHyM6B9DgbOk2ZVJpQGRQMimDVB_97DQ)/video/433/148/550841334_mp4_h264_aac_3.m3u8#cell=core",
+                        "videoUrl": "https://proxy-003.ix7.dailymotion.com/sec(sQdA5_qbDeicATcs6Z372y16aXYf8oLqjw8h69daA-EjvmGYrYMxEnqaa14aj8vE5mFjttmDsy4MCEgmJfYVYhNWKDt6vEuc4z1IrctwCmrIRNIS728W9_E_Xi33Wyat)/video/433/148/550841334_mp4_h264_aac_3.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -394,9 +394,9 @@
                         ]
                     },
                     {
-                        "url": "https://proxy-001.dc3.dailymotion.com/sec(3O2X9RLJEQWLBTg4ioDBX8EA04nu2E-Aqy1mucz8llqiNOw6FJfdPJcIEEl4QXO3D_exewkNiDyk-3Z85546_-8pM3nkDuavdHyM6B9DgbOk2ZVJpQGRQMimDVB_97DQ)/video/433/148/550841334_mp4_h264_aac_3.m3u8#cell=core",
+                        "url": "https://proxy-001.dc3.dailymotion.com/sec(sQdA5_qbDeicATcs6Z372y16aXYf8oLqjw8h69daA-EjvmGYrYMxEnqaa14aj8vE5mFjttmDsy4MCEgmJfYVYhNWKDt6vEuc4z1IrctwCmrIRNIS728W9_E_Xi33Wyat)/video/433/148/550841334_mp4_h264_aac_3.m3u8#cell=core",
                         "quality": "Dailymotion (العَرَبِيَّة)288p",
-                        "videoUrl": "https://proxy-001.dc3.dailymotion.com/sec(3O2X9RLJEQWLBTg4ioDBX8EA04nu2E-Aqy1mucz8llqiNOw6FJfdPJcIEEl4QXO3D_exewkNiDyk-3Z85546_-8pM3nkDuavdHyM6B9DgbOk2ZVJpQGRQMimDVB_97DQ)/video/433/148/550841334_mp4_h264_aac_3.m3u8#cell=core",
+                        "videoUrl": "https://proxy-001.dc3.dailymotion.com/sec(sQdA5_qbDeicATcs6Z372y16aXYf8oLqjw8h69daA-EjvmGYrYMxEnqaa14aj8vE5mFjttmDsy4MCEgmJfYVYhNWKDt6vEuc4z1IrctwCmrIRNIS728W9_E_Xi33Wyat)/video/433/148/550841334_mp4_h264_aac_3.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -413,18 +413,18 @@
                         ]
                     },
                     {
-                        "url": "https://a2.mp4upload.com:183/d/xwxzjm4mz3b4quuoigreyosmktnoaerhzv6m7h37jfcot4u6zsmy76j7diwtbufhf5w3syt5/video.mp4",
+                        "url": "https://a2.mp4upload.com:183/d/xwxzjm4mz3b4quuoigreyosmktnoaerhzv6m7h37jfcps7gjo6sqnxvnfqiuplnkneiy6bmv/video.mp4",
                         "quality": "(ไทย) - Mp4Upload - 1080p",
-                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxzjm4mz3b4quuoigreyosmktnoaerhzv6m7h37jfcot4u6zsmy76j7diwtbufhf5w3syt5/video.mp4",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxzjm4mz3b4quuoigreyosmktnoaerhzv6m7h37jfcps7gjo6sqnxvnfqiuplnkneiy6bmv/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://proxy-003.ix7.dailymotion.com/sec(vaFvCPH_lRMb9F2VvBzkbQT2hrOyHskLZPQpJ6FyETXdhkcJAM16aLfQaJWSc92gBmGPaHndpRdBYsQciPzrm5MHZ5jMTexmlgS1SbrG3JLNG4KUpaAxf3BvSXToHWEm)/video/823/148/550841328_mp4_h264_aac_3.m3u8#cell=core",
+                        "url": "https://proxy-003.ix7.dailymotion.com/sec(khMEyam-EMa-Z7EHDL-GnRKTTw7D6q-MFAWv1STykQI6h01WgMPRIEaDbUHn1H4AHr7B4pgN2tqAomQIVnb04KE0I8yjiRwH-TaISrXJqHrRDtvAi3QB_Akh9Tdm_y9l)/video/823/148/550841328_mp4_h264_aac_3.m3u8#cell=core",
                         "quality": "Dailymotion (ไทย)288p",
-                        "videoUrl": "https://proxy-003.ix7.dailymotion.com/sec(vaFvCPH_lRMb9F2VvBzkbQT2hrOyHskLZPQpJ6FyETXdhkcJAM16aLfQaJWSc92gBmGPaHndpRdBYsQciPzrm5MHZ5jMTexmlgS1SbrG3JLNG4KUpaAxf3BvSXToHWEm)/video/823/148/550841328_mp4_h264_aac_3.m3u8#cell=core",
+                        "videoUrl": "https://proxy-003.ix7.dailymotion.com/sec(khMEyam-EMa-Z7EHDL-GnRKTTw7D6q-MFAWv1STykQI6h01WgMPRIEaDbUHn1H4AHr7B4pgN2tqAomQIVnb04KE0I8yjiRwH-TaISrXJqHrRDtvAi3QB_Akh9Tdm_y9l)/video/823/148/550841328_mp4_h264_aac_3.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -441,9 +441,9 @@
                         ]
                     },
                     {
-                        "url": "https://proxy-002.dc3.dailymotion.com/sec(vaFvCPH_lRMb9F2VvBzkbQT2hrOyHskLZPQpJ6FyETXdhkcJAM16aLfQaJWSc92gBmGPaHndpRdBYsQciPzrm5MHZ5jMTexmlgS1SbrG3JLNG4KUpaAxf3BvSXToHWEm)/video/823/148/550841328_mp4_h264_aac_3.m3u8#cell=core",
+                        "url": "https://proxy-002.dc3.dailymotion.com/sec(khMEyam-EMa-Z7EHDL-GnRKTTw7D6q-MFAWv1STykQI6h01WgMPRIEaDbUHn1H4AHr7B4pgN2tqAomQIVnb04KE0I8yjiRwH-TaISrXJqHrRDtvAi3QB_Akh9Tdm_y9l)/video/823/148/550841328_mp4_h264_aac_3.m3u8#cell=core",
                         "quality": "Dailymotion (ไทย)288p",
-                        "videoUrl": "https://proxy-002.dc3.dailymotion.com/sec(vaFvCPH_lRMb9F2VvBzkbQT2hrOyHskLZPQpJ6FyETXdhkcJAM16aLfQaJWSc92gBmGPaHndpRdBYsQciPzrm5MHZ5jMTexmlgS1SbrG3JLNG4KUpaAxf3BvSXToHWEm)/video/823/148/550841328_mp4_h264_aac_3.m3u8#cell=core",
+                        "videoUrl": "https://proxy-002.dc3.dailymotion.com/sec(khMEyam-EMa-Z7EHDL-GnRKTTw7D6q-MFAWv1STykQI6h01WgMPRIEaDbUHn1H4AHr7B4pgN2tqAomQIVnb04KE0I8yjiRwH-TaISrXJqHrRDtvAi3QB_Akh9Tdm_y9l)/video/823/148/550841328_mp4_h264_aac_3.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -460,18 +460,18 @@
                         ]
                     },
                     {
-                        "url": "https://a4.mp4upload.com:183/d/xkxz3m4mz3b4quuoigrbkiiyjxojj5rku3orq5pp5wle5xd6nntgu7y4cwzjpuzjlfgifrvo/video.mp4",
+                        "url": "https://a4.mp4upload.com:183/d/xkxz3m4mz3b4quuoigrbkiiyjxojj5rku3orq5pp5wlf4urj2bn5as7ctalhuyz42iw24qfe/video.mp4",
                         "quality": "(Portugués) - Mp4Upload - 1080p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxz3m4mz3b4quuoigrbkiiyjxojj5rku3orq5pp5wle5xd6nntgu7y4cwzjpuzjlfgifrvo/video.mp4",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxz3m4mz3b4quuoigrbkiiyjxojj5rku3orq5pp5wlf4urj2bn5as7ctalhuyz42iw24qfe/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://proxy-004.dc3.dailymotion.com/sec(Nv8zqMbzszxJ34BeVCG5dGlWRamw1HqulPIHbcCx1aAK-UfoRZ1Ps2zhde72Ke1TSiXGol10b4XhV60F8mAr48yq0lhBvAjHlEZRbsVwJXaQiWw5MEHb-K8Gse44RauT)/video/839/448/550844938_mp4_h264_aac_3.m3u8#cell=core",
+                        "url": "https://proxy-004.dc3.dailymotion.com/sec(NxlluYYM7SzO3NL5BOUe6Qhr2eJoEQqKnn5ClHIogIhv1UPVv251UUYLQNcsO8KaoPACMm6hhQ4dh1vzXrlCV_ogTVog3RVamTaMvVeulv4nX3FTtfTnrmwX7k5j_ELr)/video/839/448/550844938_mp4_h264_aac_3.m3u8#cell=core",
                         "quality": "Dailymotion (Portugués)288p",
-                        "videoUrl": "https://proxy-004.dc3.dailymotion.com/sec(Nv8zqMbzszxJ34BeVCG5dGlWRamw1HqulPIHbcCx1aAK-UfoRZ1Ps2zhde72Ke1TSiXGol10b4XhV60F8mAr48yq0lhBvAjHlEZRbsVwJXaQiWw5MEHb-K8Gse44RauT)/video/839/448/550844938_mp4_h264_aac_3.m3u8#cell=core",
+                        "videoUrl": "https://proxy-004.dc3.dailymotion.com/sec(NxlluYYM7SzO3NL5BOUe6Qhr2eJoEQqKnn5ClHIogIhv1UPVv251UUYLQNcsO8KaoPACMm6hhQ4dh1vzXrlCV_ogTVog3RVamTaMvVeulv4nX3FTtfTnrmwX7k5j_ELr)/video/839/448/550844938_mp4_h264_aac_3.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -488,9 +488,9 @@
                         ]
                     },
                     {
-                        "url": "https://proxy-003.ix7.dailymotion.com/sec(Nv8zqMbzszxJ34BeVCG5dGlWRamw1HqulPIHbcCx1aAK-UfoRZ1Ps2zhde72Ke1TSiXGol10b4XhV60F8mAr48yq0lhBvAjHlEZRbsVwJXaQiWw5MEHb-K8Gse44RauT)/video/839/448/550844938_mp4_h264_aac_3.m3u8#cell=core",
+                        "url": "https://proxy-003.ix7.dailymotion.com/sec(NxlluYYM7SzO3NL5BOUe6Qhr2eJoEQqKnn5ClHIogIhv1UPVv251UUYLQNcsO8KaoPACMm6hhQ4dh1vzXrlCV_ogTVog3RVamTaMvVeulv4nX3FTtfTnrmwX7k5j_ELr)/video/839/448/550844938_mp4_h264_aac_3.m3u8#cell=core",
                         "quality": "Dailymotion (Portugués)288p",
-                        "videoUrl": "https://proxy-003.ix7.dailymotion.com/sec(Nv8zqMbzszxJ34BeVCG5dGlWRamw1HqulPIHbcCx1aAK-UfoRZ1Ps2zhde72Ke1TSiXGol10b4XhV60F8mAr48yq0lhBvAjHlEZRbsVwJXaQiWw5MEHb-K8Gse44RauT)/video/839/448/550844938_mp4_h264_aac_3.m3u8#cell=core",
+                        "videoUrl": "https://proxy-003.ix7.dailymotion.com/sec(NxlluYYM7SzO3NL5BOUe6Qhr2eJoEQqKnn5ClHIogIhv1UPVv251UUYLQNcsO8KaoPACMm6hhQ4dh1vzXrlCV_ogTVog3RVamTaMvVeulv4nX3FTtfTnrmwX7k5j_ELr)/video/839/448/550844938_mp4_h264_aac_3.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -507,18 +507,18 @@
                         ]
                     },
                     {
-                        "url": "https://a2.mp4upload.com:183/d/xwxzlm4mz3b4quuoigrbojkpkmiwvywitlsmuafsmpnvychcz7np6wl3kbdyreuustf64nj7/video.mp4",
+                        "url": "https://a2.mp4upload.com:183/d/xwxzlm4mz3b4quuoigrbojkpkmiwvywitlsmuafsmpnuzbvvottwlm7gyrvkzytdxhffefjm/video.mp4",
                         "quality": "(Español) - Mp4Upload - 1080p",
-                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxzlm4mz3b4quuoigrbojkpkmiwvywitlsmuafsmpnvychcz7np6wl3kbdyreuustf64nj7/video.mp4",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxzlm4mz3b4quuoigrbojkpkmiwvywitlsmuafsmpnuzbvvottwlm7gyrvkzytdxhffefjm/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://proxy-003.dc3.dailymotion.com/sec(wrqRjmrI7RGh3G26ovvl-1E7gtJjJ5jHLsU-719mY6QowApSG-n0WwwxY2gad0NtR1bHTrEkTwHPbInrA89wMR4p2-jPC57WoE4ItkNhkz_yRoiWZ-tbT6w1LQOmPmd9)/video/033/148/550841330_mp4_h264_aac_3.m3u8#cell=core",
+                        "url": "https://proxy-003.dc3.dailymotion.com/sec(Y5LBBJ9g3C7uvfQOoq1kfefBKmIMdpceM5TMFSFrWIU8IvNDbkAUVvMFA-CGepoACZpI_Sa4qHbB2EohQf5FNY8ZXdky_4r7K6BBV_VLfWsAdQQ1-jC3z04igF0bojMb)/video/033/148/550841330_mp4_h264_aac_3.m3u8#cell=core",
                         "quality": "Dailymotion (Español)288p",
-                        "videoUrl": "https://proxy-003.dc3.dailymotion.com/sec(wrqRjmrI7RGh3G26ovvl-1E7gtJjJ5jHLsU-719mY6QowApSG-n0WwwxY2gad0NtR1bHTrEkTwHPbInrA89wMR4p2-jPC57WoE4ItkNhkz_yRoiWZ-tbT6w1LQOmPmd9)/video/033/148/550841330_mp4_h264_aac_3.m3u8#cell=core",
+                        "videoUrl": "https://proxy-003.dc3.dailymotion.com/sec(Y5LBBJ9g3C7uvfQOoq1kfefBKmIMdpceM5TMFSFrWIU8IvNDbkAUVvMFA-CGepoACZpI_Sa4qHbB2EohQf5FNY8ZXdky_4r7K6BBV_VLfWsAdQQ1-jC3z04igF0bojMb)/video/033/148/550841330_mp4_h264_aac_3.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -535,9 +535,9 @@
                         ]
                     },
                     {
-                        "url": "https://proxy-004.ix7.dailymotion.com/sec(wrqRjmrI7RGh3G26ovvl-1E7gtJjJ5jHLsU-719mY6QowApSG-n0WwwxY2gad0NtR1bHTrEkTwHPbInrA89wMR4p2-jPC57WoE4ItkNhkz_yRoiWZ-tbT6w1LQOmPmd9)/video/033/148/550841330_mp4_h264_aac_3.m3u8#cell=core",
+                        "url": "https://proxy-004.ix7.dailymotion.com/sec(Y5LBBJ9g3C7uvfQOoq1kfefBKmIMdpceM5TMFSFrWIU8IvNDbkAUVvMFA-CGepoACZpI_Sa4qHbB2EohQf5FNY8ZXdky_4r7K6BBV_VLfWsAdQQ1-jC3z04igF0bojMb)/video/033/148/550841330_mp4_h264_aac_3.m3u8#cell=core",
                         "quality": "Dailymotion (Español)288p",
-                        "videoUrl": "https://proxy-004.ix7.dailymotion.com/sec(wrqRjmrI7RGh3G26ovvl-1E7gtJjJ5jHLsU-719mY6QowApSG-n0WwwxY2gad0NtR1bHTrEkTwHPbInrA89wMR4p2-jPC57WoE4ItkNhkz_yRoiWZ-tbT6w1LQOmPmd9)/video/033/148/550841330_mp4_h264_aac_3.m3u8#cell=core",
+                        "videoUrl": "https://proxy-004.ix7.dailymotion.com/sec(Y5LBBJ9g3C7uvfQOoq1kfefBKmIMdpceM5TMFSFrWIU8IvNDbkAUVvMFA-CGepoACZpI_Sa4qHbB2EohQf5FNY8ZXdky_4r7K6BBV_VLfWsAdQQ1-jC3z04igF0bojMb)/video/033/148/550841330_mp4_h264_aac_3.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
