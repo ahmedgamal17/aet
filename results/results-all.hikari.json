@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/412/Kore_ga_Watashi_no_Goshujinsama",
+                                "title": "Kore ga Watashi no Goshujinsama",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/11/80500l.jpg"
+                            },
+                            {
                                 "url": "/anime/52281/Isekai_Meikyuu_de_Harem_wo_Specials",
                                 "title": "Isekai Meikyuu de Harem wo Specials",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1672/125096l.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/28617/Punch_Line",
                                 "title": "Punch Line",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/4/74641l.jpg"
-                            },
-                            {
-                                "url": "/anime/1538/Pumpkin_Scissors",
-                                "title": "Pumpkin Scissors",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/8/75181l.jpg"
                             }
                         ],
                         "hasNextPage": true

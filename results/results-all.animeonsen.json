@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "IbAhbaQgxEX9BgJV",
+                                "title": "MF Ghost 2nd Season",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/IbAhbaQgxEX9BgJV"
+                            },
+                            {
+                                "url": "v8FixWHfgOlTwwx1",
+                                "title": "Nageki no Bourei wa Intai shitai",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/v8FixWHfgOlTwwx1"
+                            },
+                            {
+                                "url": "0rW0wUurpCtpzoYn",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/0rW0wUurpCtpzoYn"
+                            },
+                            {
+                                "url": "60uVFegPRvbknEpB",
+                                "title": "Kami no Tou: Koubou-sen",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/60uVFegPRvbknEpB"
+                            },
+                            {
+                                "url": "faUXzot4CegXCSVr",
+                                "title": "Tsuma, Shougakusei ni Naru.",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/faUXzot4CegXCSVr"
+                            },
+                            {
+                                "url": "NyECsm2kL7WczZTQ",
+                                "title": "Uzumaki",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/NyECsm2kL7WczZTQ"
+                            },
+                            {
                                 "url": "yMRUNASv4XHq628t",
                                 "title": "Maou 2099",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/yMRUNASv4XHq628t"
@@ -75,36 +105,6 @@
                                 "url": "vDxTqUIHhe0j9thU",
                                 "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/vDxTqUIHhe0j9thU"
-                            },
-                            {
-                                "url": "0edNjmSOcX1plSET",
-                                "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/0edNjmSOcX1plSET"
-                            },
-                            {
-                                "url": "I1F0mNSOCo8lO292",
-                                "title": "2.5-jigen no Ririsa",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/I1F0mNSOCo8lO292"
-                            },
-                            {
-                                "url": "SEtiRCkuqHz75R3O",
-                                "title": "Trillion Game",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/SEtiRCkuqHz75R3O"
-                            },
-                            {
-                                "url": "drC3WntoP7jdUH96",
-                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/drC3WntoP7jdUH96"
-                            },
-                            {
-                                "url": "wCXwaP6wMEUmdNkz",
-                                "title": "Mecha-ude (TV)",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/wCXwaP6wMEUmdNkz"
-                            },
-                            {
-                                "url": "DInWTy3jJRVuXMJT",
-                                "title": "Dandadan",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/DInWTy3jJRVuXMJT"
                             }
                         ],
                         "hasNextPage": true
@@ -314,14 +314,14 @@
             },
             "details": {
                 "result": {
-                    "url": "yMRUNASv4XHq628t",
-                    "title": "Maou 2099",
-                    "author": "J.C.Staff",
-                    "description": "​The cyberpunk metropolis Shinjuku—a massive city-state bedecked with neon signs, towering skyscrapers, and the latest cutting-edge technology. It is here, in year 2099 of the Fused Era, where the legendary Demon Lord Veltol has his second coming five centuries in the making. But this landscape is nothing like the one he conquered all those years ago, for the fusion of magic and engineering has elevated civilization to dazzling, unprecedented heights. Veltol may have been reduced to a historical footnote, but make no mistake...this brave new world will be his for the taking!\n\n(Source: Yen Press)",
-                    "genre": "Action, Fantasy, Sci-Fi",
+                    "url": "IbAhbaQgxEX9BgJV",
+                    "title": "MF Ghost 2nd Season",
+                    "author": "Felix Film",
+                    "description": "Second season of MF Ghost.",
+                    "genre": "Racing, Seinen",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/yMRUNASv4XHq628t",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/IbAhbaQgxEX9BgJV",
                     "initialized": true
                 },
                 "passed": true
@@ -329,8 +329,13 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "yMRUNASv4XHq628t/video/1",
-                        "name": "Episode 1: Cyberpunk City Shinjuku",
+                        "url": "IbAhbaQgxEX9BgJV/video/2",
+                        "name": "Episode 2: The 4x4 Attack",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "IbAhbaQgxEX9BgJV/video/1",
+                        "name": "Episode 1: The White Reaper Descends",
                         "episode_number": 1.0
                     }
                 ],
@@ -339,48 +344,48 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/yMRUNASv4XHq628t/1/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/IbAhbaQgxEX9BgJV/2/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/yMRUNASv4XHq628t/1/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/IbAhbaQgxEX9BgJV/2/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/yMRUNASv4XHq628t/en-US/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/en-US/2",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/yMRUNASv4XHq628t/ru-RU/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/ru-RU/2",
                                 "lang": "Русский"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/yMRUNASv4XHq628t/pt-BR/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/pt-BR/2",
                                 "lang": "Português (Brasil)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/yMRUNASv4XHq628t/it-IT/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/it-IT/2",
                                 "lang": "Italiano"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/yMRUNASv4XHq628t/fr-FR/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/fr-FR/2",
                                 "lang": "Français"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/yMRUNASv4XHq628t/es-LA/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/es-LA/2",
                                 "lang": "Español"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/yMRUNASv4XHq628t/es-ES/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/es-ES/2",
                                 "lang": "Español (Spain)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/yMRUNASv4XHq628t/de-DE/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/de-DE/2",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/yMRUNASv4XHq628t/ar-ME/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/ar-ME/2",
                                 "lang": "العربية"
                             }
                         ]
