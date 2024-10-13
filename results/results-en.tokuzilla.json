@@ -7,16 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/watch/kamen-rider-girls-7th-one-man-live-game-start.html",
-                                "title": "Kamen Rider Girls – 7th One Man Live -GAME START",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-girls-7th-one-man-live-game-start-thumb.png"
-                            },
-                            {
-                                "url": "/watch/magical-chinese-girl-pai-pai.html",
-                                "title": "Magical Chinese Girl Pai Pai!",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/magical-chinese-girl-pai-pai-thumb.png"
-                            },
-                            {
                                 "url": "/watch/bakuage-sentai-boonboomger.html",
                                 "title": "Bakuage Sentai Boonboomger",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
@@ -25,6 +15,16 @@
                                 "url": "/watch/kamen-rider-gavv.html",
                                 "title": "Kamen Rider Gavv",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gavv-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-girls-7th-one-man-live-game-start.html",
+                                "title": "Kamen Rider Girls – 7th One Man Live -GAME START",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-girls-7th-one-man-live-game-start-thumb.png"
+                            },
+                            {
+                                "url": "/watch/magical-chinese-girl-pai-pai.html",
+                                "title": "Magical Chinese Girl Pai Pai!",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/magical-chinese-girl-pai-pai-thumb.png"
                             },
                             {
                                 "url": "/watch/kamen-rider-outsiders.html",
@@ -144,12 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/kamen-rider-girls-7th-one-man-live-game-start.html",
-                    "title": "Kamen Rider Girls – 7th One Man Live -GAME START",
-                    "author": "Year 2017",
-                    "description": "Kamen Rider Girls – 7th One Man Live -GAME START took place in 2017 and marked the seventh solo live concert by the Kamen Rider Girls, a pop group closely tied to the Kamen Rider franchise. Known for their energetic performances and songs inspired by various Kamen Rider series, the concert was a celebration of their contributions to the franchise.",
-                    "genre": "Kamen Rider, Movie",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-girls-7th-one-man-live-game-start-thumb.png",
+                    "url": "/watch/bakuage-sentai-boonboomger.html",
+                    "title": "Bakuage Sentai Boonboomger",
+                    "author": "Year 2024",
+                    "description": "Bakuage Sentai Boonboomger is an upcoming Japanese Tokusatsu-drama and the 48th installment in Toei Company’s Super Sentai Series.",
+                    "genre": "Series, Super Sentai",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -157,9 +159,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/kamen-rider-girls-7th-one-man-live-game-start.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=33#watch",
+                        "name": "Episode 33",
+                        "episode_number": 33.0
+                    },
+                    {
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=32#watch",
+                        "name": "Episode 32",
+                        "episode_number": 32.0
                     }
                 ],
                 "passed": true
