@@ -1,6 +1,6 @@
 ## Extension status
 
-### 35/88(40%) are working
+### 34/88(39%) are working
 
 | Extension            |  Status   | Log                                                                                                                                       |
 | :------------------- | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -10,7 +10,7 @@
 | all.googledrive      | ❌<br>1/5  | [results-all.googledrive.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.googledrive.json)           |
 | all.googledriveindex | ❌<br>0/5  | [results-all.googledriveindex.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.googledriveindex.json) |
 | all.hikari           | ❌<br>5/6  | [results-all.hikari.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.hikari.json)                     |
-| all.javguru          |     ✅     | [results-all.javguru.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.javguru.json)                   |
+| all.javguru          | ❌<br>5/6  | [results-all.javguru.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.javguru.json)                   |
 | all.jellyfin         | ❌<br>0/18 | [results-all.jellyfin.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.jellyfin.json)                 |
 | all.lmanime          |     ✅     | [results-all.lmanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.lmanime.json)                   |
 | all.missav           |     ✅     | [results-all.missav.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.missav.json)                     |
@@ -56,7 +56,7 @@
 | en.donghuastream     | ❌<br>0/6  | [results-en.donghuastream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.donghuastream.json)         |
 | en.dopebox           | ❌<br>5/6  | [results-en.dopebox.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.dopebox.json)                     |
 | en.dramacool         | ❌<br>4/6  | [results-en.dramacool.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.dramacool.json)                 |
-| en.edytjedhgmdhm     |     ✅     | [results-en.edytjedhgmdhm.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.edytjedhgmdhm.json)         |
+| en.edytjedhgmdhm     | ❌<br>2/5  | [results-en.edytjedhgmdhm.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.edytjedhgmdhm.json)         |
 | en.fmovies           | ❌<br>0/6  | [results-en.fmovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.fmovies.json)                     |
 | en.genoanime         | ❌<br>0/6  | [results-en.genoanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.genoanime.json)                 |
 | en.gogoanime         |     ✅     | [results-en.gogoanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.gogoanime.json)                 |
@@ -91,5 +91,5 @@
 | en.uniquestream      | ❌<br>1/6  | [results-en.uniquestream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.uniquestream.json)           |
 | en.wcofun            |     ✅     | [results-en.wcofun.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.wcofun.json)                       |
 | en.wcostream         | ❌<br>4/6  | [results-en.wcostream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.wcostream.json)                 |
-| en.zoro              | ❌<br>5/6  | [results-en.zoro.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.zoro.json)                           |
+| en.zoro              |     ✅     | [results-en.zoro.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.zoro.json)                           |
 
