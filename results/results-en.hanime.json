@@ -395,6 +395,15 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/hentai/sakusei-byoutou-9",
+                                "title": "Sakusei Byoutou",
+                                "author": "Pink Pineapple",
+                                "description": "Yamada is afflicted with a strange disease and has to ejaculate once every three hours as a result. However, he has now broken both hands and ended up in the hospital. As a result, he has to ask the nurses in the hospital to take care of his needs.",
+                                "genre": "x-ray, watersports, nurse, hd, hand job, foot job, creampie, censored, blow job, big boobs",
+                                "thumbnail_url": "https://akidoo.top/images/covers/sakusei-byoutou-9-cv1.png",
+                                "initialized": true
+                            },
+                            {
                                 "url": "/videos/hentai/imaria-2",
                                 "title": "Imaria",
                                 "author": "Antechinus",
@@ -620,15 +629,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "/videos/hentai/sakusei-byoutou-8",
-                                "title": "Sakusei Byoutou",
-                                "author": "Pink Pineapple",
-                                "description": "Yamada's life in the hospital is being surrounded by nurses with the worst personalities as he continues to be squeezed in various ways.\n\nIt seems there is no waking up from this nightmare...",
-                                "genre": "x-ray, watersports, nurse, hd, hand job, creampie, censored, big boobs",
-                                "thumbnail_url": "https://akidoo.top/images/covers/sakusei-byoutou-8-cv1.png",
-                                "initialized": true
-                            },
-                            {
                                 "url": "/videos/hentai/kotowarenai-haha-2",
                                 "title": "Kotowarenai Haha",
                                 "author": "Queen Bee",
@@ -748,24 +748,11 @@
                 "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "https://hanime.tv/api/v8/video?id=2604",
-                        "name": "Episode 2",
-                        "date_upload": 1593650604000,
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "https://hanime.tv/api/v8/video?id=2583",
-                        "name": "Episode 1",
-                        "date_upload": 1591285383000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
+                "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

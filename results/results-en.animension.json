@@ -11,6 +11,11 @@
                     {
                         "animes": [
                             {
+                                "url": "3573525938",
+                                "title": "Neko ni Tensei shita Ojisan",
+                                "thumbnail_url": "/assets/images/sh/covers/14331.png"
+                            },
+                            {
                                 "url": "4101654196",
                                 "title": "Houkago Shounen Hanako-kun Part 2",
                                 "thumbnail_url": "/assets/images/sh/covers/14326.png"
@@ -129,11 +134,6 @@
                                 "url": "1142010657",
                                 "title": "Koha Ginjiro",
                                 "thumbnail_url": "/assets/images/sh/covers/14119.png"
-                            },
-                            {
-                                "url": "3363967587",
-                                "title": "Googuri Googuri",
-                                "thumbnail_url": "/assets/images/sh/covers/14403.png"
                             }
                         ],
                         "hasNextPage": true
@@ -147,13 +147,13 @@
             },
             "details": {
                 "result": {
-                    "url": "4101654196",
-                    "title": "Houkago Shounen Hanako-kun Part 2",
-                    "description": "Second part of Houkago Shounen Hanako-kun.",
-                    "genre": "Comedy, Parody, School, Supernatural",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "/assets/images/sh/covers/14326.png",
+                    "url": "3573525938",
+                    "title": "Neko ni Tensei shita Ojisan",
+                    "description": "The story follows an ordinary old man who one day suddenly is reincarnated as a cute cat, and the president of the company he works for picks him up.",
+                    "genre": "Comedy, Pets, Reincarnation",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "/assets/images/sh/covers/14331.png",
                     "initialized": true
                 },
                 "passed": true
@@ -161,15 +161,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "3537645042",
+                        "url": "4237629540",
                         "name": "Episode 2",
-                        "date_upload": 1728929283000,
+                        "date_upload": 1728956583000,
                         "episode_number": 2.0
                     },
                     {
-                        "url": "2155857964",
+                        "url": "2193405563",
                         "name": "Episode 1",
-                        "date_upload": 1728325383000,
+                        "date_upload": 1728352865000,
                         "episode_number": 1.0
                     }
                 ],

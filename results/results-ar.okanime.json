@@ -117,6 +117,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/houkago-shounen-hanako-kun-part-2/",
+                                "title": "Houkago Shounen Hanako-kun Part 2",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Houkago-Shounen-Hanako-kun-Part-2-6704121e37a40.jpg"
+                            },
+                            {
+                                "url": "/anime/seirei-gensouki-2/",
+                                "title": "Seirei Gensouki 2",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Seirei-Gensouki-2-670412147a819.jpg"
+                            },
+                            {
+                                "url": "/anime/arifureta-shokugyou-de-sekai-saikyou-season-3/",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Arifureta-Shokugyou-de-Sekai-Saikyou-Season-3-670d6a7b603af.jpg"
+                            },
+                            {
+                                "url": "/anime/natsume-yuujinchou-shichi/",
+                                "title": "Natsume Yuujinchou Shichi",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Natsume-Yuujinchou-Shichi-67041212bb518.jpg"
+                            },
+                            {
                                 "url": "/anime/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru/",
                                 "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Saikyou-no-Shienshoku-Wajutsushi-de-Aru-Ore-wa-Sekai-Saikyou-Clan-wo-Shitagaeru-66faae51b8119.jpg"
@@ -295,26 +315,6 @@
                                 "url": "/anime/detective-conan/",
                                 "title": "Detective Conan",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Detective-Conan-5f08ee93df2fb.jpg"
-                            },
-                            {
-                                "url": "/anime/hitoribocchi-no-isekai-kouryaku/",
-                                "title": "Hitoribocchi no Isekai Kouryaku",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Hitoribocchi-no-Isekai-Kouryaku-66f6e931cd752.jpg"
-                            },
-                            {
-                                "url": "/anime/ji-yao-lu-qicheng-pian/",
-                                "title": "Ji Yao Lu: Qicheng Pian",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Ji-Yao-Lu-Qicheng-Pian-67085343cb8db.jpg"
-                            },
-                            {
-                                "url": "/anime/ji-yao-lu-qicheng-pian/",
-                                "title": "Ji Yao Lu: Qicheng Pian",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Ji-Yao-Lu-Qicheng-Pian-67085343cb8db.jpg"
-                            },
-                            {
-                                "url": "/anime/ao-no-hako/",
-                                "title": "Ao no Hako",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Ao-no-Hako-66fed24ea1b52.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -433,27 +433,27 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a4.mp4upload.com:183/d/xkxspsmjz3b4quuopgrb4zswjmmzh6a23sz3tvqttdd3oih3g46umhbmgkqh35hrn4lbouvj/video.mp4",
+                        "url": "https://a4.mp4upload.com:183/d/xkxspsmjz3b4quuopgrb4zswjmmzh6a23sz3tvqttdd3po6tk3mbq34gmyozextvh23u5mnq/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxspsmjz3b4quuopgrb4zswjmmzh6a23sz3tvqttdd3oih3g46umhbmgkqh35hrn4lbouvj/video.mp4",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxspsmjz3b4quuopgrb4zswjmmzh6a23sz3tvqttdd3po6tk3mbq34gmyozextvh23u5mnq/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://a1.mp4upload.com:183/d/x2x5psejz3b4quuopgrbczazdhuh3f4k5vm6gnxvbjgv2szvwtgrc3jvrubit7uq5re6hfsu/video.mp4",
+                        "url": "https://a1.mp4upload.com:183/d/x2x5psejz3b4quuopgrbczazdhuh3f4k5vm6gnxvbjgv3ua52uvtaero5pd7rsg5u2mag3i2/video.mp4",
                         "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x5psejz3b4quuopgrbczazdhuh3f4k5vm6gnxvbjgv2szvwtgrc3jvrubit7uq5re6hfsu/video.mp4",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x5psejz3b4quuopgrbczazdhuh3f4k5vm6gnxvbjgv3ua52uvtaero5pd7rsg5u2mag3i2/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://a3.mp4upload.com:183/d/xsx5dsejz3b4quuopgregnkcc5b2npcipabwwx7yc47o6bemjavxet5l7kglda3mzm5xzpr7/video.mp4",
+                        "url": "https://a3.mp4upload.com:183/d/xsx5dsejz3b4quuopgregnkcc5b2npcipabwwx7yc47o7h5efhhg2qk2t22dxywservqp7ff/video.mp4",
                         "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx5dsejz3b4quuopgregnkcc5b2npcipabwwx7yc47o6bemjavxet5l7kglda3mzm5xzpr7/video.mp4",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx5dsejz3b4quuopgregnkcc5b2npcipabwwx7yc47o7h5efhhg2qk2t22dxywservqp7ff/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
