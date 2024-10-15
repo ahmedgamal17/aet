@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/a-will-eternal-season-3/",
+                                "title": "A Will Eternal Season 3",
+                                "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2024/07/A-Will-Eternal-Season-3.jpg"
+                            },
+                            {
                                 "url": "/anime/shrounding-the-heavens-zhe-tian/",
                                 "title": "Shrounding the Heavens (Zhe Tian)",
                                 "thumbnail_url": "https://i2.wp.com/comicxy.com/wp-content/uploads/2023/05/Shrounding-the-Heavens-Zhe-Tian.webp"
@@ -210,11 +215,6 @@
                                 "url": "/anime/martial-master/",
                                 "title": "Martial Master",
                                 "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2021/09/1630825565-martial-master-new.png"
-                            },
-                            {
-                                "url": "/anime/san-xiu-zhi-wang/",
-                                "title": "San Xiu Zhi Wang",
-                                "thumbnail_url": "https://i1.wp.com/comicxy.com/wp-content/uploads/2024/04/San-Xiu-Zhi-Wang.png"
                             }
                         ],
                         "hasNextPage": true
@@ -316,9 +316,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://proxy-005.dc3.dailymotion.com/sec(82cOnqKAmv43XkTyUKLlfri-b4AI_eMDYx7WIOkI1K2U_fZWYTqMFFKcOXnc2fNtj2GhxPQ-vLyqfJyTdMyd34EQkjmLOhyll65xLEh13rYcTwiRT3JAAV_-3L-FK37R)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "url": "https://proxy-005.dc3.dailymotion.com/sec(yBbL8aXH5eKQ9YWYWv_zcsnOQ_33NUEXKTkScx7l7o_gpBZa-kvq_fMvt6D80-zpTYUJZ_8yhYUsohNA20L7iSnDhR995ROAGWNhJHeycRQIwvTYPksQhJGq-Gx_7T3P)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "quality": "All Subtitle player 2 - 216p",
-                        "videoUrl": "https://proxy-005.dc3.dailymotion.com/sec(82cOnqKAmv43XkTyUKLlfri-b4AI_eMDYx7WIOkI1K2U_fZWYTqMFFKcOXnc2fNtj2GhxPQ-vLyqfJyTdMyd34EQkjmLOhyll65xLEh13rYcTwiRT3JAAV_-3L-FK37R)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "videoUrl": "https://proxy-005.dc3.dailymotion.com/sec(yBbL8aXH5eKQ9YWYWv_zcsnOQ_33NUEXKTkScx7l7o_gpBZa-kvq_fMvt6D80-zpTYUJZ_8yhYUsohNA20L7iSnDhR995ROAGWNhJHeycRQIwvTYPksQhJGq-Gx_7T3P)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -407,9 +407,9 @@
                         ]
                     },
                     {
-                        "url": "https://proxy-001.dc3.dailymotion.com/sec(82cOnqKAmv43XkTyUKLlfri-b4AI_eMDYx7WIOkI1K2U_fZWYTqMFFKcOXnc2fNtj2GhxPQ-vLyqfJyTdMyd34EQkjmLOhyll65xLEh13rYcTwiRT3JAAV_-3L-FK37R)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "url": "https://proxy-001.dc3.dailymotion.com/sec(yBbL8aXH5eKQ9YWYWv_zcsnOQ_33NUEXKTkScx7l7o_gpBZa-kvq_fMvt6D80-zpTYUJZ_8yhYUsohNA20L7iSnDhR995ROAGWNhJHeycRQIwvTYPksQhJGq-Gx_7T3P)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "quality": "All Subtitle player 2 - 216p",
-                        "videoUrl": "https://proxy-001.dc3.dailymotion.com/sec(82cOnqKAmv43XkTyUKLlfri-b4AI_eMDYx7WIOkI1K2U_fZWYTqMFFKcOXnc2fNtj2GhxPQ-vLyqfJyTdMyd34EQkjmLOhyll65xLEh13rYcTwiRT3JAAV_-3L-FK37R)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
+                        "videoUrl": "https://proxy-001.dc3.dailymotion.com/sec(yBbL8aXH5eKQ9YWYWv_zcsnOQ_33NUEXKTkScx7l7o_gpBZa-kvq_fMvt6D80-zpTYUJZ_8yhYUsohNA20L7iSnDhR995ROAGWNhJHeycRQIwvTYPksQhJGq-Gx_7T3P)/video/596/493/520394695_mp4_h264_aac_5.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
