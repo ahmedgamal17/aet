@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/874/Digimon_Tamers",
+                                "title": "Digimon Tamers",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/7/73696l.jpg"
+                            },
+                            {
                                 "url": "/anime/20909/Kyoukai_no_Kanata_Mini_Gekijou",
                                 "title": "Kyoukai no Kanata: Mini Gekijou",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/10/72218l.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/3879/Paris_no_Isabelle",
                                 "title": "Paris no Isabelle",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/7/64331l.jpg"
-                            },
-                            {
-                                "url": "/anime/15437/Kore_wa_Zombie_desu_ka_of_the_Dead_Hai_Minotake_ni_Attemasu",
-                                "title": "Kore wa Zombie desu ka? of the Dead: Hai, Minotake ni Attemasu",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/4/43515l.jpg"
                             }
                         ],
                         "hasNextPage": true

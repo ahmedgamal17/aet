@@ -247,6 +247,26 @@
                                 "thumbnail_url": "https://prod-images.viu.com/3539505242/3f0b34521daca8433c603ad09581fc79b6dbad51?im=Resize,width=1920"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9438?isq=false",
+                                "title": "Reverse 4 You",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/AkQDefVv9POMuLJcQtpfaYNkwza.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9582?isq=false",
+                                "title": "Rekishi ni Nokoru Akujo ni Naru zo - I'll Become a Villainess Who Goes Down in History",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/rkLWGjeL9VMbYk8OATX5exjIA5R.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9598?isq=false",
+                                "title": "High School Frenemy",
+                                "thumbnail_url": "https://prod-images.viu.com/3402213068/b07be2cf541f7ae4f7d103b078aa456eb8071524?im=Resize,width=1920"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9498?isq=false",
+                                "title": "Dear Hyeri",
+                                "thumbnail_url": "https://prod-images.viu.com/1627708906/502dc6633309910fa18b8adfcc88d58c030a2a80?im=Resize,width=1920"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/8802?isq=false",
                                 "title": "Snowy Night: Timeless Love",
                                 "thumbnail_url": "https://im.gurl.eu.org/file/4371f530ce07abe449686-42fce6627af241ac8e.jpg"
@@ -270,6 +290,11 @@
                                 "url": "/api/DramaList/Drama/9531?isq=false",
                                 "title": "Love Is a Poison - Doku Koi: Doku mo Sugireba Koi to Naru",
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/t9Pia597dvRElFk6gs2UhRHOAKs.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9699?isq=false",
+                                "title": "Substitute Bride - The Killer Bride",
+                                "thumbnail_url": "https://im.gurl.eu.org/file/4bb7d3a4572a04025a273-f1d29b3d8513e5e2b2.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9127?isq=false",
@@ -325,16 +350,6 @@
                                 "url": "/api/DramaList/Drama/9692?isq=false",
                                 "title": "My Boo",
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/bigMlzATANyarXqpV7Rn5nFO6OB.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9498?isq=false",
-                                "title": "Dear Hyeri",
-                                "thumbnail_url": "https://prod-images.viu.com/1627708906/502dc6633309910fa18b8adfcc88d58c030a2a80?im=Resize,width=1920"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9598?isq=false",
-                                "title": "High School Frenemy",
-                                "thumbnail_url": "https://prod-images.viu.com/3402213068/b07be2cf541f7ae4f7d103b078aa456eb8071524?im=Resize,width=1920"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9326?isq=false",
@@ -400,21 +415,6 @@
                                 "url": "/api/DramaList/Drama/9596?isq=false",
                                 "title": "A Virtuous Business",
                                 "thumbnail_url": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbEs8EHA1tKvcUdbKdbeN_slGU_sWRHJAqcxO64vIxdQRjfYFoh0oPqA4AepC_gcsl8JsA40T10JbjyVGpFrCwdKzEO6pTxO1nqu.jpg?r=4c6"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9614?isq=false",
-                                "title": "Uncle Unknown",
-                                "thumbnail_url": "https://im.gurl.eu.org/file/743cce98e947e702ce2d0-5b77617a79b4aa7289.png"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/8050?isq=false",
-                                "title": "Renegade Immortal - Xian Ni",
-                                "thumbnail_url": "https://vcover-hz-pic.puui.qpic.cn/vcover_hz_pic/0/mzc00200aaogpgh1708225531019/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9697?isq=false",
-                                "title": "The Legend of Nang Nak",
-                                "thumbnail_url": "https://prod-images.viu.com/2726418796/5c842c078e4e011d74bd84a9b2fde0f354ca0348?im=Resize,width=1920"
                             }
                         ],
                         "hasNextPage": true
@@ -571,23 +571,23 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "file:///tmp/subs6777881912108219898srt",
+                                "url": "file:///tmp/subs9577714332732311251srt",
                                 "lang": "English"
                             },
                             {
-                                "url": "file:///tmp/subs14056915732285520359srt",
+                                "url": "file:///tmp/subs13193703019639215244srt",
                                 "lang": "Khmer"
                             },
                             {
-                                "url": "file:///tmp/subs13157552583125464099srt",
+                                "url": "file:///tmp/subs8923226454602831770srt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "file:///tmp/subs2859285425121754905srt",
+                                "url": "file:///tmp/subs15403505740196096300srt",
                                 "lang": "Indonesia"
                             },
                             {
-                                "url": "file:///tmp/subs7074311611651062428srt",
+                                "url": "file:///tmp/subs14109588766963139306srt",
                                 "lang": "Malay"
                             }
                         ]
