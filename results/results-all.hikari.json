@@ -167,6 +167,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/20909/Kyoukai_no_Kanata_Mini_Gekijou",
+                                "title": "Kyoukai no Kanata: Mini Gekijou",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/10/72218l.jpg"
+                            },
+                            {
+                                "url": "/anime/42129/Bem_Movie_Become_Human",
+                                "title": "Bem Movie: Become Human",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1078/108925l.jpg"
+                            },
+                            {
                                 "url": "/anime/54431/Toaru_Ossan_no_VRMMO_Katsudouki",
                                 "title": "Toaru Ossan no VRMMO Katsudouki",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1233/138531l.jpg"
@@ -305,16 +315,6 @@
                                 "url": "/anime/15437/Kore_wa_Zombie_desu_ka_of_the_Dead_Hai_Minotake_ni_Attemasu",
                                 "title": "Kore wa Zombie desu ka? of the Dead: Hai, Minotake ni Attemasu",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/4/43515l.jpg"
-                            },
-                            {
-                                "url": "/anime/10790/Kore_wa_Zombie_desu_ka_of_the_Dead",
-                                "title": "Kore wa Zombie desu ka? of the Dead",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/4/37451l.jpg"
-                            },
-                            {
-                                "url": "/anime/10209/Kore_wa_Zombie_desu_ka_OVA",
-                                "title": "Kore wa Zombie desu ka? OVA",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/12/36243l.jpg"
                             }
                         ],
                         "hasNextPage": true
