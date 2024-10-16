@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=3953",
+                                "title": "Tokyo Marble Chocolate",
+                                "artist": "BBT-RMX",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/fb5e99e5ae25880d38dc92ad6b9a5df75b44bfbd9a05d9eee02d3a0e4ef4d95a.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5708",
+                                "title": "Murai no Koi",
+                                "artist": "Disney_Plus",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/3f69ec09b77390decec19b4a7de97f0fbf65ff095e67a90a405067beaedc890a.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5705",
                                 "title": "A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized 2nd Season",
                                 "artist": "SubsPlease",
@@ -65,18 +77,6 @@
                                 "title": "Houkago Shounen Hanako-kun Part 2",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/8b82620c72b58424611f8fe74f7c29541a1ff4abde2ca45f0a2d38fa3f9541b2.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5439",
-                                "title": "Shaman King: Flowers",
-                                "artist": "Netflix",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/95de78ae9173dcfabbcb938895ba1caf005998bfc2917b45c334444dece10020.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5074",
-                                "title": "Ayakashi Triangle",
-                                "artist": "Chihiro",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/090efa5b77b4ca11d92eda92179d290bf04b2f9bb06fc2c718a3b3daf2721839.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=3953",
+                                "title": "Tokyo Marble Chocolate",
+                                "artist": "BBT-RMX",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/fb5e99e5ae25880d38dc92ad6b9a5df75b44bfbd9a05d9eee02d3a0e4ef4d95a.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5708",
+                                "title": "Murai no Koi",
+                                "artist": "Disney_Plus",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/3f69ec09b77390decec19b4a7de97f0fbf65ff095e67a90a405067beaedc890a.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5705",
                                 "title": "A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized 2nd Season",
                                 "artist": "SubsPlease",
@@ -147,18 +159,6 @@
                                 "title": "Houkago Shounen Hanako-kun Part 2",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/8b82620c72b58424611f8fe74f7c29541a1ff4abde2ca45f0a2d38fa3f9541b2.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5439",
-                                "title": "Shaman King: Flowers",
-                                "artist": "Netflix",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/95de78ae9173dcfabbcb938895ba1caf005998bfc2917b45c334444dece10020.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5074",
-                                "title": "Ayakashi Triangle",
-                                "artist": "Chihiro",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/090efa5b77b4ca11d92eda92179d290bf04b2f9bb06fc2c718a3b3daf2721839.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5705",
-                    "title": "A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized 2nd Season",
-                    "author": "LAN Studio",
-                    "description": "The old herbivorous dragon, who gets mistaken for an evil dragon, and Reiko, a young girl with miraculous powers, arrive in a totally new country, Asgar, where the herbivorous dragon keeps taking the blame when he gets caught up in an elaborate conspiracy. Even though he just wants to live a peaceful life, the herbivorous dragon is continuously getting stuck in his role as the evil dragon and walks further and further down the road towards overthrowing the demon king.\n\nSynonyms: A Gentle Dragon of 5000 Years Old, It Was Recognized as an Evil Dragon Without Any Cause, Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei 2nd Season",
-                    "genre": "Adventure, Comedy, Fantasy",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/300cb4145e9c6a5aed134e0878d1df008c9adecaf2b04d7b2784aaa7a22d4acb.jpg",
+                    "url": "/anime/?anime_id=3953",
+                    "title": "Tokyo Marble Chocolate",
+                    "author": "Production I.G",
+                    "description": "Chizuru, a cheerful girl with a history of unsuccessful romance, is planning to break up with her boyfriend, Yuudai, since he never seems to reciprocate her feelings. However, as she arrives at what she plans to be their final date, Yuudai presents her with a gift that turns out to be an energetic and troublesome mini donkey. While Yuudai was hoping that today would be the day he could finally summon enough confidence to let Chizuru know the depth of his feelings, a series of misunderstandings threaten to tear the couple apart forever. With a rambunctious mini donkey doing its best to mend their relationship, Chizuru and Yuudai each wonder if they are capable of loving and being loved in return.\n\nSynonyms: Zenryoku Shounen, Matta Aimashou",
+                    "genre": "Drama, Romance",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/b7ad41f1ff7983c8f3bd3b746adea8e495a8eb95c0c81635682db060b2decb43.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/93a96cb6-5971-a78b-36d4-49256b07df93/4158e5a8f52a1f10df5ca316286e5b1ce51ea54a493787b09eaa50c85f8af221",
-                        "name": "Episode 3",
-                        "date_upload": 1729047938000,
-                        "episode_number": 3.0
+                        "url": "/play/1d8d3e58-4a77-8c42-0670-4595eac66d1b/458bba589f84a8a3510e36116002c1e730431ad7a49191fc22937115ee971976",
+                        "name": "Episode 2",
+                        "date_upload": 1729077652000,
+                        "episode_number": 2.0
                     },
                     {
-                        "url": "/play/93a96cb6-5971-a78b-36d4-49256b07df93/a33d78035da161c05888169be8400306f46a4dcd4640a02b6a8d31dba1595b05",
-                        "name": "Episode 2",
-                        "date_upload": 1728443240000,
-                        "episode_number": 2.0
+                        "url": "/play/1d8d3e58-4a77-8c42-0670-4595eac66d1b/58b1727d26974a215f1803fad618fe4dfc229adb1540bed25f21d5263bf59615",
+                        "name": "Episode 1",
+                        "date_upload": 1729077636000,
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/3ac062bb263974ac0a6d88d16522ae42b08592d3761252e6c202ca3274c37626?file=AnimePahe_Shi_Cao_Lao_Long_Bei_Guan_Yi_E_Long_Zhi_Ming_2nd_Season_-_03_1080p_SubsPlease.mp4&token=-AfB9RAGPYqMq9196Z62cQ&expires=1729074744",
-                        "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/3ac062bb263974ac0a6d88d16522ae42b08592d3761252e6c202ca3274c37626?file=AnimePahe_Shi_Cao_Lao_Long_Bei_Guan_Yi_E_Long_Zhi_Ming_2nd_Season_-_03_1080p_SubsPlease.mp4&token=-AfB9RAGPYqMq9196Z62cQ&expires=1729074744"
+                        "url": "https://eu-08.files.nextcdn.org/get/08/01/fd54e2638371b00468f285a7a3c770542ddf06b939552ab9466c5cb3b93bac59?file=AnimePahe_Tokyo_Marble_Chocolate_-_02_BD_1080p_BBT-RMX.mp4&token=y2TFmcPZF0tR0Vj6LyPAfA&expires=1729097136",
+                        "quality": "BBT-RMX · 1080p BD",
+                        "videoUrl": "https://eu-08.files.nextcdn.org/get/08/01/fd54e2638371b00468f285a7a3c770542ddf06b939552ab9466c5cb3b93bac59?file=AnimePahe_Tokyo_Marble_Chocolate_-_02_BD_1080p_BBT-RMX.mp4&token=y2TFmcPZF0tR0Vj6LyPAfA&expires=1729097136"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/57b80f9447fbcada04e6cdc96db35d355acad0db51f3a6aef954e45015d50c82?file=AnimePahe_Shi_Cao_Lao_Long_Bei_Guan_Yi_E_Long_Zhi_Ming_2nd_Season_-_03_720p_SubsPlease.mp4&token=Rlp4JOmJwWbgUaIFgLb3IQ&expires=1729074743",
-                        "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/57b80f9447fbcada04e6cdc96db35d355acad0db51f3a6aef954e45015d50c82?file=AnimePahe_Shi_Cao_Lao_Long_Bei_Guan_Yi_E_Long_Zhi_Ming_2nd_Season_-_03_720p_SubsPlease.mp4&token=Rlp4JOmJwWbgUaIFgLb3IQ&expires=1729074743"
+                        "url": "https://eu-08.files.nextcdn.org/get/08/01/344d1907ae712bacacec8970c6d7a113e3ff0280c0f16c334cf614561a07657d?file=AnimePahe_Tokyo_Marble_Chocolate_-_02_BD_720p_BBT-RMX.mp4&token=0_rqae-3mndEP_r7BG4mQQ&expires=1729097135",
+                        "quality": "BBT-RMX · 720p BD",
+                        "videoUrl": "https://eu-08.files.nextcdn.org/get/08/01/344d1907ae712bacacec8970c6d7a113e3ff0280c0f16c334cf614561a07657d?file=AnimePahe_Tokyo_Marble_Chocolate_-_02_BD_720p_BBT-RMX.mp4&token=0_rqae-3mndEP_r7BG4mQQ&expires=1729097135"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/6c632c011261ad949186806d30ac5ccbd97700ce40a6c5feb65030997e7c667e?file=AnimePahe_Shi_Cao_Lao_Long_Bei_Guan_Yi_E_Long_Zhi_Ming_2nd_Season_-_03_360p_SubsPlease.mp4&token=2y8lCyJgvZ08RhzeXDl3rQ&expires=1729074741",
-                        "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/6c632c011261ad949186806d30ac5ccbd97700ce40a6c5feb65030997e7c667e?file=AnimePahe_Shi_Cao_Lao_Long_Bei_Guan_Yi_E_Long_Zhi_Ming_2nd_Season_-_03_360p_SubsPlease.mp4&token=2y8lCyJgvZ08RhzeXDl3rQ&expires=1729074741"
+                        "url": "https://eu-08.files.nextcdn.org/get/08/01/c2272ca237b3c195f18e0fe49184f6d244c7e60904d118e16f8964e59fa3508b?file=AnimePahe_Tokyo_Marble_Chocolate_-_02_BD_360p_BBT-RMX.mp4&token=ydfUWFzwqmzNGC_HcPTQuQ&expires=1729097134",
+                        "quality": "BBT-RMX · 360p BD",
+                        "videoUrl": "https://eu-08.files.nextcdn.org/get/08/01/c2272ca237b3c195f18e0fe49184f6d244c7e60904d118e16f8964e59fa3508b?file=AnimePahe_Tokyo_Marble_Chocolate_-_02_BD_360p_BBT-RMX.mp4&token=ydfUWFzwqmzNGC_HcPTQuQ&expires=1729097134"
                     }
                 ],
                 "passed": true
