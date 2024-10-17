@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/68/Black_Cat",
+                                "title": "Black Cat",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1183/133280l.jpg"
+                            },
+                            {
                                 "url": "/anime/52093/Trigun_Stampede",
                                 "title": "Trigun Stampede",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1426/129194l.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/1132/Digimon_Frontier",
                                 "title": "Digimon Frontier",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1048/117727l.jpg"
-                            },
-                            {
-                                "url": "/anime/1313/Digimon_Adventure_02",
-                                "title": "Digimon Adventure 02",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/8/20360l.jpg"
                             }
                         ],
                         "hasNextPage": true
