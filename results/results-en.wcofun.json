@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ark-the-animated-series",
+                                "title": "Ark: The Animated Series",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933779.jpg"
+                            },
+                            {
                                 "url": "/anime/tying-the-knot-with-an-amagami-sister",
                                 "title": "Tying the Knot with an Amagami Sister",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933778.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/marblegen",
                                 "title": "Marblegen",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933764.jpg"
-                            },
-                            {
-                                "url": "/anime/hoshifuru-oukoku-no-nina",
-                                "title": "Hoshifuru Oukoku no Nina",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933763.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/tying-the-knot-with-an-amagami-sister",
-                    "title": "Tying the Knot with an Amagami Sister",
-                    "description": "Uryuu Kamihate has had a rough start to life, but plans to forget it all by achieving his dream—matriculating into medical school. But when he arrives at his new foster home, a working shrine, his dream of a quiet place to study goes up in smoke. Not only will he be living with the three beautiful, lively Amagami sisters—but he learns that he must marry one of them and take over the temple!",
-                    "genre": "Comedy, Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933778.jpg",
+                    "url": "/anime/ark-the-animated-series",
+                    "title": "Ark: The Animated Series",
+                    "description": "Follow Survivor and protagonist Helena Walker after her initial awakening on The Island.",
+                    "genre": "Action, Adventure, Animation, Drama, Fantasy, Sci-fi, Science Fantasy, Thriller, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933779.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,9 +616,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/tying-the-knot-with-an-amagami-sister-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
+                        "url": "/ark-the-animated-series-episode-6-element-6",
+                        "name": "Season 1 - Episode 6",
+                        "episode_number": 106.0
+                    },
+                    {
+                        "url": "/ark-the-animated-series-episode-5-element-5",
+                        "name": "Season 1 - Episode 5",
+                        "episode_number": 105.0
                     }
                 ],
                 "passed": true
@@ -626,19 +631,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gwxAbDqKYyIwDppTsp490mmd5fIiUIrEbef8glUPgL43O96BPMl9NvPniZVpJ9FD3z4wu4Mz3X_hcQyKi06IotmyUnU2SQn1Z-OZfVBu1OIibnUHTyiBbX_HPbtYBtStNG-zGleAT888bpUjsyJcznb9H2f4pJezR1YSodnMCnPnK4XC_ARQMMmU_kOCQW90ZbY4P8RqEGF4jX4HyalzcM1jLW3J03uGByb4aht8cUsPDReghpFFQpRFk4K-pBhuZB0jI8NNIjKWwvnCLQIPLfgdjjmanXik8NLUkGo9X-30R6FmriNJUCZojQOxbqKd1_l4FQQUezA0_sI4u9cA6ZZaKOg7snLrdauEkPtZhYpKicxDjZ8TUdxnCFvL7MnCGgVsePHk9AQi3bMj0U9_ISBDV6lCY_0efzVtswzyBMxW6LrCUfV9UznJDqnt_OlBHH553j3FVbEC6LEKCQMGNh",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqFZ82eJ_lVRyhiJnEZ1kBTrlu0V7k1Y2O7Xb51JuHS2Mo2bqnKl1X7eDQX8856NVEuazcRbyUfxqRrSPnSsKdQqRWJcTIQ7rpEqsVoSlwCyEx2S7ZGzoEXE0dQjfkD1XIH5uzRSUXamIVNp_5HL7BYOEIOomi7mLN2UJVHfCDO7fY9Qkdq5xG7ym95CDZigflWfqBfYVNbkqSTwoin7amivbSxME6_b1-Zo2tnD-KT3_g1wykuyFnq5cQ8scqehfbTAJEVRGjyS3DF5sWS0gvvQvKugaVTtEC4pqyqk_FLas5bB60p2klYwezgiLYL_v53NQzpo0uDx3GnvHCSt5Eku6fOBp6H6TntrNfk4WTRjKYvuCwh1Alf2H624K7A2-9resHJhYhYkV5DBq1jRYx0",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gwxAbDqKYyIwDppTsp490mmd5fIiUIrEbef8glUPgL43O96BPMl9NvPniZVpJ9FD3z4wu4Mz3X_hcQyKi06IotmyUnU2SQn1Z-OZfVBu1OIibnUHTyiBbX_HPbtYBtStNG-zGleAT888bpUjsyJcznb9H2f4pJezR1YSodnMCnPnK4XC_ARQMMmU_kOCQW90ZbY4P8RqEGF4jX4HyalzcM1jLW3J03uGByb4aht8cUsPDReghpFFQpRFk4K-pBhuZB0jI8NNIjKWwvnCLQIPLfgdjjmanXik8NLUkGo9X-30R6FmriNJUCZojQOxbqKd1_l4FQQUezA0_sI4u9cA6ZZaKOg7snLrdauEkPtZhYpKicxDjZ8TUdxnCFvL7MnCGgVsePHk9AQi3bMj0U9_ISBDV6lCY_0efzVtswzyBMxW6LrCUfV9UznJDqnt_OlBHH553j3FVbEC6LEKCQMGNh"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqFZ82eJ_lVRyhiJnEZ1kBTrlu0V7k1Y2O7Xb51JuHS2Mo2bqnKl1X7eDQX8856NVEuazcRbyUfxqRrSPnSsKdQqRWJcTIQ7rpEqsVoSlwCyEx2S7ZGzoEXE0dQjfkD1XIH5uzRSUXamIVNp_5HL7BYOEIOomi7mLN2UJVHfCDO7fY9Qkdq5xG7ym95CDZigflWfqBfYVNbkqSTwoin7amivbSxME6_b1-Zo2tnD-KT3_g1wykuyFnq5cQ8scqehfbTAJEVRGjyS3DF5sWS0gvvQvKugaVTtEC4pqyqk_FLas5bB60p2klYwezgiLYL_v53NQzpo0uDx3GnvHCSt5Eku6fOBp6H6TntrNfk4WTRjKYvuCwh1Alf2H624K7A2-9resHJhYhYkV5DBq1jRYx0"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gwxAbDqKYyIwDppTsp490mmd5fIiUIrEbef8glUPgL43O96BPMl9NvPniZVpJ9FD3z4wu4Mz3X_hcQyKi06IotmyUnU2SQn1Z-OZfVBu1OIibnUHTyiBbX_HPbtYBtStNG-zGleAT888bpUjsyJcznb9H2f4pJezR1YSodnMCnPnK4XC_ARQMMmU_kOCQW90aldxN-fZn50YRmzGqOSn4PdpkBQcL3o9It0wNGbcI-6vcgNBU8NP4z6DEeWlYXpd3QMJYwJ9as2FBcgJSGDGwnGW2B9RTR6qOYmN0aaTI2ECMw0UZKvz-46FPjepuB-XVZaB8SUMlBTqD_S4ZSVqGlW5vNRUcWF28_jQq_uN7UyXITe6f-Cfj5XJYnDKWYkEq9oEmmza5qLF0gTKXaTgG5L6bha1MHottmdsYxgRfczb5jvmJK8Djm43vuY2yr5NfemFX-UciLgkcC_Vd6T2fR",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqFZ82eJ_lVRyhiJnEZ1kBTrlu0V7k1Y2O7Xb51JuHS2Mo2bqnKl1X7eDQX8856NVEuazcRbyUfxqRrSPnSsKdQqRWJcTIQ7rpEqsVoSlwCy-hcNM8zTJCBQZNTXNd2JpFJqLW-sOvuI2VQExJqEWJhqDj-4VJHexrM98xH-xLuWR4GRz7S8_iiRooTkvqlLuF0E9Y0mySgzUSVgFj6bDHxPD280nQh5H_BA8nchzywDv2q351knoUpS-eMADGmcA-59zTvnEexbIRcyvf-0xyE3MydST0C3RVbUa2sFAePaZFbK_RZ3iChSEpvB4Rrjmpiv5Yk_TJf4HUu8N5cjhgvBLX2elL1_vMf9vMlCPQUpzffli60cGddvrDpGGVjyr24GvUgRRuopoFrJ94h7N3I",
                         "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gwxAbDqKYyIwDppTsp490mmd5fIiUIrEbef8glUPgL43O96BPMl9NvPniZVpJ9FD3z4wu4Mz3X_hcQyKi06IotmyUnU2SQn1Z-OZfVBu1OIibnUHTyiBbX_HPbtYBtStNG-zGleAT888bpUjsyJcznb9H2f4pJezR1YSodnMCnPnK4XC_ARQMMmU_kOCQW90aldxN-fZn50YRmzGqOSn4PdpkBQcL3o9It0wNGbcI-6vcgNBU8NP4z6DEeWlYXpd3QMJYwJ9as2FBcgJSGDGwnGW2B9RTR6qOYmN0aaTI2ECMw0UZKvz-46FPjepuB-XVZaB8SUMlBTqD_S4ZSVqGlW5vNRUcWF28_jQq_uN7UyXITe6f-Cfj5XJYnDKWYkEq9oEmmza5qLF0gTKXaTgG5L6bha1MHottmdsYxgRfczb5jvmJK8Djm43vuY2yr5NfemFX-UciLgkcC_Vd6T2fR"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqFZ82eJ_lVRyhiJnEZ1kBTrlu0V7k1Y2O7Xb51JuHS2Mo2bqnKl1X7eDQX8856NVEuazcRbyUfxqRrSPnSsKdQqRWJcTIQ7rpEqsVoSlwCy-hcNM8zTJCBQZNTXNd2JpFJqLW-sOvuI2VQExJqEWJhqDj-4VJHexrM98xH-xLuWR4GRz7S8_iiRooTkvqlLuF0E9Y0mySgzUSVgFj6bDHxPD280nQh5H_BA8nchzywDv2q351knoUpS-eMADGmcA-59zTvnEexbIRcyvf-0xyE3MydST0C3RVbUa2sFAePaZFbK_RZ3iChSEpvB4Rrjmpiv5Yk_TJf4HUu8N5cjhgvBLX2elL1_vMf9vMlCPQUpzffli60cGddvrDpGGVjyr24GvUgRRuopoFrJ94h7N3I"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gwxAbDqKYyIwDppTsp490mmd5fIiUIrEbef8glUPgL43O96BPMl9NvPniZVpJ9FD3z4wu4Mz3X_hcQyKi06IotmyUnU2SQn1Z-OZfVBu1OIibnUHTyiBbX_HPbtYBtStNG-zGleAT888bpUjsyJcznb9H2f4pJezR1YSodnMCnPnK4XC_ARQMMmU_kOCQW90ZDRAs_LJ13AY7TwUuF3py7415kmAxudmJZEo2I8RD-K_B6t56egRUyYpfjbp_1kEvTSza0vKc9FwXkbfuzac1bFLZtbH29XB7znYVaYR5gLaR9d0xSips1MRGV-OaAKgQYN2euIcJAeWoYRmAh1T4LwqtriURM_Akk7hqpHxNO3C_k928nk6fByg6hgQNyKFtUmQ48m27BKTD2h9r_cHJVfZ6FvShDoDNDuGHM33_7iXCLaXo6vap_CRcLSxRjY0fFzy3IIypeueOtwL_4S7PJ",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqFZ82eJ_lVRyhiJnEZ1kBTrlu0V7k1Y2O7Xb51JuHS2Mo2bqnKl1X7eDQX8856NVEuazcRbyUfxqRrSPnSsKdQqRWJcTIQ7rpEqsVoSlwCy41Y4n07W8awkzfI5UMNtV5XZIU2DnViUvCHwJDMBBZ-D9qbE6caSXCS6q5-hmQl-qeiVzzpS5p1kWzfJ_QPywUF6EZoLVd78CtiRYYFFxR24R8Nfzvb0_164yjFEiIkQ1Zq-Wd1Cgx69aHvdWlawF1_80g7aIdQ9FeN7DGknfE5H8Vy73UkwzjqA8e_IYnTD2sNP543t_FfCltIvW_OnOG2TD26s85aVEBpdlfbF5hZv8PUx6Xyd0UJ6F1qXVaeBkoOOyctBKxL4zrlhpS-lZA",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gwxAbDqKYyIwDppTsp490mmd5fIiUIrEbef8glUPgL43O96BPMl9NvPniZVpJ9FD3z4wu4Mz3X_hcQyKi06IotmyUnU2SQn1Z-OZfVBu1OIibnUHTyiBbX_HPbtYBtStNG-zGleAT888bpUjsyJcznb9H2f4pJezR1YSodnMCnPnK4XC_ARQMMmU_kOCQW90ZDRAs_LJ13AY7TwUuF3py7415kmAxudmJZEo2I8RD-K_B6t56egRUyYpfjbp_1kEvTSza0vKc9FwXkbfuzac1bFLZtbH29XB7znYVaYR5gLaR9d0xSips1MRGV-OaAKgQYN2euIcJAeWoYRmAh1T4LwqtriURM_Akk7hqpHxNO3C_k928nk6fByg6hgQNyKFtUmQ48m27BKTD2h9r_cHJVfZ6FvShDoDNDuGHM33_7iXCLaXo6vap_CRcLSxRjY0fFzy3IIypeueOtwL_4S7PJ"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqFZ82eJ_lVRyhiJnEZ1kBTrlu0V7k1Y2O7Xb51JuHS2Mo2bqnKl1X7eDQX8856NVEuazcRbyUfxqRrSPnSsKdQqRWJcTIQ7rpEqsVoSlwCy41Y4n07W8awkzfI5UMNtV5XZIU2DnViUvCHwJDMBBZ-D9qbE6caSXCS6q5-hmQl-qeiVzzpS5p1kWzfJ_QPywUF6EZoLVd78CtiRYYFFxR24R8Nfzvb0_164yjFEiIkQ1Zq-Wd1Cgx69aHvdWlawF1_80g7aIdQ9FeN7DGknfE5H8Vy73UkwzjqA8e_IYnTD2sNP543t_FfCltIvW_OnOG2TD26s85aVEBpdlfbF5hZv8PUx6Xyd0UJ6F1qXVaeBkoOOyctBKxL4zrlhpS-lZA"
                     }
                 ],
                 "passed": true
