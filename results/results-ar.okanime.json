@@ -117,6 +117,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/mecha-ude-tv/",
+                                "title": "Mecha-ude (TV)",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Mecha-ude-TV--66fed6fe521ff.jpg"
+                            },
+                            {
+                                "url": "/anime/kekkon-suru-tte-hontou-desu-ka/",
+                                "title": "Kekkon suru tte, Hontou desu ka",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Kekkon-suru-tte-Hontou-desu-ka-66fec43df02a9.jpg"
+                            },
+                            {
+                                "url": "/anime/dandadan/",
+                                "title": "Dandadan",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Dandadan-66fecd9ecdf8d.jpg"
+                            },
+                            {
+                                "url": "/anime/kamierabi-2nd-season/",
+                                "title": "Kamierabi 2nd Season",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Kamierabi-2nd-Season-66fe7decd389e.jpg"
+                            },
+                            {
+                                "url": "/anime/acro-trip/",
+                                "title": "Acro Trip",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Acro-Trip-66fe7941cb65a.jpg"
+                            },
+                            {
+                                "url": "/anime/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season/",
+                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi-2nd-Season-670bad24c46c9.jpg"
+                            },
+                            {
                                 "url": "/anime/tsuma-shougakusei-ni-naru/",
                                 "title": "Tsuma, Shougakusei ni Naru.",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Tsuma-Shougakusei-ni-Naru--6702add7c93a3.jpg"
@@ -285,36 +315,6 @@
                                 "url": "/anime/fairy-tail-100-nen-quest/",
                                 "title": "Fairy Tail: 100-nen Quest",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Fairy-Tail-100-nen-Quest-668ab53b3d4a6.jpg"
-                            },
-                            {
-                                "url": "/anime/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season/",
-                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi-2nd-Season-670bad24c46c9.jpg"
-                            },
-                            {
-                                "url": "/anime/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season/",
-                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Shangri-La-Frontier-Kusoge-Hunter-Kamige-ni-Idoman-to-su-2nd-Season-670b9a6386d53.jpg"
-                            },
-                            {
-                                "url": "/anime/one-piece/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-One-Piece-5f09e7d64ad90.jpg"
-                            },
-                            {
-                                "url": "/anime/hitoribocchi-no-isekai-kouryaku/",
-                                "title": "Hitoribocchi no Isekai Kouryaku",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Hitoribocchi-no-Isekai-Kouryaku-66f6e931cd752.jpg"
-                            },
-                            {
-                                "url": "/anime/detective-conan/",
-                                "title": "Detective Conan",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Detective-Conan-5f08ee93df2fb.jpg"
-                            },
-                            {
-                                "url": "/anime/kimi-wa-meido-sama/",
-                                "title": "Kimi wa Meido-sama.",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Kimi-wa-Meido-sama--67014a4d6ed84.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -438,27 +438,27 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a4.mp4upload.com:183/d/xkx7duejz3b4quuopkreuikeju4vtfftjwjpovsgw2macazjh3krdluqfchvva6lyjwue2l7/video.mp4",
+                        "url": "https://a4.mp4upload.com:183/d/xkx7duejz3b4quuopkreuikeju4vtfftjwjpovsgw2maca3wfajndtndsabkxj4pvb6fhwx2/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkx7duejz3b4quuopkreuikeju4vtfftjwjpovsgw2macazjh3krdluqfchvva6lyjwue2l7/video.mp4",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkx7duejz3b4quuopkreuikeju4vtfftjwjpovsgw2maca3wfajndtndsabkxj4pvb6fhwx2/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://a1.mp4upload.com:183/d/x2x7puejz3b4quuopkrb2jchi6xdwbuz6ephbkmwuv7kba5zuqcy4yvn6ov3x3b7tmjfz7k6/video.mp4",
+                        "url": "https://a1.mp4upload.com:183/d/x2x7puejz3b4quuopkrb2jchi6xdwbuz6ephbkmwuv7kba7gwlb5lopubdyffjarjxy4ua6q/video.mp4",
                         "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x7puejz3b4quuopkrb2jchi6xdwbuz6ephbkmwuv7kba5zuqcy4yvn6ov3x3b7tmjfz7k6/video.mp4",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x7puejz3b4quuopkrb2jchi6xdwbuz6ephbkmwuv7kba7gwlb5lopubdyffjarjxy4ua6q/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://a3.mp4upload.com:183/d/xsx7huejz3b4quuopkrbop2fkdnb34zwnihb5pikvbwzqudv4u4i4mvedcjwet6y7z5gk3lm/video.mp4",
+                        "url": "https://a3.mp4upload.com:183/d/xsx7huejz3b4quuopkrbop2fkdnb34zwnihb5pikvbwzqubk6p7bbcef6tasizrzt7hv55cz/video.mp4",
                         "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx7huejz3b4quuopkrbop2fkdnb34zwnihb5pikvbwzqudv4u4i4mvedcjwet6y7z5gk3lm/video.mp4",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx7huejz3b4quuopkrbop2fkdnb34zwnihb5pikvbwzqubk6p7bbcef6tasizrzt7hv55cz/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"

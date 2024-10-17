@@ -252,6 +252,11 @@
                                 "thumbnail_url": "https://prod-images.viu.com/3539505242/3f0b34521daca8433c603ad09581fc79b6dbad51?im=Resize,width=1920"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9585?isq=false",
+                                "title": "Fourever You (Uncut Ver.)",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/1ci6pha8sn1tf5h1727691402699/0"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/9708?isq=false",
                                 "title": "Let Free the Curse of Taekwondo",
                                 "thumbnail_url": "https://img.gagaoolala.com/media/407356a3-627920-lg.jpg"
@@ -310,6 +315,11 @@
                                 "url": "/api/DramaList/Drama/9699?isq=false",
                                 "title": "Substitute Bride - The Killer Bride",
                                 "thumbnail_url": "https://im.gurl.eu.org/file/4bb7d3a4572a04025a273-f1d29b3d8513e5e2b2.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9607?isq=false",
+                                "title": "Dandadan - Dan Da Dan",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/7VQGc2NEAmmvUEDEkRqi7c9E3vu.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9680?isq=false",
@@ -405,16 +415,6 @@
                                 "url": "/api/DramaList/Drama/9598?isq=false",
                                 "title": "High School Frenemy",
                                 "thumbnail_url": "https://prod-images.viu.com/3402213068/b07be2cf541f7ae4f7d103b078aa456eb8071524?im=Resize,width=1920"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9498?isq=false",
-                                "title": "Dear Hyeri",
-                                "thumbnail_url": "https://prod-images.viu.com/1627708906/502dc6633309910fa18b8adfcc88d58c030a2a80?im=Resize,width=1920"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9531?isq=false",
-                                "title": "Love Is a Poison - Doku Koi: Doku mo Sugireba Koi to Naru",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/t9Pia597dvRElFk6gs2UhRHOAKs.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -571,23 +571,23 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "file:///tmp/subs1606292405319222355srt",
+                                "url": "file:///tmp/subs9920689261313527941srt",
                                 "lang": "English"
                             },
                             {
-                                "url": "file:///tmp/subs5416230228874421309srt",
+                                "url": "file:///tmp/subs13626001229513851730srt",
                                 "lang": "Khmer"
                             },
                             {
-                                "url": "file:///tmp/subs6836046920532107743srt",
+                                "url": "file:///tmp/subs13554561208918447785srt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "file:///tmp/subs16891866768554123000srt",
+                                "url": "file:///tmp/subs424125867533753922srt",
                                 "lang": "Indonesia"
                             },
                             {
-                                "url": "file:///tmp/subs10590749449174065372srt",
+                                "url": "file:///tmp/subs11232977692640820139srt",
                                 "lang": "Malay"
                             }
                         ]
