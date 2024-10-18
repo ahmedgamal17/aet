@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5726",
+                                "title": "Hyakushou Kizoku 2nd Season",
+                                "artist": "Seigyoku",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/0a367a8f23710581275f3cddb8af4455e99427e61a8fd652daa698426f9c340f.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5706",
+                                "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/1068601b1986e66eda03292a036e861a6d1c7770b4b2a775b26a084d95823fa6.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5693",
+                                "title": "The iDOLM@STER Shiny Colors 2nd Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f6f1c30dc3db089ac1efabf63eace0f628992977706ef7181103da497c38b563.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5657",
+                                "title": "Dragon Ball Daima",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/6d0cb7be0260e25c83543073eee0a3b337d8373d4e845ced77d4cfd6517b5bfb.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5654",
+                                "title": "Sword Art Online Alternative: Gun Gale Online II",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/e5484f350ae887dffa2c146a9f29a87640fd2c6390f0072e99955fbd505b44e2.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5740",
                                 "title": "Yakitori",
                                 "artist": "Netflix",
@@ -47,36 +77,6 @@
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/cafdca5cff7fd41e8a140dd5794dbfd796c6e88c0b31d9304b77ff9f9da693a3.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=4889",
-                                "title": "Chiikawa",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/96a925b3220128742c914a24d362572c33ad43f2022579c000cd71bc4a6c8066.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5698",
-                                "title": "Trillion Game",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/4e3e71599a124ea871a1322fcbbea99046f68155bbefe19f0dbd02e18b99c6b4.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5676",
-                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f83f3f30b0eea4a64194c0f36b759d5b7ca0defb5a0c2ad30f7bda30ca8090c4.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5683",
-                                "title": "Mecha-ude (TV)",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/fafbafb2b80cf66762e25f516cadab778a71bc7d221e61a5e4c343c676d18b1f.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5649",
-                                "title": "Dandadan",
-                                "artist": "Yameii",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c8eee7402d8696e98e8effb3230c82abd4a5714617240058042667264d151957.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5726",
+                                "title": "Hyakushou Kizoku 2nd Season",
+                                "artist": "Seigyoku",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/0a367a8f23710581275f3cddb8af4455e99427e61a8fd652daa698426f9c340f.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5706",
+                                "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/1068601b1986e66eda03292a036e861a6d1c7770b4b2a775b26a084d95823fa6.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5693",
+                                "title": "The iDOLM@STER Shiny Colors 2nd Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f6f1c30dc3db089ac1efabf63eace0f628992977706ef7181103da497c38b563.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5657",
+                                "title": "Dragon Ball Daima",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/6d0cb7be0260e25c83543073eee0a3b337d8373d4e845ced77d4cfd6517b5bfb.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5654",
+                                "title": "Sword Art Online Alternative: Gun Gale Online II",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/e5484f350ae887dffa2c146a9f29a87640fd2c6390f0072e99955fbd505b44e2.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5740",
                                 "title": "Yakitori",
                                 "artist": "Netflix",
@@ -129,36 +159,6 @@
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/cafdca5cff7fd41e8a140dd5794dbfd796c6e88c0b31d9304b77ff9f9da693a3.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=4889",
-                                "title": "Chiikawa",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/96a925b3220128742c914a24d362572c33ad43f2022579c000cd71bc4a6c8066.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5698",
-                                "title": "Trillion Game",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/4e3e71599a124ea871a1322fcbbea99046f68155bbefe19f0dbd02e18b99c6b4.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5676",
-                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f83f3f30b0eea4a64194c0f36b759d5b7ca0defb5a0c2ad30f7bda30ca8090c4.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5683",
-                                "title": "Mecha-ude (TV)",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/fafbafb2b80cf66762e25f516cadab778a71bc7d221e61a5e4c343c676d18b1f.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5649",
-                                "title": "Dandadan",
-                                "artist": "Yameii",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c8eee7402d8696e98e8effb3230c82abd4a5714617240058042667264d151957.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5740",
-                    "title": "Yakitori",
-                    "author": "ARECT",
-                    "description": "With Earth colonized by a superior alien civilization, Akira's only chance at a better future is to enlist as an expendable Yakitori foot soldier. (Source: Netflix)",
-                    "genre": "Action, Sci-Fi",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/4244ff619b8c29315943fdfbc4f06d64f4fd4e0584b49b7f40d6ae1e027b67d6.jpg",
+                    "url": "/anime/?anime_id=5726",
+                    "title": "Hyakushou Kizoku 2nd Season",
+                    "author": "Pie in the sky",
+                    "description": "Second season of Hyakushou Kizoku.\n\nSynonyms: Noble Farmer Season 2",
+                    "genre": "Comedy",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/d552315fdfc79dd500a027b49908923c6f60b200bc4ce6045a746627b750ee63.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/ec5894bd-7050-95d2-54ac-b416e771f760/260e99529ceee2707cf3583f64143506b87ec119381686072d770dcb81021785",
-                        "name": "Episode 6",
-                        "date_upload": 1729234642000,
-                        "episode_number": 6.0
+                        "url": "/play/420a7141-bfe3-6932-ee90-3d3c0fb653d7/85c632fdae2734ff9285e35463c4a59309ddb25b596b3add6fef1a47ba838787",
+                        "name": "Episode 17",
+                        "date_upload": 1729275222000,
+                        "episode_number": 17.0
                     },
                     {
-                        "url": "/play/ec5894bd-7050-95d2-54ac-b416e771f760/a9717dfea75c231c9bee42d57e9f455ab9d53f75aedadf4d927d5d5de5105f01",
-                        "name": "Episode 5",
-                        "date_upload": 1729234618000,
-                        "episode_number": 5.0
+                        "url": "/play/420a7141-bfe3-6932-ee90-3d3c0fb653d7/b451a1202a767b0017abb61ef76a31f843e61820787334000d9c50405905c6b2",
+                        "name": "Episode 16",
+                        "date_upload": 1729148562000,
+                        "episode_number": 16.0
                     }
                 ],
                 "passed": true
@@ -250,24 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://eu-08.files.nextcdn.org/get/08/03/3cb8dc8eda38a76460c43a40be65334bf6636ab3e6f0e86287fd6cff01bce94d?file=AnimePahe_Yakitori_-_06_1080p_Netflix.mp4&token=-DSHbaD0t2huAhAFKFgljQ&expires=1729269877",
-                        "quality": "Netflix · 1080p",
-                        "videoUrl": "https://eu-08.files.nextcdn.org/get/08/03/3cb8dc8eda38a76460c43a40be65334bf6636ab3e6f0e86287fd6cff01bce94d?file=AnimePahe_Yakitori_-_06_1080p_Netflix.mp4&token=-DSHbaD0t2huAhAFKFgljQ&expires=1729269877"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/1d0ced68219dd2e0cced88436c044b5d62dde7772e71c1a70da79172d47f60b9?file=AnimePahe_Hyakushou_Kizoku_-_17_1080p_Seigyoku.mp4&token=SY7Lesx9_RW4NKDvKYmOQQ&expires=1729290695",
+                        "quality": "Seigyoku · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/1d0ced68219dd2e0cced88436c044b5d62dde7772e71c1a70da79172d47f60b9?file=AnimePahe_Hyakushou_Kizoku_-_17_1080p_Seigyoku.mp4&token=SY7Lesx9_RW4NKDvKYmOQQ&expires=1729290695"
                     },
                     {
-                        "url": "https://eu-08.files.nextcdn.org/get/08/03/e9af36e91c9167d4294296e87c5574cbb4e9ed423f5c54d85a6c588721cbc3fd?file=AnimePahe_Yakitori_Eng_Dub_-_06_1080p_Netflix.mp4&token=FxhdYKUBe5z_Lp85nMKPzA&expires=1729269880",
-                        "quality": "Netflix · 1080p eng",
-                        "videoUrl": "https://eu-08.files.nextcdn.org/get/08/03/e9af36e91c9167d4294296e87c5574cbb4e9ed423f5c54d85a6c588721cbc3fd?file=AnimePahe_Yakitori_Eng_Dub_-_06_1080p_Netflix.mp4&token=FxhdYKUBe5z_Lp85nMKPzA&expires=1729269880"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/42305262933d80b698d84db60ab73e93cba19f64a5329afa1884b58cdaaa3f89?file=AnimePahe_Hyakushou_Kizoku_-_17_720p_Seigyoku.mp4&token=xTGYnMQKKAQhDm7UCS6_yA&expires=1729290693",
+                        "quality": "Seigyoku · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/42305262933d80b698d84db60ab73e93cba19f64a5329afa1884b58cdaaa3f89?file=AnimePahe_Hyakushou_Kizoku_-_17_720p_Seigyoku.mp4&token=xTGYnMQKKAQhDm7UCS6_yA&expires=1729290693"
                     },
                     {
-                        "url": "https://eu-08.files.nextcdn.org/get/08/03/6ab25f95237b131fc003faa48ce791be8ad20d86d32b8f6c9e6ac40857497eae?file=AnimePahe_Yakitori_-_06_360p_Netflix.mp4&token=Qr63on9TRImreA8X4yS7Ew&expires=1729269876",
-                        "quality": "Netflix · 360p",
-                        "videoUrl": "https://eu-08.files.nextcdn.org/get/08/03/6ab25f95237b131fc003faa48ce791be8ad20d86d32b8f6c9e6ac40857497eae?file=AnimePahe_Yakitori_-_06_360p_Netflix.mp4&token=Qr63on9TRImreA8X4yS7Ew&expires=1729269876"
-                    },
-                    {
-                        "url": "https://eu-08.files.nextcdn.org/get/08/03/eaa6ad965ce850909939f716bdd8d660a4d3d2d9c1982d840a86d0ebfec9f60e?file=AnimePahe_Yakitori_Eng_Dub_-_06_360p_Netflix.mp4&token=0vGUq8xx_tvXFZizu_cL2A&expires=1729269878",
-                        "quality": "Netflix · 360p eng",
-                        "videoUrl": "https://eu-08.files.nextcdn.org/get/08/03/eaa6ad965ce850909939f716bdd8d660a4d3d2d9c1982d840a86d0ebfec9f60e?file=AnimePahe_Yakitori_Eng_Dub_-_06_360p_Netflix.mp4&token=0vGUq8xx_tvXFZizu_cL2A&expires=1729269878"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/d3f2c23d7f95c0bb1df8247027b933a09c9ee548c4322e94d698740710de0abe?file=AnimePahe_Hyakushou_Kizoku_-_17_360p_Seigyoku.mp4&token=Xwlkuil06khpUr87CzPI3A&expires=1729290691",
+                        "quality": "Seigyoku · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/d3f2c23d7f95c0bb1df8247027b933a09c9ee548c4322e94d698740710de0abe?file=AnimePahe_Hyakushou_Kizoku_-_17_360p_Seigyoku.mp4&token=Xwlkuil06khpUr87CzPI3A&expires=1729290691"
                     }
                 ],
                 "passed": true
