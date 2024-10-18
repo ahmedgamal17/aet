@@ -117,6 +117,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ji-yao-lu-qicheng-pian/",
+                                "title": "Ji Yao Lu: Qicheng Pian",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Ji-Yao-Lu-Qicheng-Pian-67085343cb8db.jpg"
+                            },
+                            {
+                                "url": "/anime/ji-yao-lu-qicheng-pian/",
+                                "title": "Ji Yao Lu: Qicheng Pian",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Ji-Yao-Lu-Qicheng-Pian-67085343cb8db.jpg"
+                            },
+                            {
                                 "url": "/anime/ao-no-hako/",
                                 "title": "Ao no Hako",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Ao-no-Hako-66fed24ea1b52.jpg"
@@ -305,16 +315,6 @@
                                 "url": "/anime/touhai-ura-rate-mahjong-touhai-roku/",
                                 "title": "Touhai: Ura Rate Mahjong Touhai Roku",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Touhai-Ura-Rate-Mahjong-Touhai-Roku-67003f2937d58.jpg"
-                            },
-                            {
-                                "url": "/anime/another-the-other-inga/",
-                                "title": "Another: The Other - Inga",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Another-The-Other-Inga-670c6b9e5676c.jpg"
-                            },
-                            {
-                                "url": "/anime/mf-ghost-2nd-season/",
-                                "title": "MF Ghost 2nd Season",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-MF-Ghost-2nd-Season-6702bd7d4f17b.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -438,27 +438,27 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a4.mp4upload.com:183/d/xkx7duejz3b4quuopkreuikeju4vtfftjwjpovsgw2maca7czhivs2oxqqkpx7g4kiqg3liw/video.mp4",
+                        "url": "https://a4.mp4upload.com:183/d/xkx7duejz3b4quuopkreuikeju4vtfftjwjpovsgw2mlta4wx6jyc4jvuwcmoklju3mko457/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkx7duejz3b4quuopkreuikeju4vtfftjwjpovsgw2maca7czhivs2oxqqkpx7g4kiqg3liw/video.mp4",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkx7duejz3b4quuopkreuikeju4vtfftjwjpovsgw2mlta4wx6jyc4jvuwcmoklju3mko457/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://a1.mp4upload.com:183/d/x2x7puejz3b4quuopkrb2jchi6xdwbuz6ephbkmwuv7kba3skmav36jehtiwnz3edje4jgmh/video.mp4",
+                        "url": "https://a1.mp4upload.com:183/d/x2x7puejz3b4quuopkrb2jchi6xdwbuz6ephbkmwuv7bqaygevbbm3un73ix3m75zgpix4p7/video.mp4",
                         "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x7puejz3b4quuopkrb2jchi6xdwbuz6ephbkmwuv7kba3skmav36jehtiwnz3edje4jgmh/video.mp4",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x7puejz3b4quuopkrb2jchi6xdwbuz6ephbkmwuv7bqaygevbbm3un73ix3m75zgpix4p7/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://a3.mp4upload.com:183/d/xsx7huejz3b4quuopkrbop2fkdnb34zwnihb5pikvbwzquf6ci6ooxvnvqqt4ey4hvzqdwjt/video.mp4",
+                        "url": "https://a3.mp4upload.com:183/d/xsx7huejz3b4quuopkrbop2fkdnb34zwnihb5pikvbwsbugkmr742ha6cxwfxk7oowtqly57/video.mp4",
                         "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx7huejz3b4quuopkrbop2fkdnb34zwnihb5pikvbwzquf6ci6ooxvnvqqt4ey4hvzqdwjt/video.mp4",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx7huejz3b4quuopkrbop2fkdnb34zwnihb5pikvbwsbugkmr742ha6cxwfxk7oowtqly57/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
