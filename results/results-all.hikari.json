@@ -167,6 +167,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/235/Meitantei_Conan",
+                                "title": "Meitantei Conan",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg"
+                            },
+                            {
+                                "url": "/anime/58714/Saikyou_no_Shienshoku_Wajutsushi_de_Aru_Ore_wa_Sekai_Saikyou_Clan_wo_Shitagaeru",
+                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1683/145446l.jpg"
+                            },
+                            {
+                                "url": "/anime/53033/Mecha-ude_TV",
+                                "title": "Mecha-ude (TV)",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1079/145918l.jpg"
+                            },
+                            {
                                 "url": "/anime/13939/Accel_World_EX",
                                 "title": "Accel World EX",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1451/127575l.jpg"
@@ -300,21 +315,6 @@
                                 "url": "/anime/38768/Black_Clover_Jump_Festa_2018_Special",
                                 "title": "Black Clover: Jump Festa 2018 Special",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1233/120615l.jpg"
-                            },
-                            {
-                                "url": "/anime/25285/Seireitsukai_no_Blade_Dance_Specials",
-                                "title": "Seireitsukai no Blade Dance Specials",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/6/64599l.jpg"
-                            },
-                            {
-                                "url": "/anime/750/Binchou-tan",
-                                "title": "Binchou-tan",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/10/61143l.jpg"
-                            },
-                            {
-                                "url": "/anime/2961/Digimon_Adventure_Movie",
-                                "title": "Digimon Adventure Movie",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/3/72452l.jpg"
                             }
                         ],
                         "hasNextPage": true
