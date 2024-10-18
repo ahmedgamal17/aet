@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5720",
+                                "title": "Ji Yao Lu: Qicheng Pian",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c39b90f1e266251a86a72c2e8f23f66bd94c02548a15e1c86ad16754b9cf100b.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5669",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
                                 "artist": "SubsPlease",
@@ -71,12 +77,6 @@
                                 "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/3813269ba8c2e8ac385c95fc069eadbb51ee1ee12cef7c96b1d2842965286d73.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5690",
-                                "title": "Kinoko Inu",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/564a136bad86f22733a1f4d53aa32ace6e1fdaf20569cec78ee79e521a1fdbb6.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5720",
+                                "title": "Ji Yao Lu: Qicheng Pian",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c39b90f1e266251a86a72c2e8f23f66bd94c02548a15e1c86ad16754b9cf100b.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5669",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
                                 "artist": "SubsPlease",
@@ -153,12 +159,6 @@
                                 "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/3813269ba8c2e8ac385c95fc069eadbb51ee1ee12cef7c96b1d2842965286d73.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5690",
-                                "title": "Kinoko Inu",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/564a136bad86f22733a1f4d53aa32ace6e1fdaf20569cec78ee79e521a1fdbb6.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5669",
-                    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-                    "author": "LIDENFILMS",
-                    "description": "Second season of Rurouni Kenshin: Meiji Kenkaku Romantan (2023).\n\nSynonyms: Rurouni Kenshin Season 2",
-                    "genre": "Action",
+                    "url": "/anime/?anime_id=5720",
+                    "title": "Ji Yao Lu: Qicheng Pian",
+                    "author": "Studio:",
+                    "description": "Follow Wu Chengen on his own legendary pilgrimage to the \"Western Regions\" in search of Enlightenment.\n\nSynonyms: Wu Chengen's Demon Recording, 吴承恩缉妖录",
+                    "genre": "Adventure, Comedy, Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/b11a0f29c9507e04ee425eff5f0689b5b8798fc4e5f9b30afb55d42dc3ba8463.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/b75fc5f407108a5a20194236e2190e899c6265b37c85f90390b9f380df4961d8.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/8e8741b5-d9e6-7a6a-6e2b-bda75ac6ad94/e228c5ed679fbae9b417e131dc40d496a4cf6128700535a73d1b0f2996bcb340",
-                        "name": "Episode 27",
-                        "date_upload": 1729188701000,
-                        "episode_number": 27.0
+                        "url": "/play/650bb626-9186-c4ca-34ef-07a4e362a537/383f106d92a9dee153b8b6eee4378162f79125b03e9e06c5e9aed2fdb35a1169",
+                        "name": "Episode 4",
+                        "date_upload": 1729201417000,
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/play/8e8741b5-d9e6-7a6a-6e2b-bda75ac6ad94/c18e9f68bbbe502f9de06cfde0ff4b6a38624223512149f3c587332187e8859b",
-                        "name": "Episode 26",
-                        "date_upload": 1728583986000,
-                        "episode_number": 26.0
+                        "url": "/play/650bb626-9186-c4ca-34ef-07a4e362a537/9fab053048d61f4b357441f546480a964b1e41e6ba0784020185162eb5dc034d",
+                        "name": "Episode 3",
+                        "date_upload": 1729190488000,
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/0ae249c69a330b78fe2fe059bbaaa011b723a636972ec475256da7f7368ef705?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_27_1080p_SubsPlease.mp4&token=CmNCKiDb4AL-TwBrZGFycg&expires=1729204213",
-                        "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/0ae249c69a330b78fe2fe059bbaaa011b723a636972ec475256da7f7368ef705?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_27_1080p_SubsPlease.mp4&token=CmNCKiDb4AL-TwBrZGFycg&expires=1729204213"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/db70a548900fdae5d54a6f68e04d4d6366cc96bbcb36b8dd1c2e5371bd84634c?file=AnimePahe_Ji_Yao_Lu_-_Qicheng_Pian_Chi_Dub_-_04_1080p_SubsPlease.mp4&token=_zpK42-kbIh9tFtWORizeg&expires=1729230458",
+                        "quality": "SubsPlease · 1080p chi",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/db70a548900fdae5d54a6f68e04d4d6366cc96bbcb36b8dd1c2e5371bd84634c?file=AnimePahe_Ji_Yao_Lu_-_Qicheng_Pian_Chi_Dub_-_04_1080p_SubsPlease.mp4&token=_zpK42-kbIh9tFtWORizeg&expires=1729230458"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/0e5618fd27c593ba893085253275dfaebe08eca3b91435dea97a020106c70bd4?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_27_720p_SubsPlease.mp4&token=3P9vgTGJEZXdTsM8qUcnmw&expires=1729204212",
-                        "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/0e5618fd27c593ba893085253275dfaebe08eca3b91435dea97a020106c70bd4?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_27_720p_SubsPlease.mp4&token=3P9vgTGJEZXdTsM8qUcnmw&expires=1729204212"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/dc08c8b03d2bd3bbe1da08aed9b2e3b158601c0fa10c2451ec202ef3a51e9ba9?file=AnimePahe_Ji_Yao_Lu_-_Qicheng_Pian_Chi_Dub_-_04_720p_SubsPlease.mp4&token=WDco8qde9T-uJfNrouXg8g&expires=1729230457",
+                        "quality": "SubsPlease · 720p chi",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/dc08c8b03d2bd3bbe1da08aed9b2e3b158601c0fa10c2451ec202ef3a51e9ba9?file=AnimePahe_Ji_Yao_Lu_-_Qicheng_Pian_Chi_Dub_-_04_720p_SubsPlease.mp4&token=WDco8qde9T-uJfNrouXg8g&expires=1729230457"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/2b5e042a294e842367bea4dbe5e15b7d2d1607329388c50fa8c44b5ef6a99360?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_27_360p_SubsPlease.mp4&token=nY1ZwIBryqX94bhMIeCKKA&expires=1729204211",
-                        "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/2b5e042a294e842367bea4dbe5e15b7d2d1607329388c50fa8c44b5ef6a99360?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_27_360p_SubsPlease.mp4&token=nY1ZwIBryqX94bhMIeCKKA&expires=1729204211"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/5255056d956da2de214b553ab06588dc9ccaf3fc29b13922f45b1917870ba7b3?file=AnimePahe_Ji_Yao_Lu_-_Qicheng_Pian_Chi_Dub_-_04_360p_SubsPlease.mp4&token=K6fBq5s8W9tRDHAFD5311g&expires=1729230455",
+                        "quality": "SubsPlease · 360p chi",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/5255056d956da2de214b553ab06588dc9ccaf3fc29b13922f45b1917870ba7b3?file=AnimePahe_Ji_Yao_Lu_-_Qicheng_Pian_Chi_Dub_-_04_360p_SubsPlease.mp4&token=K6fBq5s8W9tRDHAFD5311g&expires=1729230455"
                     }
                 ],
                 "passed": true
