@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5255",
+                                "title": "Pokemon (2023)",
+                                "artist": "Some-Stuffs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7f4f8772d453ec3ec55e631d97ef27b6ffb8b66b9de596a7fb5d95d10a5acb57.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5691",
                                 "title": "Ooi! Tonbo 2nd Season",
                                 "artist": "Amazon",
@@ -71,12 +77,6 @@
                                 "title": "Rick and Morty: The Anime",
                                 "artist": "Amazon",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/02a25dcddd3511000ea750350dfddae34054a6e818f9415ecdcfea3cec59c00b.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5741",
-                                "title": "Hanma Baki: Son of Ogre 2nd Season",
-                                "artist": "Netflix",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/eb646fbc6732510c599643f10102bfb7da4e83be3ef75f32c2d5a0e049e1d7f7.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5255",
+                                "title": "Pokemon (2023)",
+                                "artist": "Some-Stuffs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7f4f8772d453ec3ec55e631d97ef27b6ffb8b66b9de596a7fb5d95d10a5acb57.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5691",
                                 "title": "Ooi! Tonbo 2nd Season",
                                 "artist": "Amazon",
@@ -153,12 +159,6 @@
                                 "title": "Rick and Morty: The Anime",
                                 "artist": "Amazon",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/02a25dcddd3511000ea750350dfddae34054a6e818f9415ecdcfea3cec59c00b.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5741",
-                                "title": "Hanma Baki: Son of Ogre 2nd Season",
-                                "artist": "Netflix",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/eb646fbc6732510c599643f10102bfb7da4e83be3ef75f32c2d5a0e049e1d7f7.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5691",
-                    "title": "Ooi! Tonbo 2nd Season",
+                    "url": "/anime/?anime_id=5255",
+                    "title": "Pokemon (2023)",
                     "author": "OLM",
-                    "description": "Tonbo leaves Tokara and sets off on a new golfing journey in Kumamoto! Ever since she left the island, Tonbo's life has been changing at dizzying speeds! After becoming a high school student and moving to Kumamoto for a new life, Tonbo's now playing a round with other junior golfers at the practice grounds. While Tonbo strategizes on the course using her freewheeling golfing style cultivated in Tokara, the skilled Hinoki, an experienced golfer one year older than Tonbo, is ready to fight back with everything she's got! A fierce showdown between the two is already underway. Tonbo's coach, Hajime, is amazed by her potential and decides to send her to compete in the Kyushu Women's Championship in May. Through playing golf with old rivals such as Tsubura, who she played a round with on the island, and new rivals like Hinoki, who she met in Kumamoto, Tonbo is ready to spread her wings even further!\n\nSynonyms: Hey! Tonbo, Oi! Tonbo",
-                    "genre": "Drama, Sports",
+                    "description": "In a world filled with strange yet majestic creatures known as Pokémon, a new adventure begins! Hailing from the pristine region of Paldea, the timid Liko travels to the Kanto region to attend the Indigo Academy and become a Pokémon trainer—a person who forms relationships with Pokémon and trains them to participate in battles. Soon, Liko acquires Nyahoja, a fickle Grass-type cat Pokémon, as her first partner. Prior to Liko's transfer to Kanto, her grandmother gives her a uniquely patterned and gleaming pendant as a protective charm. However, an enigmatic organization—The Explorers—seems to know a secret about the pendant and nearly succeeds in stealing it from Liko. Fortunately, she is rescued by the Rising Volt Tacklers, a group of adventurers led by a Lizardon-riding trainer named Friede. After a series of encounters with The Explorers, Liko decides to join Friede's team, accompanying him and his crew members on a grand journey across the regions. Along the way, they aim to unravel not only the mysteries of the world of Pokémon, but also the power that resides within her pendant.\n\nSynonyms: Pokémon: Liko to Roy no Tabidachi, Pocket Monsters: Liko to Roy no Tabidachi, Pokémon: Terapagos no Kagayaki, Pocket Monsters: Terapagos no Kagayaki, Pokemon Horizons: Liko and Roy's Departure, Pokemon Horizons: Terapagos' Gleam",
+                    "genre": "Action, Adventure, Comedy, Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/93676605c6d4e7e9a2e3efb112d86f218a01b05a2f320894f4bd8ce70c4230f9.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/953b72f3f33aab88eb5929aac777c1c47043110fd8bb29d8ec35cac7045d478d.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/fbb9eba5-19c7-7775-10d7-0e90f0990895/36f9bd7baf26bb33ce872a338af9a524c550ad1b3a4c025c398b70c7e849f768",
-                        "name": "Episode 15",
-                        "date_upload": 1728817898000,
-                        "episode_number": 15.0
+                        "url": "/play/7f13df13-99c4-e159-a4e0-4ba20b9ba067/7e602496554bd4a137d0df37e1ebf124838c7b2ba7d9fb98517283bd764cb26b",
+                        "name": "Episode 69",
+                        "date_upload": 1729310691000,
+                        "episode_number": 69.0
                     },
                     {
-                        "url": "/play/fbb9eba5-19c7-7775-10d7-0e90f0990895/22cc2aa792b0b9f7bc0502db2217e3cf1fb694c7114470cd88bbc2c98e9882ce",
-                        "name": "Episode 14",
-                        "date_upload": 1728815562000,
-                        "episode_number": 14.0
+                        "url": "/play/7f13df13-99c4-e159-a4e0-4ba20b9ba067/c6f3732a2ce3d1e475ee7dfd8e74cda6661f12a839799cd3718d36b9a0e1e39a",
+                        "name": "Episode 68",
+                        "date_upload": 1728706977000,
+                        "episode_number": 68.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/3b3a69642d4ab0dc3168f4d8759afe63513e5c83f60fbceec7ccfb361c7a9cb1?file=AnimePahe_Ooi_Tonbo_-_15_1080p_Amazon.mp4&token=4HJUHY490WEK6H4SYsaFvg&expires=1729316748",
-                        "quality": "Amazon · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/3b3a69642d4ab0dc3168f4d8759afe63513e5c83f60fbceec7ccfb361c7a9cb1?file=AnimePahe_Ooi_Tonbo_-_15_1080p_Amazon.mp4&token=4HJUHY490WEK6H4SYsaFvg&expires=1729316748"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/ad6c0708ba5b497ba10fb2b097238712c15984e5f5cd605b85fa32d76dd8251d?file=AnimePahe_Pokemon_2023_-_069_1080p_Some-Stuffs.mp4&token=ZUFMrV0HPD3Y8mZEDGYDbw&expires=1729333811",
+                        "quality": "Some-Stuffs · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/ad6c0708ba5b497ba10fb2b097238712c15984e5f5cd605b85fa32d76dd8251d?file=AnimePahe_Pokemon_2023_-_069_1080p_Some-Stuffs.mp4&token=ZUFMrV0HPD3Y8mZEDGYDbw&expires=1729333811"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/6d6f08791901f2c4fb26e482c0fd4bded15f4a0fbfa0915edfbdee91830244f7?file=AnimePahe_Ooi_Tonbo_-_15_720p_Amazon.mp4&token=rkmMVeMhQBPDfq6TerklrQ&expires=1729316746",
-                        "quality": "Amazon · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/6d6f08791901f2c4fb26e482c0fd4bded15f4a0fbfa0915edfbdee91830244f7?file=AnimePahe_Ooi_Tonbo_-_15_720p_Amazon.mp4&token=rkmMVeMhQBPDfq6TerklrQ&expires=1729316746"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/25e632be392f29903aac60d23a6a9b1e11fda676a6445301d77ad08c03da1fa9?file=AnimePahe_Pokemon_2023_-_069_720p_Some-Stuffs.mp4&token=uL-3_KcdWCs19jIvH2mDEQ&expires=1729333809",
+                        "quality": "Some-Stuffs · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/25e632be392f29903aac60d23a6a9b1e11fda676a6445301d77ad08c03da1fa9?file=AnimePahe_Pokemon_2023_-_069_720p_Some-Stuffs.mp4&token=uL-3_KcdWCs19jIvH2mDEQ&expires=1729333809"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/8ceebc9aed2cb3aeac14bf153798e3cb6feb3fb2289c7d81fcf61abdd52e435d?file=AnimePahe_Ooi_Tonbo_-_15_360p_Amazon.mp4&token=nKUMAKMzACw7AkL3iuVVbg&expires=1729316745",
-                        "quality": "Amazon · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/8ceebc9aed2cb3aeac14bf153798e3cb6feb3fb2289c7d81fcf61abdd52e435d?file=AnimePahe_Ooi_Tonbo_-_15_360p_Amazon.mp4&token=nKUMAKMzACw7AkL3iuVVbg&expires=1729316745"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/bfccf0f882c816afb5f8bf22548f9f88cf8c69b78c71cae3a292c3cb186f8ac7?file=AnimePahe_Pokemon_2023_-_069_360p_Some-Stuffs.mp4&token=k5aeQkilGEqy9roY2tK1qA&expires=1729333808",
+                        "quality": "Some-Stuffs · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/bfccf0f882c816afb5f8bf22548f9f88cf8c69b78c71cae3a292c3cb186f8ac7?file=AnimePahe_Pokemon_2023_-_069_360p_Some-Stuffs.mp4&token=k5aeQkilGEqy9roY2tK1qA&expires=1729333808"
                     }
                 ],
                 "passed": true
