@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ao-no-miburo",
+                                "title": "Ao no Miburo",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933785.jpg"
+                            },
+                            {
                                 "url": "/anime/trillion-game",
                                 "title": "Trillion Game",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933784.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/neko-ni-tensei-shita-ojisan",
                                 "title": "Neko ni Tensei shita Ojisan",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933770.jpg"
-                            },
-                            {
-                                "url": "/anime/youkai-gakkou-no-sensei-hajimemashita",
-                                "title": "Youkai Gakkou no Sensei Hajimemashita!",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933769.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/trillion-game",
-                    "title": "Trillion Game",
-                    "description": "Meet Haru Tennouji, a charismatic communicator beloved by all, regardless of age or gender. He may come across as easygoing, but beneath that façade lies an unwavering ambition for success. When offered a prestigious position at the nation’s largest IT company, “Dragon Bank,” he does the unexpected—turning it down in favor of embarking on an entrepreneurial journey alongside his friend, Manabu Taira. Their audacious objective: to amass a staggering 1 trillion dollars.",
-                    "genre": "Drama, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933784.jpg",
+                    "url": "/anime/ao-no-miburo",
+                    "title": "Ao no Miburo",
+                    "description": "It’s 1863, the twilight of the shogunate, and Japan is on the cusp of monumental change. The streets of the nation’s capital are soaked in blood as political upheaval and rising tensions between masterless, wandering ronin and government samurai set the stage for one of the most turbulent times in Japan’s history. Young orphan Nio is no stranger to the harsh realities of the world, and yet he can’t help but cling to his burning passion for justice and desire to change the world for the better.",
+                    "genre": "Action, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933785.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,12 +616,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/trillion-game-episode-2-english-dubbed",
-                        "name": "Season 1 - Episode 2",
-                        "episode_number": 102.0
-                    },
-                    {
-                        "url": "/trillion-game-episode-1-english-dubbed",
+                        "url": "/ao-no-miburo-episode-1-english-subbed",
                         "name": "Season 1 - Episode 1",
                         "episode_number": 101.0
                     }
@@ -631,19 +626,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gvEg9g_B0ey9PU8hQ6nVCoPtHaY-HURq0OnKSEYhDZzveFUyE_JzMvD59XqMKtpU2LmeOucS7qSOYHtzF2Ct5FH1HZr9akj88Ye5AeHNrMe4TvGnaYOy1GUKtxnbclk6qHckiApZx6cX3WhUiAzzh2OEaK-1pbAyhYk6NtkPdCimJfVBDq7JzXOhvFaty9Phy5aSFL5EhYpi4CS9kOBJuzfVdYegKXwQLV6ApJielellJqmrXEd60WKSEw5TjZBdQ9anCPYWMWQeP7vX5T-XJkTy7hyuKGQylkwyKr1ZrHoreX0oAH58Bd14edCtyAR-byRMAMxEb4nwYsIq-c8uFuCQQudHD-niTYTolLIy4u1Q2Nb-ptpzu_-EQGfNrIMrlvlwqV-CI5f4ydP7LQWCk-",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVweo7h18XIevHQnAzRwM4f5UouJS8MqoLqV8JN3jWW9xvbbrXY4JXXDNQ3rqauqNvkeiL_pEuycPdP--JERlPGjdpvIrohAMIIgiMsTJRwXaXGlyvMSR4eINL6COfbCOjjbFYt9VUuleJekk103yRBEpsGCyvv_rhqI4ecsTM0lcJPMJNxBEtPN409x_-gWft0c6dY-8mzDBmYBuaE5oF2jWdzCr9H1HWhgoy-dxu_8lOk-wbONwc1C3WTi9PeFF9fP-blGZWeD8ogEEkYKnRM6fMs0dQusiuyp3ouZfYpkcSQ3X2dLkXrJTcVmXUwlz-EJNDL4K1zylZt7XA3uoOulHMNaqAnr8CkpXISL30XeafjRSzi-neXb5eJ4YZ_d2Poocq_0fCbRwuc6xlLDnTd",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gvEg9g_B0ey9PU8hQ6nVCoPtHaY-HURq0OnKSEYhDZzveFUyE_JzMvD59XqMKtpU2LmeOucS7qSOYHtzF2Ct5FH1HZr9akj88Ye5AeHNrMe4TvGnaYOy1GUKtxnbclk6qHckiApZx6cX3WhUiAzzh2OEaK-1pbAyhYk6NtkPdCimJfVBDq7JzXOhvFaty9Phy5aSFL5EhYpi4CS9kOBJuzfVdYegKXwQLV6ApJielellJqmrXEd60WKSEw5TjZBdQ9anCPYWMWQeP7vX5T-XJkTy7hyuKGQylkwyKr1ZrHoreX0oAH58Bd14edCtyAR-byRMAMxEb4nwYsIq-c8uFuCQQudHD-niTYTolLIy4u1Q2Nb-ptpzu_-EQGfNrIMrlvlwqV-CI5f4ydP7LQWCk-"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVweo7h18XIevHQnAzRwM4f5UouJS8MqoLqV8JN3jWW9xvbbrXY4JXXDNQ3rqauqNvkeiL_pEuycPdP--JERlPGjdpvIrohAMIIgiMsTJRwXaXGlyvMSR4eINL6COfbCOjjbFYt9VUuleJekk103yRBEpsGCyvv_rhqI4ecsTM0lcJPMJNxBEtPN409x_-gWft0c6dY-8mzDBmYBuaE5oF2jWdzCr9H1HWhgoy-dxu_8lOk-wbONwc1C3WTi9PeFF9fP-blGZWeD8ogEEkYKnRM6fMs0dQusiuyp3ouZfYpkcSQ3X2dLkXrJTcVmXUwlz-EJNDL4K1zylZt7XA3uoOulHMNaqAnr8CkpXISL30XeafjRSzi-neXb5eJ4YZ_d2Poocq_0fCbRwuc6xlLDnTd"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gvEg9g_B0ey9PU8hQ6nVCoPtHaY-HURq0OnKSEYhDZzveFUyE_JzMvD59XqMKtpU2LmeOucS7qSOYHtzF2Ct5FH1HZr9akj88Ye5AeHNrMe4TvGnaYOy1GUKtxnbclk6pWrbVrUoqvt5lZTF8-Zr8tVpBARuhZqS5iENpvxvY-nOl6euLvpuoUcrOjWwsZVETxTBUoXchO_5L20MFfTB_EJlNV24CBCudxj-cgQfCYjM9sY5Zpx-MqeEBXqr5Gxs0411le7rp0EOLHKH_wuMiid9n1IqdrnUcwnhOGlbBcBXkIWcUe7cyyY0-Qf8qQ8mx_Qe_mOwWAxAOPoHaZvHZjVPmxMXQHKH3pIpXs3_k56f9IjdN4cL48BCLiOxoCd-nWCL46HjyIND_ZU7s19WYN",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVweo7h18XIevHQnAzRwM4f5UouJS8MqoLqV8JN3jWW9xvbbrXY4JXXDNQ3rqauqNvkeiL_pEuycPdP--JERlPGjdpvIrohAMIIgiMsTJRwXaXGlyvMSR4eINL6COfbCOjeOdGfVLvpVn_YfJ6TWbvnQx0YnzJWSiSw6EEiDnJgu0C3mgnsqidsv_aGugouBhvREWHWCbMukraGRp0WBAslm5ngyPhl224XW1FlVyv1eCz5AjqVrnOop2uIgOO_blKo6Ok8SgEL5vHvLv7_C-FWswLd0YbcdqFA0eUXLuYC2ApuzuMtaMgaTT1Ru8r_8qMvaMyAqDZSao9iVyxFbT_0njf9qjPNY8ReupZztcBUpweXwjZfIUyzvN1gw7mzKOJHJl6YkWST2_T-OOAXn1b0",
                         "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gvEg9g_B0ey9PU8hQ6nVCoPtHaY-HURq0OnKSEYhDZzveFUyE_JzMvD59XqMKtpU2LmeOucS7qSOYHtzF2Ct5FH1HZr9akj88Ye5AeHNrMe4TvGnaYOy1GUKtxnbclk6pWrbVrUoqvt5lZTF8-Zr8tVpBARuhZqS5iENpvxvY-nOl6euLvpuoUcrOjWwsZVETxTBUoXchO_5L20MFfTB_EJlNV24CBCudxj-cgQfCYjM9sY5Zpx-MqeEBXqr5Gxs0411le7rp0EOLHKH_wuMiid9n1IqdrnUcwnhOGlbBcBXkIWcUe7cyyY0-Qf8qQ8mx_Qe_mOwWAxAOPoHaZvHZjVPmxMXQHKH3pIpXs3_k56f9IjdN4cL48BCLiOxoCd-nWCL46HjyIND_ZU7s19WYN"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVweo7h18XIevHQnAzRwM4f5UouJS8MqoLqV8JN3jWW9xvbbrXY4JXXDNQ3rqauqNvkeiL_pEuycPdP--JERlPGjdpvIrohAMIIgiMsTJRwXaXGlyvMSR4eINL6COfbCOjeOdGfVLvpVn_YfJ6TWbvnQx0YnzJWSiSw6EEiDnJgu0C3mgnsqidsv_aGugouBhvREWHWCbMukraGRp0WBAslm5ngyPhl224XW1FlVyv1eCz5AjqVrnOop2uIgOO_blKo6Ok8SgEL5vHvLv7_C-FWswLd0YbcdqFA0eUXLuYC2ApuzuMtaMgaTT1Ru8r_8qMvaMyAqDZSao9iVyxFbT_0njf9qjPNY8ReupZztcBUpweXwjZfIUyzvN1gw7mzKOJHJl6YkWST2_T-OOAXn1b0"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gvEg9g_B0ey9PU8hQ6nVCoPtHaY-HURq0OnKSEYhDZzveFUyE_JzMvD59XqMKtpU2LmeOucS7qSOYHtzF2Ct5FH1HZr9akj88Ye5AeHNrMe4TvGnaYOy1GUKtxnbclk6qkh7T5wfoL-ARBAJz05KIFpgI2spAdAJHPzbrtAwGee--hfQxWig7AgMc0mMclF0TZLF6hoMiy9KHrzG2sNXs2jxTWAsaL9qSS0RqJA9YFrkZVkWk7Fk5RfVY1rehL1uoc7Gs59ZfNTAkpRH-Lnpnr1ZBZH60QKtd50vo5oO2A7v1W7sLJn_FRjXblIKSwCZSU34GwiLYU_r6BVQzt2yUKI9Rs4OxDWYuJAj6_JNyUPsCl70mdU9lj2IDJaTPjJqH3LiW9k5verU9KlemGO9in",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVweo7h18XIevHQnAzRwM4f5UouJS8MqoLqV8JN3jWW9xvbbrXY4JXXDNQ3rqauqNvkeiL_pEuycPdP--JERlPGjdpvIrohAMIIgiMsTJRwXaXGlyvMSR4eINL6COfbCOiQLqLRkj7cA5qBWqIGxHmnRvV8UhqRnr4KnSC1TK6zBdwlQ3nkeRn6mice2fxHY_DDuO3sVRVnFHOI0Ns9m3Vc8hyacX4-p9KFKsfQC7A4VbRWSWP5xQtRafCmStQ6xOHUDNjuUkZi5ZK7gpYqs9abFr0Y_jDaLlBSNkPYUJVaYMW8uFvZpcG9BXb_ngxjccfH3KyEufXsdZ5Hna64XH80_sXXLF5jra5SMWHup6OrhcrJTrwLxoLJ2PUrW9KwrldvW8nlxp09P6kUPTEY9mWA",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gvEg9g_B0ey9PU8hQ6nVCoPtHaY-HURq0OnKSEYhDZzveFUyE_JzMvD59XqMKtpU2LmeOucS7qSOYHtzF2Ct5FH1HZr9akj88Ye5AeHNrMe4TvGnaYOy1GUKtxnbclk6qkh7T5wfoL-ARBAJz05KIFpgI2spAdAJHPzbrtAwGee--hfQxWig7AgMc0mMclF0TZLF6hoMiy9KHrzG2sNXs2jxTWAsaL9qSS0RqJA9YFrkZVkWk7Fk5RfVY1rehL1uoc7Gs59ZfNTAkpRH-Lnpnr1ZBZH60QKtd50vo5oO2A7v1W7sLJn_FRjXblIKSwCZSU34GwiLYU_r6BVQzt2yUKI9Rs4OxDWYuJAj6_JNyUPsCl70mdU9lj2IDJaTPjJqH3LiW9k5verU9KlemGO9in"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVweo7h18XIevHQnAzRwM4f5UouJS8MqoLqV8JN3jWW9xvbbrXY4JXXDNQ3rqauqNvkeiL_pEuycPdP--JERlPGjdpvIrohAMIIgiMsTJRwXaXGlyvMSR4eINL6COfbCOiQLqLRkj7cA5qBWqIGxHmnRvV8UhqRnr4KnSC1TK6zBdwlQ3nkeRn6mice2fxHY_DDuO3sVRVnFHOI0Ns9m3Vc8hyacX4-p9KFKsfQC7A4VbRWSWP5xQtRafCmStQ6xOHUDNjuUkZi5ZK7gpYqs9abFr0Y_jDaLlBSNkPYUJVaYMW8uFvZpcG9BXb_ngxjccfH3KyEufXsdZ5Hna64XH80_sXXLF5jra5SMWHup6OrhcrJTrwLxoLJ2PUrW9KwrldvW8nlxp09P6kUPTEY9mWA"
                     }
                 ],
                 "passed": true
