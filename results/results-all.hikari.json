@@ -167,6 +167,121 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/5369/Street_Fighter_IV_Aratanaru_Kizuna",
+                                "title": "Street Fighter IV: Aratanaru Kizuna",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/12/14121l.jpg"
+                            },
+                            {
+                                "url": "/anime/20545/Yuusha_ni_Narenakatta_Ore_wa_Shibushibu_Shuushoku_wo_Ketsui_Shimashita_OVA",
+                                "title": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita. OVA",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1624/112109l.jpg"
+                            },
+                            {
+                                "url": "/anime/18499/Yozakura_Quartet_Tsuki_ni_Naku",
+                                "title": "Yozakura Quartet: Tsuki ni Naku",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/3/49489l.jpg"
+                            },
+                            {
+                                "url": "/anime/1257/Saint_Seiya_Meiou_Hades_Juuni_Kyuu-hen",
+                                "title": "Saint Seiya: Meiou Hades Juuni Kyuu-hen",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1182/122016l.jpg"
+                            },
+                            {
+                                "url": "/anime/1190/Tennis_no_Oujisama_Sonzoku_Yama_no_Hi",
+                                "title": "Tennis no Oujisama: Sonzoku Yama no Hi",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/10/4471l.jpg"
+                            },
+                            {
+                                "url": "/anime/32566/Noblesse_Pamyeol-ui_Sijak",
+                                "title": "Noblesse: Pamyeol-ui Sijak",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/6/78178l.jpg"
+                            },
+                            {
+                                "url": "/anime/27709/Saki_Biyori_Animation",
+                                "title": "Saki Biyori Animation",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/4/69895l.jpg"
+                            },
+                            {
+                                "url": "/anime/30365/Shinmai_Maou_no_Testament_Burst_Toujou_Basara_no_Shigoku_Heiwa_na_Nichijou",
+                                "title": "Shinmai Maou no Testament Burst: Toujou Basara no Shigoku Heiwa na Nichijou",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1568/95614l.jpg"
+                            },
+                            {
+                                "url": "/anime/31380/To_LOVE-Ru_Darkness_2nd_OVA",
+                                "title": "To LOVE-Ru Darkness 2nd OVA",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/13/76320l.jpg"
+                            },
+                            {
+                                "url": "/anime/31483/Akagami_no_Shirayuki-hime_Nandemonai_Takaramono_Kono_Page",
+                                "title": "Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/10/77943l.jpg"
+                            },
+                            {
+                                "url": "/anime/31704/One_Punch_Man_Road_to_Hero",
+                                "title": "One Punch Man: Road to Hero",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1802/124744l.jpg"
+                            },
+                            {
+                                "url": "/anime/30321/Strike_the_Blood_Valkyria_no_Oukoku-hen",
+                                "title": "Strike the Blood: Valkyria no Oukoku-hen",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/12/77275l.jpg"
+                            },
+                            {
+                                "url": "/anime/30679/Queens_Blade_Grimoire",
+                                "title": "Queen's Blade: Grimoire",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1742/141466l.jpg"
+                            },
+                            {
+                                "url": "/anime/32485/Prison_School_Mad_Wax",
+                                "title": "Prison School: Mad Wax",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1216/122467l.jpg"
+                            },
+                            {
+                                "url": "/anime/15535/Yumekuri",
+                                "title": "Yumekuri",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/6/42753l.jpg"
+                            },
+                            {
+                                "url": "/anime/18039/Rescue_Me",
+                                "title": "Rescue Me!",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/12/52033l.jpg"
+                            },
+                            {
+                                "url": "/anime/20767/Noragami_OVA",
+                                "title": "Noragami OVA",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/7/77177l.jpg"
+                            },
+                            {
+                                "url": "/anime/19953/Zetsumetsu_Kigu_Shoujo_Amazing_Twins",
+                                "title": "Zetsumetsu Kigu Shoujo: Amazing Twins",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/7/57269l.jpg"
+                            },
+                            {
+                                "url": "/anime/34437/Code_Geass_Fukkatsu_no_Lelouch",
+                                "title": "Code Geass: Fukkatsu no Lelouch",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1274/113436l.jpg"
+                            },
+                            {
+                                "url": "/anime/34440/Code_Geass_Hangyaku_no_Lelouch_III_Oudou",
+                                "title": "Code Geass: Hangyaku no Lelouch III - Oudou",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1126/91344l.jpg"
+                            },
+                            {
+                                "url": "/anime/34439/Code_Geass_Hangyaku_no_Lelouch_II_Handou",
+                                "title": "Code Geass: Hangyaku no Lelouch II - Handou",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/13/89275l.jpg"
+                            },
+                            {
+                                "url": "/anime/34438/Code_Geass_Hangyaku_no_Lelouch_I_Koudou",
+                                "title": "Code Geass: Hangyaku no Lelouch I - Koudou",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/6/87709l.jpg"
+                            },
+                            {
+                                "url": "/anime/5962/Metal_Fight_Beyblade",
+                                "title": "Metal Fight Beyblade",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/13/21387l.jpg"
+                            },
+                            {
                                 "url": "/anime/304/Aa_Megami-sama_Movie",
                                 "title": "Aa! Megami-sama! Movie",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/5/71211l.jpg"
@@ -200,121 +315,6 @@
                                 "url": "/anime/50380/Paripi_Koumei",
                                 "title": "Paripi Koumei",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1970/122297l.jpg"
-                            },
-                            {
-                                "url": "/anime/1023/Wolfs_Rain_OVA",
-                                "title": "Wolf's Rain OVA",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1091/134883l.jpg"
-                            },
-                            {
-                                "url": "/anime/235/Meitantei_Conan",
-                                "title": "Meitantei Conan",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg"
-                            },
-                            {
-                                "url": "/anime/58714/Saikyou_no_Shienshoku_Wajutsushi_de_Aru_Ore_wa_Sekai_Saikyou_Clan_wo_Shitagaeru",
-                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1683/145446l.jpg"
-                            },
-                            {
-                                "url": "/anime/53033/Mecha-ude_TV",
-                                "title": "Mecha-ude (TV)",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1079/145918l.jpg"
-                            },
-                            {
-                                "url": "/anime/13939/Accel_World_EX",
-                                "title": "Accel World EX",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1451/127575l.jpg"
-                            },
-                            {
-                                "url": "/anime/32574/Kekkai_Sensen_Ousama_no_Restaurant_no_Ousama",
-                                "title": "Kekkai Sensen: Ousama no Restaurant no Ousama",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1595/126930l.jpg"
-                            },
-                            {
-                                "url": "/anime/30915/Kekkai_Sensen_Soresaemo_Saitei_de_Saikou_na_Hibi",
-                                "title": "Kekkai Sensen: Soresaemo Saitei de Saikou na Hibi",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/3/74387l.jpg"
-                            },
-                            {
-                                "url": "/anime/38003/Bungou_Stray_Dogs_3rd_Season",
-                                "title": "Bungou Stray Dogs 3rd Season",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1037/100463l.jpg"
-                            },
-                            {
-                                "url": "/anime/54656/Buddy_Daddies_Intermission_Cherry-Pick",
-                                "title": "Buddy Daddies Intermission: Cherry-Pick",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1705/133951l.jpg"
-                            },
-                            {
-                                "url": "/anime/568/Bubblegum_Crisis_Tokyo_2040",
-                                "title": "Bubblegum Crisis Tokyo 2040",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1699/92414l.jpg"
-                            },
-                            {
-                                "url": "/anime/9751/Strike_Witches_Movie",
-                                "title": "Strike Witches Movie",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1133/96040l.jpg"
-                            },
-                            {
-                                "url": "/anime/38004/Strike_Witches_501_Butai_Hasshin_Shimasu",
-                                "title": "Strike Witches: 501 Butai Hasshin Shimasu!",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1515/100453l.jpg"
-                            },
-                            {
-                                "url": "/anime/36023/Persona_5_the_Animation",
-                                "title": "Persona 5 the Animation",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1829/92056l.jpg"
-                            },
-                            {
-                                "url": "/anime/49318/Tensei_shitara_Slime_Datta_Ken_2nd_Season_Kanwa_Veldora_Nikki_2",
-                                "title": "Tensei shitara Slime Datta Ken 2nd Season: Kanwa - Veldora Nikki 2",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1879/121719l.jpg"
-                            },
-                            {
-                                "url": "/anime/45753/Tensei_shitara_Slime_Datta_Ken_Kanwa_Hinata_Sakaguchi",
-                                "title": "Tensei shitara Slime Datta Ken: Kanwa - Hinata Sakaguchi",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1670/111154l.jpg"
-                            },
-                            {
-                                "url": "/anime/37430/Tensei_shitara_Slime_Datta_Ken",
-                                "title": "Tensei shitara Slime Datta Ken",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1069/123309l.jpg"
-                            },
-                            {
-                                "url": "/anime/41487/Tensei_shitara_Slime_Datta_Ken_2nd_Season_Part_2",
-                                "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1033/118296l.jpg"
-                            },
-                            {
-                                "url": "/anime/39551/Tensei_shitara_Slime_Datta_Ken_2nd_Season",
-                                "title": "Tensei shitara Slime Datta Ken 2nd Season",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1271/109841l.jpg"
-                            },
-                            {
-                                "url": "/anime/68/Black_Cat",
-                                "title": "Black Cat",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1183/133280l.jpg"
-                            },
-                            {
-                                "url": "/anime/52093/Trigun_Stampede",
-                                "title": "Trigun Stampede",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1426/129194l.jpg"
-                            },
-                            {
-                                "url": "/anime/579/Battle_Programmer_Shirase",
-                                "title": "Battle Programmer Shirase",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/12/2867l.jpg"
-                            },
-                            {
-                                "url": "/anime/45604/Jaku-Chara_Tomozaki-kun_Specials",
-                                "title": "Jaku-Chara Tomozaki-kun Specials",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1892/114853l.jpg"
-                            },
-                            {
-                                "url": "/anime/377/EX-Driver",
-                                "title": "eX-Driver",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/8/26197l.jpg"
                             }
                         ],
                         "hasNextPage": true
