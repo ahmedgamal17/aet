@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5647",
+                                "title": "Uzumaki",
+                                "artist": "Max",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/dc3a4053f0625d5620a4d19244c48187836b82512359d2a0fa4f08bde6e40e23.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5495",
                                 "title": "Wonderful Precure!",
                                 "artist": "SubsPlease",
@@ -71,12 +77,6 @@
                                 "title": "Maou-sama, Retry! R",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/c6510702c0e418459b50d31270c51737ffa4909c38824e54cb445e90acd1dfd1.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=3",
-                                "title": "Meitantei Conan",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/6d24bf75612fbbe0b2046938fa3681533f0e5f21b6ec94f87f1993adb961d548.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5647",
+                                "title": "Uzumaki",
+                                "artist": "Max",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/dc3a4053f0625d5620a4d19244c48187836b82512359d2a0fa4f08bde6e40e23.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5495",
                                 "title": "Wonderful Precure!",
                                 "artist": "SubsPlease",
@@ -153,12 +159,6 @@
                                 "title": "Maou-sama, Retry! R",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/c6510702c0e418459b50d31270c51737ffa4909c38824e54cb445e90acd1dfd1.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=3",
-                                "title": "Meitantei Conan",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/6d24bf75612fbbe0b2046938fa3681533f0e5f21b6ec94f87f1993adb961d548.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5495",
-                    "title": "Wonderful Precure!",
-                    "author": "Toei Animation",
-                    "description": "The Wonderful Precure! anime is set in Animal Town, a town where animals and people live together in harmony. Second-year junior high school student Iroha Inukai is best friends with her dog named Komugi. Out for a walk one day, Iroha and Komugi encounter a mysterious creature named Garugaru, who goes on a rampage in the city. Komugi suddenly transforms into a Pretty Cure named Cure Wonderful, to protect Iroha.",
-                    "genre": "Action",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/e60f5ac3e90f911c585fe4e4857542a4e84b20049189ff28603808d52ae88b0d.jpg",
+                    "url": "/anime/?anime_id=5647",
+                    "title": "Uzumaki",
+                    "author": "Akatsuki, Fugaku",
+                    "description": "In the town of Kurouzu-cho, Kirie Goshima lives a fairly normal life with her family. As she walks to the train station one day to meet her boyfriend, Shuuichi Saito, she sees his father staring at a snail shell in an alley. Thinking nothing of it, she mentions the incident to Shuuichi, who says that his father has been acting weird lately. Shuuichi reveals his rising desire to leave the town with Kirie, saying that the town is infected with spirals. But his father's obsession with the shape soon proves deadly, beginning a chain of horrific and unexplainable events that causes the residents of Kurouzu-cho to spiral into madness.\n\nSynonyms: The Spiral",
+                    "genre": "Avant Garde, Drama, Horror, Suspense",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/7792a1af4376497c06c2a2e21cbef1375a4545923ba8e7d1ed41b168c7a57d88.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/d7f1d702-83b0-2b16-b3a0-f918c0f47fa2/344e9e8c95b7dc5be9f1ea6e751a0b5c205a1772e7c41ad84996a2252e2969ff",
-                        "name": "Episode 38",
-                        "date_upload": 1729388821000,
-                        "episode_number": 38.0
+                        "url": "/play/fdc7d5d2-7463-2354-0294-088e40223e42/a3dbd6d8ac97b47bc1f2f595df751801f5503948b1d9c25fa340260cfa43e3ca",
+                        "name": "Episode 4",
+                        "date_upload": 1729399785000,
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/play/d7f1d702-83b0-2b16-b3a0-f918c0f47fa2/171c9e8282e5a415751c86022973317841425eb96475376f1c9f8589cd6667e4",
-                        "name": "Episode 37",
-                        "date_upload": 1728788753000,
-                        "episode_number": 37.0
+                        "url": "/play/fdc7d5d2-7463-2354-0294-088e40223e42/381042732639dae66ac8be19f61363e3f0e0a2edd76183fc41cfc2090ddb830e",
+                        "name": "Episode 3",
+                        "date_upload": 1728814488000,
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,29 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/5d3e7e8518f94bdd7189a1b188edfb8a388c54bbb9d99fff51c8353a063654b9?file=AnimePahe_Wonderful_Precure_-_38_1080p_SubsPlease.mp4&token=E1GnzvERqD5JBi_deWI0Jg&expires=1729403695",
-                        "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/5d3e7e8518f94bdd7189a1b188edfb8a388c54bbb9d99fff51c8353a063654b9?file=AnimePahe_Wonderful_Precure_-_38_1080p_SubsPlease.mp4&token=E1GnzvERqD5JBi_deWI0Jg&expires=1729403695"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/86b1d7fcb2f27d285e554e405024fcadd06f285b62e829ee0372f15c7d41cddb?file=AnimePahe_Uzumaki_-_04_1080p_Max.mp4&token=vsJcocmjv25wNe4kic3bBw&expires=1729420261",
+                        "quality": "Max · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/86b1d7fcb2f27d285e554e405024fcadd06f285b62e829ee0372f15c7d41cddb?file=AnimePahe_Uzumaki_-_04_1080p_Max.mp4&token=vsJcocmjv25wNe4kic3bBw&expires=1729420261"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/b9fb4cb7b5f3d10de78296deeb754298229f91e9f47fefc77b316a4d2e0c0420?file=AnimePahe_Wonderful_Precure_-_38_720p_SubsPlease.mp4&token=dTAcDdCiet3yY72p1yP62A&expires=1729403693",
-                        "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/b9fb4cb7b5f3d10de78296deeb754298229f91e9f47fefc77b316a4d2e0c0420?file=AnimePahe_Wonderful_Precure_-_38_720p_SubsPlease.mp4&token=dTAcDdCiet3yY72p1yP62A&expires=1729403693"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/4e311eaf780d51d331f72226a626a7c38744b051b112ab2a2de23124a111e7ca?file=AnimePahe_Uzumaki_Eng_Dub_-_04_1080p_Max.mp4&token=Eqs9LTPrKbP1WRQLi9-SJA&expires=1729420265",
+                        "quality": "Max · 1080p eng",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/4e311eaf780d51d331f72226a626a7c38744b051b112ab2a2de23124a111e7ca?file=AnimePahe_Uzumaki_Eng_Dub_-_04_1080p_Max.mp4&token=Eqs9LTPrKbP1WRQLi9-SJA&expires=1729420265"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/de2b9290a897aa3a8191014af917173172a2c90d07b5d4fe7450674b69126c80?file=AnimePahe_Wonderful_Precure_-_38_360p_SubsPlease.mp4&token=snHBtOwWcBG25J2NwNozjw&expires=1729403692",
-                        "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/de2b9290a897aa3a8191014af917173172a2c90d07b5d4fe7450674b69126c80?file=AnimePahe_Wonderful_Precure_-_38_360p_SubsPlease.mp4&token=snHBtOwWcBG25J2NwNozjw&expires=1729403692"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/860fd79421573c10d408a808e84eb9f53c11698222150e4709657a6951892911?file=AnimePahe_Uzumaki_-_04_720p_Max.mp4&token=15PGEftOaI3mhEXz_wOv6w&expires=1729420260",
+                        "quality": "Max · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/860fd79421573c10d408a808e84eb9f53c11698222150e4709657a6951892911?file=AnimePahe_Uzumaki_-_04_720p_Max.mp4&token=15PGEftOaI3mhEXz_wOv6w&expires=1729420260"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/cd2bebce46a00c719d57c66505102ce15f3cebcd7592d9c90759b21c6f3f40a4?file=AnimePahe_Uzumaki_-_04_360p_Max.mp4&token=L8wF0hroWi6QcYzhUeCLWw&expires=1729420258",
+                        "quality": "Max · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/cd2bebce46a00c719d57c66505102ce15f3cebcd7592d9c90759b21c6f3f40a4?file=AnimePahe_Uzumaki_-_04_360p_Max.mp4&token=L8wF0hroWi6QcYzhUeCLWw&expires=1729420258"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/ca6395ce9336af28aa237887ddaf9f7b2630ec8b06ff316203293765e24df7f1?file=AnimePahe_Uzumaki_Eng_Dub_-_04_720p_Max.mp4&token=mPM52gSQI3AhBkBbsh4e1A&expires=1729420263",
+                        "quality": "Max · 720p eng",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/ca6395ce9336af28aa237887ddaf9f7b2630ec8b06ff316203293765e24df7f1?file=AnimePahe_Uzumaki_Eng_Dub_-_04_720p_Max.mp4&token=mPM52gSQI3AhBkBbsh4e1A&expires=1729420263"
                     }
                 ],
                 "passed": true

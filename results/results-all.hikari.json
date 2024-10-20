@@ -167,6 +167,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/8666/Mazinkaiser_SKL",
+                                "title": "Mazinkaiser SKL",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/13/75427l.jpg"
+                            },
+                            {
+                                "url": "/anime/1111/Vandread_Gekitou-hen",
+                                "title": "Vandread: Gekitou-hen",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/13/23643l.jpg"
+                            },
+                            {
+                                "url": "/anime/1944/Photon",
+                                "title": "Photon",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1984/94161l.jpg"
+                            },
+                            {
                                 "url": "/anime/13055/Sankarea_OVA",
                                 "title": "Sankarea OVA",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/4/79032l.jpg"
@@ -300,21 +315,6 @@
                                 "url": "/anime/24227/Nisekoi_OVA",
                                 "title": "Nisekoi OVA",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/2/71754l.jpg"
-                            },
-                            {
-                                "url": "/anime/2685/Tsubasa_Tokyo_Revelations",
-                                "title": "Tsubasa: Tokyo Revelations",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/4/49129l.jpg"
-                            },
-                            {
-                                "url": "/anime/2524/Jungle_de_Ikou",
-                                "title": "Jungle de Ikou!",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1641/144940l.jpg"
-                            },
-                            {
-                                "url": "/anime/20977/Tonari_no_Seki-kun_OVA",
-                                "title": "Tonari no Seki-kun OVA",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/6/62613l.jpg"
                             }
                         ],
                         "hasNextPage": true
