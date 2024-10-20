@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/free-the-turnaround-hd-115714",
+                                "title": "The Turnaround",
+                                "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/57/8a/578a5b04fcd43d20504e17398e6b881b/578a5b04fcd43d20504e17398e6b881b.jpg"
+                            },
+                            {
                                 "url": "/movie/free-the-stoic-hd-115693",
                                 "title": "The Stoic",
                                 "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/e1/c7/e1c73b67fa9a9005d78630e417b0c28a/e1c73b67fa9a9005d78630e417b0c28a.jpg"
@@ -160,11 +165,6 @@
                                 "url": "/movie/free-dog-days-hd-115552",
                                 "title": "Dog Days",
                                 "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/c5/3a/c53ae2b96fedcac09d8444642bbed190/c53ae2b96fedcac09d8444642bbed190.jpg"
-                            },
-                            {
-                                "url": "/movie/free-a-new-york-story-hd-115549",
-                                "title": "A New York Story",
-                                "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/ab/89/ab8955315b32ecc7d06c576556b0b72f/ab8955315b32ecc7d06c576556b0b72f.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -474,14 +474,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/free-the-stoic-hd-115693",
-                    "title": "The Stoic",
-                    "author": "High Fliers Films",
-                    "description": " A group of mercenary leaders convene in a country retreat after pulling off a drug raid. Things take a turn for the worse after they raise the attentions of 'The Stoic', a man from an ancient clan of smugglers.",
-                    "genre": "Crime, Thriller, Action",
+                    "url": "/movie/free-the-turnaround-hd-115714",
+                    "title": "The Turnaround",
+                    "author": "Higher Ground, Breakwater Studios, Cookie Jar, Dream Studios, Breakwater Studios, Higher Ground Productions",
+                    "description": " A devoted Philadelphia Phillies fan inspires his city to give a struggling shortstop a game-changing standing ovation in this rousing short documentary.",
+                    "genre": "Documentary",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/e1/c7/e1c73b67fa9a9005d78630e417b0c28a/e1c73b67fa9a9005d78630e417b0c28a.jpg",
+                    "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/57/8a/578a5b04fcd43d20504e17398e6b881b/578a5b04fcd43d20504e17398e6b881b.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -489,8 +489,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ajax/movie/episodes/115693",
-                        "name": "The Stoic",
+                        "url": "/ajax/movie/episodes/115714",
+                        "name": "The Turnaround",
                         "episode_number": 1.0
                     }
                 ],
