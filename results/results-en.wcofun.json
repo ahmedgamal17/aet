@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/you-are-ms-servant",
+                                "title": "You are Ms. Servant.",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933786.jpg"
+                            },
+                            {
                                 "url": "/anime/ao-no-miburo",
                                 "title": "Ao no Miburo",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933785.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/hamidashi-creative",
                                 "title": "Hamidashi Creative",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933771.jpg"
-                            },
-                            {
-                                "url": "/anime/neko-ni-tensei-shita-ojisan",
-                                "title": "Neko ni Tensei shita Ojisan",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933770.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/ao-no-miburo",
-                    "title": "Ao no Miburo",
-                    "description": "It’s 1863, the twilight of the shogunate, and Japan is on the cusp of monumental change. The streets of the nation’s capital are soaked in blood as political upheaval and rising tensions between masterless, wandering ronin and government samurai set the stage for one of the most turbulent times in Japan’s history. Young orphan Nio is no stranger to the harsh realities of the world, and yet he can’t help but cling to his burning passion for justice and desire to change the world for the better.",
-                    "genre": "Action, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933785.jpg",
+                    "url": "/anime/you-are-ms-servant",
+                    "title": "You are Ms. Servant.",
+                    "description": "Hitoyoshi Yokoya is a high school student who currently lives alone. One day, an unfamiliar girl knocks on his door and offers to be his maid. She reveals that she is a former assassin, which makes Hitoyoshi nervous. But when her skills save him from being run over by a truck, Hitoyoshi ultimately decides to take her in.",
+                    "genre": "Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933786.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,7 +616,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ao-no-miburo-episode-1-english-subbed",
+                        "url": "/you-are-ms-servant-episode-1-english-dubbed",
                         "name": "Season 1 - Episode 1",
                         "episode_number": 101.0
                     }
@@ -626,19 +626,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVweo7h18XIevHQnAzRwM4f5UouJS8MqoLqV8JN3jWW9xvbbrXY4JXXDNQ3rqauqNvkeiL_pEuycPdP--JERlPGjdpvIrohAMIIgiMsTJRwXaXGlyvMSR4eINL6COfbCOjjbFYt9VUuleJekk103yRBEpsGCyvv_rhqI4ecsTM0lcJPMJNxBEtPN409x_-gWft0c6dY-8mzDBmYBuaE5oF2jWdzCr9H1HWhgoy-dxu_8lOk-wbONwc1C3WTi9PeFF9fP-blGZWeD8ogEEkYKnRM6fMs0dQusiuyp3ouZfYpkcSQ3X2dLkXrJTcVmXUwlz-EJNDL4K1zylZt7XA3uoOulHMNaqAnr8CkpXISL30XeafjRSzi-neXb5eJ4YZ_d2Poocq_0fCbRwuc6xlLDnTd",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gxXYi-kfzPJVPub-n6bdgOn_xQAnKtd5hU0_4XCTGtvCOoTppMEL6w1ywvOzXkMVoLOQJh7ZpdZARiQ2ZDZSDiHs8Hylrchr9tOMgVkdnr9CT0tLl-DEuvQRM9KnYU3RhsAMdiz8s8f49lj3gT96-EMXc7jtGObXUkt5E6mujVFFptu0JZb9_xHR96ZQfVA3q-ivIjhdpNeNOaYLsiL4bNE_D59orQws3zN4r3Nq27qu2KVUamH5zxYJAK49TkJAp6b3BA7INUQdzQPaoCkaRTcRq51GhCbC331bKaDP_XnIgTeEgrmnP0vkb9MYCjldRvnNnqLAKO7NkFrDA95ldexJaCv-Zo7mmmpMVCNYtXwAyBgdscapdGRCKth2xxZfqKKiBReQhbcK6slCjiZN99lNpBLFZEut6SxC81-Kchkw",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVweo7h18XIevHQnAzRwM4f5UouJS8MqoLqV8JN3jWW9xvbbrXY4JXXDNQ3rqauqNvkeiL_pEuycPdP--JERlPGjdpvIrohAMIIgiMsTJRwXaXGlyvMSR4eINL6COfbCOjjbFYt9VUuleJekk103yRBEpsGCyvv_rhqI4ecsTM0lcJPMJNxBEtPN409x_-gWft0c6dY-8mzDBmYBuaE5oF2jWdzCr9H1HWhgoy-dxu_8lOk-wbONwc1C3WTi9PeFF9fP-blGZWeD8ogEEkYKnRM6fMs0dQusiuyp3ouZfYpkcSQ3X2dLkXrJTcVmXUwlz-EJNDL4K1zylZt7XA3uoOulHMNaqAnr8CkpXISL30XeafjRSzi-neXb5eJ4YZ_d2Poocq_0fCbRwuc6xlLDnTd"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gxXYi-kfzPJVPub-n6bdgOn_xQAnKtd5hU0_4XCTGtvCOoTppMEL6w1ywvOzXkMVoLOQJh7ZpdZARiQ2ZDZSDiHs8Hylrchr9tOMgVkdnr9CT0tLl-DEuvQRM9KnYU3RhsAMdiz8s8f49lj3gT96-EMXc7jtGObXUkt5E6mujVFFptu0JZb9_xHR96ZQfVA3q-ivIjhdpNeNOaYLsiL4bNE_D59orQws3zN4r3Nq27qu2KVUamH5zxYJAK49TkJAp6b3BA7INUQdzQPaoCkaRTcRq51GhCbC331bKaDP_XnIgTeEgrmnP0vkb9MYCjldRvnNnqLAKO7NkFrDA95ldexJaCv-Zo7mmmpMVCNYtXwAyBgdscapdGRCKth2xxZfqKKiBReQhbcK6slCjiZN99lNpBLFZEut6SxC81-Kchkw"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVweo7h18XIevHQnAzRwM4f5UouJS8MqoLqV8JN3jWW9xvbbrXY4JXXDNQ3rqauqNvkeiL_pEuycPdP--JERlPGjdpvIrohAMIIgiMsTJRwXaXGlyvMSR4eINL6COfbCOjeOdGfVLvpVn_YfJ6TWbvnQx0YnzJWSiSw6EEiDnJgu0C3mgnsqidsv_aGugouBhvREWHWCbMukraGRp0WBAslm5ngyPhl224XW1FlVyv1eCz5AjqVrnOop2uIgOO_blKo6Ok8SgEL5vHvLv7_C-FWswLd0YbcdqFA0eUXLuYC2ApuzuMtaMgaTT1Ru8r_8qMvaMyAqDZSao9iVyxFbT_0njf9qjPNY8ReupZztcBUpweXwjZfIUyzvN1gw7mzKOJHJl6YkWST2_T-OOAXn1b0",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gxXYi-kfzPJVPub-n6bdgOn_xQAnKtd5hU0_4XCTGtvCOoTppMEL6w1ywvOzXkMVoLOQJh7ZpdZARiQ2ZDZSDiHs8Hylrchr9tOMgVkdnr9CT0tLl-DEuvQRM9KnYU3RhsAMdiz8s8f49lj3gT96-EYc9vu28f6ZFCLvji7smQR0eNnsokaH_3nsraj4n8B4-HeA4bn66qfP0RuuzEpo8QZbFe6ZD_fQGgf3zVrdL2Vj61ANtHznhroVgDa2Y_7QDYtoWxWubHtYej16VRq-wWf4gdeePAWiunsruXSE83awt9sY8Gxz1VTFlaoNoNSVXUACvsBdM3vNOTyZnA6vP6lqwxxxsZ5vDYAZzoJR_T4d0Xi_jtz9ks4CCYGYD73R4-yymJvjxSspBGRmYA6ATDFxlYDAuTscvPrpWzIrtFJg",
                         "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVweo7h18XIevHQnAzRwM4f5UouJS8MqoLqV8JN3jWW9xvbbrXY4JXXDNQ3rqauqNvkeiL_pEuycPdP--JERlPGjdpvIrohAMIIgiMsTJRwXaXGlyvMSR4eINL6COfbCOjeOdGfVLvpVn_YfJ6TWbvnQx0YnzJWSiSw6EEiDnJgu0C3mgnsqidsv_aGugouBhvREWHWCbMukraGRp0WBAslm5ngyPhl224XW1FlVyv1eCz5AjqVrnOop2uIgOO_blKo6Ok8SgEL5vHvLv7_C-FWswLd0YbcdqFA0eUXLuYC2ApuzuMtaMgaTT1Ru8r_8qMvaMyAqDZSao9iVyxFbT_0njf9qjPNY8ReupZztcBUpweXwjZfIUyzvN1gw7mzKOJHJl6YkWST2_T-OOAXn1b0"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gxXYi-kfzPJVPub-n6bdgOn_xQAnKtd5hU0_4XCTGtvCOoTppMEL6w1ywvOzXkMVoLOQJh7ZpdZARiQ2ZDZSDiHs8Hylrchr9tOMgVkdnr9CT0tLl-DEuvQRM9KnYU3RhsAMdiz8s8f49lj3gT96-EYc9vu28f6ZFCLvji7smQR0eNnsokaH_3nsraj4n8B4-HeA4bn66qfP0RuuzEpo8QZbFe6ZD_fQGgf3zVrdL2Vj61ANtHznhroVgDa2Y_7QDYtoWxWubHtYej16VRq-wWf4gdeePAWiunsruXSE83awt9sY8Gxz1VTFlaoNoNSVXUACvsBdM3vNOTyZnA6vP6lqwxxxsZ5vDYAZzoJR_T4d0Xi_jtz9ks4CCYGYD73R4-yymJvjxSspBGRmYA6ATDFxlYDAuTscvPrpWzIrtFJg"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVweo7h18XIevHQnAzRwM4f5UouJS8MqoLqV8JN3jWW9xvbbrXY4JXXDNQ3rqauqNvkeiL_pEuycPdP--JERlPGjdpvIrohAMIIgiMsTJRwXaXGlyvMSR4eINL6COfbCOiQLqLRkj7cA5qBWqIGxHmnRvV8UhqRnr4KnSC1TK6zBdwlQ3nkeRn6mice2fxHY_DDuO3sVRVnFHOI0Ns9m3Vc8hyacX4-p9KFKsfQC7A4VbRWSWP5xQtRafCmStQ6xOHUDNjuUkZi5ZK7gpYqs9abFr0Y_jDaLlBSNkPYUJVaYMW8uFvZpcG9BXb_ngxjccfH3KyEufXsdZ5Hna64XH80_sXXLF5jra5SMWHup6OrhcrJTrwLxoLJ2PUrW9KwrldvW8nlxp09P6kUPTEY9mWA",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gxXYi-kfzPJVPub-n6bdgOn_xQAnKtd5hU0_4XCTGtvCOoTppMEL6w1ywvOzXkMVoLOQJh7ZpdZARiQ2ZDZSDiHs8Hylrchr9tOMgVkdnr9CT0tLl-DEuvQRM9KnYU3RhsAMdiz8s8f49lj3gT96-EWS0xFxs7FlMK6rmoPJHFk8O1gWgPS3oWtnm3r1tBjBf1rBFdKmpmpUZtXQFzvHfXcE3UJsW8HLPNNmKypRBQvd6-dWyhwX1-761TIUigVVIVWOtrvtLvVgzCbA4rmz9FDBvx4zyHaELolj4S7c28l2kcc0_Ry0rXR2HzsGk5BO9juLs28bbRpmjdglboPkUu7qm2Qp93Swnc1IbK8GUC3dogeZVO83ZwO9pH4Edj_DDPYhFWqPcebWLso1fVJ55fhkbHt_8gfSfw9MHTOYGRWg",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVweo7h18XIevHQnAzRwM4f5UouJS8MqoLqV8JN3jWW9xvbbrXY4JXXDNQ3rqauqNvkeiL_pEuycPdP--JERlPGjdpvIrohAMIIgiMsTJRwXaXGlyvMSR4eINL6COfbCOiQLqLRkj7cA5qBWqIGxHmnRvV8UhqRnr4KnSC1TK6zBdwlQ3nkeRn6mice2fxHY_DDuO3sVRVnFHOI0Ns9m3Vc8hyacX4-p9KFKsfQC7A4VbRWSWP5xQtRafCmStQ6xOHUDNjuUkZi5ZK7gpYqs9abFr0Y_jDaLlBSNkPYUJVaYMW8uFvZpcG9BXb_ngxjccfH3KyEufXsdZ5Hna64XH80_sXXLF5jra5SMWHup6OrhcrJTrwLxoLJ2PUrW9KwrldvW8nlxp09P6kUPTEY9mWA"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gxXYi-kfzPJVPub-n6bdgOn_xQAnKtd5hU0_4XCTGtvCOoTppMEL6w1ywvOzXkMVoLOQJh7ZpdZARiQ2ZDZSDiHs8Hylrchr9tOMgVkdnr9CT0tLl-DEuvQRM9KnYU3RhsAMdiz8s8f49lj3gT96-EWS0xFxs7FlMK6rmoPJHFk8O1gWgPS3oWtnm3r1tBjBf1rBFdKmpmpUZtXQFzvHfXcE3UJsW8HLPNNmKypRBQvd6-dWyhwX1-761TIUigVVIVWOtrvtLvVgzCbA4rmz9FDBvx4zyHaELolj4S7c28l2kcc0_Ry0rXR2HzsGk5BO9juLs28bbRpmjdglboPkUu7qm2Qp93Swnc1IbK8GUC3dogeZVO83ZwO9pH4Edj_DDPYhFWqPcebWLso1fVJ55fhkbHt_8gfSfw9MHTOYGRWg"
                     }
                 ],
                 "passed": true
