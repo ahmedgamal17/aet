@@ -305,8 +305,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "http://s254d1.downet.net/download/1729601137/67164cf1edfb8/Abo Nasab.2023.720P.WEB-DL.AKWAM.mp4",
+                        "quality": "720p",
+                        "videoUrl": "http://s254d1.downet.net/download/1729601137/67164cf1edfb8/Abo Nasab.2023.720P.WEB-DL.AKWAM.mp4"
+                    },
+                    {
+                        "url": "http://s254d3.downet.net/download/1729601140/67164cf4c36e6/Abo Nasab.2023.480P.WEB-DL.AKWAM.mp4",
+                        "quality": "480p",
+                        "videoUrl": "http://s254d3.downet.net/download/1729601140/67164cf4c36e6/Abo Nasab.2023.480P.WEB-DL.AKWAM.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

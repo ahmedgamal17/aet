@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "HIvYWGRO8vEkYwNG",
+                                "title": "Colorful (Movie)",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/HIvYWGRO8vEkYwNG"
+                            },
+                            {
+                                "url": "gLGrSV3L7NiU0i2j",
+                                "title": "Kimi to, Nami ni Noretara",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/gLGrSV3L7NiU0i2j"
+                            },
+                            {
+                                "url": "Me75uyTdwaQxvur9",
+                                "title": "Blue Lock: Episode Nagi",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/Me75uyTdwaQxvur9"
+                            },
+                            {
+                                "url": "Rd95I8RpQfVMzDcK",
+                                "title": "Ao no Miburo",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/Rd95I8RpQfVMzDcK"
+                            },
+                            {
                                 "url": "IbAhbaQgxEX9BgJV",
                                 "title": "MF Ghost 2nd Season",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/IbAhbaQgxEX9BgJV"
@@ -85,26 +105,6 @@
                                 "url": "1lhfwrIXxIgLsYtD",
                                 "title": "Kabushikigaisha Magi-Lumière",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/1lhfwrIXxIgLsYtD"
-                            },
-                            {
-                                "url": "vDxTqUIHhe0j9thU",
-                                "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/vDxTqUIHhe0j9thU"
-                            },
-                            {
-                                "url": "0edNjmSOcX1plSET",
-                                "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/0edNjmSOcX1plSET"
-                            },
-                            {
-                                "url": "I1F0mNSOCo8lO292",
-                                "title": "2.5-jigen no Ririsa",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/I1F0mNSOCo8lO292"
-                            },
-                            {
-                                "url": "qFuAbF5FXAbLuiA9",
-                                "title": "Wu Chengen Ji Yao Lu: Qicheng Pian",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/qFuAbF5FXAbLuiA9"
                             }
                         ],
                         "hasNextPage": true
@@ -319,14 +319,14 @@
             },
             "details": {
                 "result": {
-                    "url": "IbAhbaQgxEX9BgJV",
-                    "title": "MF Ghost 2nd Season",
-                    "author": "Felix Film",
-                    "description": "Second season of MF Ghost.",
-                    "genre": "Racing, Seinen",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/IbAhbaQgxEX9BgJV",
+                    "url": "HIvYWGRO8vEkYwNG",
+                    "title": "Colorful (Movie)",
+                    "author": "Sunrise, Ascension",
+                    "description": "Upon arriving at the train station of death, an impure soul is granted a second chance at life against his will. Reincarnating into the body of Makoto Kobayashi, a 14-year-old boy who recently committed suicide, the soul is tasked to identify the boy's greatest sin in life within a time limit of six months. Although it remains reluctant toward continuing life as Makoto, the soul soon begins to notice the complexities of people's emotions and actions.\n\nDeconstructing the ideas of fractured families and suicide, Colorful explores the intricacies of the daily struggles humans face but are too abashed to confront.\n\n[Written by MAL Rewrite]",
+                    "genre": "Award Winning, Drama, Reincarnation",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/HIvYWGRO8vEkYwNG",
                     "initialized": true
                 },
                 "passed": true
@@ -334,14 +334,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "IbAhbaQgxEX9BgJV/video/3",
-                        "name": "Episode 3: The Relay Straight Yin-Yang",
-                        "episode_number": 3.0
-                    },
-                    {
-                        "url": "IbAhbaQgxEX9BgJV/video/2",
-                        "name": "Episode 2: The 4x4 Attack",
-                        "episode_number": 2.0
+                        "url": "HIvYWGRO8vEkYwNG/video/1",
+                        "name": "Episode 1: Movie",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -349,41 +344,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/IbAhbaQgxEX9BgJV/3/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/HIvYWGRO8vEkYwNG/1/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/IbAhbaQgxEX9BgJV/3/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/HIvYWGRO8vEkYwNG/1/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/en-US/3",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/HIvYWGRO8vEkYwNG/en-US/1",
                                 "lang": "English"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/ru-RU/3",
-                                "lang": "Русский"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/pt-BR/3",
-                                "lang": "Português (Brasil)"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/it-IT/3",
-                                "lang": "Italiano"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/fr-FR/3",
-                                "lang": "Français"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/de-DE/3",
-                                "lang": "Deutsch"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/IbAhbaQgxEX9BgJV/ar-ME/3",
-                                "lang": "العربية"
                             }
                         ]
                     }
