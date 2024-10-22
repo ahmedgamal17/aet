@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5709",
+                                "title": "Kami no Tou: Koubou-sen",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/921f05551a2068d12eacc8c54303c876e098acefa141f4a41d651b79a87e0ab9.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5675",
                                 "title": "Houkago Shounen Hanako-kun Part 2",
                                 "artist": "SubsPlease",
@@ -71,12 +77,6 @@
                                 "title": "B: The Beginning",
                                 "artist": "AkihitoSubs",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/cfa59d8163208bc94a0705fb493391f3d090df476c37a04c7642627c3aaf08ab.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5664",
-                                "title": "Ranma ½ (2024)",
-                                "artist": "Netflix",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/971de22cc4d51f9853f4a2160353ff1da7604601bf4bd05191590c77bb0152fd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5709",
+                                "title": "Kami no Tou: Koubou-sen",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/921f05551a2068d12eacc8c54303c876e098acefa141f4a41d651b79a87e0ab9.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5675",
                                 "title": "Houkago Shounen Hanako-kun Part 2",
                                 "artist": "SubsPlease",
@@ -153,12 +159,6 @@
                                 "title": "B: The Beginning",
                                 "artist": "AkihitoSubs",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/cfa59d8163208bc94a0705fb493391f3d090df476c37a04c7642627c3aaf08ab.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5664",
-                                "title": "Ranma ½ (2024)",
-                                "artist": "Netflix",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/971de22cc4d51f9853f4a2160353ff1da7604601bf4bd05191590c77bb0152fd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5675",
-                    "title": "Houkago Shounen Hanako-kun Part 2",
-                    "author": "Lerche",
-                    "description": "Second part of Houkago Shounen Hanako-kun.",
-                    "genre": "Comedy, Supernatural",
+                    "url": "/anime/?anime_id=5709",
+                    "title": "Kami no Tou: Koubou-sen",
+                    "author": "The Answer Studio",
+                    "description": "Second part of Tower of God Season 2.\n\nSynonyms: Sin-ui Tap, 신의 탑, Kami no Tou 2nd Season, Tower of God: Workshop Battle",
+                    "genre": "Action, Adventure, Drama, Fantasy, Mystery",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/e73a23b9d94d191d632afd6a5c8013fec00cbdbd636b0452bb11e503ddc4789d.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/a533e8a463531ec6888489345aa9aa03a33768223f90bdd61c85acf4cfae92e6.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/a9c87b25-5f8d-3853-4096-c3ce541a7bc7/8f233bdd771eb86f4b14f550311674ec50c14217de569aa22f5b567fe5a93678",
-                        "name": "Episode 7",
-                        "date_upload": 1729533890000,
-                        "episode_number": 7.0
+                        "url": "/play/bcab4c75-1d28-56fe-29cc-7a6dba74d133/9e496acf7aab63e698f59cda8e7756f18d279491f737ae6965b58bb3e84d9218",
+                        "name": "Episode 16",
+                        "date_upload": 1729433241000,
+                        "episode_number": 16.0
                     },
                     {
-                        "url": "/play/a9c87b25-5f8d-3853-4096-c3ce541a7bc7/392095554510e9a6c3e0d422edb2023692e09979d50e910ca75b3fd28dfe18d5",
-                        "name": "Episode 6",
-                        "date_upload": 1728981086000,
-                        "episode_number": 6.0
+                        "url": "/play/bcab4c75-1d28-56fe-29cc-7a6dba74d133/75334e6f01365df1afef3cc69a17dfe343cac3de31739b94e2b97b22c3a4c7ff",
+                        "name": "Episode 15",
+                        "date_upload": 1728828536000,
+                        "episode_number": 15.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/7fbd32835c4c7330a110e66247f584437aea7c4f4e1589e5c05432028179f3aa?file=AnimePahe_Houkago_Shounen_Hanako-kun_-_07_1080p_SubsPlease.mp4&token=MB8WsvLmsIf5r5k4xevCJw&expires=1729549881",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/351e2ec433ea7edfd2fb259b0b8464317f08806f5a83549277cb6be5d226f13f?file=AnimePahe_Kami_no_Tou_2nd_Season_-_16_1080p_SubsPlease.mp4&token=E4IP38n2DwjjPu4U0mczDQ&expires=1729576107",
                         "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/7fbd32835c4c7330a110e66247f584437aea7c4f4e1589e5c05432028179f3aa?file=AnimePahe_Houkago_Shounen_Hanako-kun_-_07_1080p_SubsPlease.mp4&token=MB8WsvLmsIf5r5k4xevCJw&expires=1729549881"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/351e2ec433ea7edfd2fb259b0b8464317f08806f5a83549277cb6be5d226f13f?file=AnimePahe_Kami_no_Tou_2nd_Season_-_16_1080p_SubsPlease.mp4&token=E4IP38n2DwjjPu4U0mczDQ&expires=1729576107"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/e4d38edee9ace35f668af16076e12d3a6e058f26ed2709c1b1f12e0b046f35fe?file=AnimePahe_Houkago_Shounen_Hanako-kun_-_07_720p_SubsPlease.mp4&token=QKc4KC2iEOlLiDxvgDUh_A&expires=1729549880",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/8e602f5b73cfd1a510ee57650f64bc837f461809765326a629432d45ac094a66?file=AnimePahe_Kami_no_Tou_2nd_Season_-_16_720p_SubsPlease.mp4&token=_vY8r3M8jMv41eiE0JI9oQ&expires=1729576106",
                         "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/e4d38edee9ace35f668af16076e12d3a6e058f26ed2709c1b1f12e0b046f35fe?file=AnimePahe_Houkago_Shounen_Hanako-kun_-_07_720p_SubsPlease.mp4&token=QKc4KC2iEOlLiDxvgDUh_A&expires=1729549880"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/8e602f5b73cfd1a510ee57650f64bc837f461809765326a629432d45ac094a66?file=AnimePahe_Kami_no_Tou_2nd_Season_-_16_720p_SubsPlease.mp4&token=_vY8r3M8jMv41eiE0JI9oQ&expires=1729576106"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/6dd2780aa635a311369b4692b545dc9ac60108238c2a90c0abc28447f1df055d?file=AnimePahe_Houkago_Shounen_Hanako-kun_-_07_360p_SubsPlease.mp4&token=A5_ORUR9xcYJGiJKGA22NQ&expires=1729549878",
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/65ce8d5728088b37b5ebf22b1715e7b22b0801c309319dd0c012bc5ef3243ebd?file=AnimePahe_Kami_no_Tou_2nd_Season_-_16_360p_SubsPlease.mp4&token=Mrpi3PPUiKYTWXSnZ6qZBw&expires=1729576104",
                         "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/6dd2780aa635a311369b4692b545dc9ac60108238c2a90c0abc28447f1df055d?file=AnimePahe_Houkago_Shounen_Hanako-kun_-_07_360p_SubsPlease.mp4&token=A5_ORUR9xcYJGiJKGA22NQ&expires=1729549878"
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/65ce8d5728088b37b5ebf22b1715e7b22b0801c309319dd0c012bc5ef3243ebd?file=AnimePahe_Kami_no_Tou_2nd_Season_-_16_360p_SubsPlease.mp4&token=Mrpi3PPUiKYTWXSnZ6qZBw&expires=1729576104"
                     }
                 ],
                 "passed": true
