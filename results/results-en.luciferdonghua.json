@@ -383,19 +383,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/anime/battle-through-the-heavens-season-5/",
-                    "title": "Battle Through The Heavens Season 5",
-                    "artist": "Shanghai Motion Magic",
-                    "author": "Lucifer Donghua & 3D Anime Official",
-                    "description": "Watch streaming Battle Through The Heavens Season 5 English Subbed on Lucifer Donghua.in - Watch Online: Chinese Anime / Donghua - Japanese. You can also download free Battle Through The Heavens Season 5 Eng Sub, don't forget to watch online streaming of various quality 720P 360P 240P 480P according to your connection to save internet quota, Battle Through The Heavens Season 5 on Lucifer Donghua.in - Watch Online: Chinese Anime / Donghua - Japanese MP4 MKV hardsub softsub English subbed is already contained in the video.\n\nAlternative name(s): Doupo Cangqiong Season 5, Fights Break Sphere Season 5, 斗破苍穹 第5季,\nStatus: Ongoing\nNetwork: China Literature, Tencent Penguin Pictures, Wanda Pictures\nStudio: Shanghai Motion Magic\nReleased: Jul 31, 2022\nDuration: 20 min per ep\nSeason: 5\nCountry: China\nType: ONA\nEpisodes: 52\nFansub: Lucifer Donghua & 3D Anime Official\nCasts:\nPosted by: admin\nReleased on: July 4, 2022\nUpdated on: October 19, 2024\n",
-                    "genre": "Action, Adventure, Fantasy, Martial Art, Romance",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://luciferdonghua.in/wp-content/uploads/2022/07/photo_6177231946514545878_y-1-768x1249.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 400",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -419,9 +408,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://proxy-001.ix7.dailymotion.com/sec(Nvtc1ZvmF8H0B89Pn-eXB2orbQnuxTv2AWwFv66EVjiZIhAdmwlBX2aPuNn8EIf-L9qaHGvW5b9yXO4rxBJt_pXDWfbZWTRMVhL_OhWy_P14pxUoYszaw98h5_DaB-cB)/video/005/131/557131500_mp4_h264_aac_3.m3u8#cell=core",
+                        "url": "https://proxy-001.ix7.dailymotion.com/sec(nYlRlpUURPzOnh5Mcl1AIZpGjp5mfOe28FusEsCDN0YBco-eFPN8vAqRhxV6KbBgDyHV3M9Dihd1n8RQiuNsVCILHxMrua3pYJqebLzx3hSw7xZ9eFjWdZeY43Xnz04d)/video/005/131/557131500_mp4_h264_aac_3.m3u8#cell=core",
                         "quality": "WITH ADS #1 - 288p",
-                        "videoUrl": "https://proxy-001.ix7.dailymotion.com/sec(Nvtc1ZvmF8H0B89Pn-eXB2orbQnuxTv2AWwFv66EVjiZIhAdmwlBX2aPuNn8EIf-L9qaHGvW5b9yXO4rxBJt_pXDWfbZWTRMVhL_OhWy_P14pxUoYszaw98h5_DaB-cB)/video/005/131/557131500_mp4_h264_aac_3.m3u8#cell=core",
+                        "videoUrl": "https://proxy-001.ix7.dailymotion.com/sec(nYlRlpUURPzOnh5Mcl1AIZpGjp5mfOe28FusEsCDN0YBco-eFPN8vAqRhxV6KbBgDyHV3M9Dihd1n8RQiuNsVCILHxMrua3pYJqebLzx3hSw7xZ9eFjWdZeY43Xnz04d)/video/005/131/557131500_mp4_h264_aac_3.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
@@ -438,9 +427,9 @@
                         ]
                     },
                     {
-                        "url": "https://proxy-002.ix7.dailymotion.com/sec(Nvtc1ZvmF8H0B89Pn-eXB2orbQnuxTv2AWwFv66EVjiZIhAdmwlBX2aPuNn8EIf-L9qaHGvW5b9yXO4rxBJt_pXDWfbZWTRMVhL_OhWy_P14pxUoYszaw98h5_DaB-cB)/video/005/131/557131500_mp4_h264_aac_3.m3u8#cell=core",
+                        "url": "https://proxy-002.ix7.dailymotion.com/sec(nYlRlpUURPzOnh5Mcl1AIZpGjp5mfOe28FusEsCDN0YBco-eFPN8vAqRhxV6KbBgDyHV3M9Dihd1n8RQiuNsVCILHxMrua3pYJqebLzx3hSw7xZ9eFjWdZeY43Xnz04d)/video/005/131/557131500_mp4_h264_aac_3.m3u8#cell=core",
                         "quality": "WITH ADS #1 - 288p",
-                        "videoUrl": "https://proxy-002.ix7.dailymotion.com/sec(Nvtc1ZvmF8H0B89Pn-eXB2orbQnuxTv2AWwFv66EVjiZIhAdmwlBX2aPuNn8EIf-L9qaHGvW5b9yXO4rxBJt_pXDWfbZWTRMVhL_OhWy_P14pxUoYszaw98h5_DaB-cB)/video/005/131/557131500_mp4_h264_aac_3.m3u8#cell=core",
+                        "videoUrl": "https://proxy-002.ix7.dailymotion.com/sec(nYlRlpUURPzOnh5Mcl1AIZpGjp5mfOe28FusEsCDN0YBco-eFPN8vAqRhxV6KbBgDyHV3M9Dihd1n8RQiuNsVCILHxMrua3pYJqebLzx3hSw7xZ9eFjWdZeY43Xnz04d)/video/005/131/557131500_mp4_h264_aac_3.m3u8#cell=core",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
