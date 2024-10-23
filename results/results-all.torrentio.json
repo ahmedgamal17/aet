@@ -11,7 +11,7 @@
                                 "title": "Shrinking",
                                 "artist": "Harrison Ford, Jason Segel, Jessica Williams, Luke Tennie",
                                 "author": "",
-                                "description": "A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people's lives - including his own.",
+                                "description": "Jimmy is struggling to grieve the loss of his wife while being a dad, friend, and therapist. He decides to try a new approach with everyone in his path: unfiltered, brutal honesty.",
                                 "genre": "Comedy, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/321439712/s276/shrinking.webp",
                                 "initialized": true
@@ -32,7 +32,7 @@
                                 "artist": "Harold Perrineau, Catalina Sandino Moreno, Eion Bailey, David Alpay",
                                 "author": "",
                                 "description": "Unravel the mystery of a city in middle U.S.A. that imprisons everyone who enters. As the residents struggle to maintain a sense of normality and seek a way out, they must also survive the threats of the surrounding forest.",
-                                "genre": "Science-Fiction, Mystery & Thriller, Drama, Horror",
+                                "genre": "Horror, Science-Fiction, Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/321587622/s276/from.webp",
                                 "initialized": true
                             },
@@ -42,7 +42,7 @@
                                 "artist": "Kathy Bates, Skye P. Marshall, Jason Ritter, David Del Rio",
                                 "author": "Brad Silberling, Daniel Willis, Kat Coiro",
                                 "description": "After achieving success in her younger years, the brilliant septuagenarian Madeline Matlock rejoins the workforce at a prestigious law firm where she uses her unassuming demeanor and wily tactics to win cases and expose corruption from within. Inspired by the classic television series of the same name.",
-                                "genre": "Crime, Drama",
+                                "genre": "Drama, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320857118/s276/matlock-2024.webp",
                                 "initialized": true
                             },
@@ -132,7 +132,7 @@
                                 "artist": "Kathryn Hahn, Joe Locke, Sasheer Zamata, Ali Ahn",
                                 "author": "",
                                 "description": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
-                                "genre": "Science-Fiction, Drama, Fantasy, Action & Adventure, Comedy",
+                                "genre": "Science-Fiction, Comedy, Drama, Fantasy, Action & Adventure",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320432728/s276/agatha-house-of-harkness.webp",
                                 "initialized": true
                             },
@@ -291,7 +291,7 @@
                                 "title": "The Substance",
                                 "artist": "Demi Moore, Margaret Qualley, Dennis Quaid, Gore Abrams",
                                 "author": "Coralie Fargeat",
-                                "description": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+                                "description": "Have you ever dreamt of a better version of yourself? You, only better in every way. You should try this new product, it’s called The Substance. IT CHANGED MY LIFE. With The Substance, you can generate another you: younger, more beautiful, more perfect. You just have to share time – one week for one, one week for the other. A perfect balance of seven days each... Easy right? If you respect the balance... What could possibly go wrong?",
                                 "genre": "Horror, Drama, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320520686/s276/the-substance.webp",
                                 "initialized": true
@@ -332,7 +332,7 @@
                                 "artist": "Celia Massingham, Lavance, James Watts, Daniel Wishes",
                                 "author": "",
                                 "description": "Eleven months into the One Year War in U.C.0079, top Zaku II pilot Captain Solari faces the Earth Federation's new lethal weapon: the mobile suit Gundam.",
-                                "genre": "War & Military, Science-Fiction, Animation, Drama, Action & Adventure",
+                                "genre": "Animation, War & Military, Science-Fiction, Action & Adventure, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320943495/s276/gundam-requiem-for-vengeance.webp",
                                 "initialized": true
                             },
@@ -432,18 +432,8 @@
                                 "artist": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
                                 "author": "Marc Forster",
                                 "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                "genre": "Mystery & Thriller, Action & Adventure, Horror, Science-Fiction",
+                                "genre": "Action & Adventure, Horror, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/291193041/s276/world-war-z-3d.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt0363391,SHOW,/us/tv-show/world-poker-tour",
-                                "title": "World Poker Tour",
-                                "artist": "",
-                                "author": "",
-                                "description": "Poker players from around the world compete for large cash prizes",
-                                "genre": "Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/262158762/s276/world-poker-tour.webp",
                                 "initialized": true
                             },
                             {
@@ -454,6 +444,16 @@
                                 "description": "Two police officers struggle to survive when they become trapped beneath the rubble of the World Trade Center on September 11, 2001.",
                                 "genre": "Mystery & Thriller, Drama, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/250979950/s276/september-2006.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0363391,SHOW,/us/tv-show/world-poker-tour",
+                                "title": "World Poker Tour",
+                                "artist": "",
+                                "author": "",
+                                "description": "Poker players from around the world compete for large cash prizes",
+                                "genre": "Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/262158762/s276/world-poker-tour.webp",
                                 "initialized": true
                             },
                             {
@@ -482,7 +482,7 @@
                                 "artist": "Nao Tamura, Yuichi Nakamura, Tomo Muranaka, Yuki Kaji",
                                 "author": "",
                                 "description": "A gate to another dimension has burst open, and from it emerge gigantic invincible creatures that threaten all of humanity. Earth's only defense is a mysterious group of warriors who have co-opted the alien technology in order to fight back!",
-                                "genre": "Science-Fiction, Animation, Action & Adventure",
+                                "genre": "Animation, Action & Adventure, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/260841834/s276/world-trigger.webp",
                                 "initialized": true
                             },
@@ -622,7 +622,7 @@
                                 "artist": "Aaron Eckhart, Ramón Rodríguez, Will Rothhaar, Michael Peña",
                                 "author": "Jonathan Liebesman",
                                 "description": "When once distant UFOs become a terrifying threat and an alien invasion force begins attacking Earths major costal and riverside cities, a U.S Marine staff sergeant and his team are sent into battle only to find they must take it upon themselves to defeat an unknown enemy and protect what remains of Los Angeles.",
-                                "genre": "Science-Fiction, Action & Adventure",
+                                "genre": "Action & Adventure, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/175357619/s276/battle-la.webp",
                                 "initialized": true
                             },
@@ -717,16 +717,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
-                                "title": "World's Funniest Animals",
-                                "artist": "Elizabeth Stanton",
-                                "author": "",
-                                "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
-                                "genre": "Reality TV, Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
                                 "title": "World's End Harem",
                                 "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
@@ -734,6 +724,16 @@
                                 "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
                                 "genre": "Mystery & Thriller, Animation, Drama, Science-Fiction, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320028644/s276/worlds-end-harem.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
+                                "title": "World's Funniest Animals",
+                                "artist": "Elizabeth Stanton",
+                                "author": "",
+                                "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
+                                "genre": "Reality TV, Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
                                 "initialized": true
                             },
                             {
@@ -828,7 +828,7 @@
                     "title": "Shrinking",
                     "artist": "Harrison Ford, Jason Segel, Jessica Williams, Luke Tennie",
                     "author": "",
-                    "description": "A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people's lives - including his own.",
+                    "description": "Jimmy is struggling to grieve the loss of his wife while being a dad, friend, and therapist. He decides to try a new approach with everyone in his path: unfiltered, brutal honesty.",
                     "genre": "Comedy, Drama",
                     "thumbnail_url": "https://images.justwatch.com/poster/321439712/s718/shrinking.webp",
                     "initialized": true
