@@ -237,6 +237,11 @@
                                 "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/4cjcdpj8mz2249t1727165031435/0"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9497?isq=false",
+                                "title": "Love in the Big City",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/uiIMt61l98QPsP10k7C6bXjaYLB.jpg"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/8820?isq=false",
                                 "title": "Kill Me Love Me",
                                 "thumbnail_url": "https://1.vikiplatform.com/c/40799c/fe5c73c686.jpg?x=b&s=1920x1080"
@@ -252,9 +257,9 @@
                                 "thumbnail_url": "https://prod-images.viu.com/3539505242/3f0b34521daca8433c603ad09581fc79b6dbad51?im=Resize,width=1920"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9497?isq=false",
-                                "title": "Love in the Big City",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/uiIMt61l98QPsP10k7C6bXjaYLB.jpg"
+                                "url": "/api/DramaList/Drama/9438?isq=false",
+                                "title": "Reverse 4 You",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/AkQDefVv9POMuLJcQtpfaYNkwza.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9498?isq=false",
@@ -410,11 +415,6 @@
                                 "url": "/api/DramaList/Drama/9421?isq=false",
                                 "title": "Chasing in the Wild",
                                 "thumbnail_url": "https://im.gurl.eu.org/file/83e83f3d8724d4a0493b1.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9316?isq=false",
-                                "title": "Shutline",
-                                "thumbnail_url": "https://i.vimeocdn.com/video/1676757463-81acf4a8c9df34b4c17f200428517ea4dadef7ee1ccf652ced2850d9f6a2c85c-d"
                             }
                         ],
                         "hasNextPage": true
@@ -571,23 +571,23 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "file:///tmp/subs7292383053771871378srt",
+                                "url": "file:///tmp/subs13491395641222799295srt",
                                 "lang": "English"
                             },
                             {
-                                "url": "file:///tmp/subs18111292789119451068srt",
+                                "url": "file:///tmp/subs11689273574100832125srt",
                                 "lang": "Khmer"
                             },
                             {
-                                "url": "file:///tmp/subs17429274257588196191srt",
+                                "url": "file:///tmp/subs9659219301856864077srt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "file:///tmp/subs2355813322521428143srt",
+                                "url": "file:///tmp/subs13795257067086609386srt",
                                 "lang": "Indonesia"
                             },
                             {
-                                "url": "file:///tmp/subs2083772071545942864srt",
+                                "url": "file:///tmp/subs14247675214028924415srt",
                                 "lang": "Malay"
                             }
                         ]
