@@ -77,6 +77,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt26748649,SHOW,/us/tv-show/high-potential",
+                                "title": "High Potential",
+                                "artist": "Kaitlin Olson, Daniel Sunjata, Javicia Leslie, Deniz Akdeniz",
+                                "author": "Alethea Jones",
+                                "description": "Follows Morgan, a single mom of three kids and how thanks to her exceptional mind, she is able to help to solve a crime as she rearranges evidence during her shift as a cleaner for the police department.",
+                                "genre": "Crime, Drama",
+                                "thumbnail_url": "https://images.justwatch.com/poster/321593496/s276/high-potential.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt21493708,SHOW,/us/tv-show/hysteria-2024",
                                 "title": "Hysteria!",
                                 "artist": "Julie Bowen, Anna Camp, Emjay Anthony, Chiara Aurelia",
@@ -84,16 +94,6 @@
                                 "description": "When a beloved varsity quarterback disappears during the \"Satanic Panic\" of the late 1980s, a struggling high school heavy metal band of outcasts realize they can capitalize on the town's sudden interest in the occult by building a reputation as a Satanic metal band, until a bizarre series of murders, kidnappings, and reported \"supernatural activity\" triggers a leather-studded witch hunt that leads directly back to them.",
                                 "genre": "Drama, Mystery & Thriller, Horror",
                                 "thumbnail_url": "https://images.justwatch.com/poster/321587794/s276/hysteria-2024.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt26748649,SHOW,/us/tv-show/high-potential",
-                                "title": "High Potential",
-                                "artist": "",
-                                "author": "",
-                                "description": "Follows Morgan, a single mom of three kids and how thanks to her exceptional mind, she is able to help to solve a crime as she rearranges evidence during her shift as a cleaner for the police department.",
-                                "genre": "Crime, Drama",
-                                "thumbnail_url": "https://images.justwatch.com/poster/320265698/s276/high-potential.webp",
                                 "initialized": true
                             },
                             {
@@ -171,7 +171,7 @@
                                 "title": "Georgie & Mandy's First Marriage",
                                 "artist": "Montana Jordan, Emily Osment, Will Sasso, Rachel Bay Jones",
                                 "author": "",
-                                "description": "Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting and marriage.",
+                                "description": "Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage.",
                                 "genre": "Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320980205/s276/georgie-and-mandys-first-marriage.webp",
                                 "initialized": true
@@ -312,7 +312,7 @@
                                 "artist": "Lupita Nyong'o, Pedro Pascal, Kit Connor, Bill Nighy",
                                 "author": "Chris Sanders",
                                 "description": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-                                "genre": "Animation, Science-Fiction, Kids & Family",
+                                "genre": "Science-Fiction, Animation, Kids & Family",
                                 "thumbnail_url": "https://images.justwatch.com/poster/317457812/s276/the-wild-robot.webp",
                                 "initialized": true
                             },
@@ -432,7 +432,7 @@
                                 "artist": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
                                 "author": "Marc Forster",
                                 "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                "genre": "Action & Adventure, Horror, Science-Fiction, Mystery & Thriller",
+                                "genre": "Horror, Science-Fiction, Mystery & Thriller, Action & Adventure",
                                 "thumbnail_url": "https://images.justwatch.com/poster/291193041/s276/world-war-z-3d.webp",
                                 "initialized": true
                             },
@@ -622,7 +622,7 @@
                                 "artist": "Aaron Eckhart, Ramón Rodríguez, Will Rothhaar, Michael Peña",
                                 "author": "Jonathan Liebesman",
                                 "description": "When once distant UFOs become a terrifying threat and an alien invasion force begins attacking Earths major costal and riverside cities, a U.S Marine staff sergeant and his team are sent into battle only to find they must take it upon themselves to defeat an unknown enemy and protect what remains of Los Angeles.",
-                                "genre": "Action & Adventure, Science-Fiction",
+                                "genre": "Science-Fiction, Action & Adventure",
                                 "thumbnail_url": "https://images.justwatch.com/poster/175357619/s276/battle-la.webp",
                                 "initialized": true
                             },
@@ -682,7 +682,7 @@
                                 "artist": "Paul-Mikél Williams, Sean Giambrone, Darren Barnet, Raini Rodriguez",
                                 "author": "",
                                 "description": "Darius Bowman, a young paleontologist, discovers live dinosaurs in California's wilderness.",
-                                "genre": "Kids & Family, Science-Fiction, Animation, Action & Adventure",
+                                "genre": "Animation, Action & Adventure, Kids & Family, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/313973381/s276/jurassic-world-chaos-theory.webp",
                                 "initialized": true
                             },
@@ -697,16 +697,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt10739764,SHOW,/us/tv-show/worlds-greatest-palaces",
-                                "title": "World's Greatest Palaces",
-                                "artist": "Christien Anholt",
-                                "author": "",
-                                "description": "The history of the greatest and most lavish palaces in the world.",
-                                "genre": "Documentary, History",
-                                "thumbnail_url": "https://images.justwatch.com/poster/173301144/s276/worlds-greatest-palaces.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0783466,SHOW,/us/tv-show/worlds-most-extreme-homes",
                                 "title": "World's Most Extreme Homes",
                                 "artist": "Ruth England",
@@ -717,13 +707,13 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
-                                "title": "World's End Harem",
-                                "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
+                                "url": "tt10739764,SHOW,/us/tv-show/worlds-greatest-palaces",
+                                "title": "World's Greatest Palaces",
+                                "artist": "Christien Anholt",
                                 "author": "",
-                                "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
-                                "genre": "Mystery & Thriller, Animation, Drama, Science-Fiction, Romance",
-                                "thumbnail_url": "https://images.justwatch.com/poster/320028644/s276/worlds-end-harem.webp",
+                                "description": "The history of the greatest and most lavish palaces in the world.",
+                                "genre": "Documentary, History",
+                                "thumbnail_url": "https://images.justwatch.com/poster/173301144/s276/worlds-greatest-palaces.webp",
                                 "initialized": true
                             },
                             {
@@ -734,6 +724,16 @@
                                 "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
                                 "genre": "Reality TV, Comedy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
+                                "title": "World's End Harem",
+                                "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
+                                "author": "",
+                                "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
+                                "genre": "Mystery & Thriller, Animation, Drama, Science-Fiction, Romance",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320028644/s276/worlds-end-harem.webp",
                                 "initialized": true
                             },
                             {
@@ -767,16 +767,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt0070904,SHOW,/us/tv-show/world-on-a-wire",
-                                "title": "World on a Wire",
-                                "artist": "Klaus Löwitsch, Mascha Rabben, Karl-Heinz Vosgerau, Adrian Hoven",
-                                "author": "",
-                                "description": "Cybernetics engineer Fred Stiller uncovers a massive corporate conspiracy involving a virtual reality computer project.",
-                                "genre": "Science-Fiction, Crime",
-                                "thumbnail_url": "https://images.justwatch.com/poster/248776527/s276/world-on-a-wire.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt3909336,MOVIE,/us/movie/worlds-apart-2015",
                                 "title": "Worlds Apart",
                                 "artist": "J.K. Simmons, Maria Kavoyianni, Andrea Osvárt, Christopher Papakaliatis",
@@ -784,6 +774,16 @@
                                 "description": "Three separate narratives each following a love story between a foreigner and a Greek. Each story represents a different generation falling in love during a time of socioeconomic turmoil that dominates Southern Europe as a whole, only to connect as a single story in the end.",
                                 "genre": "Drama, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/45122637/s276/worlds-apart-2015.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt0070904,SHOW,/us/tv-show/world-on-a-wire",
+                                "title": "World on a Wire",
+                                "artist": "Klaus Löwitsch, Mascha Rabben, Karl-Heinz Vosgerau, Adrian Hoven",
+                                "author": "",
+                                "description": "Cybernetics engineer Fred Stiller uncovers a massive corporate conspiracy involving a virtual reality computer project.",
+                                "genre": "Science-Fiction, Crime",
+                                "thumbnail_url": "https://images.justwatch.com/poster/248776527/s276/world-on-a-wire.webp",
                                 "initialized": true
                             },
                             {
