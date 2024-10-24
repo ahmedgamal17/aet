@@ -252,9 +252,29 @@
                                 "thumbnail_url": "https://prod-images.viu.com/3539505242/3f0b34521daca8433c603ad09581fc79b6dbad51?im=Resize,width=1920"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9538?isq=false",
-                                "title": "Agatha All Along",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/3ViiCcM5GNSUkbjNFTw4hB4wxuz.jpg"
+                                "url": "/api/DramaList/Drama/9126?isq=false",
+                                "title": "A Beautiful Lie",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/oow8o7un1mgol2d1729070957464/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9174?isq=false",
+                                "title": "The Rise of Ning",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/iwf554loilcazjm1728547466818/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9708?isq=false",
+                                "title": "Let Free the Curse of Taekwondo",
+                                "thumbnail_url": "https://img.gagaoolala.com/media/407356a3-627920-lg.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9594?isq=false",
+                                "title": "Eccentric Romance",
+                                "thumbnail_url": "https://img.gagaoolala.com/media/93827478-678637-lg.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/1832?isq=false",
+                                "title": "Perfect World",
+                                "thumbnail_url": "https://puui.wetvinfo.com/vcover_hz_pic/0/oz5ppkfjx9niv571663217506808/0?imageMogr2/thumbnail/720x"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9738?isq=false",
@@ -262,9 +282,9 @@
                                 "thumbnail_url": "https://pbs.twimg.com/media/GU3gNGlaYAAQ9w1.jpg:large"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9594?isq=false",
-                                "title": "Eccentric Romance",
-                                "thumbnail_url": "https://img.gagaoolala.com/media/93827478-678637-lg.jpg"
+                                "url": "/api/DramaList/Drama/9538?isq=false",
+                                "title": "Agatha All Along",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/3ViiCcM5GNSUkbjNFTw4hB4wxuz.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9720?isq=false",
@@ -337,16 +357,6 @@
                                 "thumbnail_url": "https://img.gagaoolala.com/media/b0485d77-505495-lg.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9126?isq=false",
-                                "title": "A Beautiful Lie",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/oow8o7un1mgol2d1729070957464/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9174?isq=false",
-                                "title": "The Rise of Ning",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/iwf554loilcazjm1728547466818/0"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/9437?isq=false",
                                 "title": "Peaceful Property",
                                 "thumbnail_url": "https://prod-images.viu.com/596595322/9a948a5857f556df9eee805a7080970584f4555c?im=Resize,width=1920"
@@ -405,16 +415,6 @@
                                 "url": "/api/DramaList/Drama/9438?isq=false",
                                 "title": "Reverse 4 You",
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/AkQDefVv9POMuLJcQtpfaYNkwza.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9498?isq=false",
-                                "title": "Dear Hyeri",
-                                "thumbnail_url": "https://prod-images.viu.com/1627708906/502dc6633309910fa18b8adfcc88d58c030a2a80?im=Resize,width=1920"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9598?isq=false",
-                                "title": "High School Frenemy",
-                                "thumbnail_url": "https://prod-images.viu.com/3402213068/b07be2cf541f7ae4f7d103b078aa456eb8071524?im=Resize,width=1920"
                             }
                         ],
                         "hasNextPage": true
@@ -571,23 +571,23 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "file:///tmp/subs18098430901043900668srt",
+                                "url": "file:///tmp/subs3981475297453748054srt",
                                 "lang": "English"
                             },
                             {
-                                "url": "file:///tmp/subs15429483107389122324srt",
+                                "url": "file:///tmp/subs4082428694230418725srt",
                                 "lang": "Khmer"
                             },
                             {
-                                "url": "file:///tmp/subs3997064178369719815srt",
+                                "url": "file:///tmp/subs9458700024012598377srt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "file:///tmp/subs6590287178003880229srt",
+                                "url": "file:///tmp/subs16920885120063737194srt",
                                 "lang": "Indonesia"
                             },
                             {
-                                "url": "file:///tmp/subs10840184794800398350srt",
+                                "url": "file:///tmp/subs16554690104300487544srt",
                                 "lang": "Malay"
                             }
                         ]

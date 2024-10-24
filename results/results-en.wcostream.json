@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "{\"title\":\"Star Trek: Lower Decks Season 5\",\"url\":\"/star-trek-lower-decks-season-5-episode-1-dos-cerritos\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/849427.jpg\"}",
+                                "title": "Star Trek: Lower Decks Season 5",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/849427.jpg"
+                            },
+                            {
+                                "url": "{\"title\":\"The Legend of Vox Machina Season 3\",\"url\":\"/the-legend-of-vox-machina-season-3-episode-10-to-the-ends-of-the-world\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/922808.jpg\"}",
+                                "title": "The Legend of Vox Machina Season 3",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/922808.jpg"
+                            },
+                            {
+                                "url": "{\"title\":\"Everybody Still Hates Chris\",\"url\":\"/everybody-still-hates-chris-episode-7-everybody-still-hates-breakdancing\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933731.jpg\"}",
+                                "title": "Everybody Still Hates Chris",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933731.jpg"
+                            },
+                            {
+                                "url": "{\"title\":\"True Beauty\",\"url\":\"/true-beauty-episode-10-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933713.jpg\"}",
+                                "title": "True Beauty",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933713.jpg"
+                            },
+                            {
+                                "url": "{\"title\":\"Laid-Back Camp Special Season 3\",\"url\":\"/laid-back-camp-special-season-3-episode-1-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/932617.jpg\"}",
+                                "title": "Laid-Back Camp Special Season 3",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932617.jpg"
+                            },
+                            {
+                                "url": "{\"title\":\"Yuru Camp Special Season 3\",\"url\":\"/yuru-camp-special-season-3-episode-1-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/583862.jpg\"}",
+                                "title": "Yuru Camp Special Season 3",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/583862.jpg"
+                            },
+                            {
                                 "url": "{\"title\":\"Super Kitties Season 2\",\"url\":\"/super-kitties-season-2-episode-12-super-spooky-house-pumpkin-ball\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/932810.jpg\"}",
                                 "title": "Super Kitties Season 2",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932810.jpg"
@@ -55,36 +85,6 @@
                                 "url": "{\"title\":\"Shinkalion: Change the World\",\"url\":\"/shinkalion-change-the-world-episode-27-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933556.jpg\"}",
                                 "title": "Shinkalion: Change the World",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933556.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"Sengoku Youko Season 2\",\"url\":\"/sengoku-youko-season-2-episode-13-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933420.jpg\"}",
-                                "title": "Sengoku Youko Season 2",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933420.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"Re:Zero kara Hajimeru Isekai Seikatsu Season 3\",\"url\":\"/rezero-kara-hajimeru-isekai-seikatsu-season-3-episode-4-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/268725.jpg\"}",
-                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/268725.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"Acro Trip\",\"url\":\"/acro-trip-episode-5-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933742.jpg\"}",
-                                "title": "Acro Trip",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933742.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu\",\"url\":\"/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-3-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933772.jpg\"}",
-                                "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933772.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"I'll Become a Villainess Who Goes Down in History\",\"url\":\"/ill-become-a-villainess-who-goes-down-in-history-episode-2-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933777.jpg\"}",
-                                "title": "I'll Become a Villainess Who Goes Down in History",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933777.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"Tying the Knot with an Amagami Sister\",\"url\":\"/tying-the-knot-with-an-amagami-sister-episode-2-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933778.jpg\"}",
-                                "title": "Tying the Knot with an Amagami Sister",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933778.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -97,6 +97,36 @@
                     {
                         "animes": [
                             {
+                                "url": "{\"title\":\"Star Trek: Lower Decks Season 5\",\"url\":\"/star-trek-lower-decks-season-5-episode-1-dos-cerritos\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/849427.jpg\"}",
+                                "title": "Star Trek: Lower Decks Season 5",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/849427.jpg"
+                            },
+                            {
+                                "url": "{\"title\":\"The Legend of Vox Machina Season 3\",\"url\":\"/the-legend-of-vox-machina-season-3-episode-10-to-the-ends-of-the-world\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/922808.jpg\"}",
+                                "title": "The Legend of Vox Machina Season 3",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/922808.jpg"
+                            },
+                            {
+                                "url": "{\"title\":\"Everybody Still Hates Chris\",\"url\":\"/everybody-still-hates-chris-episode-7-everybody-still-hates-breakdancing\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933731.jpg\"}",
+                                "title": "Everybody Still Hates Chris",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933731.jpg"
+                            },
+                            {
+                                "url": "{\"title\":\"True Beauty\",\"url\":\"/true-beauty-episode-10-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933713.jpg\"}",
+                                "title": "True Beauty",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933713.jpg"
+                            },
+                            {
+                                "url": "{\"title\":\"Laid-Back Camp Special Season 3\",\"url\":\"/laid-back-camp-special-season-3-episode-1-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/932617.jpg\"}",
+                                "title": "Laid-Back Camp Special Season 3",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932617.jpg"
+                            },
+                            {
+                                "url": "{\"title\":\"Yuru Camp Special Season 3\",\"url\":\"/yuru-camp-special-season-3-episode-1-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/583862.jpg\"}",
+                                "title": "Yuru Camp Special Season 3",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/583862.jpg"
+                            },
+                            {
                                 "url": "{\"title\":\"Super Kitties Season 2\",\"url\":\"/super-kitties-season-2-episode-12-super-spooky-house-pumpkin-ball\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/932810.jpg\"}",
                                 "title": "Super Kitties Season 2",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932810.jpg"
@@ -145,36 +175,6 @@
                                 "url": "{\"title\":\"Shinkalion: Change the World\",\"url\":\"/shinkalion-change-the-world-episode-27-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933556.jpg\"}",
                                 "title": "Shinkalion: Change the World",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933556.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"Sengoku Youko Season 2\",\"url\":\"/sengoku-youko-season-2-episode-13-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933420.jpg\"}",
-                                "title": "Sengoku Youko Season 2",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933420.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"Re:Zero kara Hajimeru Isekai Seikatsu Season 3\",\"url\":\"/rezero-kara-hajimeru-isekai-seikatsu-season-3-episode-4-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/268725.jpg\"}",
-                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/268725.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"Acro Trip\",\"url\":\"/acro-trip-episode-5-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933742.jpg\"}",
-                                "title": "Acro Trip",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933742.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu\",\"url\":\"/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-3-english-subbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933772.jpg\"}",
-                                "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933772.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"I'll Become a Villainess Who Goes Down in History\",\"url\":\"/ill-become-a-villainess-who-goes-down-in-history-episode-2-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933777.jpg\"}",
-                                "title": "I'll Become a Villainess Who Goes Down in History",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933777.jpg"
-                            },
-                            {
-                                "url": "{\"title\":\"Tying the Knot with an Amagami Sister\",\"url\":\"/tying-the-knot-with-an-amagami-sister-episode-2-english-dubbed\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/933778.jpg\"}",
-                                "title": "Tying the Knot with an Amagami Sister",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933778.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -188,11 +188,11 @@
             },
             "details": {
                 "result": {
-                    "url": "{\"title\":\"Super Kitties Season 2\",\"url\":\"/super-kitties-season-2-episode-12-super-spooky-house-pumpkin-ball\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/932810.jpg\"}",
-                    "title": "Super Kitties Season 2",
+                    "url": "{\"title\":\"Star Trek: Lower Decks Season 5\",\"url\":\"/star-trek-lower-decks-season-5-episode-1-dos-cerritos\",\"thumbnailUrl\":\"https://cdn.animationexplore.com/catimg/849427.jpg\"}",
+                    "title": "Star Trek: Lower Decks Season 5",
                     "description": "",
                     "genre": "",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932810.jpg",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/849427.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -200,14 +200,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/super-kitties-season-2-episode-12-super-spooky-house-pumpkin-ball",
-                        "name": "Episode: Super Kitties Season 2 Episode 12 Super Spooky House/Pumpkin Ball",
-                        "episode_number": 212.0
+                        "url": "/star-trek-lower-decks-season-5-episode-2-shades-of-green",
+                        "name": "Episode: Star Trek: Lower Decks Season 5 Episode 2 Shades of Green",
+                        "episode_number": 52.0
                     },
                     {
-                        "url": "/super-kitties-season-2-episode-11-flying-piggy-get-the-zoomies",
-                        "name": "Episode: Super Kitties Season 2 Episode 11 Flying Piggy/Get the Zoomies",
-                        "episode_number": 211.0
+                        "url": "/star-trek-lower-decks-season-5-episode-1-dos-cerritos",
+                        "name": "Episode: Star Trek: Lower Decks Season 5 Episode 1 Dos Cerritos",
+                        "episode_number": 51.0
                     }
                 ],
                 "passed": true
