@@ -22,7 +22,7 @@
                                 "artist": "Manuel Garcia-Rulfo, Becki Newton, Yaya DaCosta, Angus Sampson",
                                 "author": "",
                                 "description": "Need a lawyer? Call Mickey Haller. He runs his law practice out of his Lincoln, and he's ready to hit the gas. Moving through Los Angeles, he takes cases while balancing a private life that includes being a father and having two ex-wives.",
-                                "genre": "Crime, Drama, Mystery & Thriller",
+                                "genre": "Mystery & Thriller, Crime, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/306385578/s276/the-lincoln-lawyer.webp",
                                 "initialized": true
                             },
@@ -102,7 +102,7 @@
                                 "artist": "Kayvan Novak, Matt Berry, Natasia Demetriou, Harvey Guillén",
                                 "author": "",
                                 "description": "A documentary-style look into the daily (or rather, nightly) lives of a group of vampires in Staten Island who have “lived” together for hundreds and hundreds of years.",
-                                "genre": "Comedy, Horror, Fantasy",
+                                "genre": "Comedy, Fantasy, Horror",
                                 "thumbnail_url": "https://images.justwatch.com/poster/286886773/s276/what-we-do-in-the-shadows.webp",
                                 "initialized": true
                             },
@@ -192,7 +192,7 @@
                                 "artist": "Cate Blanchett, Kevin Kline, Sacha Baron Cohen, Lesley Manville",
                                 "author": "",
                                 "description": "When an intriguing novel appears at the bedside of a journalist whose career has been built on revealing transgressions, she is horrified to realize she's a key character in a long-buried story—one that exposes her darkest secret.",
-                                "genre": "Drama, Mystery & Thriller",
+                                "genre": "Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/321369733/s276/disclaimer.webp",
                                 "initialized": true
                             },
@@ -302,7 +302,7 @@
                                 "artist": "Melanie Lynskey, Tawny Cypress, Sophie Nélisse, Jasmin Savoy Brown",
                                 "author": "",
                                 "description": "A wildly talented girls high school soccer team become the unlucky survivors of a plane crash deep in the Canadian wilderness.",
-                                "genre": "Mystery & Thriller, Drama, Horror",
+                                "genre": "Horror, Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/304427602/s276/yellowjackets.webp",
                                 "initialized": true
                             },
@@ -321,7 +321,7 @@
                                 "title": "The Substance",
                                 "artist": "Demi Moore, Margaret Qualley, Dennis Quaid, Gore Abrams",
                                 "author": "Coralie Fargeat",
-                                "description": "Have you ever dreamt of a better version of yourself? You, only better in every way. You should try this new product, it’s called The Substance. IT CHANGED MY LIFE. With The Substance, you can generate another you: younger, more beautiful, more perfect. You just have to share time – one week for one, one week for the other. A perfect balance of seven days each... Easy right? If you respect the balance... What could possibly go wrong?",
+                                "description": "A fading celebrity decides to usea black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
                                 "genre": "Horror, Drama, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320520686/s276/the-substance.webp",
                                 "initialized": true
@@ -352,7 +352,7 @@
                                 "artist": "Jeremy Allen White, Ebon Moss-Bachrach, Ayo Edebiri, Lionel Boyce",
                                 "author": "",
                                 "description": "A young chef from the fine dining world returns to Chicago to run his family's sandwich shop.",
-                                "genre": "Drama, Comedy",
+                                "genre": "Comedy, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/286140049/s276/the-bear.webp",
                                 "initialized": true
                             },
@@ -372,8 +372,8 @@
                                 "artist": "Joel Kinnaman, Toby Kebbell, Krys Marshall, Edi Gathegi",
                                 "author": "",
                                 "description": "Explore an aspirational world where NASA and the space program remained a priority and a focal point of our hopes and dreams as told through the lives of NASA astronauts, engineers, and their families.",
-                                "genre": "Drama, Science-Fiction, War & Military",
-                                "thumbnail_url": "https://images.justwatch.com/poster/279129270/s276/for-all-mankind.webp",
+                                "genre": "War & Military, Drama, Science-Fiction",
+                                "thumbnail_url": "https://images.justwatch.com/poster/309373547/s276/for-all-mankind.webp",
                                 "initialized": true
                             },
                             {
@@ -432,7 +432,7 @@
                                 "artist": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
                                 "author": "Marc Forster",
                                 "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                "genre": "Science-Fiction, Mystery & Thriller, Action & Adventure, Horror",
+                                "genre": "Action & Adventure, Horror, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/291193041/s276/world-war-z-3d.webp",
                                 "initialized": true
                             },
@@ -597,6 +597,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt5874596,SHOW,/us/tv-show/world-of-winx",
+                                "title": "World of Winx",
+                                "artist": "Carole Baillien, Alice Ley, Esther Aflalo, Mélanie Dermont",
+                                "author": "",
+                                "description": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
+                                "genre": "Action & Adventure, Animation, Kids & Family, Fantasy, Comedy, Made in Europe",
+                                "thumbnail_url": "https://images.justwatch.com/poster/309927594/s276/world-of-winx.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt4854976,SHOW,/us/tv-show/worlds-deadliest",
                                 "title": "World's Deadliest",
                                 "artist": "Jeremy Davidson",
@@ -604,16 +614,6 @@
                                 "description": "The Animal Kingdom is rife with deadly snakes.",
                                 "genre": "Documentary, History",
                                 "thumbnail_url": "https://images.justwatch.com/poster/306897307/s276/worlds-deadliest.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt5874596,SHOW,/us/tv-show/world-of-winx",
-                                "title": "World of Winx",
-                                "artist": "Carole Baillien, Alice Ley, Esther Aflalo, Mélanie Dermont",
-                                "author": "",
-                                "description": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
-                                "genre": "Animation, Action & Adventure, Comedy, Kids & Family, Fantasy, Made in Europe",
-                                "thumbnail_url": "https://images.justwatch.com/poster/309927594/s276/world-of-winx.webp",
                                 "initialized": true
                             },
                             {
@@ -657,16 +657,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": ",SHOW,/us/tv-show/world-war-ii-from-the-frontlines",
-                                "title": "World War II: From the Frontlines",
-                                "artist": "John Boyega",
-                                "author": "",
-                                "description": "Through vividly enhanced archival footage and voices from all sides of the conflict, this docuseries brings WWII to life like never before.",
-                                "genre": "War & Military",
-                                "thumbnail_url": "https://images.justwatch.com/poster/310063837/s276/world-war-ii-from-the-frontlines.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt8001092,SHOW,/us/tv-show/world-on-fire",
                                 "title": "World on Fire",
                                 "artist": "Jonah Hauer-King, Julia Brown, Helen Hunt, Zofia Wichłacz",
@@ -677,12 +667,22 @@
                                 "initialized": true
                             },
                             {
+                                "url": ",SHOW,/us/tv-show/world-war-ii-from-the-frontlines",
+                                "title": "World War II: From the Frontlines",
+                                "artist": "John Boyega",
+                                "author": "",
+                                "description": "Through vividly enhanced archival footage and voices from all sides of the conflict, this docuseries brings WWII to life like never before.",
+                                "genre": "War & Military",
+                                "thumbnail_url": "https://images.justwatch.com/poster/310063837/s276/world-war-ii-from-the-frontlines.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt29899148,SHOW,/us/tv-show/jurassic-world-chaos-theory",
                                 "title": "Jurassic World: Chaos Theory",
                                 "artist": "Paul-Mikél Williams, Sean Giambrone, Darren Barnet, Raini Rodriguez",
                                 "author": "",
                                 "description": "Darius Bowman, a young paleontologist, discovers live dinosaurs in California's wilderness.",
-                                "genre": "Animation, Action & Adventure, Kids & Family, Science-Fiction",
+                                "genre": "Science-Fiction, Animation, Action & Adventure, Kids & Family",
                                 "thumbnail_url": "https://images.justwatch.com/poster/313973381/s276/jurassic-world-chaos-theory.webp",
                                 "initialized": true
                             },
@@ -717,16 +717,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
-                                "title": "World's Funniest Animals",
-                                "artist": "Elizabeth Stanton",
-                                "author": "",
-                                "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
-                                "genre": "Reality TV, Comedy",
-                                "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt13411814,SHOW,/us/tv-show/worlds-end-harem",
                                 "title": "World's End Harem",
                                 "artist": "Keiko Watanabe, Taichi Ichikawa, Haruka Shiraishi, You Taichi",
@@ -734,6 +724,16 @@
                                 "description": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
                                 "genre": "Mystery & Thriller, Animation, Drama, Science-Fiction, Romance",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320028644/s276/worlds-end-harem.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt13070378,SHOW,/us/tv-show/the-worlds-funniest-animals",
+                                "title": "World's Funniest Animals",
+                                "artist": "Elizabeth Stanton",
+                                "author": "",
+                                "description": "Host Elizabeth Stanton and a celebrity guest panel look at animals doing the funniest things ever caught on video. The series includes viral internet clips of funny animal moments, hilarious animal clips from major motion pictures and popular TV series, animal outtakes that surprise the whole cast and crew, videos of babies and pets, as well as celebrities and their pets.",
+                                "genre": "Reality TV, Comedy",
+                                "thumbnail_url": "https://images.justwatch.com/poster/251717215/s276/the-worlds-funniest-animals.webp",
                                 "initialized": true
                             },
                             {
@@ -787,16 +787,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt1831534,SHOW,/us/tv-show/the-world-wild-vet",
-                                "title": "The World Wild Vet",
-                                "artist": "Luke Gamble",
-                                "author": "",
-                                "description": "Vet Adventures takes viewers on a whirlwind trek across the globe as Luke Gamble, a vet from a small village in the south of England, ventures to places where animal welfare is low on the agenda and vets are often non-existent. While helping and saving as many animals as possible Luke immerses himself into the different cultures and traditions of each country he visits. With long hours, little sleep, life on the road to contend with and daily activities that involve anything from anesthetizing a leopard to educating local people about animal welfare issues, Luke takes everything in his stride. Building on Luke's charm, passion and enormous on-screen presence the stories will shock, appall and inspire the audience in equal measure as Luke travels across the open plains of Africa, the tropical rain-forests of South America and the mountains of Nepal. In each episode Luke deals with huge moral questions that will put his veterinary knowledge to the test, creating a series packed full of drama alongside aspirational stories of people who dedicate their lives to animal welfare and selflessly seek to better the natural world around them.",
-                                "genre": "Documentary, Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/321099366/s276/the-world-wild-vet.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt1878805,SHOW,/us/tv-show/world-without-end",
                                 "title": "World Without End",
                                 "artist": "Oliver Maltman, David Bradley, Ben Chaplin, Charlotte Riley",
@@ -804,6 +794,16 @@
                                 "description": "Two hundred years after the construction of the great cathedral, the medieval town of Kingsbridge is  taken under siege by Queen Isabella. Caris, a visionary young woman, inspires her people to stand up for their rights and revolt against to the most powerful forces of her time, the Church and the Crown.",
                                 "genre": "Drama, Romance, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/112959698/s276/world-without-end.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt1831534,SHOW,/us/tv-show/the-world-wild-vet",
+                                "title": "The World Wild Vet",
+                                "artist": "Luke Gamble",
+                                "author": "",
+                                "description": "Vet Adventures takes viewers on a whirlwind trek across the globe as Luke Gamble, a vet from a small village in the south of England, ventures to places where animal welfare is low on the agenda and vets are often non-existent. While helping and saving as many animals as possible Luke immerses himself into the different cultures and traditions of each country he visits. With long hours, little sleep, life on the road to contend with and daily activities that involve anything from anesthetizing a leopard to educating local people about animal welfare issues, Luke takes everything in his stride. Building on Luke's charm, passion and enormous on-screen presence the stories will shock, appall and inspire the audience in equal measure as Luke travels across the open plains of Africa, the tropical rain-forests of South America and the mountains of Nepal. In each episode Luke deals with huge moral questions that will put his veterinary knowledge to the test, creating a series packed full of drama alongside aspirational stories of people who dedicate their lives to animal welfare and selflessly seek to better the natural world around them.",
+                                "genre": "Documentary, Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/321099366/s276/the-world-wild-vet.webp",
                                 "initialized": true
                             },
                             {
