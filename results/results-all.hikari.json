@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/6336/Kidou_Senshi_Gundam_Unicorn",
+                                "title": "Kidou Senshi Gundam Unicorn",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/12/50459l.jpg"
+                            },
+                            {
                                 "url": "/anime/32863/Ansatsu_Kyoushitsu_Kagaijugyou-hen",
                                 "title": "Ansatsu Kyoushitsu: Kagaijugyou-hen",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1807/96939l.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/36040/Saint_Seiya_Knights_of_the_Zodiac",
                                 "title": "Saint Seiya: Knights of the Zodiac",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1091/101664l.jpg"
-                            },
-                            {
-                                "url": "/anime/49392/Ore_Tsushima_ONA",
-                                "title": "Ore, Tsushima (ONA)",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1809/117254l.jpg"
                             }
                         ],
                         "hasNextPage": true

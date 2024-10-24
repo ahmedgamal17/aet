@@ -307,6 +307,11 @@
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/65MS4IWTecmsm6XnqBO9DMtGUgw.jpg"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9539?isq=false",
+                                "title": "My Cherie Amour",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/plhtYYSzMq7JF93OzrEra9yt9oz.jpg"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/9440?isq=false",
                                 "title": "Seoul Busters",
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/kEGso9oUqrnqXck3RxiCyrBc7ne.jpg"
@@ -410,11 +415,6 @@
                                 "url": "/api/DramaList/Drama/9687?isq=false",
                                 "title": "This World Is Not Real",
                                 "thumbnail_url": "https://m.ykimg.com/05350000670B2E647B50BB14897B2AA4"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9732?isq=false",
-                                "title": "SEVENTEEN TOUR ‘FOLLOW’ AGAIN TO CINEMAS",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/iWlzBAVLZZBYB7EXURbRU4c4sNq.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -571,23 +571,23 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "file:///tmp/subs16511838758254769262srt",
+                                "url": "file:///tmp/subs11946509497213204061srt",
                                 "lang": "English"
                             },
                             {
-                                "url": "file:///tmp/subs17838111513021846819srt",
+                                "url": "file:///tmp/subs15273786077991649429srt",
                                 "lang": "Khmer"
                             },
                             {
-                                "url": "file:///tmp/subs17953378235420571810srt",
+                                "url": "file:///tmp/subs6291358685627400438srt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "file:///tmp/subs2330150438269231883srt",
+                                "url": "file:///tmp/subs15005428974660476525srt",
                                 "lang": "Indonesia"
                             },
                             {
-                                "url": "file:///tmp/subs5556145289873383595srt",
+                                "url": "file:///tmp/subs8470893404874426951srt",
                                 "lang": "Malay"
                             }
                         ]
