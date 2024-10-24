@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/kamen-rider-reiwas-gorgeous-sports-day.html",
+                                "title": "Kamen Rider: Reiwa’s Gorgeous Sports Day",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-reiwas-gorgeous-sports-day-thumb.png"
+                            },
+                            {
                                 "url": "/watch/bakuage-sentai-boonboomger.html",
                                 "title": "Bakuage Sentai Boonboomger",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
@@ -60,11 +65,6 @@
                                 "url": "/watch/kamen-rider-gotchard-spin-off-we-are-class-3g.html",
                                 "title": "Kamen Rider Gotchard Spin-Off: We Are Class 3G",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-spin-off-we-are-class-3g-thumb.png"
-                            },
-                            {
-                                "url": "/watch/ninja-sentai-kakuranger-super-video-the-hidden-scroll.html",
-                                "title": "Ninja Sentai Kakuranger Super Video: The Hidden Scroll",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninja-sentai-kakuranger-super-video-the-hidden-scroll-thumb.png"
                             }
                         ],
                         "hasNextPage": true
@@ -117,6 +117,11 @@
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-black-rx-run-all-over-the-world-thumb.png"
                             },
                             {
+                                "url": "/watch/kamen-rider-reiwas-gorgeous-sports-day.html",
+                                "title": "Kamen Rider: Reiwa’s Gorgeous Sports Day",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-reiwas-gorgeous-sports-day-thumb.png"
+                            },
+                            {
                                 "url": "/watch/kamen-rider-girls-7th-one-man-live-game-start.html",
                                 "title": "Kamen Rider Girls – 7th One Man Live -GAME START",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-girls-7th-one-man-live-game-start-thumb.png"
@@ -130,11 +135,6 @@
                                 "url": "/watch/kamen-rider-geats-jyamato-awaking.html",
                                 "title": "Kamen Rider Geats: Jyamato Awaking",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-geats-jyamato-awaking-thumb.png"
-                            },
-                            {
-                                "url": "/watch/daitetsujin-17-movie-2.html",
-                                "title": "Daitetsujin 17 Movie 2",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/daitetsujin-17-movie-2-thumb.png"
                             }
                         ],
                         "hasNextPage": true
@@ -144,14 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/bakuage-sentai-boonboomger.html",
-                    "title": "Bakuage Sentai Boonboomger",
+                    "url": "/watch/kamen-rider-reiwas-gorgeous-sports-day.html",
+                    "title": "Kamen Rider: Reiwa’s Gorgeous Sports Day",
                     "author": "Year 2024",
-                    "description": "Bakuage Sentai Boonboomger is an upcoming Japanese Tokusatsu-drama and the 48th installment in Toei Company’s Super Sentai Series.",
-                    "genre": "Series, Super Sentai",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png",
+                    "description": "Kamen Rider: Reiwa’s Gorgeous Sports Day is a web-exclusive series released on Toei Tokusatsu YouTube Official channel. It features a new appearance of Kamen Rider Gavv, after his short appearance in Kamen Rider Gotchard: The Future Daybreak.",
+                    "genre": "Kamen Rider",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-reiwas-gorgeous-sports-day-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -159,14 +159,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=34#watch",
-                        "name": "Episode 34",
-                        "episode_number": 34.0
+                        "url": "/watch/kamen-rider-reiwas-gorgeous-sports-day.html?ep=4#watch",
+                        "name": "Episode 4",
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=33#watch",
-                        "name": "Episode 33",
-                        "episode_number": 33.0
+                        "url": "/watch/kamen-rider-reiwas-gorgeous-sports-day.html?ep=3#watch",
+                        "name": "Episode 3",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
