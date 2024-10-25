@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5672",
+                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
+                                "artist": "Passerby-ApocalypticSubs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/87ba1aa26a578fce8f79d2a8f5fd1617b2fc4c9cd2c8061e013a8e8811c20f77.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5557",
+                                "title": "Himitsu no AiPri",
+                                "artist": "Piyoko",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/762f560210f94efa9f17b4d69ef08c7adfc225a35d2e02e9d520631b62e69737.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5720",
+                                "title": "Another Journey to the West",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/b95e2203a5b9df645e2e81bb082614c7ce519adba5285be864d9c9ee55d9d5fe.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5669",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
                                 "artist": "SubsPlease",
@@ -59,24 +77,6 @@
                                 "title": "Hitoribocchi no Isekai Kouryaku",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/a4f96e61b602468d32733d22c9f204f57e022314475e9dade4578d4cc962a068.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5704",
-                                "title": "NegaPosi Angler",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/abb0d6f2b8bd2c1612451c47e7e9d1177dec2dc285ae06a4ce0505c111af9753.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5690",
-                                "title": "Kinoko Inu",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/30d4f92e18eb4ccb6a4f8999a9cd4d1c7a3892d1aa6f551896af73e233228fda.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5417",
-                                "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/113e93fd090f3d9d01da3e00abbc8057abe2570c60ca995db37544bc26054d2d.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5672",
+                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
+                                "artist": "Passerby-ApocalypticSubs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/87ba1aa26a578fce8f79d2a8f5fd1617b2fc4c9cd2c8061e013a8e8811c20f77.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5557",
+                                "title": "Himitsu no AiPri",
+                                "artist": "Piyoko",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/762f560210f94efa9f17b4d69ef08c7adfc225a35d2e02e9d520631b62e69737.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5720",
+                                "title": "Another Journey to the West",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/b95e2203a5b9df645e2e81bb082614c7ce519adba5285be864d9c9ee55d9d5fe.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5669",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
                                 "artist": "SubsPlease",
@@ -141,24 +159,6 @@
                                 "title": "Hitoribocchi no Isekai Kouryaku",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/a4f96e61b602468d32733d22c9f204f57e022314475e9dade4578d4cc962a068.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5704",
-                                "title": "NegaPosi Angler",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/abb0d6f2b8bd2c1612451c47e7e9d1177dec2dc285ae06a4ce0505c111af9753.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5690",
-                                "title": "Kinoko Inu",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/30d4f92e18eb4ccb6a4f8999a9cd4d1c7a3892d1aa6f551896af73e233228fda.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5417",
-                                "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/113e93fd090f3d9d01da3e00abbc8057abe2570c60ca995db37544bc26054d2d.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5669",
-                    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-                    "author": "LIDENFILMS",
-                    "description": "Second season of Rurouni Kenshin: Meiji Kenkaku Romantan (2023).\n\nSynonyms: Rurouni Kenshin Season 2",
-                    "genre": "Action",
+                    "url": "/anime/?anime_id=5672",
+                    "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
+                    "author": "Telecom Animation Film",
+                    "description": "Second season of Nanatsu no Taizai: Mokushiroku no Yonkishi.",
+                    "genre": "Action, Adventure, Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/898ba1023974acc7ce44c3feb5aece5f562d1765de09906bb7436e1b22700256.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/cd7aaa28f3f1221b41349872f2475eb2816400cb0010c51cbfde498933e5be3b.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/e3a0c508-fbf0-9d1c-eccd-840e569ed93e/87f24bd2a26de1b53d6a50339cdb959578c941f8bbc1b28bdee6da9d2daf8fb0",
-                        "name": "Episode 28",
-                        "date_upload": 1729793407000,
-                        "episode_number": 28.0
+                        "url": "/play/10c68cdd-bf66-2c1a-8f56-1292821da411/ee9e78547c880af53da250206126256c68a8ed9108281ffc64d095e3d8c35fd7",
+                        "name": "Episode 27",
+                        "date_upload": 1729818714000,
+                        "episode_number": 27.0
                     },
                     {
-                        "url": "/play/e3a0c508-fbf0-9d1c-eccd-840e569ed93e/6367d96c188b1ecbd888e91a7a9565579242b6034735e2d24992e1f369725a94",
-                        "name": "Episode 27",
-                        "date_upload": 1729188701000,
-                        "episode_number": 27.0
+                        "url": "/play/10c68cdd-bf66-2c1a-8f56-1292821da411/dca13ead82429e203b1a30c48033ed40660db2644b115c1591c3994a48de3cbf",
+                        "name": "Episode 26",
+                        "date_upload": 1729606003000,
+                        "episode_number": 26.0
                     }
                 ],
                 "passed": true
@@ -250,9 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/6b58aad659f71cc0732db9c7faf2c83ec60d5fe94bfcf7032d483177f1c33ad2?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_28_1080p_SubsPlease.mp4&token=xE-3LT9v_COEAc-On1ySNQ&expires=1729809084",
-                        "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/6b58aad659f71cc0732db9c7faf2c83ec60d5fe94bfcf7032d483177f1c33ad2?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_28_1080p_SubsPlease.mp4&token=xE-3LT9v_COEAc-On1ySNQ&expires=1729809084"
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/d40b90cbdc8ef53d3a385e9248966a73231b2ace36fbc6adddffe6fda5711cd2?file=AnimePahe_Nanatsu_no_Taizai_-_Mokushiroku_no_Yonkishi_-_27_1080p_Passerby-ApocalypticSubs.mp4&token=4m0mMfOjzYyDw-XmSWsGWg&expires=1729835295",
+                        "quality": "Passerby-ApocalypticSubs · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/d40b90cbdc8ef53d3a385e9248966a73231b2ace36fbc6adddffe6fda5711cd2?file=AnimePahe_Nanatsu_no_Taizai_-_Mokushiroku_no_Yonkishi_-_27_1080p_Passerby-ApocalypticSubs.mp4&token=4m0mMfOjzYyDw-XmSWsGWg&expires=1729835295"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/3fe94ccdfb4dabc9c5cc98cbb690d102f2c71a7b3656426c959c67f8dfa0aa1f?file=AnimePahe_Nanatsu_no_Taizai_-_Mokushiroku_no_Yonkishi_-_27_720p_Passerby-ApocalypticSubs.mp4&token=gtIx2kyPI2tdjHVOBf-ryw&expires=1729835293",
+                        "quality": "Passerby-ApocalypticSubs · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/3fe94ccdfb4dabc9c5cc98cbb690d102f2c71a7b3656426c959c67f8dfa0aa1f?file=AnimePahe_Nanatsu_no_Taizai_-_Mokushiroku_no_Yonkishi_-_27_720p_Passerby-ApocalypticSubs.mp4&token=gtIx2kyPI2tdjHVOBf-ryw&expires=1729835293"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/35d5957318ad49816874c30caac5d4fb1616d7843fe6a471e368c863f32450cc?file=AnimePahe_Nanatsu_no_Taizai_-_Mokushiroku_no_Yonkishi_-_27_360p_Passerby-ApocalypticSubs.mp4&token=it3BJ44bnUZSm7vhx0Gf1w&expires=1729835292",
+                        "quality": "Passerby-ApocalypticSubs · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/35d5957318ad49816874c30caac5d4fb1616d7843fe6a471e368c863f32450cc?file=AnimePahe_Nanatsu_no_Taizai_-_Mokushiroku_no_Yonkishi_-_27_360p_Passerby-ApocalypticSubs.mp4&token=it3BJ44bnUZSm7vhx0Gf1w&expires=1729835292"
                     }
                 ],
                 "passed": true
