@@ -7,6 +7,48 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=3908",
+                                "title": "Psycho-Pass 3: First Inspector",
+                                "artist": "Anime_Land",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/bce7b782f44d4ad891fe513188ea7f0014822e687acfb4bbdc2b6939364931c5.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=3546",
+                                "title": "Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni＿＿",
+                                "artist": "LCE",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f33de23a24c821e1f6d40c199fe1ed1ea810355f705bd39caa5bff6256cbfd83.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=3545",
+                                "title": "Psycho-Pass: Sinners of the System Case.2 - First Guardian",
+                                "artist": "LCE",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7923098f19c43baa88b0b12de8114a496031ac986ac83ab7b1cb40084990f70e.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=3544",
+                                "title": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Batsu",
+                                "artist": "LCE",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/d7260fc4aa793ee88320b1025b7a1d122156a6cb689712ffa1f727ea856d0b0c.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=1296",
+                                "title": "Psycho-Pass Movie",
+                                "artist": "SCY",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/45d108e9460d73f01aa723e8b969d6a325ae89f02cf59bece2b9a78900ad7240.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=707",
+                                "title": "Psycho-Pass 2",
+                                "artist": "SCY",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/0a01bd947d8ae6987996579d3a3f3be07c20fd25c051a1100c4c0062b25c3674.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=706",
+                                "title": "Psycho-Pass",
+                                "artist": "SAD",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/96babd20b6d8efa5153b1cdb60b4223510b5b132f78e65731c3887e689c26276.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5720",
                                 "title": "Another Journey to the West",
                                 "artist": "SubsPlease",
@@ -35,48 +77,6 @@
                                 "title": "Chiikawa",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/51a38911e2dc22a03b071b259856170bbc5aa35ef8c0c51f50bb0bc507161db4.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5698",
-                                "title": "Trillion Game",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/77520d10a0189bc234e6adee6f2514c812f02b4710d77f9d80c8bbce71bd3994.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5655",
-                                "title": "Blue Box",
-                                "artist": "Netflix",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2721ba887ea25ccb5dffb3fb4cb5f3b9a41921c7f8c6cc9241d51e8046ceea75.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5676",
-                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/e0dc8f67c5e6036d1812519c26d3f256e2052d4cd35e90cf56ddb4fefb317c03.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5683",
-                                "title": "Mecha-ude (TV)",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/8c767d40d7f8d73102547445a1114410f6d43a1084207202752e8b01694a0179.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5649",
-                                "title": "Dandadan",
-                                "artist": "Yameii",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/47bbe6fa1f9c1180eef47ae5120bcce980a5cc24d4c8a9dd55b1ac28110c9a6d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5661",
-                                "title": "Kekkon suru tte, Hontou desu ka",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/34b9d893c3c8effdf2308a8147d262b8d3bd6456c86a99ef0eb4803c80a79a0d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5666",
-                                "title": "Hitoribocchi no Isekai Kouryaku",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/a4f96e61b602468d32733d22c9f204f57e022314475e9dade4578d4cc962a068.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,48 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=3908",
+                                "title": "Psycho-Pass 3: First Inspector",
+                                "artist": "Anime_Land",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/bce7b782f44d4ad891fe513188ea7f0014822e687acfb4bbdc2b6939364931c5.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=3546",
+                                "title": "Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni＿＿",
+                                "artist": "LCE",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/f33de23a24c821e1f6d40c199fe1ed1ea810355f705bd39caa5bff6256cbfd83.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=3545",
+                                "title": "Psycho-Pass: Sinners of the System Case.2 - First Guardian",
+                                "artist": "LCE",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7923098f19c43baa88b0b12de8114a496031ac986ac83ab7b1cb40084990f70e.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=3544",
+                                "title": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Batsu",
+                                "artist": "LCE",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/d7260fc4aa793ee88320b1025b7a1d122156a6cb689712ffa1f727ea856d0b0c.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=1296",
+                                "title": "Psycho-Pass Movie",
+                                "artist": "SCY",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/45d108e9460d73f01aa723e8b969d6a325ae89f02cf59bece2b9a78900ad7240.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=707",
+                                "title": "Psycho-Pass 2",
+                                "artist": "SCY",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/0a01bd947d8ae6987996579d3a3f3be07c20fd25c051a1100c4c0062b25c3674.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=706",
+                                "title": "Psycho-Pass",
+                                "artist": "SAD",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/96babd20b6d8efa5153b1cdb60b4223510b5b132f78e65731c3887e689c26276.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5720",
                                 "title": "Another Journey to the West",
                                 "artist": "SubsPlease",
@@ -117,48 +159,6 @@
                                 "title": "Chiikawa",
                                 "artist": "SubsPlease",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/51a38911e2dc22a03b071b259856170bbc5aa35ef8c0c51f50bb0bc507161db4.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5698",
-                                "title": "Trillion Game",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/77520d10a0189bc234e6adee6f2514c812f02b4710d77f9d80c8bbce71bd3994.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5655",
-                                "title": "Blue Box",
-                                "artist": "Netflix",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2721ba887ea25ccb5dffb3fb4cb5f3b9a41921c7f8c6cc9241d51e8046ceea75.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5676",
-                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/e0dc8f67c5e6036d1812519c26d3f256e2052d4cd35e90cf56ddb4fefb317c03.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5683",
-                                "title": "Mecha-ude (TV)",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/8c767d40d7f8d73102547445a1114410f6d43a1084207202752e8b01694a0179.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5649",
-                                "title": "Dandadan",
-                                "artist": "Yameii",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/47bbe6fa1f9c1180eef47ae5120bcce980a5cc24d4c8a9dd55b1ac28110c9a6d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5661",
-                                "title": "Kekkon suru tte, Hontou desu ka",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/34b9d893c3c8effdf2308a8147d262b8d3bd6456c86a99ef0eb4803c80a79a0d.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5666",
-                                "title": "Hitoribocchi no Isekai Kouryaku",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/a4f96e61b602468d32733d22c9f204f57e022314475e9dade4578d4cc962a068.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5720",
-                    "title": "Another Journey to the West",
-                    "author": "Studio:",
-                    "description": "Follow Wu Chengen on his own legendary pilgrimage to the \"Western Regions\" in search of Enlightenment.\n\nSynonyms: Wu Chengen's Demon Recording, 吴承恩缉妖录",
-                    "genre": "Adventure, Comedy, Fantasy",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/468bc948b9b6d4c14f490d7f0a7feb67aae00cfbeebb05ac24e0788c899c4a04.jpg",
+                    "url": "/anime/?anime_id=3908",
+                    "title": "Psycho-Pass 3: First Inspector",
+                    "author": "Production I.G",
+                    "description": "Inspectors Arata Shindou and Mikhail Kei Ignatov have uncovered a dangerous conspiracy. The Sybil System, the ultimate judge of human character in Japan, is being undermined by a criminal syndicate that is amassing wealth and power in the shadows. Now, Bifrost agent Kouichi Azusawa launches a direct assault upon the Criminal Investigation Department by occupying its headquarters and taking Inspector Shindou and everyone with him hostage. CID Unit 01 supervisor, along with Chief Mika Shimotsuki and former unit members Shinya Kougami and Nobuchika Ginoza, face the task of reclaiming the building and saving everyone inside. Alongside the hostage situation and Azusawa's demands for Tokyo governor Karina Komiya's resignation, there is a sinister plot hatching in the background—a secret plan that will force Inspector Shindou to confront not only Azusawa but also his own past. These events slowly bring him closer to unshrouding the mystery that has eluded him and his best friend, Ignatov, for many years.",
+                    "genre": "Action, Mystery, Sci-Fi, Suspense",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/ba0a975ed9f51a4fe08ace9692293a724dea2267c403fac795bbbf2c7d83d331.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,10 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/742eeed0-e64f-55e3-752b-eb53d2d9ed52/12b052965d41aef722dfb2d358a01514c51cdd04002262ba5e66987431dfdfcf",
-                        "name": "Episode 6",
-                        "date_upload": 1729830488000,
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/play/742eeed0-e64f-55e3-752b-eb53d2d9ed52/8dc2f91b0a39fe8ca00aeef591807327bccdd2facadad36a7453305849614c5d",
-                        "name": "Episode 5",
-                        "date_upload": 1729808726000,
-                        "episode_number": 5.0
+                        "url": "/play/83e3648a-1e0e-20b5-42b2-b65aef277881/4b61173f9455ed494c429072372643c5b7f05ff6cf60a4a941c65636b06717f8",
+                        "name": "Episode 1",
+                        "date_upload": 1585504776000,
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -250,19 +244,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/f4f4c4cf2b98b501fd26240c4bc6015c53527115c34b1d9d74a1b302916f036a?file=AnimePahe_Ji_Yao_Lu_-_Qicheng_Pian_Chi_Dub_-_06_1080p_SubsPlease.mp4&token=SOGbjyw7VI_xappDpNpaYA&expires=1729852364",
-                        "quality": "SubsPlease · 1080p chi",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/f4f4c4cf2b98b501fd26240c4bc6015c53527115c34b1d9d74a1b302916f036a?file=AnimePahe_Ji_Yao_Lu_-_Qicheng_Pian_Chi_Dub_-_06_1080p_SubsPlease.mp4&token=SOGbjyw7VI_xappDpNpaYA&expires=1729852364"
+                        "url": "https://eu-09.files.nextcdn.org/get/09/02/693a177eb1ae639f7d74e28270f68352eba043005d79e0c1fab6142b3364b633?file=AnimePahe_Psycho-Pass_3_-_First_Inspector_-_01-03_BD_1080p_Anime_Land.mp4&token=TSCp8l4ks24tHXdaQygUfw&expires=1729874709",
+                        "quality": "Anime_Land · 1080p BD",
+                        "videoUrl": "https://eu-09.files.nextcdn.org/get/09/02/693a177eb1ae639f7d74e28270f68352eba043005d79e0c1fab6142b3364b633?file=AnimePahe_Psycho-Pass_3_-_First_Inspector_-_01-03_BD_1080p_Anime_Land.mp4&token=TSCp8l4ks24tHXdaQygUfw&expires=1729874709"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/064498d256609c5665ed426d4dee88992127f9637b5d613981662334dc4884c2?file=AnimePahe_Ji_Yao_Lu_-_Qicheng_Pian_Chi_Dub_-_06_720p_SubsPlease.mp4&token=RluQ6SUwxHYItOm-LSjwog&expires=1729852362",
-                        "quality": "SubsPlease · 720p chi",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/064498d256609c5665ed426d4dee88992127f9637b5d613981662334dc4884c2?file=AnimePahe_Ji_Yao_Lu_-_Qicheng_Pian_Chi_Dub_-_06_720p_SubsPlease.mp4&token=RluQ6SUwxHYItOm-LSjwog&expires=1729852362"
+                        "url": "https://eu-09.files.nextcdn.org/get/09/01/c93d2e7d74ecb504aabe8c4a909c597868fe0cfb119ef64ac505ad2ed2fe0085?file=AnimePahe_Psycho-Pass_3_-_First_Inspector_-_01-03_BD_720p_Anime_Land.mp4&token=XvjHu5WTRfHnXyCuQXqlFg&expires=1729874708",
+                        "quality": "Anime_Land · 720p BD",
+                        "videoUrl": "https://eu-09.files.nextcdn.org/get/09/01/c93d2e7d74ecb504aabe8c4a909c597868fe0cfb119ef64ac505ad2ed2fe0085?file=AnimePahe_Psycho-Pass_3_-_First_Inspector_-_01-03_BD_720p_Anime_Land.mp4&token=XvjHu5WTRfHnXyCuQXqlFg&expires=1729874708"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/3d3ff10f7324f14dad929bddd85e764fb65a7061ef615b8ae6087a63da6c3d15?file=AnimePahe_Ji_Yao_Lu_-_Qicheng_Pian_Chi_Dub_-_06_360p_SubsPlease.mp4&token=LmmcS5U8ZicEJ5wftCT-VQ&expires=1729852361",
-                        "quality": "SubsPlease · 360p chi",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/3d3ff10f7324f14dad929bddd85e764fb65a7061ef615b8ae6087a63da6c3d15?file=AnimePahe_Ji_Yao_Lu_-_Qicheng_Pian_Chi_Dub_-_06_360p_SubsPlease.mp4&token=LmmcS5U8ZicEJ5wftCT-VQ&expires=1729852361"
+                        "url": "https://eu-09.files.nextcdn.org/get/09/01/62ecaf642ce73f9c18633864c1c240e386fb44d5755524324aac0ecb3466ce88?file=AnimePahe_Psycho-Pass_3_-_First_Inspector_-_01-03_BD_360p_Anime_Land.mp4&token=7axsPritIGCo98L1zWhNnw&expires=1729874707",
+                        "quality": "Anime_Land · 360p BD",
+                        "videoUrl": "https://eu-09.files.nextcdn.org/get/09/01/62ecaf642ce73f9c18633864c1c240e386fb44d5755524324aac0ecb3466ce88?file=AnimePahe_Psycho-Pass_3_-_First_Inspector_-_01-03_BD_360p_Anime_Land.mp4&token=7axsPritIGCo98L1zWhNnw&expires=1729874707"
                     }
                 ],
                 "passed": true
