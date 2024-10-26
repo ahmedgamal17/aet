@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5691",
+                                "title": "Ooi! Tonbo 2nd Season",
+                                "artist": "Amazon",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c07101fdce0b5cb64779d2b596669801e2c66bb96c167be7c6697a2e0ec159de.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5697",
+                                "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/27ff599343eb36960da2604afb0ac27b03897bc32d56b73726c0da4cd1d272a8.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5706",
                                 "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
                                 "artist": "SubsPlease",
@@ -65,18 +77,6 @@
                                 "title": "Psycho-Pass Movie",
                                 "artist": "SCY",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/45d108e9460d73f01aa723e8b969d6a325ae89f02cf59bece2b9a78900ad7240.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=707",
-                                "title": "Psycho-Pass 2",
-                                "artist": "SCY",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/0a01bd947d8ae6987996579d3a3f3be07c20fd25c051a1100c4c0062b25c3674.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=706",
-                                "title": "Psycho-Pass",
-                                "artist": "SAD",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/96babd20b6d8efa5153b1cdb60b4223510b5b132f78e65731c3887e689c26276.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5691",
+                                "title": "Ooi! Tonbo 2nd Season",
+                                "artist": "Amazon",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/c07101fdce0b5cb64779d2b596669801e2c66bb96c167be7c6697a2e0ec159de.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5697",
+                                "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/27ff599343eb36960da2604afb0ac27b03897bc32d56b73726c0da4cd1d272a8.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5706",
                                 "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
                                 "artist": "SubsPlease",
@@ -147,18 +159,6 @@
                                 "title": "Psycho-Pass Movie",
                                 "artist": "SCY",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/45d108e9460d73f01aa723e8b969d6a325ae89f02cf59bece2b9a78900ad7240.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=707",
-                                "title": "Psycho-Pass 2",
-                                "artist": "SCY",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/0a01bd947d8ae6987996579d3a3f3be07c20fd25c051a1100c4c0062b25c3674.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=706",
-                                "title": "Psycho-Pass",
-                                "artist": "SAD",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/96babd20b6d8efa5153b1cdb60b4223510b5b132f78e65731c3887e689c26276.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5706",
-                    "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
-                    "author": "Ashi Productions",
-                    "description": "College student Tokiwa gets invited to a mixer by his female classmate Suo. But when he arrives with his friends, they're greeted by three dazzlingly handsome men?!\n\nSynonyms: The Story of How I Went to a Mixer and There Were No Women There",
-                    "genre": "Comedy, Romance",
+                    "url": "/anime/?anime_id=5691",
+                    "title": "Ooi! Tonbo 2nd Season",
+                    "author": "OLM",
+                    "description": "Tonbo leaves Tokara and sets off on a new golfing journey in Kumamoto! Ever since she left the island, Tonbo's life has been changing at dizzying speeds! After becoming a high school student and moving to Kumamoto for a new life, Tonbo's now playing a round with other junior golfers at the practice grounds. While Tonbo strategizes on the course using her freewheeling golfing style cultivated in Tokara, the skilled Hinoki, an experienced golfer one year older than Tonbo, is ready to fight back with everything she's got! A fierce showdown between the two is already underway. Tonbo's coach, Hajime, is amazed by her potential and decides to send her to compete in the Kyushu Women's Championship in May. Through playing golf with old rivals such as Tsubura, who she played a round with on the island, and new rivals like Hinoki, who she met in Kumamoto, Tonbo is ready to spread her wings even further!\n\nSynonyms: Hey! Tonbo, Oi! Tonbo",
+                    "genre": "Drama, Sports",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/da0519eeec473174ff0886d5ad23c9ac4e34041734f97ee99c837b93a89d6689.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/84b446809152763fb9d663989166026f2717394ec48b02751e276bd8d13a41ea.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/e613cee5-443d-1f8e-86a8-aaa6827f8664/52276ae3eb6a82890911d0c375d9cc1d61edf69be67b1e5caf3974b0c0f33a4c",
-                        "name": "Episode 4",
-                        "date_upload": 1729879715000,
-                        "episode_number": 4.0
+                        "url": "/play/91babc74-a086-fdf1-4973-efa4cba51fad/750c150771d9c01ecad529a4dced8dab4276344060cbc5776f1bc39496fcf4d4",
+                        "name": "Episode 15",
+                        "date_upload": 1728817898000,
+                        "episode_number": 15.0
                     },
                     {
-                        "url": "/play/e613cee5-443d-1f8e-86a8-aaa6827f8664/989f7a6e2e0b501683f2094c8201e087212d583567ea7c54dcc2093b4b497ddd",
-                        "name": "Episode 3",
-                        "date_upload": 1729274885000,
-                        "episode_number": 3.0
+                        "url": "/play/91babc74-a086-fdf1-4973-efa4cba51fad/add7afef3e474637ece645f6a4610b03c3b9814b6833ca9f4e3274888f0f6401",
+                        "name": "Episode 14",
+                        "date_upload": 1728815562000,
+                        "episode_number": 14.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/ebe175019fb998feca5df7012010566b0c4be5111034dc724e4de0f7b0693096?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_04_1080p_SubsPlease.mp4&token=gVbAIxEEWU64jAql8yuypg&expires=1729895472",
-                        "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/ebe175019fb998feca5df7012010566b0c4be5111034dc724e4de0f7b0693096?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_04_1080p_SubsPlease.mp4&token=gVbAIxEEWU64jAql8yuypg&expires=1729895472"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/3b3a69642d4ab0dc3168f4d8759afe63513e5c83f60fbceec7ccfb361c7a9cb1?file=AnimePahe_Ooi_Tonbo_-_15_1080p_Amazon.mp4&token=vzRTiBrPtLCrK3XAyHWUyQ&expires=1729921472",
+                        "quality": "Amazon · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/3b3a69642d4ab0dc3168f4d8759afe63513e5c83f60fbceec7ccfb361c7a9cb1?file=AnimePahe_Ooi_Tonbo_-_15_1080p_Amazon.mp4&token=vzRTiBrPtLCrK3XAyHWUyQ&expires=1729921472"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/017432c6fbb1c943d7b2d3ce1d2e0455db628b3e0d94bbcfd971a660b59f6c5e?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_04_720p_SubsPlease.mp4&token=EAO_PxZmB_sCE_81b7318Q&expires=1729895470",
-                        "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/017432c6fbb1c943d7b2d3ce1d2e0455db628b3e0d94bbcfd971a660b59f6c5e?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_04_720p_SubsPlease.mp4&token=EAO_PxZmB_sCE_81b7318Q&expires=1729895470"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/6d6f08791901f2c4fb26e482c0fd4bded15f4a0fbfa0915edfbdee91830244f7?file=AnimePahe_Ooi_Tonbo_-_15_720p_Amazon.mp4&token=JapI_mgOhmigcNoNLaLx2A&expires=1729921471",
+                        "quality": "Amazon · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/6d6f08791901f2c4fb26e482c0fd4bded15f4a0fbfa0915edfbdee91830244f7?file=AnimePahe_Ooi_Tonbo_-_15_720p_Amazon.mp4&token=JapI_mgOhmigcNoNLaLx2A&expires=1729921471"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/02/cf09f16137286ec569ad566947d35dbefaf202f5a1aa93b3d40f3dcf843f22d0?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_04_360p_SubsPlease.mp4&token=XUFslmuTvY2O4vU37joA0A&expires=1729895469",
-                        "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/cf09f16137286ec569ad566947d35dbefaf202f5a1aa93b3d40f3dcf843f22d0?file=AnimePahe_Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi_-_04_360p_SubsPlease.mp4&token=XUFslmuTvY2O4vU37joA0A&expires=1729895469"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/8ceebc9aed2cb3aeac14bf153798e3cb6feb3fb2289c7d81fcf61abdd52e435d?file=AnimePahe_Ooi_Tonbo_-_15_360p_Amazon.mp4&token=hgSfy00_M_vHk0iWlC0liw&expires=1729921469",
+                        "quality": "Amazon · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/8ceebc9aed2cb3aeac14bf153798e3cb6feb3fb2289c7d81fcf61abdd52e435d?file=AnimePahe_Ooi_Tonbo_-_15_360p_Amazon.mp4&token=hgSfy00_M_vHk0iWlC0liw&expires=1729921469"
                     }
                 ],
                 "passed": true
