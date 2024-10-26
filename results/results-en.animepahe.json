@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5481",
+                                "title": "Beyblade X",
+                                "artist": "HnY",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/e52a16e96ec2f070a28b4a5b46a06c30996050e5f6e29441fcf29dfb64197827.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5255",
+                                "title": "Pokemon (2023)",
+                                "artist": "Some-Stuffs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2afb9d6fc9ba025ed0c07eb807dd49268514bda86750d5f45a49f9525bc8fa71.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5691",
                                 "title": "Ooi! Tonbo 2nd Season",
                                 "artist": "Amazon",
@@ -65,18 +77,6 @@
                                 "title": "Psycho-Pass: Sinners of the System Case.2 - First Guardian",
                                 "artist": "LCE",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/7923098f19c43baa88b0b12de8114a496031ac986ac83ab7b1cb40084990f70e.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=3544",
-                                "title": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Batsu",
-                                "artist": "LCE",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/d7260fc4aa793ee88320b1025b7a1d122156a6cb689712ffa1f727ea856d0b0c.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=1296",
-                                "title": "Psycho-Pass Movie",
-                                "artist": "SCY",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/45d108e9460d73f01aa723e8b969d6a325ae89f02cf59bece2b9a78900ad7240.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5481",
+                                "title": "Beyblade X",
+                                "artist": "HnY",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/e52a16e96ec2f070a28b4a5b46a06c30996050e5f6e29441fcf29dfb64197827.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5255",
+                                "title": "Pokemon (2023)",
+                                "artist": "Some-Stuffs",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/2afb9d6fc9ba025ed0c07eb807dd49268514bda86750d5f45a49f9525bc8fa71.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5691",
                                 "title": "Ooi! Tonbo 2nd Season",
                                 "artist": "Amazon",
@@ -147,18 +159,6 @@
                                 "title": "Psycho-Pass: Sinners of the System Case.2 - First Guardian",
                                 "artist": "LCE",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/7923098f19c43baa88b0b12de8114a496031ac986ac83ab7b1cb40084990f70e.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=3544",
-                                "title": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Batsu",
-                                "artist": "LCE",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/d7260fc4aa793ee88320b1025b7a1d122156a6cb689712ffa1f727ea856d0b0c.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=1296",
-                                "title": "Psycho-Pass Movie",
-                                "artist": "SCY",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/45d108e9460d73f01aa723e8b969d6a325ae89f02cf59bece2b9a78900ad7240.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5691",
-                    "title": "Ooi! Tonbo 2nd Season",
+                    "url": "/anime/?anime_id=5481",
+                    "title": "Beyblade X",
                     "author": "OLM",
-                    "description": "Tonbo leaves Tokara and sets off on a new golfing journey in Kumamoto! Ever since she left the island, Tonbo's life has been changing at dizzying speeds! After becoming a high school student and moving to Kumamoto for a new life, Tonbo's now playing a round with other junior golfers at the practice grounds. While Tonbo strategizes on the course using her freewheeling golfing style cultivated in Tokara, the skilled Hinoki, an experienced golfer one year older than Tonbo, is ready to fight back with everything she's got! A fierce showdown between the two is already underway. Tonbo's coach, Hajime, is amazed by her potential and decides to send her to compete in the Kyushu Women's Championship in May. Through playing golf with old rivals such as Tsubura, who she played a round with on the island, and new rivals like Hinoki, who she met in Kumamoto, Tonbo is ready to spread her wings even further!\n\nSynonyms: Hey! Tonbo, Oi! Tonbo",
-                    "genre": "Drama, Sports",
+                    "description": "Kazami Bird, aiming to become a professional, meets former champion Kurosu Ekusu also known as 'Kamen X' and forms a team so that they can aim for the \"top\" of the X Tower. But what awaits them is a spectacular battle that no one has ever seen before: the yet unseen \"X.\" The super accelerated beyblade runs through a new era!",
+                    "genre": "Adventure, Sports",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/84b446809152763fb9d663989166026f2717394ec48b02751e276bd8d13a41ea.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/5a7f40d100f95368e34573dbaa1ca209c312f41242e9f97ce39eb7258d929363.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/91babc74-a086-fdf1-4973-efa4cba51fad/750c150771d9c01ecad529a4dced8dab4276344060cbc5776f1bc39496fcf4d4",
-                        "name": "Episode 15",
-                        "date_upload": 1728817898000,
-                        "episode_number": 15.0
+                        "url": "/play/907b00f3-c0ba-9405-d924-5b5fa0782922/1caba7d773a7b47f4292dc27b50b0c5ac4e2a1a617122ad0e75eaff49b399aa2",
+                        "name": "Episode 52",
+                        "date_upload": 1729917101000,
+                        "episode_number": 52.0
                     },
                     {
-                        "url": "/play/91babc74-a086-fdf1-4973-efa4cba51fad/add7afef3e474637ece645f6a4610b03c3b9814b6833ca9f4e3274888f0f6401",
-                        "name": "Episode 14",
-                        "date_upload": 1728815562000,
-                        "episode_number": 14.0
+                        "url": "/play/907b00f3-c0ba-9405-d924-5b5fa0782922/bad2679537888eeebbd79cfcd4b216c24955cabcf7fe1dcde607bc8d670044c5",
+                        "name": "Episode 51",
+                        "date_upload": 1728240709000,
+                        "episode_number": 51.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/3b3a69642d4ab0dc3168f4d8759afe63513e5c83f60fbceec7ccfb361c7a9cb1?file=AnimePahe_Ooi_Tonbo_-_15_1080p_Amazon.mp4&token=vzRTiBrPtLCrK3XAyHWUyQ&expires=1729921472",
-                        "quality": "Amazon · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/3b3a69642d4ab0dc3168f4d8759afe63513e5c83f60fbceec7ccfb361c7a9cb1?file=AnimePahe_Ooi_Tonbo_-_15_1080p_Amazon.mp4&token=vzRTiBrPtLCrK3XAyHWUyQ&expires=1729921472"
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/0b83fa8c6116f08dfef20386cf75c92311ba75cbe79b68c9cae8841552f58bf4?file=AnimePahe_Beyblade_X_-_52_1080p_HnY.mp4&token=wl1RBVFshKeii1ewtOn7EA&expires=1729938621",
+                        "quality": "HnY · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/0b83fa8c6116f08dfef20386cf75c92311ba75cbe79b68c9cae8841552f58bf4?file=AnimePahe_Beyblade_X_-_52_1080p_HnY.mp4&token=wl1RBVFshKeii1ewtOn7EA&expires=1729938621"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/6d6f08791901f2c4fb26e482c0fd4bded15f4a0fbfa0915edfbdee91830244f7?file=AnimePahe_Ooi_Tonbo_-_15_720p_Amazon.mp4&token=JapI_mgOhmigcNoNLaLx2A&expires=1729921471",
-                        "quality": "Amazon · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/6d6f08791901f2c4fb26e482c0fd4bded15f4a0fbfa0915edfbdee91830244f7?file=AnimePahe_Ooi_Tonbo_-_15_720p_Amazon.mp4&token=JapI_mgOhmigcNoNLaLx2A&expires=1729921471"
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/a7315eb2e7e8aab9cc01660ecc5b3050542966c65fc2eadf60c05c529ca5fe16?file=AnimePahe_Beyblade_X_-_52_720p_HnY.mp4&token=BL5zjsQHLlrvZvNaFNem_g&expires=1729938620",
+                        "quality": "HnY · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/a7315eb2e7e8aab9cc01660ecc5b3050542966c65fc2eadf60c05c529ca5fe16?file=AnimePahe_Beyblade_X_-_52_720p_HnY.mp4&token=BL5zjsQHLlrvZvNaFNem_g&expires=1729938620"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/8ceebc9aed2cb3aeac14bf153798e3cb6feb3fb2289c7d81fcf61abdd52e435d?file=AnimePahe_Ooi_Tonbo_-_15_360p_Amazon.mp4&token=hgSfy00_M_vHk0iWlC0liw&expires=1729921469",
-                        "quality": "Amazon · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/8ceebc9aed2cb3aeac14bf153798e3cb6feb3fb2289c7d81fcf61abdd52e435d?file=AnimePahe_Ooi_Tonbo_-_15_360p_Amazon.mp4&token=hgSfy00_M_vHk0iWlC0liw&expires=1729921469"
+                        "url": "https://na-99.files.nextcdn.org/get/99/02/568db36c1b7becb44d61701e924f9a5a8625448a9ef05ddfde7b70c04c120710?file=AnimePahe_Beyblade_X_-_52_360p_HnY.mp4&token=YU-CyKRE_WPnzQ2636vvag&expires=1729938619",
+                        "quality": "HnY · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/02/568db36c1b7becb44d61701e924f9a5a8625448a9ef05ddfde7b70c04c120710?file=AnimePahe_Beyblade_X_-_52_360p_HnY.mp4&token=YU-CyKRE_WPnzQ2636vvag&expires=1729938619"
                     }
                 ],
                 "passed": true
