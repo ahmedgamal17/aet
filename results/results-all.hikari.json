@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/53876/Pokemon_2023",
+                                "title": "Pokemon (2023)",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg"
+                            },
+                            {
                                 "url": "/anime/51761/Uma_Musume_Pretty_Derby_Road_to_the_Top",
                                 "title": "Uma Musume: Pretty Derby - Road to the Top",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1102/135552l.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/34566/Boruto_Naruto_Next_Generations",
                                 "title": "Boruto: Naruto Next Generations",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1091/99847l.jpg"
-                            },
-                            {
-                                "url": "/anime/22953/Hana_no_Zundamaru_Junk",
-                                "title": "Hana no Zundamaru: Junk",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/2/59553l.jpg"
                             }
                         ],
                         "hasNextPage": true
