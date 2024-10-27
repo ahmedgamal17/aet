@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/watch-10-lives-online-hd-115984",
+                                "title": "10 Lives",
+                                "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/b6/fd/b6fdbb998107b09ac8295a11e395f3e8/b6fdbb998107b09ac8295a11e395f3e8.jpg"
+                            },
+                            {
                                 "url": "/movie/watch-hijack-93-online-hd-115972",
                                 "title": "Hijack ’93",
                                 "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/9d/58/9d58a35bdfb26daa3aa069f545385e9a/9d58a35bdfb26daa3aa069f545385e9a.jpg"
@@ -160,11 +165,6 @@
                                 "url": "/movie/watch-scouting-for-christmas-online-hd-115816",
                                 "title": "Scouting for Christmas",
                                 "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/a5/06/a50684528e7809f6ec5b75b16c699b9e/a50684528e7809f6ec5b75b16c699b9e.jpg"
-                            },
-                            {
-                                "url": "/movie/watch-my-favourite-cake-online-hd-115813",
-                                "title": "My Favourite Cake",
-                                "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/bc/45/bc451e70e7e8dd6c8faec70c7d14cbb5/bc451e70e7e8dd6c8faec70c7d14cbb5.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -474,14 +474,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/watch-hijack-93-online-hd-115972",
-                    "title": "Hijack ’93",
-                    "author": "Native Media, Play Network Studios",
-                    "description": " In an effort to dismantle their military-backed government, four men hijack an airplane, leveraging passengers onboard in the name of social change.",
-                    "genre": "Thriller, Drama",
+                    "url": "/movie/watch-10-lives-online-hd-115984",
+                    "title": "10 Lives",
+                    "author": "GFM Animation, L'Atelier Animation, Align, The Happy Producers, Fulwell 73 Productions, Fulwell 73, L'Atelier",
+                    "description": " A pampered cat takes for granted the lucky hand he has been dealt after he is rescued and loved by Rose, a kind-hearted and passionate student. When he loses his ninth life, fate steps in to set him on a transformative journey.",
+                    "genre": "Animation, Comedy, Family, Fantasy",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/9d/58/9d58a35bdfb26daa3aa069f545385e9a/9d58a35bdfb26daa3aa069f545385e9a.jpg",
+                    "thumbnail_url": "https://f.woowoowoowoo.net/resize/250x400/b6/fd/b6fdbb998107b09ac8295a11e395f3e8/b6fdbb998107b09ac8295a11e395f3e8.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -489,8 +489,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ajax/movie/episodes/115972",
-                        "name": "Hijack ’93",
+                        "url": "/ajax/movie/episodes/115984",
+                        "name": "10 Lives",
                         "episode_number": 1.0
                     }
                 ],

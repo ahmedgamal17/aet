@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "OazX6onUQgL1t9vm",
+                                "title": "Yozakura-san Chi no Daisakusen",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/OazX6onUQgL1t9vm"
+                            },
+                            {
+                                "url": "iIp5feNrFjxu6iAN",
+                                "title": "Shinkalion: Change the World",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/iIp5feNrFjxu6iAN"
+                            },
+                            {
+                                "url": "2CkjdZjpQQ4m9C5Z",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/2CkjdZjpQQ4m9C5Z"
+                            },
+                            {
                                 "url": "OyUciwc36rL26Pd4",
                                 "title": "Kimi wa Meido-sama.",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/OyUciwc36rL26Pd4"
@@ -90,21 +105,6 @@
                                 "url": "cQz3fNzkdtoeesxF",
                                 "title": "Kekkon suru tte, Hontou desu ka",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/cQz3fNzkdtoeesxF"
-                            },
-                            {
-                                "url": "EffawgfZD4dPAT57",
-                                "title": "Hitoribocchi no Isekai Kouryaku",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/EffawgfZD4dPAT57"
-                            },
-                            {
-                                "url": "eAPhCAnbwoHnIizl",
-                                "title": "NegaPosi Angler",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/eAPhCAnbwoHnIizl"
-                            },
-                            {
-                                "url": "DsT0loJFemtT7yvU",
-                                "title": "Kinoko Inu",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/DsT0loJFemtT7yvU"
                             }
                         ],
                         "hasNextPage": true
@@ -319,14 +319,14 @@
             },
             "details": {
                 "result": {
-                    "url": "OyUciwc36rL26Pd4",
-                    "title": "Kimi wa Meido-sama.",
-                    "author": "Felix Film",
-                    "description": "Hitoyoshi Yokoya is a high school student who currently lives alone. One day, an unfamiliar girl knocks on his door and offers to be his maid. She reveals that she is a former assassin, which makes Hitoyoshi nervous. But when her skills save him from being run over by a truck, Hitoyoshi ultimately decides to take her in.\n\nHowever, the mysterious girl actually has no household skills. In fact, her only expertise is assassination, as she has lived her entire life for the sake of killing. Nonetheless, her time with Hitoyoshi allows her to experience new emotions she had never felt before, inspiring her to become a regular girl.\n\nIn order to advance toward this upcoming chapter in her life, she asks Hitoyoshi to grant her a new name, to which he names her Yuki. Having someone she can finally consider family, Yuki acquires new fond memories that fill her heart with warmth as she tries to leave her dark and lonely past behind.\n\n[Written by MAL Rewrite]",
-                    "genre": "Comedy, Romance",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/OyUciwc36rL26Pd4",
+                    "url": "OazX6onUQgL1t9vm",
+                    "title": "Yozakura-san Chi no Daisakusen",
+                    "author": "SILVER LINK.",
+                    "description": "After losing his entire family in a car crash, Taiyou Asano tries to pull away from his childhood friend, Mutsumi Yozakura, but she assures him she is not going anywhere. Nevertheless, Taiyou becomes socially awkward, struggling to make friends at school despite the efforts of his persistent classmates.\n\nOne day, the vice principal calls Taiyou to his office, only to begin threatening the boy's life. Taiyou is swept away by a stranger and eventually awakens to Mutsumi, who introduces him to her siblings—a family of spies who harbor superhuman abilities. Every generation produces one ordinary human who becomes the family head. Mutsumi is one of these, and the family's mission is to protect her with their lives. \n\nThe vice principal's real name is Kyoichiro Yozakura, and he is the eldest son of the family. As Kyouichiro believes that Taiyou is a threat to Mutsumi's life, the only way to keep both Taiyou and Mutsumi safe is for them to get married; the family has a rule that prevents them from killing within the Yozakura household. Though at first reluctant, Taiyou agrees in order to protect Mutsumi. Now he must train as a Yozakura spy to ward off the constant threats on the lives of both Mutsumi and himself.\n\n[Written by MAL Rewrite]",
+                    "genre": "Action, Comedy, Shounen",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/OazX6onUQgL1t9vm",
                     "initialized": true
                 },
                 "passed": true
@@ -334,14 +334,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "OyUciwc36rL26Pd4/video/4",
-                        "name": "Episode 4: You Won't Miss Out.",
-                        "episode_number": 4.0
+                        "url": "OazX6onUQgL1t9vm/video/27",
+                        "name": "Episode 27: Mission Complete / Reception",
+                        "episode_number": 27.0
                     },
                     {
-                        "url": "OyUciwc36rL26Pd4/video/3",
-                        "name": "Episode 3: You are Ms. Yuki.",
-                        "episode_number": 3.0
+                        "url": "OazX6onUQgL1t9vm/video/26",
+                        "name": "Episode 26: Old Blood",
+                        "episode_number": 26.0
                     }
                 ],
                 "passed": true
@@ -349,49 +349,85 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/OyUciwc36rL26Pd4/4/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/OazX6onUQgL1t9vm/27/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/OyUciwc36rL26Pd4/4/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/OazX6onUQgL1t9vm/27/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/OyUciwc36rL26Pd4/en-US/4",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/en-US/27",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/OyUciwc36rL26Pd4/ru-RU/4",
-                                "lang": "Русский"
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/sv-SE/27",
+                                "lang": "Swedish"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/OyUciwc36rL26Pd4/pt-BR/4",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/sk-SK/27",
+                                "lang": "Slovak"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/ro-RO/27",
+                                "lang": "Romanian"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/pt-PT/27",
+                                "lang": "Português"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/pt-BR/27",
                                 "lang": "Português (Brasil)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/OyUciwc36rL26Pd4/it-IT/4",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/pl-PL/27",
+                                "lang": "Polish"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/nl-NL/27",
+                                "lang": "Nederlands"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/nb-NO/27",
+                                "lang": "Norwegian (Bokmål)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/it-IT/27",
                                 "lang": "Italiano"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/OyUciwc36rL26Pd4/fr-FR/4",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/hu-HU/27",
+                                "lang": "Hungarian"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/fr-FR/27",
                                 "lang": "Français"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/OyUciwc36rL26Pd4/es-LA/4",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/fi-FI/27",
+                                "lang": "Finnish"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/es-LA/27",
                                 "lang": "Español"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/OyUciwc36rL26Pd4/es-ES/4",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/es-ES/27",
                                 "lang": "Español (Spain)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/OyUciwc36rL26Pd4/de-DE/4",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/de-DE/27",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/OyUciwc36rL26Pd4/ar-ME/4",
-                                "lang": "العربية"
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/da-DK/27",
+                                "lang": "Danish"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/OazX6onUQgL1t9vm/cs-CZ/27",
+                                "lang": "Czech"
                             }
                         ]
                     }
