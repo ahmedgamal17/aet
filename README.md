@@ -1,6 +1,6 @@
 ## Extension status
 
-### 33/88(38%) are working
+### 31/88(35%) are working
 
 | Extension            |  Status   | Log                                                                                                                                       |
 | :------------------- | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -81,7 +81,7 @@
 | en.oppaistream       |     ✅     | [results-en.oppaistream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.oppaistream.json)             |
 | en.putlocker         | ❌<br>5/6  | [results-en.putlocker.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.putlocker.json)                 |
 | en.ripcrabbyanime    | ❌<br>4/5  | [results-en.ripcrabbyanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.ripcrabbyanime.json)       |
-| en.rule34video       |     ✅     | [results-en.rule34video.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.rule34video.json)             |
+| en.rule34video       | ❌<br>4/5  | [results-en.rule34video.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.rule34video.json)             |
 | en.seez              | ❌<br>0/5  | [results-en.seez.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.seez.json)                           |
 | en.sflix             | ❌<br>5/6  | [results-en.sflix.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.sflix.json)                         |
 | en.slothanime        | ❌<br>1/6  | [results-en.slothanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.slothanime.json)               |
@@ -91,5 +91,5 @@
 | en.uniquestream      | ❌<br>1/6  | [results-en.uniquestream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.uniquestream.json)           |
 | en.wcofun            |     ✅     | [results-en.wcofun.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.wcofun.json)                       |
 | en.wcostream         | ❌<br>4/6  | [results-en.wcostream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.wcostream.json)                 |
-| en.zoro              |     ✅     | [results-en.zoro.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.zoro.json)                           |
+| en.zoro              | ❌<br>5/6  | [results-en.zoro.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.zoro.json)                           |
 

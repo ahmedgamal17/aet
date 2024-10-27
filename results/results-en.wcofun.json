@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/demon-lord-2099",
+                                "title": "Demon Lord 2099",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933787.jpg"
+                            },
+                            {
                                 "url": "/anime/you-are-ms-servant",
                                 "title": "You are Ms. Servant.",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933786.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu",
                                 "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933772.jpg"
-                            },
-                            {
-                                "url": "/anime/hamidashi-creative",
-                                "title": "Hamidashi Creative",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933771.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/you-are-ms-servant",
-                    "title": "You are Ms. Servant.",
-                    "description": "Hitoyoshi Yokoya is a high school student who currently lives alone. One day, an unfamiliar girl knocks on his door and offers to be his maid. She reveals that she is a former assassin, which makes Hitoyoshi nervous. But when her skills save him from being run over by a truck, Hitoyoshi ultimately decides to take her in.",
-                    "genre": "Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933786.jpg",
+                    "url": "/anime/demon-lord-2099",
+                    "title": "Demon Lord 2099",
+                    "description": "The cyberpunk metropolis Shinjuku—a massive city-state bedecked with neon signs, towering skyscrapers, and the latest cutting-edge technology. It is here, in year 2099 of the Fused Era, where the legendary Demon Lord Veltol has his second coming five centuries in the making. But this landscape is nothing like the one he conquered all those years ago, for the fusion of magic and engineering has elevated civilization to dazzling, unprecedented heights. Veltol may have been reduced to a historical footnote, but make no mistake…this brave new world will be his for the taking!",
+                    "genre": "Action, Fantasy, Sci-fi, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933787.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,7 +616,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/you-are-ms-servant-episode-1-english-dubbed",
+                        "url": "/demon-lord-2099-episode-1-english-dubbed",
                         "name": "Season 1 - Episode 1",
                         "episode_number": 101.0
                     }
@@ -626,19 +626,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gxXYi-kfzPJVPub-n6bdgOn_xQAnKtd5hU0_4XCTGtvCOoTppMEL6w1ywvOzXkMVoLOQJh7ZpdZARiQ2ZDZSDiHs8Hylrchr9tOMgVkdnr9CT0tLl-DEuvQRM9KnYU3RhsAMdiz8s8f49lj3gT96-EMXc7jtGObXUkt5E6mujVFFptu0JZb9_xHR96ZQfVA3q-ivIjhdpNeNOaYLsiL4bNE_D59orQws3zN4r3Nq27qu2KVUamH5zxYJAK49TkJAp6b3BA7INUQdzQPaoCkaRTHr_dXG6yVBur8CXDGYr4bYfxZC9kmkojCxGc-aOAgn_x6Gc9k33yChGvZpVqgIff_arweIwQ2Q9Mor61_ns_KPe45mvPCaADJGNVJvvx6Yi6Q-iFrEe-oU5vRHk02LjrFYtKTxni6BSFZEqYtKVMOA",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i3bYBhOTnGHET-10yjSZhhpzzHL4wKhmHI2Xzi8spR2aviHdUEkeLvHwV70cMFD1sB1sfpmUfuZcutu6PhIWaPMZQKdAWaKiEwfdnazdHooJgsM7PNt0INmH4aRxqOrLgTqUO5gkaVFOcwaw7g6XybmqVDB1wp9nEJjrWmtJkRwa3zMWrxfWbg0gwweR8S7ImnmlJB7f7tbJ0AuXp5xgeWKBPC4HBLTITjKq3DxC7YXiORTzDqJWMfksm6oJURP9EwDjfZkiCklKEkptIYMQsWjESVtgZfQ_YAa4M0ZAj1ek-322OO1QGDnI-55xF-rtwMqU27SoNbIGfLaxYBcXp8-LQTEtqCCPJY6VYSzxeRdHh7bsyEZ-oSgAoVPr43ZHJ7ZmhiAZZj80qV3odEn5wV",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gxXYi-kfzPJVPub-n6bdgOn_xQAnKtd5hU0_4XCTGtvCOoTppMEL6w1ywvOzXkMVoLOQJh7ZpdZARiQ2ZDZSDiHs8Hylrchr9tOMgVkdnr9CT0tLl-DEuvQRM9KnYU3RhsAMdiz8s8f49lj3gT96-EMXc7jtGObXUkt5E6mujVFFptu0JZb9_xHR96ZQfVA3q-ivIjhdpNeNOaYLsiL4bNE_D59orQws3zN4r3Nq27qu2KVUamH5zxYJAK49TkJAp6b3BA7INUQdzQPaoCkaRTHr_dXG6yVBur8CXDGYr4bYfxZC9kmkojCxGc-aOAgn_x6Gc9k33yChGvZpVqgIff_arweIwQ2Q9Mor61_ns_KPe45mvPCaADJGNVJvvx6Yi6Q-iFrEe-oU5vRHk02LjrFYtKTxni6BSFZEqYtKVMOA"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i3bYBhOTnGHET-10yjSZhhpzzHL4wKhmHI2Xzi8spR2aviHdUEkeLvHwV70cMFD1sB1sfpmUfuZcutu6PhIWaPMZQKdAWaKiEwfdnazdHooJgsM7PNt0INmH4aRxqOrLgTqUO5gkaVFOcwaw7g6XybmqVDB1wp9nEJjrWmtJkRwa3zMWrxfWbg0gwweR8S7ImnmlJB7f7tbJ0AuXp5xgeWKBPC4HBLTITjKq3DxC7YXiORTzDqJWMfksm6oJURP9EwDjfZkiCklKEkptIYMQsWjESVtgZfQ_YAa4M0ZAj1ek-322OO1QGDnI-55xF-rtwMqU27SoNbIGfLaxYBcXp8-LQTEtqCCPJY6VYSzxeRdHh7bsyEZ-oSgAoVPr43ZHJ7ZmhiAZZj80qV3odEn5wV"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gxXYi-kfzPJVPub-n6bdgOn_xQAnKtd5hU0_4XCTGtvCOoTppMEL6w1ywvOzXkMVoLOQJh7ZpdZARiQ2ZDZSDiHs8Hylrchr9tOMgVkdnr9CT0tLl-DEuvQRM9KnYU3RhsAMdiz8s8f49lj3gT96-EYc9vu28f6ZFCLvji7smQR0eNnsokaH_3nsraj4n8B4-HeA4bn66qfP0RuuzEpo8QZbFe6ZD_fQGgf3zVrdL2Vj61ANtHznhroVgDa2Y_7QDYtoWxWubHtYej16VRq-wWtKdF7ft0YnxdS2G0D3oQxvc0bTQSSfYvlTf0uISmJvOYyinYe57hWCNef_Y3ATInw0-FecJtceuvWNlE73N6Bo3WX4cVflyVd1_KFOFroxe0Wv8393KLoJx-nM-C1jNav17Z4DEW-hLRZwQOYwX1Ag",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i3bYBhOTnGHET-10yjSZhhpzzHL4wKhmHI2Xzi8spR2aviHdUEkeLvHwV70cMFD1sB1sfpmUfuZcutu6PhIWaPMZQKdAWaKiEwfdnazdHooJgsM7PNt0INmH4aRxqOrLiKkxyYac-RFHDp8tGrPxwtNbPYxnRjp7VuqJpBDFoQg-Idy8pPb9ooyZfMyf7u6M5Rib43qK_czP-U5SJ3_b3q8cGHpGuVF1m_75jXRyhriwEw8wqS2d-5Sv97AvED0tP6aLEER0yleepT-7_V9bu5Ee1ApE5J0ugtA2qIiq1hRbszxVRjY85grJsxE8-BBHPX3Jo33_acWfMX8WqAAqcwNVCdsKqkHMoKg7b5Qy53piu85wU8uzuaHTY08rA883Lkg6opBjAnqR1X6b9xQUZp",
                         "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gxXYi-kfzPJVPub-n6bdgOn_xQAnKtd5hU0_4XCTGtvCOoTppMEL6w1ywvOzXkMVoLOQJh7ZpdZARiQ2ZDZSDiHs8Hylrchr9tOMgVkdnr9CT0tLl-DEuvQRM9KnYU3RhsAMdiz8s8f49lj3gT96-EYc9vu28f6ZFCLvji7smQR0eNnsokaH_3nsraj4n8B4-HeA4bn66qfP0RuuzEpo8QZbFe6ZD_fQGgf3zVrdL2Vj61ANtHznhroVgDa2Y_7QDYtoWxWubHtYej16VRq-wWtKdF7ft0YnxdS2G0D3oQxvc0bTQSSfYvlTf0uISmJvOYyinYe57hWCNef_Y3ATInw0-FecJtceuvWNlE73N6Bo3WX4cVflyVd1_KFOFroxe0Wv8393KLoJx-nM-C1jNav17Z4DEW-hLRZwQOYwX1Ag"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i3bYBhOTnGHET-10yjSZhhpzzHL4wKhmHI2Xzi8spR2aviHdUEkeLvHwV70cMFD1sB1sfpmUfuZcutu6PhIWaPMZQKdAWaKiEwfdnazdHooJgsM7PNt0INmH4aRxqOrLiKkxyYac-RFHDp8tGrPxwtNbPYxnRjp7VuqJpBDFoQg-Idy8pPb9ooyZfMyf7u6M5Rib43qK_czP-U5SJ3_b3q8cGHpGuVF1m_75jXRyhriwEw8wqS2d-5Sv97AvED0tP6aLEER0yleepT-7_V9bu5Ee1ApE5J0ugtA2qIiq1hRbszxVRjY85grJsxE8-BBHPX3Jo33_acWfMX8WqAAqcwNVCdsKqkHMoKg7b5Qy53piu85wU8uzuaHTY08rA883Lkg6opBjAnqR1X6b9xQUZp"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gxXYi-kfzPJVPub-n6bdgOn_xQAnKtd5hU0_4XCTGtvCOoTppMEL6w1ywvOzXkMVoLOQJh7ZpdZARiQ2ZDZSDiHs8Hylrchr9tOMgVkdnr9CT0tLl-DEuvQRM9KnYU3RhsAMdiz8s8f49lj3gT96-EWS0xFxs7FlMK6rmoPJHFk8O1gWgPS3oWtnm3r1tBjBf1rBFdKmpmpUZtXQFzvHfXcE3UJsW8HLPNNmKypRBQvd6-dWyhwX1-761TIUigVVIVWOtrvtLvVgzCbA4rmz9FFuavlAQOtsyEidmwEoLonq4cwA00wlLSWps7GnTLq9UhuPJ7BB0NBDQqNmNQyVGTdI7f7QuIel64dk4NPnDWjlQ9V73DcHFhqX8yFF78bgEn48vf5I7Cr5uhspcw4oiY1BwOTPjcua7Ix_jLJJ4FKA",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i3bYBhOTnGHET-10yjSZhhpzzHL4wKhmHI2Xzi8spR2aviHdUEkeLvHwV70cMFD1sB1sfpmUfuZcutu6PhIWaPMZQKdAWaKiEwfdnazdHooJgsM7PNt0INmH4aRxqOrLgBNAcWqROv406xQwsz5G5KdUpMAnWlUEx36Zl-iDWYKrvspX7tUyAN5vTNBFbQHG1hM2stpZg2CSqdFMlXmr8JBTXYX66I_6R5GlNzIWgu6jG8g6JUlRkCkJNNseisIJtKHUR69AFC8l6JrScaExYsJA7vzc9J-16wxyAl5wsjxo99Jmtbq5KfZjhFolsGt_0wjSKkiOCd8yl8Y8PC-ukxhzsBpBrtiLBO-HPs8j4eZS2D9xVguCQvoxEJUFc7NQiWphQkQOcMLoQgFoKCUn2R",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2gxXYi-kfzPJVPub-n6bdgOn_xQAnKtd5hU0_4XCTGtvCOoTppMEL6w1ywvOzXkMVoLOQJh7ZpdZARiQ2ZDZSDiHs8Hylrchr9tOMgVkdnr9CT0tLl-DEuvQRM9KnYU3RhsAMdiz8s8f49lj3gT96-EWS0xFxs7FlMK6rmoPJHFk8O1gWgPS3oWtnm3r1tBjBf1rBFdKmpmpUZtXQFzvHfXcE3UJsW8HLPNNmKypRBQvd6-dWyhwX1-761TIUigVVIVWOtrvtLvVgzCbA4rmz9FFuavlAQOtsyEidmwEoLonq4cwA00wlLSWps7GnTLq9UhuPJ7BB0NBDQqNmNQyVGTdI7f7QuIel64dk4NPnDWjlQ9V73DcHFhqX8yFF78bgEn48vf5I7Cr5uhspcw4oiY1BwOTPjcua7Ix_jLJJ4FKA"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2i3bYBhOTnGHET-10yjSZhhpzzHL4wKhmHI2Xzi8spR2aviHdUEkeLvHwV70cMFD1sB1sfpmUfuZcutu6PhIWaPMZQKdAWaKiEwfdnazdHooJgsM7PNt0INmH4aRxqOrLgBNAcWqROv406xQwsz5G5KdUpMAnWlUEx36Zl-iDWYKrvspX7tUyAN5vTNBFbQHG1hM2stpZg2CSqdFMlXmr8JBTXYX66I_6R5GlNzIWgu6jG8g6JUlRkCkJNNseisIJtKHUR69AFC8l6JrScaExYsJA7vzc9J-16wxyAl5wsjxo99Jmtbq5KfZjhFolsGt_0wjSKkiOCd8yl8Y8PC-ukxhzsBpBrtiLBO-HPs8j4eZS2D9xVguCQvoxEJUFc7NQiWphQkQOcMLoQgFoKCUn2R"
                     }
                 ],
                 "passed": true
