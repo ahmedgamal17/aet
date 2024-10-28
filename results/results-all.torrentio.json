@@ -102,7 +102,7 @@
                                 "artist": "Zoe Saldaña, Laysla De Oliveira, Dave Annable, Jill Wagner",
                                 "author": "",
                                 "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-                                "genre": "Drama, War & Military, Action & Adventure, Mystery & Thriller",
+                                "genre": "War & Military, Drama, Mystery & Thriller, Action & Adventure",
                                 "thumbnail_url": "https://images.justwatch.com/poster/306105222/s276/special-ops-lioness.webp",
                                 "initialized": true
                             },
@@ -132,7 +132,7 @@
                                 "artist": "Anna Torv, Michael Dorman, Robert Taylor, Sam Corlett",
                                 "author": "",
                                 "description": "When the massive Lawson cattle station lacks an heir, Australia's rival factions see a chance to seize control. The land grabs threaten to destroy the declining dynasty.",
-                                "genre": "Western, Drama, Action & Adventure",
+                                "genre": "Drama, Western, Action & Adventure",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320980212/s276/territory.webp",
                                 "initialized": true
                             },
@@ -152,7 +152,7 @@
                                 "artist": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving",
                                 "author": "",
                                 "description": "Follows a team of British intelligence agents who serve as a dumping ground department of MI5 due to their career-ending mistakes.",
-                                "genre": "Drama, Mystery & Thriller, Crime, Comedy",
+                                "genre": "Drama, Mystery & Thriller, Comedy, Crime",
                                 "thumbnail_url": "https://images.justwatch.com/poster/320463455/s276/slow-horses.webp",
                                 "initialized": true
                             },
@@ -272,8 +272,8 @@
                                 "artist": "Demi Moore, Margaret Qualley, Dennis Quaid, Gore Abrams",
                                 "author": "Coralie Fargeat",
                                 "description": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-                                "genre": "Horror, Science-Fiction, Mystery & Thriller, Drama",
-                                "thumbnail_url": "https://images.justwatch.com/poster/316017443/s276/the-substance.webp",
+                                "genre": "Science-Fiction, Mystery & Thriller, Horror, Drama",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320520686/s276/the-substance.webp",
                                 "initialized": true
                             },
                             {
@@ -342,7 +342,7 @@
                                 "artist": "Tawny Newsome, Jack Quaid, Noël Wells, Eugene Cordero",
                                 "author": "",
                                 "description": "The lives of the support crew serving on one of Starfleet's least important ships, the U.S.S. Cerritos, in 2380. Ensigns Mariner, Boimler, Rutherford and Tendi have to keep up with their duties and their social lives, often while the ship is being rocked by a multitude of sci-fi anomalies.",
-                                "genre": "Animation, Comedy, Science-Fiction, Action & Adventure",
+                                "genre": "Science-Fiction, Animation, Comedy, Action & Adventure",
                                 "thumbnail_url": "https://images.justwatch.com/poster/307452739/s276/star-trek-lower-decks.webp",
                                 "initialized": true
                             },
@@ -447,16 +447,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt1705814,SHOW,/us/tv-show/world-series-of-poker",
-                                "title": "World Series of Poker",
-                                "artist": "",
-                                "author": "",
-                                "description": "The World Series of Poker is a series of poker tournaments held annually in Las Vegas and, since 2004, sponsored by Caesars Entertainment Corporation. It dates its origins to 1970, when Benny Binion invited seven of the best-known poker players to the Horseshoe Casino for a single tournament, with a set start and stop time, and a winner determined by a secret ballot of the seven players.",
-                                "genre": "Sport, Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/320489787/s276/world-series-of-poker.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt0363391,SHOW,/us/tv-show/world-poker-tour",
                                 "title": "World Poker Tour",
                                 "artist": "",
@@ -464,6 +454,16 @@
                                 "description": "Poker players from around the world compete for large cash prizes",
                                 "genre": "Reality TV",
                                 "thumbnail_url": "https://images.justwatch.com/poster/262158762/s276/world-poker-tour.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt1705814,SHOW,/us/tv-show/world-series-of-poker",
+                                "title": "World Series of Poker",
+                                "artist": "",
+                                "author": "",
+                                "description": "The World Series of Poker is a series of poker tournaments held annually in Las Vegas and, since 2004, sponsored by Caesars Entertainment Corporation. It dates its origins to 1970, when Benny Binion invited seven of the best-known poker players to the Horseshoe Casino for a single tournament, with a set start and stop time, and a winner determined by a secret ballot of the seven players.",
+                                "genre": "Sport, Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320489787/s276/world-series-of-poker.webp",
                                 "initialized": true
                             },
                             {
@@ -687,6 +687,16 @@
                                 "initialized": true
                             },
                             {
+                                "url": "tt33397161,SHOW,/us/tv-show/worlds-most-notorious-killers",
+                                "title": "World's Most Notorious Killers",
+                                "artist": "",
+                                "author": "",
+                                "description": "Discover the chilling stories of five renowned international murder cases, featuring firsthand accounts from individuals close to each case and those seeking justice.",
+                                "genre": "Crime, Documentary",
+                                "thumbnail_url": "https://images.justwatch.com/poster/320823394/s276/worlds-most-notorious-killers.webp",
+                                "initialized": true
+                            },
+                            {
                                 "url": "tt6819736,SHOW,/us/tv-show/worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us",
                                 "title": "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
                                 "artist": "Ryohei Arai, Azusa Tadokoro, Akari Uehara, Satomi Sato",
@@ -704,16 +714,6 @@
                                 "description": "It may look weird to an onlooker but it's home, sweet, home to the owners of the most bizarre and unusual dwellings around the world.",
                                 "genre": "Reality TV",
                                 "thumbnail_url": "https://images.justwatch.com/poster/138713147/s276/worlds-most-extreme-homes.webp",
-                                "initialized": true
-                            },
-                            {
-                                "url": "tt33397161,SHOW,/us/tv-show/worlds-most-notorious-killers",
-                                "title": "World's Most Notorious Killers",
-                                "artist": "",
-                                "author": "",
-                                "description": "Discover the chilling stories of five renowned international murder cases, featuring firsthand accounts from individuals close to each case and those seeking justice.",
-                                "genre": "Crime, Documentary",
-                                "thumbnail_url": "https://images.justwatch.com/poster/320823394/s276/worlds-most-notorious-killers.webp",
                                 "initialized": true
                             },
                             {

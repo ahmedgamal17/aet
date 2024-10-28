@@ -117,6 +117,51 @@
                     {
                         "animes": [
                             {
+                                "url": "/category/houkago-shounen-hanako-kun-part-2",
+                                "title": "Houkago Shounen Hanako-kun Part 2",
+                                "thumbnail_url": "https://gogocdn.net/cover/houkago-shounen-hanako-kun-part-2.png"
+                            },
+                            {
+                                "url": "/category/seirei-gensouki-2",
+                                "title": "Seirei Gensouki 2",
+                                "thumbnail_url": "https://gogocdn.net/cover/seirei-gensouki-2-1727379332.png"
+                            },
+                            {
+                                "url": "/category/natsume-yuujinchou-shichi",
+                                "title": "Natsume Yuujinchou Shichi",
+                                "thumbnail_url": "https://gogocdn.net/cover/natsume-yuujinchou-shichi.png"
+                            },
+                            {
+                                "url": "/category/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru",
+                                "title": "Saikyou no Shienshoku ",
+                                "thumbnail_url": "https://gogocdn.net/cover/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru.png"
+                            },
+                            {
+                                "url": "/category/arifureta-shokugyou-de-sekai-saikyou-season-3",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+                                "thumbnail_url": "https://gogocdn.net/cover/arifureta-shokugyou-de-sekai-saikyou-season-3.png"
+                            },
+                            {
+                                "url": "/category/raise-wa-tanin-ga-ii",
+                                "title": "Raise wa Tanin ga Ii",
+                                "thumbnail_url": "https://gogocdn.net/cover/raise-wa-tanin-ga-ii.png"
+                            },
+                            {
+                                "url": "/category/haigakura",
+                                "title": "Haigakura",
+                                "thumbnail_url": "https://gogocdn.net/cover/haigakura-1727373567.png"
+                            },
+                            {
+                                "url": "/category/hoshifuru-oukoku-no-nina",
+                                "title": "Hoshifuru Oukoku no Nina",
+                                "thumbnail_url": "https://gogocdn.net/cover/hoshifuru-oukoku-no-nina.png"
+                            },
+                            {
+                                "url": "/category/kamonohashi-ron-no-kindan-suiri-2nd-season",
+                                "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
+                                "thumbnail_url": "https://gogocdn.net/cover/kamonohashi-ron-no-kindan-suiri-2nd-season.png"
+                            },
+                            {
                                 "url": "/category/touhai-ura-rate-mahjong-touhai-roku",
                                 "title": "Touhai: Ura Rate Mahjong Touhai Roku",
                                 "thumbnail_url": "https://gogocdn.net/cover/touhai-ura-rate-mahjong-touhai-roku.png"
@@ -170,51 +215,6 @@
                                 "url": "/category/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki",
                                 "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
                                 "thumbnail_url": "https://gogocdn.net/cover/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki.png"
-                            },
-                            {
-                                "url": "/category/attacker-you",
-                                "title": "Attacker You!",
-                                "thumbnail_url": "https://gogocdn.net/images/upload/55755.jpg"
-                            },
-                            {
-                                "url": "/category/fight-da-pyuta",
-                                "title": "Fight Da!! Pyuta",
-                                "thumbnail_url": "https://gogocdn.net/cover/fight-da-pyuta.png"
-                            },
-                            {
-                                "url": "/category/ranma-2024",
-                                "title": "Ranma ½ (2024)",
-                                "thumbnail_url": "https://gogocdn.net/cover/ranma-2024.png"
-                            },
-                            {
-                                "url": "/category/ao-no-exorcist-yuki-no-hate-hen",
-                                "title": "Ao no Exorcist: Yuki no Hate-hen",
-                                "thumbnail_url": "https://gogocdn.net/cover/ao-no-exorcist-yuki-no-hate-hen.png"
-                            },
-                            {
-                                "url": "/category/maou-2099",
-                                "title": "Maou 2099",
-                                "thumbnail_url": "https://gogocdn.net/cover/maou-2099-1727374937.png"
-                            },
-                            {
-                                "url": "/category/chi-chikyuu-no-undou-ni-tsuite",
-                                "title": "Chi.: Chikyuu no Undou ni Tsuite",
-                                "thumbnail_url": "https://gogocdn.net/cover/chi-chikyuu-no-undou-ni-tsuite.png"
-                            },
-                            {
-                                "url": "/category/blue-lock-vs-u-20-japan",
-                                "title": "Blue Lock vs. U-20 Japan",
-                                "thumbnail_url": "https://gogocdn.net/cover/blue-lock-vs-u-20-japan.png"
-                            },
-                            {
-                                "url": "/category/bleach-sennen-kessen-hen-soukoku-tan",
-                                "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
-                                "thumbnail_url": "https://gogocdn.net/cover/bleach-sennen-kessen-hen-soukoku-tan.png"
-                            },
-                            {
-                                "url": "/category/maou-sama-retry-r",
-                                "title": "Maou-sama, Retry! R",
-                                "thumbnail_url": "https://gogocdn.net/cover/maou-sama-retry-r.png"
                             }
                         ],
                         "hasNextPage": true
@@ -368,13 +368,13 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=DmNUshNVCvx24Oh7YAUeSw&expires=1730126829"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=7DXuXjtwDTW5j3Lfgm5TEw&expires=1730147490"
                         }
                     },
                     {
-                        "url": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfsfqvdzemli55iwju7z3bczl3l6orx/video.mp4",
+                        "url": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqf2mmf3hvj3rkpvzkp7oqxizx3bd6in/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqfsfqvdzemli55iwju7z3bczl3l6orx/video.mp4",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxrwv4dz3b4quuoekre2isnki4subsphostocbbgqf2mmf3hvj3rkpvzkp7oqxizx3bd6in/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Origin": "https://anitaku.to",
@@ -382,9 +382,9 @@
                         }
                     },
                     {
-                        "url": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=KxtIlNaq519ZtAToVaz4SVz7Pf-wvb8UmffI4HyKnFw&s=1730119630&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "url": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=3EwJSm-zuNAbhiVDOu3T_X-KyEmpBEuuQDGxLPw-7a8&s=1730140292&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=KxtIlNaq519ZtAToVaz4SVz7Pf-wvb8UmffI4HyKnFw&s=1730119630&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "videoUrl": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=3EwJSm-zuNAbhiVDOu3T_X-KyEmpBEuuQDGxLPw-7a8&s=1730140292&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -409,13 +409,13 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=DmNUshNVCvx24Oh7YAUeSw&expires=1730126829"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=7DXuXjtwDTW5j3Lfgm5TEw&expires=1730147490"
                         }
                     },
                     {
-                        "url": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=KxtIlNaq519ZtAToVaz4SVz7Pf-wvb8UmffI4HyKnFw&s=1730119630&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "url": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=3EwJSm-zuNAbhiVDOu3T_X-KyEmpBEuuQDGxLPw-7a8&s=1730140292&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "quality": "StreamWish - 720p",
-                        "videoUrl": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=KxtIlNaq519ZtAToVaz4SVz7Pf-wvb8UmffI4HyKnFw&s=1730119630&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "videoUrl": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=3EwJSm-zuNAbhiVDOu3T_X-KyEmpBEuuQDGxLPw-7a8&s=1730140292&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -440,13 +440,13 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=DmNUshNVCvx24Oh7YAUeSw&expires=1730126829"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=7DXuXjtwDTW5j3Lfgm5TEw&expires=1730147490"
                         }
                     },
                     {
-                        "url": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=KxtIlNaq519ZtAToVaz4SVz7Pf-wvb8UmffI4HyKnFw&s=1730119630&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "url": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=3EwJSm-zuNAbhiVDOu3T_X-KyEmpBEuuQDGxLPw-7a8&s=1730140292&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "quality": "StreamWish - 480p",
-                        "videoUrl": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=KxtIlNaq519ZtAToVaz4SVz7Pf-wvb8UmffI4HyKnFw&s=1730119630&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "videoUrl": "https://y3id30d5fhc38.pradoi.com/hls2/01/04260/p1x555csdopn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=3EwJSm-zuNAbhiVDOu3T_X-KyEmpBEuuQDGxLPw-7a8&s=1730140292&e=129600&f=21300920&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -471,7 +471,7 @@
                         "headers": {
                             "Accept": "*/*",
                             "Origin": "https://s3taku.com",
-                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=DmNUshNVCvx24Oh7YAUeSw&expires=1730126829"
+                            "Referer": "https://s3taku.com/embedplus?id=MjI3NTA1&token=7DXuXjtwDTW5j3Lfgm5TEw&expires=1730147490"
                         }
                     },
                     {
