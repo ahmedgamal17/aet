@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/houkago-shounen-hanako-kun-part-2/",
+                                "title": "Houkago Shounen Hanako-kun Part 2",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Houkago-Shounen-Hanako-kun-Part-2-6704121e37a40.jpg"
+                            },
+                            {
                                 "url": "/anime/seirei-gensouki-2/",
                                 "title": "Seirei Gensouki 2",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/poster-Seirei-Gensouki-2-670412147a819.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/trillion-game/",
                                 "title": "Trillion Game",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Trillion-Game-66fee05e74c4c.jpg"
-                            },
-                            {
-                                "url": "/anime/sayounara-ryuusei-konnichiwa-jinsei/",
-                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Sayounara-Ryuusei-Konnichiwa-Jinsei-66fedac6b78ba.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -438,27 +438,27 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a4.mp4upload.com:183/d/xkx7duejz3b4quuopkreuikeju4vtfftjwjpovsgw2macaztpm3kvntnlg3e5st4oe6nhiv3/video.mp4",
+                        "url": "https://a4.mp4upload.com:183/d/xkx7duejz3b4quuopkreuikeju4vtfftjwjpovsgw2mil6hwoscatiptbzafsgocruqvyhlu/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkx7duejz3b4quuopkreuikeju4vtfftjwjpovsgw2macaztpm3kvntnlg3e5st4oe6nhiv3/video.mp4",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkx7duejz3b4quuopkreuikeju4vtfftjwjpovsgw2mil6hwoscatiptbzafsgocruqvyhlu/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://a1.mp4upload.com:183/d/x2x7puejz3b4quuopkrb2jchi6xdwbuz6ephbkmwuv7kba5d4hqkncpjvgjyn4xf6q4w3ve7/video.mp4",
+                        "url": "https://a1.mp4upload.com:183/d/x2x7puejz3b4quuopkrb2jchi6xdwbuz6ephbkmwuv7ci6dg5zkkdn4giwrzjwxqm2rr5co5/video.mp4",
                         "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x7puejz3b4quuopkrb2jchi6xdwbuz6ephbkmwuv7kba5d4hqkncpjvgjyn4xf6q4w3ve7/video.mp4",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x7puejz3b4quuopkrb2jchi6xdwbuz6ephbkmwuv7ci6dg5zkkdn4giwrzjwxqm2rr5co5/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://a3.mp4upload.com:183/d/xsx7huejz3b4quuopkrbop2fkdnb34zwnihb5pikvbwzqudpudnchmbyehw43g6gcdhswnzn/video.mp4",
+                        "url": "https://a3.mp4upload.com:183/d/xsx7huejz3b4quuopkrbop2fkdnb34zwnihb5pikvbwrzk5kv5vxpf24zs6m3zpypfm6a3f7/video.mp4",
                         "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx7huejz3b4quuopkrbop2fkdnb34zwnihb5pikvbwzqudpudnchmbyehw43g6gcdhswnzn/video.mp4",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx7huejz3b4quuopkrbop2fkdnb34zwnihb5pikvbwrzk5kv5vxpf24zs6m3zpypfm6a3f7/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"

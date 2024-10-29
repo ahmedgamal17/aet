@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/blue-box-d60f",
+                                "title": "Ao no Hako",
+                                "thumbnail_url": "https://kaas.to/image/poster/blue-box-0765-hq.webp"
+                            },
+                            {
                                 "url": "/haigakura-7b76",
                                 "title": "Haigakura",
                                 "thumbnail_url": "https://kaas.to/image/poster/haigakura-8f68-hq.webp"
@@ -310,11 +315,6 @@
                                 "url": "/touhai-ura-rate-mahjong-touhai-roku-ac46",
                                 "title": "Touhai: Ura Rate Mahjong Touhai Roku",
                                 "thumbnail_url": "https://kaas.to/image/poster/touhai-ura-rate-mahjong-touhai-roku-7fec-hq.webp"
-                            },
-                            {
-                                "url": "/tonbo-season-2-a5ca",
-                                "title": "Ooi! Tonbo 2nd Season",
-                                "thumbnail_url": "https://kaas.to/image/poster/tonbo-season-2-cccb-hq.webp"
                             }
                         ],
                         "hasNextPage": true
