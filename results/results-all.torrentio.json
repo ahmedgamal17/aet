@@ -22,7 +22,7 @@
                                 "artist": "Kayvan Novak, Matt Berry, Natasia Demetriou, Harvey Guillén",
                                 "author": "",
                                 "description": "A documentary-style look into the daily (or rather, nightly) lives of a group of vampires in Staten Island who have “lived” together for hundreds and hundreds of years.",
-                                "genre": "Comedy, Fantasy, Horror",
+                                "genre": "Comedy, Horror, Fantasy",
                                 "thumbnail_url": "https://images.justwatch.com/poster/286886773/s276/what-we-do-in-the-shadows.webp",
                                 "initialized": true
                             },
@@ -42,7 +42,7 @@
                                 "artist": "Harold Perrineau, Catalina Sandino Moreno, Eion Bailey, David Alpay",
                                 "author": "",
                                 "description": "Unravel the mystery of a city in middle U.S.A. that imprisons everyone who enters. As the residents struggle to maintain a sense of normality and seek a way out, they must also survive the threats of the surrounding forest.",
-                                "genre": "Science-Fiction, Mystery & Thriller, Drama, Horror",
+                                "genre": "Mystery & Thriller, Drama, Horror, Science-Fiction",
                                 "thumbnail_url": "https://images.justwatch.com/poster/321587622/s276/from.webp",
                                 "initialized": true
                             },
@@ -62,7 +62,7 @@
                                 "artist": "Steve Martin, Martin Short, Selena Gomez, Michael Cyril Creighton",
                                 "author": "",
                                 "description": "Three strangers - who live in the same New York City apartment building and share an obsession with true crime - suddenly find themselves embroiled in a murder.",
-                                "genre": "Comedy, Crime, Drama, Mystery & Thriller",
+                                "genre": "Mystery & Thriller, Comedy, Crime, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/306764050/s276/only-murders-in-the-building.webp",
                                 "initialized": true
                             },
@@ -202,7 +202,7 @@
                                 "artist": "Anna Kendrick, Daniel Zovatto, Tony Hale, Nicolette Robinson",
                                 "author": "Anna Kendrick",
                                 "description": "Sheryl Bradshaw, a single woman looking for a suitor on a hit 1970s TV show, chooses charming bachelor Rodney Alcala, unaware that, behind the man's gentle facade, he hides a deadly secret.",
-                                "genre": "Drama, Crime, Mystery & Thriller",
+                                "genre": "Crime, Drama, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/321540319/s276/woman-of-the-hour.webp",
                                 "initialized": true
                             },
@@ -222,7 +222,7 @@
                                 "artist": "Maika Monroe, Nicolas Cage, Blair Underwood, Alicia Witt",
                                 "author": "Osgood Perkins",
                                 "description": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
-                                "genre": "Mystery & Thriller, Crime, Horror",
+                                "genre": "Crime, Horror, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/311450894/s276/longlegs.webp",
                                 "initialized": true
                             },
@@ -282,7 +282,7 @@
                                 "artist": "Tawny Newsome, Jack Quaid, Noël Wells, Eugene Cordero",
                                 "author": "",
                                 "description": "The lives of the support crew serving on one of Starfleet's least important ships, the U.S.S. Cerritos, in 2380. Ensigns Mariner, Boimler, Rutherford and Tendi have to keep up with their duties and their social lives, often while the ship is being rocked by a multitude of sci-fi anomalies.",
-                                "genre": "Science-Fiction, Animation, Comedy, Action & Adventure",
+                                "genre": "Animation, Comedy, Science-Fiction, Action & Adventure",
                                 "thumbnail_url": "https://images.justwatch.com/poster/307452739/s276/star-trek-lower-decks.webp",
                                 "initialized": true
                             },
@@ -302,7 +302,7 @@
                                 "artist": "Tom Hardy, Woody Harrelson, Michelle Williams, Naomie Harris",
                                 "author": "Andy Serkis",
                                 "description": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
-                                "genre": "Science-Fiction, Action & Adventure, Mystery & Thriller",
+                                "genre": "Action & Adventure, Science-Fiction, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/253175111/s276/venom-let-there-be-carnage.webp",
                                 "initialized": true
                             },
@@ -342,7 +342,7 @@
                                 "artist": "Elijah Wood, Collin Dean, Melanie Lynskey",
                                 "author": "",
                                 "description": "Two brothers, Wirt and Greg, find themselves lost in the Unknown; a strange forest adrift in time. With the help of a wise old Woodsman and a foul-tempered bluebird named Beatrice, Wirt and Greg must travel across this strange land, in hope of finding their way home. Join them as they encounter surprises and obstacles on their journey through the wood.",
-                                "genre": "Kids & Family, Comedy, Mystery & Thriller, Science-Fiction, Animation, Drama, Horror, Fantasy",
+                                "genre": "Mystery & Thriller, Science-Fiction, Animation, Kids & Family, Comedy, Fantasy, Drama, Horror",
                                 "thumbnail_url": "https://images.justwatch.com/poster/86693805/s276/over-the-garden-wall.webp",
                                 "initialized": true
                             },
@@ -362,7 +362,7 @@
                                 "artist": "Toni Collette, Alex Wolff, Gabriel Byrne, Ann Dowd",
                                 "author": "Ari Aster",
                                 "description": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
-                                "genre": "Mystery & Thriller, Horror, Drama",
+                                "genre": "Horror, Mystery & Thriller, Drama",
                                 "thumbnail_url": "https://images.justwatch.com/poster/65080897/s276/hereditary.webp",
                                 "initialized": true
                             },
@@ -787,16 +787,6 @@
                                 "initialized": true
                             },
                             {
-                                "url": "tt1831534,SHOW,/us/tv-show/the-world-wild-vet",
-                                "title": "The World Wild Vet",
-                                "artist": "Luke Gamble",
-                                "author": "",
-                                "description": "Vet Adventures takes viewers on a whirlwind trek across the globe as Luke Gamble, a vet from a small village in the south of England, ventures to places where animal welfare is low on the agenda and vets are often non-existent. While helping and saving as many animals as possible Luke immerses himself into the different cultures and traditions of each country he visits. With long hours, little sleep, life on the road to contend with and daily activities that involve anything from anesthetizing a leopard to educating local people about animal welfare issues, Luke takes everything in his stride. Building on Luke's charm, passion and enormous on-screen presence the stories will shock, appall and inspire the audience in equal measure as Luke travels across the open plains of Africa, the tropical rain-forests of South America and the mountains of Nepal. In each episode Luke deals with huge moral questions that will put his veterinary knowledge to the test, creating a series packed full of drama alongside aspirational stories of people who dedicate their lives to animal welfare and selflessly seek to better the natural world around them.",
-                                "genre": "Documentary, Reality TV",
-                                "thumbnail_url": "https://images.justwatch.com/poster/321099366/s276/the-world-wild-vet.webp",
-                                "initialized": true
-                            },
-                            {
                                 "url": "tt1878805,SHOW,/us/tv-show/world-without-end",
                                 "title": "World Without End",
                                 "artist": "Oliver Maltman, David Bradley, Ben Chaplin, Charlotte Riley",
@@ -804,6 +794,16 @@
                                 "description": "Two hundred years after the construction of the great cathedral, the medieval town of Kingsbridge is  taken under siege by Queen Isabella. Caris, a visionary young woman, inspires her people to stand up for their rights and revolt against to the most powerful forces of her time, the Church and the Crown.",
                                 "genre": "Drama, Romance, Mystery & Thriller",
                                 "thumbnail_url": "https://images.justwatch.com/poster/112959698/s276/world-without-end.webp",
+                                "initialized": true
+                            },
+                            {
+                                "url": "tt1831534,SHOW,/us/tv-show/the-world-wild-vet",
+                                "title": "The World Wild Vet",
+                                "artist": "Luke Gamble",
+                                "author": "",
+                                "description": "Vet Adventures takes viewers on a whirlwind trek across the globe as Luke Gamble, a vet from a small village in the south of England, ventures to places where animal welfare is low on the agenda and vets are often non-existent. While helping and saving as many animals as possible Luke immerses himself into the different cultures and traditions of each country he visits. With long hours, little sleep, life on the road to contend with and daily activities that involve anything from anesthetizing a leopard to educating local people about animal welfare issues, Luke takes everything in his stride. Building on Luke's charm, passion and enormous on-screen presence the stories will shock, appall and inspire the audience in equal measure as Luke travels across the open plains of Africa, the tropical rain-forests of South America and the mountains of Nepal. In each episode Luke deals with huge moral questions that will put his veterinary knowledge to the test, creating a series packed full of drama alongside aspirational stories of people who dedicate their lives to animal welfare and selflessly seek to better the natural world around them.",
+                                "genre": "Documentary, Reality TV",
+                                "thumbnail_url": "https://images.justwatch.com/poster/321099366/s276/the-world-wild-vet.webp",
                                 "initialized": true
                             },
                             {
