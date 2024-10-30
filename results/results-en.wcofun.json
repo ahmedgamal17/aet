@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/american-dad-season-21-episode-1-the-grocery-store-bank",
+                        "name": "Season 21 - Episode 1",
+                        "episode_number": 2101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp7si5nZbx4cvFbCwFDgHCEWZvHKSb59yfmdy6J7R91_vEvJCzbx3z5QTmQY5hcUL3H_ZslGXjNWNaCd0279-BLcqAXyZK_3jtiEG3VTOdu8195ijptJKuVetQ3HWS3PHkHUbLZmZxqRx_6VnBUnUVU-uIgniakVyTvtXbSWEdL4tBNcsRc1tQiHnfnLw0VfqMK8lHvSZY4460eNKsapRNVH9Ghzp1dysYST-WTuRVrWGgQWF8XcWVlQ5A3WIadacVhjzH1uVTUDzC1X9FEvYQz6ZNDds2k_ID9kecI0Q33KZcE-nDRkCFaGG-aDWq2Ui_tVzVvGdcKWs4rSXJaGpKIO-nI6ZAoVV5XC6VoVjlb6",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp7si5nZbx4cvFbCwFDgHCEWZvHKSb59yfmdy6J7R91_vEvJCzbx3z5QTmQY5hcUL3H_ZslGXjNWNaCd0279-BLcqAXyZK_3jtiEG3VTOdu8195ijptJKuVetQ3HWS3PHkHUbLZmZxqRx_6VnBUnUVU-uIgniakVyTvtXbSWEdL4tBNcsRc1tQiHnfnLw0VfqMK8lHvSZY4460eNKsapRNVH9Ghzp1dysYST-WTuRVrWGgQWF8XcWVlQ5A3WIadacVhjzH1uVTUDzC1X9FEvYQz6ZNDds2k_ID9kecI0Q33KZcE-nDRkCFaGG-aDWq2Ui_tVzVvGdcKWs4rSXJaGpKIO-nI6ZAoVV5XC6VoVjlb6"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp7si5nZbx4cvFbCwFDgHCEWZvHKSb59yfmdy6J7R91_vEvJCzbx3z5QTmQY5hcUL3H_ZslGXjNWNaCd0279-BLHpYmaFozCgsByJnyzg8FLdUhIcu_C0kQU_5ESGg02WqVxKvIaLl4qtZnLWiLZJnw3myXTrCj5gBeBUAdJ604y5MgEXsTGPodbejiUH5tJ2fasFoc8LGaSghhxH6uuCLJ1Gtm5htW7wKlokyrZBcN3IuqCQVdCX_6tuSg7fiduECxMhRUWWPsO5ih7v9a_dxcJH69PrGMAsVa4BwgT7FpQ4s7hdGRpy9iFAceXNpF_-y20Rq68aq2FuIAr3X1JoyK8N63to8eXb3a6_HXHym3W",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp7si5nZbx4cvFbCwFDgHCEWZvHKSb59yfmdy6J7R91_vEvJCzbx3z5QTmQY5hcUL3H_ZslGXjNWNaCd0279-BLHpYmaFozCgsByJnyzg8FLdUhIcu_C0kQU_5ESGg02WqVxKvIaLl4qtZnLWiLZJnw3myXTrCj5gBeBUAdJ604y5MgEXsTGPodbejiUH5tJ2fasFoc8LGaSghhxH6uuCLJ1Gtm5htW7wKlokyrZBcN3IuqCQVdCX_6tuSg7fiduECxMhRUWWPsO5ih7v9a_dxcJH69PrGMAsVa4BwgT7FpQ4s7hdGRpy9iFAceXNpF_-y20Rq68aq2FuIAr3X1JoyK8N63to8eXb3a6_HXHym3W"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp7si5nZbx4cvFbCwFDgHCEWZvHKSb59yfmdy6J7R91_vEvJCzbx3z5QTmQY5hcUL3H_ZslGXjNWNaCd0279-BJn6ZKRo3pfZiqSd0qjitOvtxHAPfidB-xQGKQzvCWSVUcG3WR8fYcRF0oq-GRiVCid17zXEWvUfHeElPs8CJKniDTtERINhHJGHSC3DtQxKcp2UYHCdz0XiSIb1lPb-rQ2g1ewqiO9azW-d-uw2wSn7-UFdXBiUMNOys6IjvBAlkN2aGGoOpkBi6DAFhmOiZPDOK-fWVuQ4KL-jtFhhQ8rPkaMlRzZFC2jR33eFeCKOUuJKXP_3Q2iFIWy2JCWjusCEemrSoTiSFeKY4r-H0N4",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp7si5nZbx4cvFbCwFDgHCEWZvHKSb59yfmdy6J7R91_vEvJCzbx3z5QTmQY5hcUL3H_ZslGXjNWNaCd0279-BJn6ZKRo3pfZiqSd0qjitOvtxHAPfidB-xQGKQzvCWSVUcG3WR8fYcRF0oq-GRiVCid17zXEWvUfHeElPs8CJKniDTtERINhHJGHSC3DtQxKcp2UYHCdz0XiSIb1lPb-rQ2g1ewqiO9azW-d-uw2wSn7-UFdXBiUMNOys6IjvBAlkN2aGGoOpkBi6DAFhmOiZPDOK-fWVuQ4KL-jtFhhQ8rPkaMlRzZFC2jR33eFeCKOUuJKXP_3Q2iFIWy2JCWjusCEemrSoTiSFeKY4r-H0N4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
