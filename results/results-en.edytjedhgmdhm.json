@@ -3,28 +3,83 @@
         "name": "edytjedhgmdhm (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/asiandrama/",
+                                "title": "asiandrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/kdrama/",
+                                "title": "kdrama/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/movies/",
+                                "title": "movies/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/README/",
+                                "title": "README/",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/tvs/",
+                                "title": "tvs/",
+                                "thumbnail_url": ""
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
+                    "url": "/asiandrama/",
+                    "title": "asiandrama/",
+                    "thumbnail_url": ""
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/asiandrama/%5BMagicStar%5D%20Barakamon%20%5BWEBDL%5D%20%5B1080p%5D%20%5BAMZN%5D/Barakamon.EP11.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar.mkv",
+                        "name": "Barakamon.EP11.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar",
+                        "date_upload": -1,
+                        "episode_number": 11.0,
+                        "scanlator": "2.46 GB • /"
+                    },
+                    {
+                        "url": "/asiandrama/%5BMagicStar%5D%20Barakamon%20%5BWEBDL%5D%20%5B1080p%5D%20%5BAMZN%5D/Barakamon.EP10.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar.mkv",
+                        "name": "Barakamon.EP10.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar",
+                        "date_upload": -1,
+                        "episode_number": 10.0,
+                        "scanlator": "2.31 GB • /"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
+                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/%5BMagicStar%5D%20Barakamon%20%5BWEBDL%5D%20%5B1080p%5D%20%5BAMZN%5D/Barakamon.EP11.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar.mkv",
                         "quality": "Video",
-                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev"
+                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/asiandrama/%5BMagicStar%5D%20Barakamon%20%5BWEBDL%5D%20%5B1080p%5D%20%5BAMZN%5D/Barakamon.EP11.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar.mkv"
                     }
                 ],
                 "passed": true
