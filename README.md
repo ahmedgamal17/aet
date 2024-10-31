@@ -1,6 +1,6 @@
 ## Extension status
 
-### 35/88(40%) are working
+### 33/88(38%) are working
 
 | Extension            |  Status   | Log                                                                                                                                       |
 | :------------------- | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -56,7 +56,7 @@
 | en.donghuastream     | ❌<br>0/6  | [results-en.donghuastream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.donghuastream.json)         |
 | en.dopebox           | ❌<br>5/6  | [results-en.dopebox.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.dopebox.json)                     |
 | en.dramacool         |     ✅     | [results-en.dramacool.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.dramacool.json)                 |
-| en.edytjedhgmdhm     |     ✅     | [results-en.edytjedhgmdhm.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.edytjedhgmdhm.json)         |
+| en.edytjedhgmdhm     | ❌<br>2/5  | [results-en.edytjedhgmdhm.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.edytjedhgmdhm.json)         |
 | en.fmovies           | ❌<br>0/6  | [results-en.fmovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.fmovies.json)                     |
 | en.genoanime         | ❌<br>0/6  | [results-en.genoanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.genoanime.json)                 |
 | en.gogoanime         |     ✅     | [results-en.gogoanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.gogoanime.json)                 |
@@ -64,7 +64,7 @@
 | en.hanime            |     ✅     | [results-en.hanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hanime.json)                       |
 | en.hentaimama        |     ✅     | [results-en.hentaimama.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hentaimama.json)               |
 | en.hstream           |     ✅     | [results-en.hstream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hstream.json)                     |
-| en.kaido             |     ✅     | [results-en.kaido.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kaido.json)                         |
+| en.kaido             | ❌<br>5/6  | [results-en.kaido.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kaido.json)                         |
 | en.kawaiifu          |     ✅     | [results-en.kawaiifu.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kawaiifu.json)                   |
 | en.kayoanime         | ❌<br>4/6  | [results-en.kayoanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kayoanime.json)                 |
 | en.kickassanime      |     ✅     | [results-en.kickassanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kickassanime.json)           |
