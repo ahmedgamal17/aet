@@ -262,14 +262,34 @@
                                 "thumbnail_url": "https://prod-images.viu.com/3539505242/3f0b34521daca8433c603ad09581fc79b6dbad51?im=Resize,width=1920"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9774?isq=false",
-                                "title": "A Discovery of Witches - Season 3",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/eqEzjVVcxscufafaaynDLYMZMUJ.jpg"
+                                "url": "/api/DramaList/Drama/9126?isq=false",
+                                "title": "A Beautiful Lie",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/oow8o7un1mgol2d1729070957464/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9708?isq=false",
+                                "title": "Let Free the Curse of Taekwondo",
+                                "thumbnail_url": "https://img.gagaoolala.com/media/407356a3-627920-lg.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/1832?isq=false",
+                                "title": "Perfect World",
+                                "thumbnail_url": "https://puui.wetvinfo.com/vcover_hz_pic/0/oz5ppkfjx9niv571663217506808/0?imageMogr2/thumbnail/720x"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9594?isq=false",
                                 "title": "Eccentric Romance",
                                 "thumbnail_url": "https://img.gagaoolala.com/media/93827478-678637-lg.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9538?isq=false",
+                                "title": "Agatha All Along",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/3ViiCcM5GNSUkbjNFTw4hB4wxuz.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9774?isq=false",
+                                "title": "A Discovery of Witches - Season 3",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/eqEzjVVcxscufafaaynDLYMZMUJ.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9748?isq=false",
@@ -337,11 +357,6 @@
                                 "thumbnail_url": "https://img.gagaoolala.com/media/b0485d77-505495-lg.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9126?isq=false",
-                                "title": "A Beautiful Lie",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/oow8o7un1mgol2d1729070957464/0"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/9437?isq=false",
                                 "title": "Peaceful Property",
                                 "thumbnail_url": "https://prod-images.viu.com/596595322/9a948a5857f556df9eee805a7080970584f4555c?im=Resize,width=1920"
@@ -400,21 +415,6 @@
                                 "url": "/api/DramaList/Drama/9736?isq=false",
                                 "title": "The Glamorous Revenge",
                                 "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/8dinthoejxiyr321729649500547/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9501?isq=false",
-                                "title": "Fragile",
-                                "thumbnail_url": "https://kocowa-img.imgix.net/images/6eded2f7-9dd9-450c-8802-96aaf5576ef4.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9347?isq=false",
-                                "title": "Jack & Joker: U Steal My Heart! (Uncut Ver.)",
-                                "thumbnail_url": "//pic8.iqiyipic.com/image/20240909/00/54/a_100583976_m_601_zh-CN_m3_720_405.webp"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/4529?isq=false",
-                                "title": "Swallowed Star Season 2+3+4",
-                                "thumbnail_url": "https://puui.wetvinfo.com/wetv/cms/6945_1696415708_19201080.jpeg?imageMogr2/thumbnail/3000x"
                             }
                         ],
                         "hasNextPage": true
@@ -571,23 +571,23 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "file:///tmp/subs1141185277263852547srt",
+                                "url": "file:///tmp/subs336494793985077882srt",
                                 "lang": "English"
                             },
                             {
-                                "url": "file:///tmp/subs18101697951676596848srt",
+                                "url": "file:///tmp/subs1525682936368379236srt",
                                 "lang": "Khmer"
                             },
                             {
-                                "url": "file:///tmp/subs10588157991460176087srt",
+                                "url": "file:///tmp/subs15301089703277627253srt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "file:///tmp/subs7011089640738828039srt",
+                                "url": "file:///tmp/subs12597421083690235416srt",
                                 "lang": "Indonesia"
                             },
                             {
-                                "url": "file:///tmp/subs11304260915451019829srt",
+                                "url": "file:///tmp/subs7640846771140618177srt",
                                 "lang": "Malay"
                             }
                         ]
