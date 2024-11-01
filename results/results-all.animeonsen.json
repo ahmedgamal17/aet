@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "SEtiRCkuqHz75R3O",
+                                "title": "Trillion Game",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/SEtiRCkuqHz75R3O"
+                            },
+                            {
+                                "url": "drC3WntoP7jdUH96",
+                                "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/drC3WntoP7jdUH96"
+                            },
+                            {
+                                "url": "wCXwaP6wMEUmdNkz",
+                                "title": "Mecha-ude (TV)",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/wCXwaP6wMEUmdNkz"
+                            },
+                            {
                                 "url": "DInWTy3jJRVuXMJT",
                                 "title": "Dandadan",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/DInWTy3jJRVuXMJT"
@@ -90,21 +105,6 @@
                                 "url": "oTnW7ZwxBrL3Euh3",
                                 "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/oTnW7ZwxBrL3Euh3"
-                            },
-                            {
-                                "url": "fngByDVXCeAyyM94",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou 3rd Season",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/fngByDVXCeAyyM94"
-                            },
-                            {
-                                "url": "fsAVNttXllVPtKR5",
-                                "title": "Raise wa Tanin ga Ii",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/fsAVNttXllVPtKR5"
-                            },
-                            {
-                                "url": "uqxVGypeytVqr5hR",
-                                "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/uqxVGypeytVqr5hR"
                             }
                         ],
                         "hasNextPage": true
@@ -319,14 +319,14 @@
             },
             "details": {
                 "result": {
-                    "url": "DInWTy3jJRVuXMJT",
-                    "title": "Dandadan",
-                    "author": "Science SARU",
-                    "description": "After being aggressively rejected, Momo Ayase finds herself sulking when she stumbles across a boy being bullied. Saved by her rash kindness, the alien-obsessed boy attempts to speak to her about extraterrestrial interests he believes they share. Rejecting his claims, Ayase proclaimed that she instead is a believer in ghosts, starting an argument between the two over which is real.\n\nIn a bet to determine who is correct, the two decide to separately visit locations associated with both the extraterrestrial and the supernatural—Ayase visiting the former and the boy visiting the latter. When the two reach their respective places, it turns out that neither was wrong and that both aliens and ghosts do exist.\n\nThis marks the beginning of Ayase and the boy's adventure, as they attempt to fix the surreal, supernatural, and extraterrestrial elements around them to return to a normal life.\n\n[Written by MAL Rewrite]",
-                    "genre": "Action, Comedy, Shounen, Supernatural",
+                    "url": "SEtiRCkuqHz75R3O",
+                    "title": "Trillion Game",
+                    "author": "Madhouse",
+                    "description": "After socially awkward technology specialist Manabu \"Gaku\" Taira is saved from thugs by the outgoing Haru Tennouji, the two men find that they get along with each other well. Years later, Gaku, who is having a tough time getting a job due to his timidness, is convinced by Haru to apply for a position alongside him at Dragon Bank, one of Japan's largest IT companies.\n\nDuring their interviews, the company's board director, Kirika Kokuryuu, takes an interest in Haru and Gaku's contrasting personalities. However, Gaku does not get hired by the company, leading Haru to quit the job on his first day in protest. Nevertheless, they decide to embark on an ambitious plan of making a trillion dollars.\n\nIn order for their scheme to come to fruition, Haru and Gaku start looking for potential investors, but everyone rejects their extravagant idea. In spite of that, the two soon find themselves getting an offer from Kirika—and with her investment, they might just be able to reach their goal.\n\n[Written by MAL Rewrite]",
+                    "genre": "Adult Cast, Drama, Seinen",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/DInWTy3jJRVuXMJT",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/SEtiRCkuqHz75R3O",
                     "initialized": true
                 },
                 "passed": true
@@ -334,14 +334,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "DInWTy3jJRVuXMJT/video/5",
-                        "name": "Episode 5: Like, Where Are Your Balls?!",
-                        "episode_number": 5.0
+                        "url": "SEtiRCkuqHz75R3O/video/6",
+                        "name": "Episode 6: I Want You to the Moon",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "DInWTy3jJRVuXMJT/video/4",
-                        "name": "Episode 4: Kicking Turbo Granny's Ass",
-                        "episode_number": 4.0
+                        "url": "SEtiRCkuqHz75R3O/video/5",
+                        "name": "Episode 5: The Maiden's Gaze",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -349,84 +349,44 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/DInWTy3jJRVuXMJT/5/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/SEtiRCkuqHz75R3O/6/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/DInWTy3jJRVuXMJT/5/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/SEtiRCkuqHz75R3O/6/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/en-US/5",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/SEtiRCkuqHz75R3O/en-US/6",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/zh-CN/5",
-                                "lang": "中文 (Simplified)"
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/SEtiRCkuqHz75R3O/ru-RU/6",
+                                "lang": "Русский"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/vi-VN/5",
-                                "lang": "Vietnamese"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/tr-TR/5",
-                                "lang": "Türkçe"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/tl-PH/5",
-                                "lang": "Tagalog"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/th-TH/5",
-                                "lang": "ไทย"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/pt-BR/5",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/SEtiRCkuqHz75R3O/pt-BR/6",
                                 "lang": "Português (Brasil)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/pl-PL/5",
-                                "lang": "Polish"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/ms-MY/5",
-                                "lang": "Malay"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/ko-KR/5",
-                                "lang": "한국어"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/ja-JP/5",
-                                "lang": "日本語"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/it-IT/5",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/SEtiRCkuqHz75R3O/it-IT/6",
                                 "lang": "Italiano"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/id-ID/5",
-                                "lang": "Indonesian"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/fr-FR/5",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/SEtiRCkuqHz75R3O/fr-FR/6",
                                 "lang": "Français"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/es-LA/5",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/SEtiRCkuqHz75R3O/es-LA/6",
                                 "lang": "Español"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/es-ES/5",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/SEtiRCkuqHz75R3O/es-ES/6",
                                 "lang": "Español (Spain)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/de-DE/5",
-                                "lang": "Deutsch"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/DInWTy3jJRVuXMJT/ar-ME/5",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/SEtiRCkuqHz75R3O/ar-ME/6",
                                 "lang": "العربية"
                             }
                         ]
