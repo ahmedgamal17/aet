@@ -71,7 +71,7 @@
   },
   {
     "pkg": "ar.akwam",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-ar.akwam.json"
   },
   {
@@ -301,7 +301,7 @@
   },
   {
     "pkg": "en.kaido",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kaido.json"
   },
   {

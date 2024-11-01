@@ -117,6 +117,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kabushikigaisha-magi-lumi-re/",
+                                "title": "Kabushikigaisha Magi-Lumière",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Kabushikigaisha-Magi-Lumi-re-67001a72c99c0.jpg"
+                            },
+                            {
+                                "url": "/anime/sword-art-online-alternative-gun-gale-online-ii/",
+                                "title": "Sword Art Online Alternative: Gun Gale Online II",
+                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Sword-Art-Online-Alternative-Gun-Gale-Online-II-67001f230de58.jpg"
+                            },
+                            {
                                 "url": "/anime/ao-no-hako/",
                                 "title": "Ao no Hako",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Ao-no-Hako-66fed24ea1b52.jpg"
@@ -305,16 +315,6 @@
                                 "url": "/anime/puniru-wa-kawaii-slime/",
                                 "title": "Puniru wa Kawaii Slime",
                                 "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Puniru-wa-Kawaii-Slime-6703294de9577.jpg"
-                            },
-                            {
-                                "url": "/anime/mf-ghost-2nd-season/",
-                                "title": "MF Ghost 2nd Season",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-MF-Ghost-2nd-Season-6702bd7d4f17b.jpg"
-                            },
-                            {
-                                "url": "/anime/nageki-no-bourei-wa-intai-shitai/",
-                                "title": "Nageki no Bourei wa Intai shitai",
-                                "thumbnail_url": "https://www.okanime.xyz/uploads/posters/thumbnail-Nageki-no-Bourei-wa-Intai-shitai-66f982dabeac1.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -433,27 +433,27 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a2.mp4upload.com:183/d/xwxqrnuiz3b4quuorwresyk2cao5govg62ecsdqdeciyyvtvnkocmn56ti4u6u4jncnklcn3/video.mp4",
+                        "url": "https://a2.mp4upload.com:183/d/xwxqrnuiz3b4quuorwresyk2cao5govg62ecsdqdeciyyvuwyz2bmahiw46f4ekdtreozthx/video.mp4",
                         "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxqrnuiz3b4quuorwresyk2cao5govg62ecsdqdeciyyvtvnkocmn56ti4u6u4jncnklcn3/video.mp4",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxqrnuiz3b4quuorwresyk2cao5govg62ecsdqdeciyyvuwyz2bmahiw46f4ekdtreozthx/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://a4.mp4upload.com:183/d/xkxrnnuiz3b4quuorwre2ocec3n377273bkdejafyacqoey7s5ksb3fi25w23lk7uqxed7cz/video.mp4",
+                        "url": "https://a4.mp4upload.com:183/d/xkxrnnuiz3b4quuorwre2ocec3n377273bkdejafyacqoe74ho6qdzl4aiaimlt3lrxuphxu/video.mp4",
                         "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxrnnuiz3b4quuorwre2ocec3n377273bkdejafyacqoey7s5ksb3fi25w23lk7uqxed7cz/video.mp4",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxrnnuiz3b4quuorwre2ocec3n377273bkdejafyacqoe74ho6qdzl4aiaimlt3lrxuphxu/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://a3.mp4upload.com:183/d/xsx3vp4iz3b4quuorwrewosycrfe7poeh5axmbp6geb3l4xsampt2p23ffujssihemgl63j5/video.mp4",
+                        "url": "https://a3.mp4upload.com:183/d/xsx3vp4iz3b4quuorwrewosycrfe7poeh5axmbp6geb3l4qrv7yjircptlw3n5sjfdrh3ced/video.mp4",
                         "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx3vp4iz3b4quuorwrewosycrfe7poeh5axmbp6geb3l4xsampt2p23ffujssihemgl63j5/video.mp4",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx3vp4iz3b4quuorwrewosycrfe7poeh5axmbp6geb3l4qrv7yjircptlw3n5sjfdrh3ced/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"

@@ -305,8 +305,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "quality": "720p",
+                        "videoUrl": ""
+                    },
+                    {
+                        "quality": "480p",
+                        "videoUrl": ""
+                    }
+                ],
+                "passed": true
             }
         }
     }
