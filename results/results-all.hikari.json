@@ -167,6 +167,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/21339/Psycho-Pass_Movie",
+                                "title": "Psycho-Pass Movie",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/8/71793l.jpg"
+                            },
+                            {
+                                "url": "/anime/23281/Psycho-Pass_2",
+                                "title": "Psycho-Pass 2",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1197/100616l.jpg"
+                            },
+                            {
+                                "url": "/anime/13601/Psycho-Pass",
+                                "title": "Psycho-Pass",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1314/142015l.jpg"
+                            },
+                            {
                                 "url": "/anime/49784/Mairimashita_Iruma-kun_3rd_Season",
                                 "title": "Mairimashita! Iruma-kun 3rd Season",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1688/128720l.jpg"
@@ -300,21 +315,6 @@
                                 "url": "/anime/10055/Black_Jack_Heian_Sento",
                                 "title": "Black Jack: Heian Sento",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/9/27872l.jpg"
-                            },
-                            {
-                                "url": "/anime/3842/Doubutsu_Takarajima",
-                                "title": "Doubutsu Takarajima",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1084/100515l.jpg"
-                            },
-                            {
-                                "url": "/anime/24869/Aoi_Umi_to_Shounen",
-                                "title": "Aoi Umi to Shounen",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/7/63867l.jpg"
-                            },
-                            {
-                                "url": "/anime/1521/Black_Jack_the_Movie",
-                                "title": "Black Jack the Movie",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1868/134318l.jpg"
                             }
                         ],
                         "hasNextPage": true
