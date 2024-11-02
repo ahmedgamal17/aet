@@ -7,6 +7,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/خطاب-الأكاذيب/",
+                                "title": "خطاب الأكاذيب Usotoki Rhetoric"
+                            },
+                            {
                                 "url": "/الطريق-إلى-الجحيم-الموسم-2/",
                                 "title": "الطريق إلى الجحيم 2 Hellbound"
                             },
@@ -169,10 +173,6 @@
                             {
                                 "url": "/ماحي-الذاكرة-السيئة/",
                                 "title": "ماحي الذاكرة السيئة Bad-Memory Eraser"
-                            },
-                            {
-                                "url": "/لا-مخرج-الروليت/",
-                                "title": "لا مخرج: الروليت No Way Out: The Roulette"
                             }
                         ],
                         "hasNextPage": true
@@ -280,22 +280,45 @@
             },
             "details": {
                 "result": {
-                    "url": "/الطريق-إلى-الجحيم-الموسم-2/",
-                    "title": "الطريق إلى الجحيم 2 Hellbound",
-                    "description": "يحكي الفيلم عن عالم مظلم يسوده الظلم والقهر، حيث تغلب على قلوب البشر اليأس والاحباط. في هذا العالم، يظهر شعاع من الأمل عندما تغزو كائنات عملاقة من الجحيم الأرض، وتبدأ في إصدار أحكام دموية وتخلّف خراباً كبيراً. وسط هذا الفوضى، تتشكل طائفة دينية تؤمن بالعدالة الإلهية، وتنشأ ص Kim-Hyun-Joo : في دور Min Hye Jin Kim-Sung-Cheol : في دور Park Jung Ja Kim-Shin-Rok : في دور Min Hye Jin Hong-Eui-Joon : في دور Leader of Sodo Yang-Ik-June : في دور Jin Gyeong Hun Lee-Re : في دور Jin Hee Jung",
-                    "genre": "كوريا الجنوبية, خيالي, درامي, رعب, غموض",
-                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/10/PxNq13_4f.jpg",
+                    "url": "/خطاب-الأكاذيب/",
+                    "title": "خطاب الأكاذيب Usotoki Rhetoric",
+                    "description": "الدراما تدور حول فتاة تمتلك قدرة على كشف الأكاذيب، تلتقي بمحقق غريب ويعملان معًا لحل المشاكل. Suzuka-Ouji : في دور Iwai Soma Matsumoto-Honoka : في دور Urabe Kanoko Mikata-Ryosuke : في دور Hanasaki Kaoru Katayama-Yuki : في دور Fujishima Chiyo Murakawa-Eri : في دور Kugayama Sayuri Wakamura-Mayumi : في دور Urabe Fumi",
+                    "genre": "اليابان, تاريخي, خيالي, رومانسي, غامض",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/11/60ln8O_4f.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/خطاب-الأكاذيب-الحلقة-02/",
+                        "name": "02 : الحلقة"
+                    },
+                    {
+                        "url": "/خطاب-الأكاذيب-الحلقة-01/",
+                        "name": "01 : الحلقة"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=1A8w7Ve86Ohe4Pl&expires=1730582002&ip=FROsD0ETKxSHDN&token=JQxC0_0T3s56",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=1A8w7Ve86Ohe4Pl&expires=1730582002&ip=FROsD0ETKxSHDN&token=JQxC0_0T3s56"
+                    },
+                    {
+                        "url": "https://mega99.uqload.net/3rfkuink4fw2q4drdkj7vmfpb4wlpghzojbputnhkkuu2armqlupuudbflba/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://mega99.uqload.net/3rfkuink4fw2q4drdkj7vmfpb4wlpghzojbputnhkkuu2armqlupuudbflba/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
