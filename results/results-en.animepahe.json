@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5664",
+                                "title": "Ranma ½ (2024)",
+                                "artist": "Netflix",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/a583ec910eca5c7b8439e1dce9579148797536f60fb062ec49f083674b0e9838.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5660",
+                                "title": "Kimi wa Meido-sama.",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/443fc78b43bb88ff3563b6ffb43b8e48b35cda319af9d550a0a8d1bcaca08563.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5674",
+                                "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/23ff46a876da4a8da5c9e29007db6f04f532032e2e4b9e8802289fa80e8a9ac9.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5726",
                                 "title": "Hyakushou Kizoku 2nd Season",
                                 "artist": "Seigyoku",
@@ -59,24 +77,6 @@
                                 "title": "Green Green OVA",
                                 "artist": "Rare",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/9258f4ee01b3ddecbb40387fc4ce7b72cca1aea62379ec1162d3718a94758285.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5771",
-                                "title": "Green Green Character DVD",
-                                "artist": "Rare",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/49cd2beeee88c6694c7f8e6970f7eb66a1b0664be2b59669cf2fcccd499278fc.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=1648",
-                                "title": "Green Green",
-                                "artist": "Rare",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7427a39c2ca86c5502bddf8a10589d9eaf6206df30a3c40cb61731692b000f38.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=3",
-                                "title": "Meitantei Conan",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/67fad4d803081259a826322eaaf68809ef62ccd64de57d42fcd84d4dd40abd5b.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -89,6 +89,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/?anime_id=5664",
+                                "title": "Ranma ½ (2024)",
+                                "artist": "Netflix",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/a583ec910eca5c7b8439e1dce9579148797536f60fb062ec49f083674b0e9838.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5660",
+                                "title": "Kimi wa Meido-sama.",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/443fc78b43bb88ff3563b6ffb43b8e48b35cda319af9d550a0a8d1bcaca08563.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5674",
+                                "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/23ff46a876da4a8da5c9e29007db6f04f532032e2e4b9e8802289fa80e8a9ac9.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=5726",
                                 "title": "Hyakushou Kizoku 2nd Season",
                                 "artist": "Seigyoku",
@@ -141,24 +159,6 @@
                                 "title": "Green Green OVA",
                                 "artist": "Rare",
                                 "thumbnail_url": "https://i.animepahe.ru/snapshots/9258f4ee01b3ddecbb40387fc4ce7b72cca1aea62379ec1162d3718a94758285.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=5771",
-                                "title": "Green Green Character DVD",
-                                "artist": "Rare",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/49cd2beeee88c6694c7f8e6970f7eb66a1b0664be2b59669cf2fcccd499278fc.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=1648",
-                                "title": "Green Green",
-                                "artist": "Rare",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/7427a39c2ca86c5502bddf8a10589d9eaf6206df30a3c40cb61731692b000f38.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=3",
-                                "title": "Meitantei Conan",
-                                "artist": "SubsPlease",
-                                "thumbnail_url": "https://i.animepahe.ru/snapshots/67fad4d803081259a826322eaaf68809ef62ccd64de57d42fcd84d4dd40abd5b.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -218,14 +218,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/?anime_id=5726",
-                    "title": "Hyakushou Kizoku 2nd Season",
-                    "author": "Pie in the sky",
-                    "description": "Second season of Hyakushou Kizoku.\n\nSynonyms: Noble Farmer Season 2",
-                    "genre": "Comedy",
+                    "url": "/anime/?anime_id=5664",
+                    "title": "Ranma ½ (2024)",
+                    "author": "MAPPA",
+                    "description": "During their martial arts training expedition in China, Ranma Saotome and his father Genma suffered an accident, which in turn, afflicted them with a curse—whenever they are doused with cold water, Ranma transforms into a girl, while his father turns into a panda! Only hot water can reverse these changes, but any further contact with cold water opens the can of worms once more. Unfortunately, the trouble does not end there, as Ranma finds out about his betrothal to one of the daughters of Soun Tendou, his father's closest friend. During the families' first meeting, it is decided that Ranma is to be married to Akane, the youngest daughter, a decision that is met with vehement protests from both sides. The two are simply not compatible, yet they are forced to live under one roof. Ranma's status quo further adds to the chaos, leading him to a series of comedic situations and misunderstandings that, in the grand scheme of things, may just be what he needs to work with Akane.\n\nSynonyms: Ranma 1/2 (2024)",
+                    "genre": "Action, Comedy, Romance, Ecchi",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i.animepahe.ru/posters/ff4614e084d2c24caaef13d6ccab4054c0e3afdfa84ebc623016e4aeb5bca12d.jpg",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/4cd65e2a4823f74c8952baccb220de43aaff4fa2753f2a569644f7f00ca1bdd2.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -233,16 +233,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/play/b36cb344-5999-58f2-f5ae-f7cee83ac37f/8ca880ec3d84462e42756ad255b5645fb9525d8bb8e383259d9fbff836b175cf",
-                        "name": "Episode 19",
-                        "date_upload": 1730567462000,
-                        "episode_number": 19.0
+                        "url": "/play/35e4014f-848d-b963-8ce9-dc0f85caf11b/aea92aa0e7592c72e3822786c97fbfc9d5f19d7341aaf37ab50bb773c98ddd4e",
+                        "name": "Episode 5",
+                        "date_upload": 1730577117000,
+                        "episode_number": 5.0
                     },
                     {
-                        "url": "/play/b36cb344-5999-58f2-f5ae-f7cee83ac37f/f213713e690c4b5a56e71dcc890ad41a81db89ca23fe27ab1d10e319c42ee8c1",
-                        "name": "Episode 18",
-                        "date_upload": 1729963087000,
-                        "episode_number": 18.0
+                        "url": "/play/35e4014f-848d-b963-8ce9-dc0f85caf11b/922bfddec868f6a39dd7d8b90ee47bd6346e3e7f7ad921c2050339e2e296f139",
+                        "name": "Episode 4",
+                        "date_upload": 1729970242000,
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
@@ -250,19 +250,34 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/b4a5363118f86ad3259d20c9ba3498e2946c9d9398875f22dfed52e341a6a927?file=AnimePahe_Hyakushou_Kizoku_-_19_1080p_Seigyoku.mp4&token=1_Mzy2abQu_382khSk35jQ&expires=1730586527",
-                        "quality": "Seigyoku · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/b4a5363118f86ad3259d20c9ba3498e2946c9d9398875f22dfed52e341a6a927?file=AnimePahe_Hyakushou_Kizoku_-_19_1080p_Seigyoku.mp4&token=1_Mzy2abQu_382khSk35jQ&expires=1730586527"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/78bf0839f42d9b44ec37e6e6701110da0104e93cb7c14559ed1eeefd2561b226?file=AnimePahe_Ranma_2024_-_05_1080p_Netflix.mp4&token=2tXXX7ABO49u-6GXAp07NQ&expires=1730613242",
+                        "quality": "Netflix · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/78bf0839f42d9b44ec37e6e6701110da0104e93cb7c14559ed1eeefd2561b226?file=AnimePahe_Ranma_2024_-_05_1080p_Netflix.mp4&token=2tXXX7ABO49u-6GXAp07NQ&expires=1730613242"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/241ec95d5b5792e739bfe036eb8b022270f640b51a61466f0a2b5f0831513b24?file=AnimePahe_Hyakushou_Kizoku_-_19_720p_Seigyoku.mp4&token=rDcte42VB_ZDpAPiWmERzg&expires=1730586526",
-                        "quality": "Seigyoku · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/241ec95d5b5792e739bfe036eb8b022270f640b51a61466f0a2b5f0831513b24?file=AnimePahe_Hyakushou_Kizoku_-_19_720p_Seigyoku.mp4&token=rDcte42VB_ZDpAPiWmERzg&expires=1730586526"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/a5173c8b36630632b26daee21cf0dc89ad4be99a55b4068fa46c0e31472a0a6a?file=AnimePahe_Ranma_2024_Eng_Dub_-_05_1080p_Netflix.mp4&token=n_e84EWn0gU5nhfl-UIs4Q&expires=1730613247",
+                        "quality": "Netflix · 1080p eng",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/a5173c8b36630632b26daee21cf0dc89ad4be99a55b4068fa46c0e31472a0a6a?file=AnimePahe_Ranma_2024_Eng_Dub_-_05_1080p_Netflix.mp4&token=n_e84EWn0gU5nhfl-UIs4Q&expires=1730613247"
                     },
                     {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/1a9b5a7a41d2861fcb9e2fdeb750fa6fcde7eca04c5127db0adbc2bd60afbbe6?file=AnimePahe_Hyakushou_Kizoku_-_19_360p_Seigyoku.mp4&token=EZNvownFuo8h3qfyHFEe5g&expires=1730586524",
-                        "quality": "Seigyoku · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/1a9b5a7a41d2861fcb9e2fdeb750fa6fcde7eca04c5127db0adbc2bd60afbbe6?file=AnimePahe_Hyakushou_Kizoku_-_19_360p_Seigyoku.mp4&token=EZNvownFuo8h3qfyHFEe5g&expires=1730586524"
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/988f3862515ff21a275f9dcde88272ae2a930766d0968188dc605ae06753d3b8?file=AnimePahe_Ranma_2024_-_05_720p_Netflix.mp4&token=xjlzsBB8qfxzwjzb9vcf0w&expires=1730613241",
+                        "quality": "Netflix · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/988f3862515ff21a275f9dcde88272ae2a930766d0968188dc605ae06753d3b8?file=AnimePahe_Ranma_2024_-_05_720p_Netflix.mp4&token=xjlzsBB8qfxzwjzb9vcf0w&expires=1730613241"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/498646196cdeb3f8618bb5aca345ff98d215357e13da51b0cd62c5dab57af267?file=AnimePahe_Ranma_2024_-_05_360p_Netflix.mp4&token=6c5qd34gbpQJmvy-0OFTaw&expires=1730613240",
+                        "quality": "Netflix · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/498646196cdeb3f8618bb5aca345ff98d215357e13da51b0cd62c5dab57af267?file=AnimePahe_Ranma_2024_-_05_360p_Netflix.mp4&token=6c5qd34gbpQJmvy-0OFTaw&expires=1730613240"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/6545de551f5075026f26b1d241563549c6cf085f293697ad814a180444be4bb1?file=AnimePahe_Ranma_2024_Eng_Dub_-_05_720p_Netflix.mp4&token=xlauDtaBbmMQBJg4SlSLlg&expires=1730613245",
+                        "quality": "Netflix · 720p eng",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/6545de551f5075026f26b1d241563549c6cf085f293697ad814a180444be4bb1?file=AnimePahe_Ranma_2024_Eng_Dub_-_05_720p_Netflix.mp4&token=xlauDtaBbmMQBJg4SlSLlg&expires=1730613245"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/ef9e1526165d09354f003be2987ee1f4783cb95d44634b52f951b40aa2eedce0?file=AnimePahe_Ranma_2024_Eng_Dub_-_05_360p_Netflix.mp4&token=gHzAUMMvoG8p9ZOFuqVSMg&expires=1730613244",
+                        "quality": "Netflix · 360p eng",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/ef9e1526165d09354f003be2987ee1f4783cb95d44634b52f951b40aa2eedce0?file=AnimePahe_Ranma_2024_Eng_Dub_-_05_360p_Netflix.mp4&token=gHzAUMMvoG8p9ZOFuqVSMg&expires=1730613244"
                     }
                 ],
                 "passed": true
