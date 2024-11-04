@@ -167,6 +167,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/791/Arion",
+                                "title": "Arion",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1661/112654l.jpg"
+                            },
+                            {
+                                "url": "/anime/9496/Itoshi_no_Betty_Mamonogatari",
+                                "title": "Itoshi no Betty Mamonogatari",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/7/26264l.jpg"
+                            },
+                            {
                                 "url": "/anime/3014/Ginga_Eiyuu_Densetsu_Waga_Yuku_wa_Hoshi_no_Taikai",
                                 "title": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/3/51345l.jpg"
@@ -305,16 +315,6 @@
                                 "url": "/anime/54650/Precure_All_Stars_Movie_F",
                                 "title": "Precure All Stars Movie F",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1959/137024l.jpg"
-                            },
-                            {
-                                "url": "/anime/40615/Umibe_no_tranger",
-                                "title": "Umibe no Étranger",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1668/108792l.jpg"
-                            },
-                            {
-                                "url": "/anime/36369/Ginga_Eiyuu_Densetsu_Die_Neue_These_Seiran_1",
-                                "title": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 1",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1772/102667l.jpg"
                             }
                         ],
                         "hasNextPage": true
