@@ -1,6 +1,6 @@
 ## Extension status
 
-### 34/88(39%) are working
+### 35/88(40%) are working
 
 | Extension            |  Status   | Log                                                                                                                                       |
 | :------------------- | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9,7 +9,7 @@
 | all.chineseanime     |     ✅     | [results-all.chineseanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.chineseanime.json)         |
 | all.googledrive      | ❌<br>1/5  | [results-all.googledrive.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.googledrive.json)           |
 | all.googledriveindex | ❌<br>0/5  | [results-all.googledriveindex.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.googledriveindex.json) |
-| all.hikari           | ❌<br>0/6  | [results-all.hikari.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.hikari.json)                     |
+| all.hikari           | ❌<br>5/6  | [results-all.hikari.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.hikari.json)                     |
 | all.javguru          |     ✅     | [results-all.javguru.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.javguru.json)                   |
 | all.jellyfin         | ❌<br>0/18 | [results-all.jellyfin.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.jellyfin.json)                 |
 | all.lmanime          |     ✅     | [results-all.lmanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.lmanime.json)                   |
@@ -60,7 +60,7 @@
 | en.fmovies           | ❌<br>0/6  | [results-en.fmovies.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.fmovies.json)                     |
 | en.genoanime         | ❌<br>0/6  | [results-en.genoanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.genoanime.json)                 |
 | en.gogoanime         |     ✅     | [results-en.gogoanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.gogoanime.json)                 |
-| en.hahomoe           | ❌<br>2/6  | [results-en.hahomoe.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hahomoe.json)                     |
+| en.hahomoe           |     ✅     | [results-en.hahomoe.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hahomoe.json)                     |
 | en.hanime            |     ✅     | [results-en.hanime.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hanime.json)                       |
 | en.hentaimama        |     ✅     | [results-en.hentaimama.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hentaimama.json)               |
 | en.hstream           |     ✅     | [results-en.hstream.json](https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.hstream.json)                     |
