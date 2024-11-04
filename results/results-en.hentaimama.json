@@ -7,11 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/tvshows/3d/",
-                                "title": "3D – Assorted Collection",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/3d1_poster.jpg"
-                            },
-                            {
                                 "url": "/tvshows/seika-jogakuin-koutoubu-kounin-sao-oji-san/",
                                 "title": "Seika Jogakuin Koutoubu Kounin Sao Oji-San",
                                 "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2022/06/Seika_Jogakuin_Koutoubu_Kounin_Sao_Oji-san_1.jpg"
@@ -22,9 +17,14 @@
                                 "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2024/10/Iribitari-Gal-ni-Manko-Tsukawasete-Morau-Hanashi-Animation-ep1.jpg"
                             },
                             {
-                                "url": "/tvshows/yarakashi/",
-                                "title": "Yarakashi",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2024/07/ACNDP1045_main_w600563fc88de5b55905.jpg"
+                                "url": "/tvshows/enjo-kouhai/",
+                                "title": "Enjo Kouhai",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2020/02/13f3526000a182261.jpg"
+                            },
+                            {
+                                "url": "/tvshows/3d/",
+                                "title": "3D – Assorted Collection",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/3d1_poster.jpg"
                             },
                             {
                                 "url": "/tvshows/shounen-ga-otona-ni-natta-natsu/",
@@ -32,14 +32,29 @@
                                 "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2024/10/Shounen-ga-Otona-ni-Natta-Natsu1-1.jpg"
                             },
                             {
-                                "url": "/tvshows/sakusei-byoutou-animation/",
-                                "title": "Sakusei Byoutou The Animation",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/04/78b61121235af43181.jpg"
+                                "url": "/tvshows/gobaku-moe-mama-tsurezure/",
+                                "title": "Gobaku Moe Mama Tsurezure",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2024/07/ACNDP1047_main_w60064426b6655579188.jpg"
                             },
                             {
-                                "url": "/tvshows/shiny-days/",
-                                "title": "Shiny Days",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/shinydays1_poster.jpg"
+                                "url": "/tvshows/shoujo-ramune/",
+                                "title": "Shoujo Ramune",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/shoujoramune1_poster.jpg"
+                            },
+                            {
+                                "url": "/tvshows/incha-couple-ga-gal-tachi-sex-training-suru-hanashi/",
+                                "title": "Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2024/10/OVA-Incha-Couple-ga-You-Gal-tachi-to-Sex-Training-Suru-Hanashi1.jpg"
+                            },
+                            {
+                                "url": "/tvshows/jitaku-keibiin-2019/",
+                                "title": "Jitaku Keibiin (2019)",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2019/06/1de39af5869856d19.jpg"
+                            },
+                            {
+                                "url": "/tvshows/yarakashi/",
+                                "title": "Yarakashi",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2024/07/ACNDP1045_main_w600563fc88de5b55905.jpg"
                             },
                             {
                                 "url": "/tvshows/school-days/",
@@ -47,14 +62,69 @@
                                 "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/schooldays1_poster.jpg"
                             },
                             {
+                                "url": "/tvshows/shiiku-x-kanojo-tenshi-no-kousoku-hen/",
+                                "title": "Shiiku x Kanojo: Tenshi no Kousoku-hen",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/shiikuxkanojotenshinokousokuhen1_poster.jpg"
+                            },
+                            {
+                                "url": "/tvshows/night-shift-nurses/",
+                                "title": "Night Shift Nurses",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/nightshiftnurses1_poster.jpg"
+                            },
+                            {
+                                "url": "/tvshows/chizuru-chan-kaihatsu-nikki/",
+                                "title": "Chizuru-chan Kaihatsu Nikki",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/09/Chizuru-chan-Kaihatsu-Nikki-Episode-1.jpg"
+                            },
+                            {
+                                "url": "/tvshows/chiisana-tsubomi-no-sono-oku-ni/",
+                                "title": "Chiisana tsubomi no sono oku ni",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2020/04/81BVJdm73kL._AC_SL1500_6a63d45a4ecb9918.jpg"
+                            },
+                            {
+                                "url": "/tvshows/shiny-days/",
+                                "title": "Shiny Days",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/shinydays1_poster.jpg"
+                            },
+                            {
+                                "url": "/tvshows/la-blue-girl/",
+                                "title": "La Blue Girl",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/labluegirl1_poster.jpg"
+                            },
+                            {
+                                "url": "/tvshows/love-x-holic-miwaku-no-otome-hakudaku-kankei-animation/",
+                                "title": "Love x Holic Miwaku no Otome to Hakudaku Kankei The Animation",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2019/11/11d871bb48a4a9822.jpg"
+                            },
+                            {
+                                "url": "/tvshows/tinderbox/",
+                                "title": "Tinderbox",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2018/09/1779d19b589fd332a.jpg"
+                            },
+                            {
+                                "url": "/tvshows/baka-na-imouto-wo-rikou-ni-suru-no-wa-ore-no-xx-dake-na-ken-ni-tsuite/",
+                                "title": "Baka na Imouto wo Rikou ni Suru no wa Ore no XX Dake na Ken ni Tsuite",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2017/09/bakanaimoutoworikounisurunowaorenoxxdakenakennitsuite1_poster.jpg"
+                            },
+                            {
+                                "url": "/tvshows/saimin-☆-gakuen-2018/",
+                                "title": "Saimin ☆ Gakuen (2018)",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2018/03/5ypR03mCZJ.jpg"
+                            },
+                            {
+                                "url": "/tvshows/himekishi-lilia/",
+                                "title": "Himekishi Lilia",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/himekishililia1_poster.jpg"
+                            },
+                            {
+                                "url": "/tvshows/tsuma-netori-rei-boku-no-ayamachi-kanojo-no-sentaku/",
+                                "title": "Tsuma Netori Rei: Boku no Ayamachi Kanojo no Sentaku",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2024/10/zizzzzzzz.jpg"
+                            },
+                            {
                                 "url": "/tvshows/mecha-gishi-resta-no-daibouken/",
                                 "title": "Mecha Gishi Resta no Daibouken",
                                 "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2024/10/Mecha-Gishi-Resta-no-Daibouken1.jpg"
-                            },
-                            {
-                                "url": "/tvshows/kimi-wa-yasashiku-netorareru-animation/",
-                                "title": "Kimi wa Yasashiku Netorareru The Animation",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2022/02/Kimi-wa-Yasashiku-Netorareru-The-Animation1.jpg"
                             },
                             {
                                 "url": "/tvshows/kuroinu-kedakaki-seijo-wa-hakudaku-ni-somaru/",
@@ -62,44 +132,14 @@
                                 "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2017/09/kuroinukedakakiseijowahakudakunisomaru1_poster.jpg"
                             },
                             {
+                                "url": "/tvshows/la-blue-girl-returns/",
+                                "title": "La Blue Girl Returns",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/labluegirlreturns1_poster.jpg"
+                            },
+                            {
                                 "url": "/tvshows/tonari-no-ie-no-anette-san-animation/",
                                 "title": "Tonari no Ie no Anette-san The Animation",
                                 "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2020/02/1e8bbcc3fb8e199ec.jpg"
-                            },
-                            {
-                                "url": "/tvshows/gishi-wa-yan-mama-junyuu-chuu/",
-                                "title": "Gishi wa Yan Mama Junyuu Chuu",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2020/06/3.jpg"
-                            },
-                            {
-                                "url": "/tvshows/enjo-kouhai/",
-                                "title": "Enjo Kouhai",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2020/02/13f3526000a182261.jpg"
-                            },
-                            {
-                                "url": "/tvshows/gobaku-moe-mama-tsurezure/",
-                                "title": "Gobaku Moe Mama Tsurezure",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2024/07/ACNDP1047_main_w60064426b6655579188.jpg"
-                            },
-                            {
-                                "url": "/tvshows/netorare-zuma/",
-                                "title": "Netorare Zuma",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/netorarezuma1_poster.jpg"
-                            },
-                            {
-                                "url": "/tvshows/eroge-de-subete-wa-kaiketsu-dekiru-animation/",
-                                "title": "Eroge de Subete wa Kaiketsu Dekiru! The Animation",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/06/480251504e45cab7d45.jpg"
-                            },
-                            {
-                                "url": "/tvshows/maki-chan-to-nau/",
-                                "title": "Maki-chan to Nau",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/makichantonau1_poster.jpg"
-                            },
-                            {
-                                "url": "/tvshows/jitaku-keibiin-2/",
-                                "title": "Jitaku Keibiin 2",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2020/03/1d0ce1be3652334b0.jpg"
                             },
                             {
                                 "url": "/tvshows/kyokugen-chikan-tokuiten-3-animation/",
@@ -107,54 +147,14 @@
                                 "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2024/10/Kyokugen-Chikan-Tokuiten-3-The-Animation1.jpg"
                             },
                             {
-                                "url": "/tvshows/the-two-facials-of-eve/",
-                                "title": "The Two Facials of Eve",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/thetwofacialsofeve1_poster.jpg"
+                                "url": "/tvshows/tsugou-no-yoi-sexfriend/",
+                                "title": "Tsugou no Yoi Sexfriend?",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/tsugounoyoisexfriend1_poster.jpg"
                             },
                             {
-                                "url": "/tvshows/arbeit-shiyou-lets-arbeit/",
-                                "title": "Arbeit Shiyou!! Let’s Arbeit!",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2017/09/arbeitshiyouletsarbeit1_poster.jpg"
-                            },
-                            {
-                                "url": "/tvshows/boku-ni-sefri-ga-dekita-riyuu-otonari-no-hitozuma-hen/",
-                                "title": "Boku ni SeFri ga Dekita Riyuu Otonari no Hitozuma Hen",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/tvshows/master-piece-animation/",
-                                "title": "Master Piece The Animation",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2019/06/1b0df9ac0117332e2.jpg"
-                            },
-                            {
-                                "url": "/tvshows/toshi-densetsu-series/",
-                                "title": "Toshi Densetsu Series",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/toshidensetsuseries1_poster.jpg"
-                            },
-                            {
-                                "url": "/tvshows/jewelry-the-animation/",
-                                "title": "Jewelry, The Animation",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2017/12/211087.jpg"
-                            },
-                            {
-                                "url": "/tvshows/inma-seiden/",
-                                "title": "Inma Seiden",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/inmaseiden1_poster.jpg"
-                            },
-                            {
-                                "url": "/tvshows/boku-ni-harem-sexfriend-ga-dekita-riyuu/",
-                                "title": "Boku ni Harem Sexfriend ga Dekita Riyuu",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2024/07/oohffcawl3oc.jpg"
-                            },
-                            {
-                                "url": "/tvshows/1ldk-jk-ikinari-doukyo-micchaku-hatsu-ecchi/",
-                                "title": "1LDK + JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2023/07/poster.jpg"
-                            },
-                            {
-                                "url": "/tvshows/hajimete-no-hitozuma/",
-                                "title": "Hajimete no Hitozuma",
-                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2020/05/1-1.jpg"
+                                "url": "/tvshows/a-forbidden-time/",
+                                "title": "A Forbidden Time",
+                                "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2017/09/aforbiddentime1_poster.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -484,14 +484,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/tvshows/3d/",
-                    "title": "3D",
-                    "author": "",
-                    "description": "",
-                    "genre": "3D",
+                    "url": "/tvshows/seika-jogakuin-koutoubu-kounin-sao-oji-san/",
+                    "title": "Seika Jogakuin Koutoubu Kounin Sao Oji-San",
+                    "author": "Bunnywalker",
+                    "description": "Seika Girl’s Private Academy has a dark secret. All of the girls at this school are from prestigious families and thus have never dated… even once. So the school had to come up with a way to make sure they didn’t get too overwhelmed by their urges..",
+                    "genre": "Ahegao, Horny Slut, Megane, Office Ladies, Rim job, School Girls, Stocking, Swimsuit, Three some, Tits Fuck, X-Ray",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2021/12/3d1_poster.jpg",
+                    "thumbnail_url": "https://hentaimama.io/wp-content/uploads/2022/06/Seika_Jogakuin_Koutoubu_Kounin_Sao_Oji-san_1.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -499,16 +499,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodes/umemaro-3d-pizza-takeout-obscenity-volume-2/",
-                        "name": "Umemaro 3D – Pizza Takeout Obscenity Volume 2",
-                        "date_upload": 1701216000000,
-                        "episode_number": 151.0
+                        "url": "/episodes/seika-jogakuin-koutoubu-kounin-sao-oji-san-episode-6/",
+                        "name": "Episode 6",
+                        "date_upload": 1730332800000,
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/episodes/umemaro-3d-maris-sexual-circumstances/",
-                        "name": "Umemaro 3D – Mari’s Sexual Circumstances",
-                        "date_upload": 1613347200000,
-                        "episode_number": 150.0
+                        "url": "/episodes/seika-jogakuin-koutoubu-kounin-sao-oji-san-episode-5/",
+                        "name": "Episode 5",
+                        "date_upload": 1730332800000,
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -516,13 +516,13 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://gdvid.info/No/3d-umemaro-pizza-takeout-obscenity-2.mp4",
+                        "url": "https://gdvid.info/S/seika-jogakuin-koutoubu-kounin-sao-oji-san-6.mp4",
                         "quality": "Mirror 2",
-                        "videoUrl": "https://gdvid.info/No/3d-umemaro-pizza-takeout-obscenity-2.mp4"
+                        "videoUrl": "https://gdvid.info/S/seika-jogakuin-koutoubu-kounin-sao-oji-san-6.mp4"
                     },
                     {
-                        "url": "https://na-dl.javprovider.com/No./3d-umemaro-pizza-takeout-obscenity-2.mp4",
-                        "videoUrl": "https://na-dl.javprovider.com/No./3d-umemaro-pizza-takeout-obscenity-2.mp4"
+                        "url": "https://na-dl.javprovider.com/S/seika-jogakuin-koutoubu-kounin-sao-oji-san-6.mp4",
+                        "videoUrl": "https://na-dl.javprovider.com/S/seika-jogakuin-koutoubu-kounin-sao-oji-san-6.mp4"
                     }
                 ],
                 "passed": true
