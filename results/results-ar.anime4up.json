@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/arcane-league-of-legends-season-2/",
+                                "title": "Arcane: League of Legends Season 2",
+                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/11/AAAAQUsRxTL81T7MojZePeUkgHkNyQ4cJN46OHIFIBaHR_RLvm7qFz80ZyHokWoownDdSK148TQ4pAq1H1WtMAWAufP0gWk50_To2GffNmHt9NE5wdw9qvZs0NSLdpUUmByP3kmwi5mgcj1gcpW-7yjg_R4MiT0-215x300.jpg"
+                            },
+                            {
+                                "url": "/anime/look-back/",
+                                "title": "Look Back",
+                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/11/Ashampoo_Snap_2024.11.08_01h07m36s_004_-215x300.png"
+                            },
+                            {
+                                "url": "/anime/high-card-the-flowers-bloom/",
+                                "title": "High Card: The Flowers Bloom",
+                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/11/Ashampoo_Snap_2024.11.07_00h14m48s_001_-215x300.png"
+                            },
+                            {
                                 "url": "/anime/one-piece-gyojin-tou-hen/",
                                 "title": "One Piece: Gyojin Tou-hen",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/11/bx183423-wt4YjEiCWVVD-215x300.jpg"
@@ -230,21 +245,6 @@
                                 "url": "/anime/kekkon-suru-tte-hontou-desu-ka/",
                                 "title": "Kekkon suru tte, Hontou desu ka",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.03_15h54m05s_007_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/negaposi-angler/",
-                                "title": "NegaPosi Angler",
-                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.03_15h35m45s_006_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/kinoko-inu/",
-                                "title": "Kinoko Inu",
-                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.03_15h16m01s_005_-215x300.png"
-                            },
-                            {
-                                "url": "/anime/kamierabi-2nd-season/",
-                                "title": "Kamierabi 2nd Season",
-                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.03_12h44m10s_003_-215x300.png"
                             }
                         ],
                         "hasNextPage": true
@@ -364,13 +364,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/one-piece-gyojin-tou-hen/",
-                    "title": "One Piece: Gyojin Tou-hen",
-                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: 21\nمدة الحلقة: 24 دقيقة\nالموسم: خريف 2024\nالمصدر: مانجا\n\nالنسخة المحسنة من أرك جزيرة البرمائيين.",
-                    "genre": "أكشن, شونين, فنتازيا, مغامرات, TV, يعرض الان, خريف 2024",
+                    "url": "/anime/arcane-league-of-legends-season-2/",
+                    "title": "Arcane: League of Legends Season 2",
+                    "description": "النوع: ONA\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: 9\nمدة الحلقة: 40 دقيقة\nالموسم: خريف 2024\nالمصدر: لعبة\n\nوسط صراع مرير يفصل بين مدينتي \"بيلتوفر\" و\"زون\" المترابطتين، تُقاتل أختان على طرفي نقيض في حرب بين التقنيات السحرية والمعتقدات المتضاربة.",
+                    "genre": "أكشن, دراما, خيال علمي, ONA, يعرض الان, خريف 2024",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/11/bx183423-wt4YjEiCWVVD.jpg",
+                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/11/AAAAQUsRxTL81T7MojZePeUkgHkNyQ4cJN46OHIFIBaHR_RLvm7qFz80ZyHokWoownDdSK148TQ4pAq1H1WtMAWAufP0gWk50_To2GffNmHt9NE5wdw9qvZs0NSLdpUUmByP3kmwi5mgcj1gcpW-7yjg_R4MiT0-691x1024.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -378,9 +378,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/one-piece-gyojin-tou-hen-الحلقة-1/",
-                        "name": "الحلقة 1",
-                        "episode_number": 1.0
+                        "url": "/episode/arcane-league-of-legends-season-2-الحلقة-3/",
+                        "name": "الأونا 3",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/episode/arcane-league-of-legends-season-2-الحلقة-2/",
+                        "name": "الأونا 2",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
@@ -388,9 +393,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a1.mp4upload.com:183/d/x2x5r34iz3b4quuor6rbgj2jdaa4i6lqdqxqozea4tqcqq4fl2hlvoacf46db4qldepj5dtr/video.mp4",
+                        "url": "https://m30.uqload.net/3rfk2erc4fw2q4drdkfpv4nkb2b26joj7v4r5uekpxbakhrdprgqbsacql2a/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m30.uqload.net/3rfk2erc4fw2q4drdkfpv4nkb2b26joj7v4r5uekpxbakhrdprgqbsacql2a/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    },
+                    {
+                        "url": "https://a3.mp4upload.com:183/d/xsxswjmiz3b4quuororbgi2iimf5yshnlfmg2nxawswy5ccvhrk2nsie3uglnr5vgtwbbeum/video.mp4",
                         "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x5r34iz3b4quuor6rbgj2jdaa4i6lqdqxqozea4tqcqq4fl2hlvoacf46db4qldepj5dtr/video.mp4",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxswjmiz3b4quuororbgi2iimf5yshnlfmg2nxawswy5ccvhrk2nsie3uglnr5vgtwbbeum/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://mp4upload.com/"

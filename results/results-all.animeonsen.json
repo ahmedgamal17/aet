@@ -12,6 +12,11 @@
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/2ngTGms0Hbzaehn5"
                             },
                             {
+                                "url": "sztKIP04ZNwCU0fx",
+                                "title": "Amagami-san Chi no Enmusubi",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/sztKIP04ZNwCU0fx"
+                            },
+                            {
                                 "url": "jSDxIokWWrXGIjfP",
                                 "title": "Rekishi ni Nokoru Akujo ni Naru zo",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/jSDxIokWWrXGIjfP"
@@ -20,11 +25,6 @@
                                 "url": "x8q6jxBRTq8OdBnE",
                                 "title": "Youkai Gakkou no Sensei Hajimemashita!",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/x8q6jxBRTq8OdBnE"
-                            },
-                            {
-                                "url": "sztKIP04ZNwCU0fx",
-                                "title": "Amagami-san Chi no Enmusubi",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/sztKIP04ZNwCU0fx"
                             },
                             {
                                 "url": "rRkaHa65cbW7oYiN",
@@ -97,14 +97,14 @@
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/d84JVPyxR6fiwdZE"
                             },
                             {
-                                "url": "rR9wYrHTrPuF4cI8",
-                                "title": "Ranma ½ (2024)",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/rR9wYrHTrPuF4cI8"
-                            },
-                            {
                                 "url": "yMRUNASv4XHq628t",
                                 "title": "Maou 2099",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/yMRUNASv4XHq628t"
+                            },
+                            {
+                                "url": "rR9wYrHTrPuF4cI8",
+                                "title": "Ranma ½ (2024)",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/rR9wYrHTrPuF4cI8"
                             }
                         ],
                         "hasNextPage": true
@@ -334,14 +334,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "2ngTGms0Hbzaehn5/video/18",
+                        "name": "Episode 18: Covertness",
+                        "episode_number": 18.0
+                    },
+                    {
                         "url": "2ngTGms0Hbzaehn5/video/17",
                         "name": "Episode 17: The Scenario",
                         "episode_number": 17.0
-                    },
-                    {
-                        "url": "2ngTGms0Hbzaehn5/video/16",
-                        "name": "Episode 16: Team",
-                        "episode_number": 16.0
                     }
                 ],
                 "passed": true
@@ -349,40 +349,40 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/2ngTGms0Hbzaehn5/17/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/2ngTGms0Hbzaehn5/18/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/2ngTGms0Hbzaehn5/17/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/2ngTGms0Hbzaehn5/18/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/en-US/17",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/en-US/18",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/ru-RU/17",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/ru-RU/18",
                                 "lang": "Русский"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/pt-BR/17",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/pt-BR/18",
                                 "lang": "Português (Brasil)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/it-IT/17",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/it-IT/18",
                                 "lang": "Italiano"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/fr-FR/17",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/fr-FR/18",
                                 "lang": "Français"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/es-LA/17",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/es-LA/18",
                                 "lang": "Español"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/es-ES/17",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/es-ES/18",
                                 "lang": "Español (Spain)"
                             }
                         ]

@@ -7,14 +7,19 @@
                     {
                         "animes": [
                             {
-                                "url": "/watch/moon-spiral.html",
-                                "title": "Moon Spiral",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/moon-spiral-thumb.png"
+                                "url": "/watch/ohsama-sentai-king-ohger-final-live-tour.html",
+                                "title": "Ohsama Sentai King-Ohger Final Live Tour",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-final-live-tour-thumb.png"
                             },
                             {
-                                "url": "/watch/hero-mama-league.html",
-                                "title": "Hero Mama League",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/hero-mama-league-thumb.png"
+                                "url": "/watch/ohsama-sentai-king-ohger-in-space.html",
+                                "title": "Ohsama Sentai King-Ohger in Space",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-in-space-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-outsiders.html",
+                                "title": "Kamen Rider Outsiders",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-outsiders-thumb.png"
                             },
                             {
                                 "url": "/watch/bakuage-sentai-boonboomger.html",
@@ -25,6 +30,16 @@
                                 "url": "/watch/kamen-rider-gavv.html",
                                 "title": "Kamen Rider Gavv",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gavv-thumb.png"
+                            },
+                            {
+                                "url": "/watch/moon-spiral.html",
+                                "title": "Moon Spiral",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/moon-spiral-thumb.png"
+                            },
+                            {
+                                "url": "/watch/hero-mama-league.html",
+                                "title": "Hero Mama League",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/hero-mama-league-thumb.png"
                             },
                             {
                                 "url": "/watch/kamen-rider-reiwas-gorgeous-sports-day.html",
@@ -47,24 +62,9 @@
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/magical-chinese-girl-pai-pai-thumb.png"
                             },
                             {
-                                "url": "/watch/kamen-rider-outsiders.html",
-                                "title": "Kamen Rider Outsiders",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-outsiders-thumb.png"
-                            },
-                            {
                                 "url": "/watch/o-edo-steam-punk.html",
                                 "title": "O-Edo Steam Punk",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/o-edo-steam-punk-thumb.png"
-                            },
-                            {
-                                "url": "/watch/three-dark-sisters-presents-kamen-rider-gotchard-unfinished-plan.html",
-                                "title": "Three Dark Sisters Presents: Kamen Rider Gotchard Unfinished Plan",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/three-dark-sisters-presents-kamen-rider-gotchard-unfinished-plan-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gotchard-gotchanco-festival.html",
-                                "title": "Kamen Rider Gotchard: Gotchanco FESTIVAL!!",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-gotchanco-festival-thumb.png"
                             }
                         ],
                         "hasNextPage": true
@@ -144,14 +144,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/moon-spiral.html",
-                    "title": "Moon Spiral",
-                    "author": "Year 1996",
-                    "description": "Moon Spiral is a late-night TV series produced by Tsuburaya Productions. The first three episodes aired in May 1996, while all four episodes were released on VHS and LaserDisc on September 1, 1996.",
-                    "genre": "Other, Series",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/moon-spiral-thumb.png",
+                    "url": "/watch/ohsama-sentai-king-ohger-final-live-tour.html",
+                    "title": "Ohsama Sentai King-Ohger Final Live Tour",
+                    "author": "Year 2024",
+                    "description": "Ohsama Sentai King-Ohger Final Live Tour 2024 presented in a fully original story by main series writer Takano Mizuho, the Ohsama Sentai King-Ohger Final Live Tour 2024 delivers a powerful hero show experience.",
+                    "genre": "Movie, Super Sentai",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-final-live-tour-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -159,14 +157,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/moon-spiral.html?ep=4#watch",
-                        "name": "Episode 4",
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "/watch/moon-spiral.html?ep=3#watch",
-                        "name": "Episode 3",
-                        "episode_number": 3.0
+                        "url": "/watch/ohsama-sentai-king-ohger-final-live-tour.html",
+                        "name": "Movie",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true

@@ -102,14 +102,14 @@
                                 "thumbnail_url": "https://vuclipi-a.akamaihd.net/p/tthumb720x405/d-1/1165993722.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/4903?isq=false",
-                                "title": "Eve 2022 - Eve's Scandal",
-                                "thumbnail_url": "https://vuclipi-a.akamaihd.net/p/tthumb1600x900/d-1/1166006834.jpg"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/9301?isq=false",
                                 "title": "Love Next Door",
                                 "thumbnail_url": "https://occ-0-1982-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTrtsc-W6n3zP7ujlC7wKomQ9Sn1bP_nNsdEKrYFaN6RzkoZ2a8hnPpn20oHglBaFtNLJ_oe-I1-5Ki4gk-fzOc_Ay9geadsqJ8hVInA9frArqk5868hteEqOXOBReyQib7jVA.jpg?r=c18"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/4903?isq=false",
+                                "title": "Eve 2022 - Eve's Scandal",
+                                "thumbnail_url": "https://vuclipi-a.akamaihd.net/p/tthumb1600x900/d-1/1166006834.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/7943?isq=false",
@@ -192,14 +192,14 @@
                                 "thumbnail_url": "https://www.themoviedb.org/t/p/w1000_and_h563_face/wU2pQ6yv0c2TrgAMWs2zFWk4F3z.jpg"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9441?isq=false",
+                                "title": "The Judge from Hell",
+                                "thumbnail_url": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8839/1726210268839-h"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/8648?isq=false",
                                 "title": "Amidst a Snowstorm of Love",
                                 "thumbnail_url": "https://puui.wetvinfo.com/wetv/cms/4273_1706845345_19201080.jpeg?imageMogr2/thumbnail/NaNx"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/3922?isq=false",
-                                "title": "Who Rules The World (2021)",
-                                "thumbnail_url": "https://puui.wetvinfo.com/vcover_hz_pic/0/uvwdajywre9oli91649657202704/0?imageMogr2/thumbnail/NaNx"
                             },
                             {
                                 "url": "/api/DramaList/Drama/535?isq=false",
@@ -216,6 +216,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/api/DramaList/Drama/9795?isq=false",
+                                "title": "Mr. Plankton",
+                                "thumbnail_url": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXfgyzfAutXWStoXfvWjRT4LzoBIdxcyV_NAC9hsBhuVHnNKsOvXTFseIonNALPN12_G7yCf4gXJ_YqzlkpS307LDwPEEJ7qktO8.jpg?r=46f"
+                            },
                             {
                                 "url": "/api/DramaList/Drama/9441?isq=false",
                                 "title": "The Judge from Hell",
@@ -257,11 +262,6 @@
                                 "thumbnail_url": "https://prod-images.viu.com/3539505242/3f0b34521daca8433c603ad09581fc79b6dbad51?im=Resize,width=1920"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9789?isq=false",
-                                "title": "Double Mints",
-                                "thumbnail_url": "https://img.gagaoolala.com/media/e50b2841-489984-lg.jpg"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/9712?isq=false",
                                 "title": "Brewing Love",
                                 "thumbnail_url": "https://1.vikiplatform.com/c/40729c/bcfef8efd4.png?x=b"
@@ -272,33 +272,18 @@
                                 "thumbnail_url": "https://prod-images.viu.com/3402213068/b07be2cf541f7ae4f7d103b078aa456eb8071524?im=Resize,width=1920"
                             },
                             {
+                                "url": "/api/DramaList/Drama/8804?isq=false",
+                                "title": "Smile Code",
+                                "thumbnail_url": "https://prod-images.viu.com/818217469/cc6b8420c4585c5ab550aa81d294be7fbb0359d3?im=Resize,width=1920"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/9531?isq=false",
                                 "title": "Love Is a Poison - Doku Koi: Doku mo Sugireba Koi to Naru",
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/t9Pia597dvRElFk6gs2UhRHOAKs.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9788?isq=false",
-                                "title": "Agarwood Like a Dream",
-                                "thumbnail_url": "https://m.ykimg.com/053500006728ACAE13EBC61311E12E25"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9748?isq=false",
-                                "title": "Lost and Found",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/ot7eemr7knzfdbn1729656299669/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9582?isq=false",
-                                "title": "Rekishi ni Nokoru Akujo ni Naru zo - I'll Become a Villainess Who Goes Down in History",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/rkLWGjeL9VMbYk8OATX5exjIA5R.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9720?isq=false",
-                                "title": "Dawn Amidst Hidden Clouds",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/7fje2p4lua2na481729659761928/0"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/9786?isq=false",
-                                "title": "Miseinen: Mijukuna Oretachi wa Bukiyo ni Shinkochu - Our Youth",
+                                "title": "Our Youth - Miseinen: Mijukuna Oretachi wa Bukiyo ni Shinkochu",
                                 "thumbnail_url": "https://img.gagaoolala.com/media/db4a6bc2-750672-lg.jpg"
                             },
                             {
@@ -307,19 +292,19 @@
                                 "thumbnail_url": "//pic8.iqiyipic.com/image/20240909/00/54/a_100583976_m_601_zh-CN_m3_720_405.webp"
                             },
                             {
-                                "url": "/api/DramaList/Drama/2031?isq=false",
-                                "title": "A Tale of Thousand Stars",
-                                "thumbnail_url": "https://data-corporate.abs-cbn.com/corp/medialibrary/dotcom/iwant%20tfc/a%20tale%20of%20thousand%20stars%20on%20iwanttfc.jpg?ext=.jpg"
+                                "url": "/api/DramaList/Drama/9823?isq=false",
+                                "title": "Shameless Lover",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/rn610zlwhtjbohm1731315857859/0"
                             },
                             {
-                                "url": "/api/DramaList/Drama/2811?isq=false",
-                                "title": "Advance Bravely",
-                                "thumbnail_url": "https://i0.wp.com/pix2.tvzhe.com/thumb/drama/123/15/540x303.jpg"
+                                "url": "/api/DramaList/Drama/9822?isq=false",
+                                "title": "When Fate Plays Matchmaker",
+                                "thumbnail_url": "https://m.ykimg.com/05350000672EBD287B50BB11C6F95603"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9787?isq=false",
-                                "title": "Doukyuusei - Doukyusei",
-                                "thumbnail_url": "https://img.gagaoolala.com/media/31eea59e-430440-lg.jpg"
+                                "url": "/api/DramaList/Drama/9830?isq=false",
+                                "title": "Shang Xin",
+                                "thumbnail_url": "https://vcover-hz-pic.puui.qpic.cn/vcover_hz_pic/0/mzc00200vgctxu41728704369106/0"
                             },
                             {
                                 "url": "/api/DramaList/Drama/4529?isq=false",
@@ -327,24 +312,14 @@
                                 "thumbnail_url": "https://puui.wetvinfo.com/wetv/cms/6945_1696415708_19201080.jpeg?imageMogr2/thumbnail/3000x"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9301?isq=false",
-                                "title": "Love Next Door",
-                                "thumbnail_url": "https://occ-0-1982-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTrtsc-W6n3zP7ujlC7wKomQ9Sn1bP_nNsdEKrYFaN6RzkoZ2a8hnPpn20oHglBaFtNLJ_oe-I1-5Ki4gk-fzOc_Ay9geadsqJ8hVInA9frArqk5868hteEqOXOBReyQib7jVA.jpg?r=c18"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9497?isq=false",
-                                "title": "Love in the Big City",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/uiIMt61l98QPsP10k7C6bXjaYLB.jpg"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/9644?isq=false",
                                 "title": "Yakuza Fiancé: Raise wa Tanin ga Ii",
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/u7I8IvLfiJeZLrYEFq9iClsDQqw.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9764?isq=false",
-                                "title": "General Order",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/oh3opmxpdfxa6sf1730101768564/0"
+                                "url": "/api/DramaList/Drama/9821?isq=false",
+                                "title": "Adventures in Subduing the Demons",
+                                "thumbnail_url": "https://m.ykimg.com/053500006728807DC7BFE912E97EDE9B"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9496?isq=false",
@@ -362,24 +337,14 @@
                                 "thumbnail_url": "https://img.gagaoolala.com/media/d8ac4f08-636820-lg.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9740?isq=false",
-                                "title": "Perfect 10 Liners",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/p8JZBiWRWoeRX14v0aNkGFLE9rp.jpg"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/9259?isq=false",
                                 "title": "The Loyal Pin: Uncut",
                                 "thumbnail_url": "https://bloganchoi.com/wp-content/uploads/2024/08/phim-gl-bach-hop-the-loyal-pin-freenbeck-7.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9596?isq=false",
-                                "title": "A Virtuous Business",
-                                "thumbnail_url": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbEs8EHA1tKvcUdbKdbeN_slGU_sWRHJAqcxO64vIxdQRjfYFoh0oPqA4AepC_gcsl8JsA40T10JbjyVGpFrCwdKzEO6pTxO1nqu.jpg?r=4c6"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9674?isq=false",
-                                "title": "Jeongnyeon: The Star Is Born",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/eQTBKvOqxaO4PBxs7rMj5MRw7Eb.jpg"
+                                "url": "/api/DramaList/Drama/9740?isq=false",
+                                "title": "Perfect 10 Liners",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/p8JZBiWRWoeRX14v0aNkGFLE9rp.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9369?isq=false",
@@ -387,14 +352,24 @@
                                 "thumbnail_url": "https://img.gagaoolala.com/media/c6138e2b-483133-lg.jpg"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9596?isq=false",
+                                "title": "A Virtuous Business",
+                                "thumbnail_url": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbEs8EHA1tKvcUdbKdbeN_slGU_sWRHJAqcxO64vIxdQRjfYFoh0oPqA4AepC_gcsl8JsA40T10JbjyVGpFrCwdKzEO6pTxO1nqu.jpg?r=4c6"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9796?isq=false",
+                                "title": "Social Savvy Class 101",
+                                "thumbnail_url": "https://1.vikiplatform.com/c/40769c/7094e39372.png?x=b&s=1920x1080"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9674?isq=false",
+                                "title": "Jeongnyeon: The Star Is Born",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/eQTBKvOqxaO4PBxs7rMj5MRw7Eb.jpg"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/8050?isq=false",
                                 "title": "Renegade Immortal - Xian Ni",
                                 "thumbnail_url": "https://vcover-hz-pic.puui.qpic.cn/vcover_hz_pic/0/mzc00200aaogpgh1708225531019/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9784?isq=false",
-                                "title": "The Deception Game",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/6pxDbj2iaDvQlUZ3qDpb0EGh2W1.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9711?isq=false",
@@ -402,19 +377,44 @@
                                 "thumbnail_url": "https://img.gagaoolala.com/media/520e27c6-782931-lg.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9785?isq=false",
-                                "title": "The Nipple Talk",
-                                "thumbnail_url": "https://img.gagaoolala.com/media/00adcc1b-866834-lg.jpg"
+                                "url": "/api/DramaList/Drama/9068?isq=false",
+                                "title": "The Hidden Moon (Uncut Ver.)",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/t18faj0t8naijs51725530641205/0"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9780?isq=false",
-                                "title": "One Piece: Gyojin Tou-hen -  One Piece Log: Fish-Man Island Saga",
-                                "thumbnail_url": "https://www.animenewsnetwork.com/thumbnails/crop1200x630gQG/cms/news.7/216689/one-piece-log-fish-man-island-saga-eng-keyart.jpg"
+                                "url": "/api/DramaList/Drama/9694?isq=false",
+                                "title": "Pluto (2024)",
+                                "thumbnail_url": "https://prod-images.viu.com/351270220/2783f81b0fce0699ee22a2f62db38c775e18fa4e?im=Resize,width=1920"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9775?isq=false",
-                                "title": "The Girl Inside Me",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/p5mv09n2zgvdmw11730449494665/0"
+                                "url": "/api/DramaList/Drama/9620?isq=false",
+                                "title": "My Damn Business",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/peVeBAfqQctWffTbyHVUT00BYZN.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9820?isq=false",
+                                "title": "2 Days & 1 Night Season 4 ",
+                                "thumbnail_url": "https://prod-images.viu.com/clip_asset_v6/1165880547/1165831398/7fc47c997c5038695403901ed0896fae29d6435a?im=Resize,width=1920"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9805?isq=false",
+                                "title": "Fate's Crossing Nan & Ke",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/haulrlh9xazj0of1730954605248/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9814?isq=false",
+                                "title": "The Double (Mini Drama)",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/i05dbb7pygz1b961731134434191/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9816?isq=false",
+                                "title": "One Last Order",
+                                "thumbnail_url": "https://img.gagaoolala.com/media/07e9ee7a-327096-lg.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9815?isq=false",
+                                "title": "Sonnet 18",
+                                "thumbnail_url": "https://prod-images.viu.com/424006845/11adfe230753e4a8c1ced74c2426d07c87f2d69a?im=Resize,width=1920"
                             }
                         ],
                         "hasNextPage": true
@@ -512,14 +512,14 @@
                                 "thumbnail_url": "https://occ-0-58-64.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcU-HFF-VdlG2ZOm6cOU02ToX3Vr9YYnIoZLnJO2OuG5wkobD2eblg_mTsvhcgvxQ3fP96UyJehiv1tDUt4oVh954SgR.jpg?r=1a4"
                             },
                             {
-                                "url": "/api/DramaList/Drama/1370?isq=false",
-                                "title": "Arifureta: From Commonplace to World's Strongest Specials",
-                                "thumbnail_url": "https://i.pinimg.com/originals/1d/e1/e0/1de1e009ff94bdc728a7d594772bcbb9.jpg"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/963?isq=false",
                                 "title": "All the Love in the World: Season 1",
                                 "thumbnail_url": "https://i.ytimg.com/vi/fC0P9SS5nmg/maxresdefault.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/1370?isq=false",
+                                "title": "Arifureta: From Commonplace to World's Strongest Specials",
+                                "thumbnail_url": "https://i.pinimg.com/originals/1d/e1/e0/1de1e009ff94bdc728a7d594772bcbb9.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/1577?isq=false",
@@ -562,32 +562,32 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls.kisskhapp.site/hls07/6158/Ep25.5_index.m3u8",
+                        "url": "https://hls.streamsub.top/hls07/6158/Ep25.5_index.m3u8",
                         "quality": "FirstParty",
-                        "videoUrl": "https://hls.kisskhapp.site/hls07/6158/Ep25.5_index.m3u8",
+                        "videoUrl": "https://hls.streamsub.top/hls07/6158/Ep25.5_index.m3u8",
                         "headers": {
                             "referer": "https://kisskh.me/",
                             "origin": "https://kisskh.me"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "file:///tmp/subs10829980928461012633srt",
+                                "url": "file:///tmp/subs3534656503183683617srt",
                                 "lang": "English"
                             },
                             {
-                                "url": "file:///tmp/subs6064401514824293537srt",
+                                "url": "file:///tmp/subs12358947384403047001srt",
                                 "lang": "Khmer"
                             },
                             {
-                                "url": "file:///tmp/subs12908831538714829566srt",
+                                "url": "file:///tmp/subs14865610150967071065srt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "file:///tmp/subs13087038936816939435srt",
+                                "url": "file:///tmp/subs7162858753789278901srt",
                                 "lang": "Indonesia"
                             },
                             {
-                                "url": "file:///tmp/subs16372708674984832227srt",
+                                "url": "file:///tmp/subs440606868675710979srt",
                                 "lang": "Malay"
                             }
                         ]
