@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/total-drama-island-reboot",
+                                "title": "Total Drama Island: Reboot",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933801.jpg"
+                            },
+                            {
+                                "url": "/anime/shasha-and-milo",
+                                "title": "Shasha and Milo",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933800.jpg"
+                            },
+                            {
+                                "url": "/anime/dee-friends-in-oz",
+                                "title": "Dee & Friends in Oz",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933799.jpg"
+                            },
+                            {
+                                "url": "/anime/insomniacs-after-school",
+                                "title": "Insomniacs After School",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933797.jpg"
+                            },
+                            {
+                                "url": "/anime/rock-paper-scissors-2024",
+                                "title": "Rock Paper Scissors 2024",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933796.jpg"
+                            },
+                            {
+                                "url": "/anime/zombies-the-re-animated-series",
+                                "title": "Zombies: The Re-Animated Series",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933795.jpg"
+                            },
+                            {
                                 "url": "/anime/jurassic-world-chaos-theory",
                                 "title": "Jurassic World: Chaos Theory",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933792.jpg"
@@ -55,36 +85,6 @@
                                 "url": "/anime/kidou-senshi-gundam-fukushuu-no-requiem",
                                 "title": "Kidou Senshi Gundam: Fukushuu no Requiem",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933782.jpg"
-                            },
-                            {
-                                "url": "/anime/tomb-raider-the-legend-of-lara-croft",
-                                "title": "Tomb Raider: The Legend of Lara Croft",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933781.jpg"
-                            },
-                            {
-                                "url": "/anime/family-guy-season-23",
-                                "title": "Family Guy Season 23",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933780.jpg"
-                            },
-                            {
-                                "url": "/anime/ark-the-animated-series",
-                                "title": "Ark: The Animated Series",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933779.jpg"
-                            },
-                            {
-                                "url": "/anime/tying-the-knot-with-an-amagami-sister",
-                                "title": "Tying the Knot with an Amagami Sister",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933778.jpg"
-                            },
-                            {
-                                "url": "/anime/ill-become-a-villainess-who-goes-down-in-history",
-                                "title": "I'll Become a Villainess Who Goes Down in History",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933777.jpg"
-                            },
-                            {
-                                "url": "/anime/dragon-ball-daima-english-subbed",
-                                "title": "Dragon Ball Daima English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933776.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/jurassic-world-chaos-theory",
-                    "title": "Jurassic World: Chaos Theory",
-                    "description": "Darius Bowman, a young paleontologist, discovers live dinosaurs in California’s wilderness.",
-                    "genre": "Action, Adventure, Animation, Family, Sci-fi, Science Fiction, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933792.jpg",
+                    "url": "/anime/total-drama-island-reboot",
+                    "title": "Total Drama Island: Reboot",
+                    "description": "The most funny and dangerous reality cartoon show Total Drama is back with even more dangerous challenges.",
+                    "genre": "Action, Adventure, Animation, Comedy, Drama, Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933801.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,14 +616,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/jurassic-world-chaos-theory-season-2-episode-10-reunion",
-                        "name": "Season 2 - Episode 10",
-                        "episode_number": 210.0
+                        "url": "/total-drama-island-reboot-episode-26-soar-losers",
+                        "name": "Season 1 - Episode 26",
+                        "episode_number": 126.0
                     },
                     {
-                        "url": "/jurassic-world-chaos-theory-season-2-episode-9-lab-partners-part-2",
-                        "name": "Season 2 - Episode 9",
-                        "episode_number": 209.0
+                        "url": "/total-drama-island-reboot-episode-25-off-the-hook",
+                        "name": "Season 1 - Episode 25",
+                        "episode_number": 125.0
                     }
                 ],
                 "passed": true
@@ -631,19 +631,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkvTv9HvWYnOFchRtkTj8cQqhBuqd1XEz1j51BSLW8gFQwRGRmxba1_s9hRndAxmOdET2JSmgy5h5FjtofgpghZ1EzB-n4YlTdoDdMnKgHLKfJOzVfVR34ncmbJhZE_bZ_DCh4nqgzOjBvdhwU13CQOL14mihJr-HmR9pt7h6b835ZtqYPukzM5hdm5CJoklLG8-7wfhdQJU9oZIfXgfsyk6JMMNZcd-P7UXS_tyATszqUgQYj0tVAb_DwfmrW-K7ypBu1h1vjpDJF90yuklHXCgOADC-bjFrj6eBBwNTUhfY5CK3AbwFxu8YQ-n_gOJNHubzhNJxjnTaRPOeQH60LWEFwNTu0_1otc4VyUQTyS3E3e4gXVjJpK7sqPd1IZrPQ",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkvTv9HvWYnOFchRtkTj8cQqhBuqd1XEz1j51BSLW8gFQwRGRmxba1_s9hRndAxmOdET2JSmgy5h5FjtofgpghZ1EzB-n4YlTdoDdMnKgHLKfJOzVfVR34ncmbJhZE_bZ_DCh4nqgzOjBvdhwU13CQOL14mihJr-HmR9pt7h6b835ZtqYPukzM5hdm5CJoklLG8-7wfhdQJU9oZIfXgfsyk6JMMNZcd-P7UXS_tyATszqUgQYj0tVAb_DwfmrW-K7ypBu1h1vjpDJF90yuklHXCgOADC-bjFrj6eBBwNTUhfY5CK3AbwFxu8YQ-n_gOJNHubzhNJxjnTaRPOeQH60LWEFwNTu0_1otc4VyUQTyS3E3e4gXVjJpK7sqPd1IZrPQ"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkvTv9HvWYnOFchRtkTj8cQqhBuqd1XEz1j51BSLW8gFQwRGRmxba1_s9hRndAxmOdET2JSmgy5h5FjtofgpghZ1EzB-n4YlTdoDdMnKgHLKbPhY2HQ1NNRR91wKPUGyd7Dw21QzuoiViz8kzuAxum6vWqIATHEYWcal8-W-HMJBJaC0wGgajiFMrvE_0YHqqO3KCldylXpuUpHnjzsWzvTbn-Wny8hb1oCSTN0Jll0aef072EIIMgZBFLDCTuGSETQNQGMebWGtXKNAGsBHcyV_iO-VZJA1OSjyQT9tkZMkcGwcMsSVl3pJQBha0BKyNhMtCb4868VujjDQQBhfMz1kM4VoBYNPOt5Tchor-HCNYJzMpyZDwgS7cWxsaTegKQ",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkvTv9HvWYnOFchRtkTj8cQqhBuqd1XEz1j51BSLW8gFQwRGRmxba1_s9hRndAxmOdET2JSmgy5h5FjtofgpghZ1EzB-n4YlTdoDdMnKgHLKbPhY2HQ1NNRR91wKPUGyd7Dw21QzuoiViz8kzuAxum6vWqIATHEYWcal8-W-HMJBJaC0wGgajiFMrvE_0YHqqO3KCldylXpuUpHnjzsWzvTbn-Wny8hb1oCSTN0Jll0aef072EIIMgZBFLDCTuGSETQNQGMebWGtXKNAGsBHcyV_iO-VZJA1OSjyQT9tkZMkcGwcMsSVl3pJQBha0BKyNhMtCb4868VujjDQQBhfMz1kM4VoBYNPOt5Tchor-HCNYJzMpyZDwgS7cWxsaTegKQ"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkvTv9HvWYnOFchRtkTj8cQqhBuqd1XEz1j51BSLW8gFQwRGRmxba1_s9hRndAxmOdET2JSmgy5h5FjtofgpghZ1EzB-n4YlTdoDdMnKgHLKVKNE9o_-LTELTvyBB-4djU-66VGDWEi0obmc1AJFopOASrdJ8NQA-BYtwmVg4AZUxxTC9elbYu4GYJK7MGHe89YOu3Y8QBnCzKzGFWtQc4sVdcup119ljXb4R4-EKiBTCqFC28-DTJ9kSCceiV8Tc1aHmNoHNE49RnFWKPOPr79OXje-Fn8Yv9tSw0CMiuehgZJBe00L7eTWBvibNkJthoa6cgkxWgWRi-HU52ZCSdJnf78UuZ9uO0knsT3wYUWMOonEbC4gjoe-IJwYZQwO7g",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjEHfGQMI0khCOko1U4lH9CZrfZf9RvfMw_4WXJ-pWIogP9X_HQ3qzteDCojU6gqU9N7hqj9jhKMJHUZr6cHwDYbGR5_pPCYhWXOcIWfMSudDIfIwEl59PjLVgaliIrlakKXDFe4n0IEqe01jblWRAke85jA3X2N0xG4WXLPjneUx2hU95aZFVdUocVfcjUaq2kjAYgIhqtPmkBD-Zyxz0CthqVd0VaPCDxRKXepWcTG_m7zqZAuy53c-6GnZiBHYrbr7OZopSYpx99p-MzLR1YBZfJdV6J45npWEAt7qLyxaP-EdilkMq0vrjyEfsWUBXEzwfzrrjEa4yEguqRQuVE",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkvTv9HvWYnOFchRtkTj8cQqhBuqd1XEz1j51BSLW8gFQwRGRmxba1_s9hRndAxmOdET2JSmgy5h5FjtofgpghZ1EzB-n4YlTdoDdMnKgHLKVKNE9o_-LTELTvyBB-4djU-66VGDWEi0obmc1AJFopOASrdJ8NQA-BYtwmVg4AZUxxTC9elbYu4GYJK7MGHe89YOu3Y8QBnCzKzGFWtQc4sVdcup119ljXb4R4-EKiBTCqFC28-DTJ9kSCceiV8Tc1aHmNoHNE49RnFWKPOPr79OXje-Fn8Yv9tSw0CMiuehgZJBe00L7eTWBvibNkJthoa6cgkxWgWRi-HU52ZCSdJnf78UuZ9uO0knsT3wYUWMOonEbC4gjoe-IJwYZQwO7g"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjEHfGQMI0khCOko1U4lH9CZrfZf9RvfMw_4WXJ-pWIogP9X_HQ3qzteDCojU6gqU9N7hqj9jhKMJHUZr6cHwDYbGR5_pPCYhWXOcIWfMSudDIfIwEl59PjLVgaliIrlakKXDFe4n0IEqe01jblWRAke85jA3X2N0xG4WXLPjneUx2hU95aZFVdUocVfcjUaq2kjAYgIhqtPmkBD-Zyxz0CthqVd0VaPCDxRKXepWcTG_m7zqZAuy53c-6GnZiBHYrbr7OZopSYpx99p-MzLR1YBZfJdV6J45npWEAt7qLyxaP-EdilkMq0vrjyEfsWUBXEzwfzrrjEa4yEguqRQuVE"
                     }
                 ],
                 "passed": true

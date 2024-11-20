@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/قلعة-السماء/",
+                                "title": "قلعة السماء SKY Castle"
+                            },
+                            {
+                                "url": "/أريد-لَكْمَ-ذلك-الحقير/",
+                                "title": "أريد لَكْمَ ذلك الحقير Ano Kuzu wo Nagutte Yaritainda"
+                            },
+                            {
+                                "url": "/شرطي-الإفراج/",
+                                "title": "شرطي الإفراج Parole Examiner Lee"
+                            },
+                            {
+                                "url": "/سجلات-ما-بعد-المدرسة/",
+                                "title": "سجلات ما بعد المدرسة Hokago karte"
+                            },
+                            {
+                                "url": "/لنتزوج/",
+                                "title": "لنتزوج Marry You"
+                            },
+                            {
+                                "url": "/ما-بعد-الوداع/",
+                                "title": "ما بعد الوداع Sayonara no Tsuzuki"
+                            },
+                            {
                                 "url": "/الكاهن-الناري-الموسم-الثاني/",
                                 "title": "الكاهن الناري 2 The Fiery Priest"
                             },
@@ -47,12 +71,16 @@
                                 "title": "نساء صغيرات Wakakusa Monogatari"
                             },
                             {
+                                "url": "/صعود-نينج/",
+                                "title": "صعود نينج The Rise of Ning"
+                            },
+                            {
                                 "url": "/طبيب-جيد/",
                                 "title": "طبيب جيد Good Doctor"
                             },
                             {
-                                "url": "/صعود-نينج/",
-                                "title": "صعود نينج The Rise of Ning"
+                                "url": "/جونغ-يون-ولادة-النجم/",
+                                "title": "جونغ يون: ولادة النجم Jeongnyeon: The Star Is Born"
                             },
                             {
                                 "url": "/دونج-جاي،-الصالح-أم-الطالح/",
@@ -61,10 +89,6 @@
                             {
                                 "url": "/Quiet-Sales-,-Silent-Sales-,-Virtuous-Sales/",
                                 "title": "الفضيلة تطرق الباب A Virtuous Business"
-                            },
-                            {
-                                "url": "/جونغ-يون-ولادة-النجم/",
-                                "title": "جونغ يون: ولادة النجم Jeongnyeon: The Star Is Born"
                             },
                             {
                                 "url": "/الشك/",
@@ -87,12 +111,12 @@
                                 "title": "العائلة الحديدية Iron Family"
                             },
                             {
-                                "url": "/سيندريلا-الصيف/",
-                                "title": "سيندريلا الصيف Manatsu no Cinderella"
-                            },
-                            {
                                 "url": "/سبعة-عشر-عامًا-من-القدر/",
                                 "title": "سبعة عشر عامًا من القدر Seventeen Years of Fate"
+                            },
+                            {
+                                "url": "/سيندريلا-الصيف/",
+                                "title": "سيندريلا الصيف Manatsu no Cinderella"
                             },
                             {
                                 "url": "/ماذا-يأتي-بعد-الحب/",
@@ -115,6 +139,10 @@
                                 "title": "قاضية من الجحيم The Judge from Hell"
                             },
                             {
+                                "url": "/على-حافة-الحب/",
+                                "title": "على حافة الحب In Between"
+                            },
+                            {
                                 "url": "https://ww1.asia2tv.pw/%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A6%D8%A8%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%85%D8%AC%D9%/",
                                 "title": "طالبة الثانوية المكتئبة والمعلم المجنون هايجين – الدرس الثاني Tsuiraku JK to Haijin Kyoshi-Lesson 2"
                             },
@@ -125,10 +153,6 @@
                             {
                                 "url": "/ملكة-الأشرار/",
                                 "title": "ملكة الأشرار The Queen of Villains"
-                            },
-                            {
-                                "url": "/على-حافة-الحب/",
-                                "title": "على حافة الحب In Between"
                             },
                             {
                                 "url": "/منتهكي-سيؤل/",
@@ -149,30 +173,6 @@
                             {
                                 "url": "/الضفدع/",
                                 "title": "الضفدع The Frog"
-                            },
-                            {
-                                "url": "/باتشينكو-الموسم-الثاني/",
-                                "title": "باتشينكو Pachinko 2"
-                            },
-                            {
-                                "url": "/حب-في-الجوار/",
-                                "title": "حب في الجوار Love Next Door"
-                            },
-                            {
-                                "url": "/حبيب-الحمض-النووي-الحبيب-الجيني/",
-                                "title": "حبيب الحمض النووي DNA Lover"
-                            },
-                            {
-                                "url": "/عتمة/",
-                                "title": "عتمة Black Out"
-                            },
-                            {
-                                "url": "/عائلة-مثالية/",
-                                "title": "عائلة مثالية Perfect Family"
-                            },
-                            {
-                                "url": "/الطاغية/",
-                                "title": "الطاغية The Tyrant"
                             }
                         ],
                         "hasNextPage": true
@@ -280,22 +280,57 @@
             },
             "details": {
                 "result": {
-                    "url": "/الكاهن-الناري-الموسم-الثاني/",
-                    "title": "الكاهن الناري 2 The Fiery Priest",
-                    "description": "تدور الدراما حول قس يسعى للعدالة ولا يهدأ له ناره، حيث يسافر إلى بوسان مع مُدّعية عامة ومُحقق، لمُطاردة عصابة مخدرات متجذرة. Kim-Nam-Gil : في دور Kim Hae Il / Michael Lee-Ha-Nee : في دور Park Gyeong Sun Kim-Sung-Kyun : في دور Koo Dae Yeong Sung-Joon : في دور Kim Hong Sik Seo-Hyun-Woo : في دور Nam Du Heon BIBI : في دور Koo Ja Yeong",
-                    "genre": "كوريا الجنوبية, أكشن, جريمة, درامي, كوميدي",
-                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/11/VX130E_4f-1.jpg",
+                    "url": "/قلعة-السماء/",
+                    "title": "قلعة السماء SKY Castle قلعة السماء Sky Castle",
+                    "description": "تتحدث القصة عن ساي أسامي، وهي ربة منزل متزوجة من طبيب ولديها ابنتان، تعيش مع عائلتها في حي سكاي كاسل، وهو حي فخم للأثرياء. تسعى ساي بكل قواها لضمان قبول ابنتها الكبرى في أفضل مدرسة ثانوية، وهي على استعداد لفعل أي شيء من أجل تحقيق هذا الهدف. كما تعيش ثلاث سيدات أخريات في نف Matsushita-Nao : في دور Asami Sae Kimura-Fumino : في دور Minamizawa Izumi Koyuki : في دور Kujo Ayaka Takahashi-Maryjun : في دور Natsume Misaki Higa-Manami : في دور Nikaido Kyoko Tanabe-Seiichi : في دور Asami Hideyo دراما “قصر السماء” يدور حول عمارة من اربعة طوابق في ضواحي مدينة سوول التي يسكنها عائلات من القضاة والمدعين العامين والأطباء والأساتذة الجامعيين وزوجاتهم. دراما هذه تصف جهودهم المبذولة لإنجاح ابنائهم وجع Yum-Jung-Ah : في دور Han Seo-Jin Lee-Tae-Ran : في دور Lee Soo-Im Yoon-Se-Ah : في دور No Seung-Hye Oh-Na-Ra : في دور Jin Jin-Hee Kim-Seo-Hyung : في دور Kim Joo-Young Jung-Joon-Ho : في دور Kang Joon-Sang",
+                    "genre": "اليابان, إثارة, درامي, غموض, نفسي, كوريا الجنوبية, عائلي, كوميدي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/11/MV5BOTVmZjgyMWMtYWY0MC00Mjc0LWEyN2MtMTU5YzZjODljNGRjXkEyXkFqcGc_._V1_FMjpg_UX1080_-scaled-1.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/قلعة-السماء-الحلقة-20-والأخيرة/",
+                        "name": "%d9%88%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1%d8%a9 : الحلقة"
+                    },
+                    {
+                        "url": "/قلعة-السماء-الحلقة-19/",
+                        "name": "19 : الحلقة"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd346.okcdn.ru/?expires=1732151080272&srcIp=172.183.131.249&pr=10&srcAg=GECKO&ms=185.226.53.62&type=3&sig=4iPZzbuOQSM&ct=0&urls=45.136.20.15&clientType=0&zs=43&id=502662564486",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd346.okcdn.ru/?expires=1732151080272&srcIp=172.183.131.249&pr=10&srcAg=GECKO&ms=185.226.53.62&type=3&sig=4iPZzbuOQSM&ct=0&urls=45.136.20.15&clientType=0&zs=43&id=502662564486"
+                    },
+                    {
+                        "url": "https://vd346.okcdn.ru/?expires=1732151080272&srcIp=172.183.131.249&pr=10&srcAg=GECKO&ms=185.226.53.62&type=2&sig=vABsC8WvEqs&ct=0&urls=45.136.20.15&clientType=0&zs=43&id=502662564486",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd346.okcdn.ru/?expires=1732151080272&srcIp=172.183.131.249&pr=10&srcAg=GECKO&ms=185.226.53.62&type=2&sig=vABsC8WvEqs&ct=0&urls=45.136.20.15&clientType=0&zs=43&id=502662564486"
+                    },
+                    {
+                        "url": "https://vd346.okcdn.ru/?expires=1732151080272&srcIp=172.183.131.249&pr=10&srcAg=GECKO&ms=185.226.53.62&type=1&sig=AspsrI-6qww&ct=0&urls=45.136.20.15&clientType=0&zs=43&id=502662564486",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd346.okcdn.ru/?expires=1732151080272&srcIp=172.183.131.249&pr=10&srcAg=GECKO&ms=185.226.53.62&type=1&sig=AspsrI-6qww&ct=0&urls=45.136.20.15&clientType=0&zs=43&id=502662564486"
+                    },
+                    {
+                        "url": "https://vd346.okcdn.ru/?expires=1732151080272&srcIp=172.183.131.249&pr=10&srcAg=GECKO&ms=185.226.53.62&type=0&sig=i1N7Eg642cI&ct=0&urls=45.136.20.15&clientType=0&zs=43&id=502662564486",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd346.okcdn.ru/?expires=1732151080272&srcIp=172.183.131.249&pr=10&srcAg=GECKO&ms=185.226.53.62&type=0&sig=i1N7Eg642cI&ct=0&urls=45.136.20.15&clientType=0&zs=43&id=502662564486"
+                    },
+                    {
+                        "url": "https://vd346.okcdn.ru/?expires=1732151080272&srcIp=172.183.131.249&pr=10&srcAg=GECKO&ms=185.226.53.62&type=4&sig=ZyR0Hb9jeOE&ct=0&urls=45.136.20.15&clientType=0&zs=43&id=502662564486",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd346.okcdn.ru/?expires=1732151080272&srcIp=172.183.131.249&pr=10&srcAg=GECKO&ms=185.226.53.62&type=4&sig=ZyR0Hb9jeOE&ct=0&urls=45.136.20.15&clientType=0&zs=43&id=502662564486"
+                    }
+                ],
+                "passed": true
             }
         }
     }

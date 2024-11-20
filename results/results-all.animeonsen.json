@@ -27,14 +27,19 @@
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/x8q6jxBRTq8OdBnE"
                             },
                             {
-                                "url": "rRkaHa65cbW7oYiN",
-                                "title": "Haigakura",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/rRkaHa65cbW7oYiN"
-                            },
-                            {
                                 "url": "oTnW7ZwxBrL3Euh3",
                                 "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/oTnW7ZwxBrL3Euh3"
+                            },
+                            {
+                                "url": "iIp5feNrFjxu6iAN",
+                                "title": "Shinkalion: Change the World",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/iIp5feNrFjxu6iAN"
+                            },
+                            {
+                                "url": "rRkaHa65cbW7oYiN",
+                                "title": "Haigakura",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/rRkaHa65cbW7oYiN"
                             },
                             {
                                 "url": "fngByDVXCeAyyM94",
@@ -95,11 +100,6 @@
                                 "url": "d84JVPyxR6fiwdZE",
                                 "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/d84JVPyxR6fiwdZE"
-                            },
-                            {
-                                "url": "yMRUNASv4XHq628t",
-                                "title": "Maou 2099",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/yMRUNASv4XHq628t"
                             },
                             {
                                 "url": "rR9wYrHTrPuF4cI8",
@@ -334,14 +334,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "2ngTGms0Hbzaehn5/video/19",
+                        "name": "Episode 19: Innocence",
+                        "episode_number": 19.0
+                    },
+                    {
                         "url": "2ngTGms0Hbzaehn5/video/18",
                         "name": "Episode 18: Covertness",
                         "episode_number": 18.0
-                    },
-                    {
-                        "url": "2ngTGms0Hbzaehn5/video/17",
-                        "name": "Episode 17: The Scenario",
-                        "episode_number": 17.0
                     }
                 ],
                 "passed": true
@@ -349,40 +349,40 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/2ngTGms0Hbzaehn5/18/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/2ngTGms0Hbzaehn5/19/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/2ngTGms0Hbzaehn5/18/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/2ngTGms0Hbzaehn5/19/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/en-US/18",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/en-US/19",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/ru-RU/18",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/ru-RU/19",
                                 "lang": "Русский"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/pt-BR/18",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/pt-BR/19",
                                 "lang": "Português (Brasil)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/it-IT/18",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/it-IT/19",
                                 "lang": "Italiano"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/fr-FR/18",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/fr-FR/19",
                                 "lang": "Français"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/es-LA/18",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/es-LA/19",
                                 "lang": "Español"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/es-ES/18",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/2ngTGms0Hbzaehn5/es-ES/19",
                                 "lang": "Español (Spain)"
                             }
                         ]

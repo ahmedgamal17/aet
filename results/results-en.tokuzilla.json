@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/bakuage-sentai-boonboomger.html",
+                                "title": "Bakuage Sentai Boonboomger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-gavv.html",
+                                "title": "Kamen Rider Gavv",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gavv-thumb.png"
+                            },
+                            {
+                                "url": "/watch/ohsama-sentai-king-ohger-vs-kyoryuger.html",
+                                "title": "Ohsama Sentai King-Ohger vs. Kyoryuger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-vs-kyoryuger-thumb.png"
+                            },
+                            {
                                 "url": "/watch/ohsama-sentai-king-ohger-final-live-tour.html",
                                 "title": "Ohsama Sentai King-Ohger Final Live Tour",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-final-live-tour-thumb.png"
@@ -20,16 +35,6 @@
                                 "url": "/watch/kamen-rider-outsiders.html",
                                 "title": "Kamen Rider Outsiders",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-outsiders-thumb.png"
-                            },
-                            {
-                                "url": "/watch/bakuage-sentai-boonboomger.html",
-                                "title": "Bakuage Sentai Boonboomger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gavv.html",
-                                "title": "Kamen Rider Gavv",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gavv-thumb.png"
                             },
                             {
                                 "url": "/watch/moon-spiral.html",
@@ -60,11 +65,6 @@
                                 "url": "/watch/magical-chinese-girl-pai-pai.html",
                                 "title": "Magical Chinese Girl Pai Pai!",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/magical-chinese-girl-pai-pai-thumb.png"
-                            },
-                            {
-                                "url": "/watch/o-edo-steam-punk.html",
-                                "title": "O-Edo Steam Punk",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/o-edo-steam-punk-thumb.png"
                             }
                         ],
                         "hasNextPage": true
@@ -144,12 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/ohsama-sentai-king-ohger-final-live-tour.html",
-                    "title": "Ohsama Sentai King-Ohger Final Live Tour",
+                    "url": "/watch/bakuage-sentai-boonboomger.html",
+                    "title": "Bakuage Sentai Boonboomger",
                     "author": "Year 2024",
-                    "description": "Ohsama Sentai King-Ohger Final Live Tour 2024 presented in a fully original story by main series writer Takano Mizuho, the Ohsama Sentai King-Ohger Final Live Tour 2024 delivers a powerful hero show experience.",
-                    "genre": "Movie, Super Sentai",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-final-live-tour-thumb.png",
+                    "description": "Bakuage Sentai Boonboomger is an upcoming Japanese Tokusatsu-drama and the 48th installment in Toei Company’s Super Sentai Series.",
+                    "genre": "Series, Super Sentai",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -157,9 +159,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/ohsama-sentai-king-ohger-final-live-tour.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=37#watch",
+                        "name": "Episode 37",
+                        "episode_number": 37.0
+                    },
+                    {
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=36#watch",
+                        "name": "Episode 36",
+                        "episode_number": 36.0
                     }
                 ],
                 "passed": true
