@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/fate-strange-fake",
+                                "title": "Fate/strange Fake",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933803.jpg"
+                            },
+                            {
+                                "url": "/anime/tokyo-override-english-subbed",
+                                "title": "Tokyo Override English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933802.jpg"
+                            },
+                            {
                                 "url": "/anime/total-drama-island-reboot",
                                 "title": "Total Drama Island: Reboot",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933801.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/trillion-game",
                                 "title": "Trillion Game",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933784.jpg"
-                            },
-                            {
-                                "url": "/anime/mobile-suit-gundam-requiem-for-vengeance",
-                                "title": "Mobile Suit Gundam: Requiem for Vengeance",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933783.jpg"
-                            },
-                            {
-                                "url": "/anime/kidou-senshi-gundam-fukushuu-no-requiem",
-                                "title": "Kidou Senshi Gundam: Fukushuu no Requiem",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933782.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/total-drama-island-reboot",
-                    "title": "Total Drama Island: Reboot",
-                    "description": "The most funny and dangerous reality cartoon show Total Drama is back with even more dangerous challenges.",
-                    "genre": "Action, Adventure, Animation, Comedy, Drama, Family, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933801.jpg",
+                    "url": "/anime/fate-strange-fake",
+                    "title": "Fate/strange Fake",
+                    "description": "Fate/strange Fake centers around an imperfect copy of a Grail War based on the Third Holy Grail War in Fuyuki. Following the conclusion of the third Grail War, a US-based organization with magi distinct from the London-based Mage Association, used data from Fuyuki’s Grail War to plan their own ritual. Seventy years later, they used the city of Snowfield as the Sacred Land for their own Grail War. However, they were unable to successfully replicate every aspect of the ritual, resulting in it acting only as an imitation that has lost the Saber class and allowed for the summoning of strange Servants due to the blurring of the definition of a “hero.”",
+                    "genre": "Action, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933803.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,14 +616,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/total-drama-island-reboot-episode-26-soar-losers",
-                        "name": "Season 1 - Episode 26",
-                        "episode_number": 126.0
-                    },
-                    {
-                        "url": "/total-drama-island-reboot-episode-25-off-the-hook",
-                        "name": "Season 1 - Episode 25",
-                        "episode_number": 125.0
+                        "url": "/fate-strange-fake-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
                     }
                 ],
                 "passed": true
@@ -631,9 +626,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjEHfGQMI0khCOko1U4lH9CZrfZf9RvfMw_4WXJ-pWIogP9X_HQ3qzteDCojU6gqU9N7hqj9jhKMJHUZr6cHwDYbGR5_pPCYhWXOcIWfMSudDIfIwEl59PjLVgaliIrlakKXDFe4n0IEqe01jblWRAke85jA3X2N0xG4WXLPjneUx2hU95aZFVdUocVfcjUaq2kjAYgIhqtPmkBD-Zyxz0CthqVd0VaPCDxRKXepWcTG_m7zqZAuy53c-6GnZiBHYrbr7OZopSYpx99p-MzLR1YBZfJdV6J45npWEAt7qLyxaP-EdilkMq0vrjyEfsWUBXEzwfzrrjEa4yEguqRQuVE",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ijnUv8Kq-T4xAoxfjh7Xgrs_ed6kLnd609eEit2zrw81jHjsHapel52nOxiw2oZmwOfuLd-RvyIjGqyZ1xeFiE5UKg7gVgS4LzpcR0yQopYNW9ckZhk29TSaEF7B4lRc6bvOjVGAWGkUX3RkCgsGAg3zV0CO8o-dn8-YINTK7E_2Sqt0npW8KQl4R-1laKprlDNWESt5h0YZZmlz96_3nezGi9zuW7ykKmntHl2e_1GNOKkN_MQ1k-6AMWz4jIDrNfP1-7JxE5_hprqbqZIeRGCQB65IFPqC2WxJ-CL07TEeib6b7XRiVd6AgSl1YRpZ0kx_yDSJik997I5-JvEjkNs5xbMgoCVksVU0Xbm-ullRVXaH81PayAq14Uy_kKNkk",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ijnUv8Kq-T4xAoxfjh7Xgrs_ed6kLnd609eEit2zrw81jHjsHapel52nOxiw2oZmwOfuLd-RvyIjGqyZ1xeFiE5UKg7gVgS4LzpcR0yQopYNW9ckZhk29TSaEF7B4lRc6bvOjVGAWGkUX3RkCgsGAg3zV0CO8o-dn8-YINTK7E_2Sqt0npW8KQl4R-1laKprlDNWESt5h0YZZmlz96_3nezGi9zuW7ykKmntHl2e_1GNOKkN_MQ1k-6AMWz4jIDrNfP1-7JxE5_hprqbqZIeRGCQB65IFPqC2WxJ-CL07TEeib6b7XRiVd6AgSl1YRpZ0kx_yDSJik997I5-JvEjkNs5xbMgoCVksVU0Xbm-ullRVXaH81PayAq14Uy_kKNkk"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ijnUv8Kq-T4xAoxfjh7Xgrs_ed6kLnd609eEit2zrw81jHjsHapel52nOxiw2oZmwOfuLd-RvyIjGqyZ1xeFiE5UKg7gVgS4LzpcR0yQopYHcSRseBSXGRehsZmbh78PgEGxFOZwW-q_lfHRVb8rKblH9GmmsQQzSXU_alDCPgDgg1tUYp4me9l71yvRQOfTurACEK_4pgWETFOQHRg910pIUCyz2qDeOMtCCufgqF4LCzV-0ntxBzhIQOpWHaf_79ybZL4aVKjovDnoC1vgm2qgkCV0XsKEPm-5XXd37e3pFSAIdsMpUJdytfP4LVeGzS9l3zVb8hgZ64qCvr64btNyGYa3ar9nmt7FDut2B-TlAkaYEs43CWYLRnEEanK80",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ijnUv8Kq-T4xAoxfjh7Xgrs_ed6kLnd609eEit2zrw81jHjsHapel52nOxiw2oZmwOfuLd-RvyIjGqyZ1xeFiE5UKg7gVgS4LzpcR0yQopYHcSRseBSXGRehsZmbh78PgEGxFOZwW-q_lfHRVb8rKblH9GmmsQQzSXU_alDCPgDgg1tUYp4me9l71yvRQOfTurACEK_4pgWETFOQHRg910pIUCyz2qDeOMtCCufgqF4LCzV-0ntxBzhIQOpWHaf_79ybZL4aVKjovDnoC1vgm2qgkCV0XsKEPm-5XXd37e3pFSAIdsMpUJdytfP4LVeGzS9l3zVb8hgZ64qCvr64btNyGYa3ar9nmt7FDut2B-TlAkaYEs43CWYLRnEEanK80"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ijnUv8Kq-T4xAoxfjh7Xgrs_ed6kLnd609eEit2zrw81jHjsHapel52nOxiw2oZmwOfuLd-RvyIjGqyZ1xeFiE5UKg7gVgS4LzpcR0yQopYBN580-YF6533tvGd76sHJcWAf80wKR46DXT0OsvzW3V4yslybGaY7YdBbTwCYn4OSF_XkhYinWSYnvYZujCGuKuw-mGNyaNUNH6BpN-0-dkc4Tw7Q4ptHuyBJ9me0ofA2cJYwHt8Lg0QMdTcLFKhHPfAZ3kHXN8LJdZEjg8bfj2lgAiRWs8AlXbJXXzZQnrH5xw6OWeN5SCoW3hjCxNs_ufwB2GqyACxpHfsvinqhdpMfudJfeyDHi-k7-u2uNSdAJ5hvYrhSDeSMeP548S7aY",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjEHfGQMI0khCOko1U4lH9CZrfZf9RvfMw_4WXJ-pWIogP9X_HQ3qzteDCojU6gqU9N7hqj9jhKMJHUZr6cHwDYbGR5_pPCYhWXOcIWfMSudDIfIwEl59PjLVgaliIrlakKXDFe4n0IEqe01jblWRAke85jA3X2N0xG4WXLPjneUx2hU95aZFVdUocVfcjUaq2kjAYgIhqtPmkBD-Zyxz0CthqVd0VaPCDxRKXepWcTG_m7zqZAuy53c-6GnZiBHYrbr7OZopSYpx99p-MzLR1YBZfJdV6J45npWEAt7qLyxaP-EdilkMq0vrjyEfsWUBXEzwfzrrjEa4yEguqRQuVE"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ijnUv8Kq-T4xAoxfjh7Xgrs_ed6kLnd609eEit2zrw81jHjsHapel52nOxiw2oZmwOfuLd-RvyIjGqyZ1xeFiE5UKg7gVgS4LzpcR0yQopYBN580-YF6533tvGd76sHJcWAf80wKR46DXT0OsvzW3V4yslybGaY7YdBbTwCYn4OSF_XkhYinWSYnvYZujCGuKuw-mGNyaNUNH6BpN-0-dkc4Tw7Q4ptHuyBJ9me0ofA2cJYwHt8Lg0QMdTcLFKhHPfAZ3kHXN8LJdZEjg8bfj2lgAiRWs8AlXbJXXzZQnrH5xw6OWeN5SCoW3hjCxNs_ufwB2GqyACxpHfsvinqhdpMfudJfeyDHi-k7-u2uNSdAJ5hvYrhSDeSMeP548S7aY"
                     }
                 ],
                 "passed": true

@@ -292,14 +292,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c1/b1/c1b111d71dc055a9bd1ccc5492dfedbc/c1b111d71dc055a9bd1ccc5492dfedbc.png"
                             },
                             {
-                                "url": "/blue-box-19326",
-                                "title": "Ao no Hako",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/5f/11/5f112b1c1f3f41ed87de0c48b6cf4e0d/5f112b1c1f3f41ed87de0c48b6cf4e0d.jpg"
-                            },
-                            {
                                 "url": "/one-piece-log-fish-man-island-saga-19404",
                                 "title": "One Piece: Gyojin Tou-hen",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/65/ee/65eebbb906e8dab6e9efc4bf096db3fb/65eebbb906e8dab6e9efc4bf096db3fb.jpg"
+                            },
+                            {
+                                "url": "/blue-box-19326",
+                                "title": "Ao no Hako",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/5f/11/5f112b1c1f3f41ed87de0c48b6cf4e0d/5f112b1c1f3f41ed87de0c48b6cf4e0d.jpg"
                             },
                             {
                                 "url": "/about-the-movement-of-the-earth-19351",
@@ -412,11 +412,6 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/eb/b7/ebb78f8688b59abf0409b8799159127a/ebb78f8688b59abf0409b8799159127a.jpg"
                             },
                             {
-                                "url": "/apotheosis-2nd-season-19024",
-                                "title": "Bai Lian Cheng Shen 2nd Season",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/b5/e2/b5e29e3cfe9f696f982a6fe36487631d/b5e29e3cfe9f696f982a6fe36487631d.jpg"
-                            },
-                            {
                                 "url": "/how-i-attended-an-all-guys-mixer-19355",
                                 "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/cf/95/cf95b579543e4cd051d68b5ba5019626/cf95b579543e4cd051d68b5ba5019626.jpg"
@@ -425,6 +420,11 @@
                                 "url": "/pokemon-horizons-the-series-18397",
                                 "title": "Pokemon (2023)",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/4b/14/4b145f650126e400b69e783e3d6cdd2a/4b145f650126e400b69e783e3d6cdd2a.jpg"
+                            },
+                            {
+                                "url": "/apotheosis-2nd-season-19024",
+                                "title": "Bai Lian Cheng Shen 2nd Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/b5/e2/b5e29e3cfe9f696f982a6fe36487631d/b5e29e3cfe9f696f982a6fe36487631d.jpg"
                             },
                             {
                                 "url": "/chiikawa-18003",
@@ -462,11 +462,6 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/8b/be/8bbe3d0785392e3ca5b179e0d281e434/8bbe3d0785392e3ca5b179e0d281e434.jpg"
                             },
                             {
-                                "url": "/ling-jian-zun-4th-season-14951",
-                                "title": "Ling Jian Zun 4th Season",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/a6/a1/a6a150a93ecc1af79d26860e85177210/a6a150a93ecc1af79d26860e85177210.jpg"
-                            },
-                            {
                                 "url": "/sengoku-youko-19216",
                                 "title": "Sengoku Youko: Senma Konton-hen",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/fb/bd/fbbd027ad853c9fe49c10ad1b992bef9/fbbd027ad853c9fe49c10ad1b992bef9.jpg"
@@ -475,6 +470,16 @@
                                 "url": "/touhou-niji-sousaku-doujin-anime-musou-kakyou-2959",
                                 "title": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/27/fe/27fe7b34b7e0564bd8720443dfe369fb/27fe7b34b7e0564bd8720443dfe369fb.jpg"
+                            },
+                            {
+                                "url": "/if-my-wife-becomes-an-elementary-school-student-19343",
+                                "title": "Tsuma, Shougakusei ni Naru.",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/05/6d/056d7a03d9caf1d3ab4bafe1e4a7e2ec/056d7a03d9caf1d3ab4bafe1e4a7e2ec.jpg"
+                            },
+                            {
+                                "url": "/ling-jian-zun-4th-season-14951",
+                                "title": "Ling Jian Zun 4th Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/a6/a1/a6a150a93ecc1af79d26860e85177210/a6a150a93ecc1af79d26860e85177210.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -486,21 +491,6 @@
                 "result": [
                     {
                         "animes": [
-                            {
-                                "url": "/ten-thousand-worlds-2nd-season-18634?ref=search",
-                                "title": "Wan Jie Du Zun 2nd Season",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/67/c6/67c61b7ab03b9ac5dede28c14959d6c9/67c61b7ab03b9ac5dede28c14959d6c9.jpg"
-                            },
-                            {
-                                "url": "/good-night-world-18623?ref=search",
-                                "title": "Good Night World",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/09/f0/09f07b5b13fb0cfe9f36aa1340bc911d/09f07b5b13fb0cfe9f36aa1340bc911d.jpg"
-                            },
-                            {
-                                "url": "/dr-stone-3rd-season-part-2-18574?ref=search",
-                                "title": "Dr. Stone: New World Part 2",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/53/3d/533d9ca61bd99ff5c4c5f6d754feb33d/533d9ca61bd99ff5c4c5f6d754feb33d.jpg"
-                            },
                             {
                                 "url": "/rezero-starting-life-in-another-world-season-3-19301?ref=search",
                                 "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
@@ -537,16 +527,6 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/38/ae/38aefd81846638369e16a91700306000/38aefd81846638369e16a91700306000.jpg"
                             },
                             {
-                                "url": "/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-18847?ref=search",
-                                "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/e6/70/e670bd9fd14f8659450e9be3d87f517b/e670bd9fd14f8659450e9be3d87f517b.jpg"
-                            },
-                            {
-                                "url": "/fluffy-paradise-18799?ref=search",
-                                "title": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/8e/b5/8eb5c6f92a85d2ea805a7812cec2c1e3/8eb5c6f92a85d2ea805a7812cec2c1e3.jpg"
-                            },
-                            {
                                 "url": "/train-to-the-end-of-the-world-special-19197?ref=search",
                                 "title": "Shuumatsu Train Doko e Iku: Special",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/50/7b/507b0ef7cc934d52372affc66c3123cc/507b0ef7cc934d52372affc66c3123cc.jpg"
@@ -570,11 +550,6 @@
                                 "url": "/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-19127?ref=search",
                                 "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/fa/84/fa8451169753e07cdbfddc5507c1c01e/fa8451169753e07cdbfddc5507c1c01e.jpg"
-                            },
-                            {
-                                "url": "/leveling-up-in-a-fantasy-world-18515?ref=search",
-                                "title": "Wo Zai Xianjie Zheng Jifen",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/3a/19/3a197753b4f69a919cde3d5c13df3019/3a197753b4f69a919cde3d5c13df3019.jpg"
                             },
                             {
                                 "url": "/world-of-immortals-19412?ref=search",
@@ -627,11 +602,6 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c3/22/c322c791493b191eb77e6a25df2fb000/c322c791493b191eb77e6a25df2fb000.jpg"
                             },
                             {
-                                "url": "/mahou-no-yousei-persia-pilot-15024?ref=search",
-                                "title": "Mahou no Yousei Persia Pilot",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/43/c4/43c48b3de395ce6556d3101b2045b73b/43c48b3de395ce6556d3101b2045b73b.jpg"
-                            },
-                            {
                                 "url": "/mushoku-tensei-jobless-reincarnation-season-2-18418?ref=search",
                                 "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/1c/f9/1cf9bdf58f5d0d2db7bd856b15e3835f/1cf9bdf58f5d0d2db7bd856b15e3835f.png"
@@ -665,6 +635,41 @@
                                 "url": "/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-18343?ref=search",
                                 "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/0a/d5/0ad5356f28ee75bccfde8b69ea6a5e54/0ad5356f28ee75bccfde8b69ea6a5e54.jpg"
+                            },
+                            {
+                                "url": "/in-another-world-with-my-smartphone-2-18342?ref=search",
+                                "title": "Isekai wa Smartphone to Tomo ni. 2",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/ba/cb/bacb7124d070a26097c77601250a205e/bacb7124d070a26097c77601250a205e.jpg"
+                            },
+                            {
+                                "url": "/konosuba-an-explosion-on-this-wonderful-world-18337?ref=search",
+                                "title": "Kono Subarashii Sekai ni Bakuen wo!",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/68/74/6874272e4cb78f1d10ee14a864ce7dbb/6874272e4cb78f1d10ee14a864ce7dbb.png"
+                            },
+                            {
+                                "url": "/harem-in-the-labyrinth-of-another-world-specials-18322?ref=search",
+                                "title": "Isekai Meikyuu de Harem wo Specials",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/9f/d4/9fd417f2dc8660350c77b85b1c50a903/9fd417f2dc8660350c77b85b1c50a903.jpg"
+                            },
+                            {
+                                "url": "/saving-80000-gold-in-another-world-for-my-retirement-18297?ref=search",
+                                "title": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/e1/d7/e1d7a45381ab2aaf864898d6506b72f8/e1d7a45381ab2aaf864898d6506b72f8.jpg"
+                            },
+                            {
+                                "url": "/campfire-cooking-in-another-world-with-my-absurd-skill-18293?ref=search",
+                                "title": "Tondemo Skill de Isekai Hourou Meshi",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/8c/51/8c51c91ae9cf62c968cf84a67a666cc9/8c51c91ae9cf62c968cf84a67a666cc9.jpg"
+                            },
+                            {
+                                "url": "/the-iceblade-sorcerer-shall-rule-the-world-18291?ref=search",
+                                "title": "Hyouken no Majutsushi ga Sekai wo Suberu",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/bf/79/bf79085411f081a488923f57a4ffbe10/bf79085411f081a488923f57a4ffbe10.jpg"
+                            },
+                            {
+                                "url": "/the-reincarnation-of-the-strongest-exorcist-in-another-world-18290?ref=search",
+                                "title": "Saikyou Onmyouji no Isekai Tenseiki",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/ab/fb/abfb85788cbcf278acd411a4f2e7a161/abfb85788cbcf278acd411a4f2e7a161.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -701,8 +706,309 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://w2r.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f1-v1-a1.m3u8",
+                        "quality": "Vidstreaming - 1080p - sub",
+                        "videoUrl": "https://w2r.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f1-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://rapid-cloud.co",
+                            "Referer": "https://rapid-cloud.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/eng-2.vtt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/eng-3.vtt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/8e/f2/8ef28f823762aec5ec4b9f3f6b3a92d6/8ef28f823762aec5ec4b9f3f6b3a92d6.vtt",
+                                "lang": "English - (Crunchyroll)"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/por-4.vtt",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/spa-5.vtt",
+                                "lang": "Spanish"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://w2r.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f2-v1-a1.m3u8",
+                        "quality": "Vidstreaming - 720p - sub",
+                        "videoUrl": "https://w2r.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f2-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://rapid-cloud.co",
+                            "Referer": "https://rapid-cloud.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/eng-2.vtt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/eng-3.vtt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/8e/f2/8ef28f823762aec5ec4b9f3f6b3a92d6/8ef28f823762aec5ec4b9f3f6b3a92d6.vtt",
+                                "lang": "English - (Crunchyroll)"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/por-4.vtt",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/spa-5.vtt",
+                                "lang": "Spanish"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://w2r.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f3-v1-a1.m3u8",
+                        "quality": "Vidstreaming - 360p - sub",
+                        "videoUrl": "https://w2r.biananset.net/_v7/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2bff9ea99a779427683cccca73e9471de484b52152df23b5ebe5e11d3c0b0f317951ee7550b3bc9e5a54a9ae903c4c77260d9e03c3af7d598cebf22b0adceb9a53f9cd0a0968a4a78ed79e123a3a249c6/index-f3-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://rapid-cloud.co",
+                            "Referer": "https://rapid-cloud.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/eng-2.vtt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/eng-3.vtt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/8e/f2/8ef28f823762aec5ec4b9f3f6b3a92d6/8ef28f823762aec5ec4b9f3f6b3a92d6.vtt",
+                                "lang": "English - (Crunchyroll)"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/por-4.vtt",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/spa-5.vtt",
+                                "lang": "Spanish"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2c079aa23320909618062268b457260709b77a81179d5dd6acf38fed5cb602158cf0f8057ff721ab13400fe8dcbd6081d0d03569944dbba9b5364bb3ed4fdc57d033cf9ad5edd48d6cdcbd5149a35308727188208ab5fb60fb808f17f3001ec23/index-f1-v1-a1.m3u8",
+                        "quality": "Vidcloud - 1080p - sub",
+                        "videoUrl": "https://c-an-ca4.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2c079aa23320909618062268b457260709b77a81179d5dd6acf38fed5cb602158cf0f8057ff721ab13400fe8dcbd6081d0d03569944dbba9b5364bb3ed4fdc57d033cf9ad5edd48d6cdcbd5149a35308727188208ab5fb60fb808f17f3001ec23/index-f1-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://rapid-cloud.co",
+                            "Referer": "https://rapid-cloud.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/eng-2.vtt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/eng-3.vtt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/8e/f2/8ef28f823762aec5ec4b9f3f6b3a92d6/8ef28f823762aec5ec4b9f3f6b3a92d6.vtt",
+                                "lang": "English - (Crunchyroll)"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/por-4.vtt",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/spa-5.vtt",
+                                "lang": "Spanish"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2c079aa23320909618062268b457260709b77a81179d5dd6acf38fed5cb602158cf0f8057ff721ab13400fe8dcbd6081d0d03569944dbba9b5364bb3ed4fdc57d033cf9ad5edd48d6cdcbd5149a35308727188208ab5fb60fb808f17f3001ec23/index-f2-v1-a1.m3u8",
+                        "quality": "Vidcloud - 720p - sub",
+                        "videoUrl": "https://c-an-ca4.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2c079aa23320909618062268b457260709b77a81179d5dd6acf38fed5cb602158cf0f8057ff721ab13400fe8dcbd6081d0d03569944dbba9b5364bb3ed4fdc57d033cf9ad5edd48d6cdcbd5149a35308727188208ab5fb60fb808f17f3001ec23/index-f2-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://rapid-cloud.co",
+                            "Referer": "https://rapid-cloud.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/eng-2.vtt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/eng-3.vtt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/8e/f2/8ef28f823762aec5ec4b9f3f6b3a92d6/8ef28f823762aec5ec4b9f3f6b3a92d6.vtt",
+                                "lang": "English - (Crunchyroll)"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/por-4.vtt",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/spa-5.vtt",
+                                "lang": "Spanish"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2c079aa23320909618062268b457260709b77a81179d5dd6acf38fed5cb602158cf0f8057ff721ab13400fe8dcbd6081d0d03569944dbba9b5364bb3ed4fdc57d033cf9ad5edd48d6cdcbd5149a35308727188208ab5fb60fb808f17f3001ec23/index-f3-v1-a1.m3u8",
+                        "quality": "Vidcloud - 360p - sub",
+                        "videoUrl": "https://c-an-ca4.betterstream.cc:2223/hls-playback/49b8448c134022e18d1f2270a9d721174d12eb485b1d6e73ab4dbff92d7e1df93289b7fe0ca43a46de4b215fd89f68e2c079aa23320909618062268b457260709b77a81179d5dd6acf38fed5cb602158cf0f8057ff721ab13400fe8dcbd6081d0d03569944dbba9b5364bb3ed4fdc57d033cf9ad5edd48d6cdcbd5149a35308727188208ab5fb60fb808f17f3001ec23/index-f3-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://rapid-cloud.co",
+                            "Referer": "https://rapid-cloud.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/eng-2.vtt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/eng-3.vtt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/8e/f2/8ef28f823762aec5ec4b9f3f6b3a92d6/8ef28f823762aec5ec4b9f3f6b3a92d6.vtt",
+                                "lang": "English - (Crunchyroll)"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/por-4.vtt",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/7e/48/7e4839c7056d00e055889a432244772f/spa-5.vtt",
+                                "lang": "Spanish"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://gg3.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f1-v1-a1.m3u8",
+                        "quality": "Vidstreaming - 1080p - dub",
+                        "videoUrl": "https://gg3.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f1-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://rapid-cloud.co",
+                            "Referer": "https://rapid-cloud.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/84/a1/84a1341e2da2d469b311490a81dde83e/eng-0.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://gg3.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f2-v1-a1.m3u8",
+                        "quality": "Vidstreaming - 720p - dub",
+                        "videoUrl": "https://gg3.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f2-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://rapid-cloud.co",
+                            "Referer": "https://rapid-cloud.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/84/a1/84a1341e2da2d469b311490a81dde83e/eng-0.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://gg3.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f3-v1-a1.m3u8",
+                        "quality": "Vidstreaming - 360p - dub",
+                        "videoUrl": "https://gg3.biananset.net/_v7/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b905b909f81d417faf572bdd9a64abfeafd00dadadcdd5149c7872cc3c3b84ba9a28fd0e3eef19bd7832f09e116458dfa6ad3ad529e1d7befd63421519897c7eb22ca6b0712310f6938027be716410b77/index-f3-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://rapid-cloud.co",
+                            "Referer": "https://rapid-cloud.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/84/a1/84a1341e2da2d469b311490a81dde83e/eng-0.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://c-an-ca1.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b1034be83c7430c04c6a1042a05fd091de8d71271f378b7258d4eceaa19df153bd0248e459e784f4931b74201a6a1867fc13e79b2a380c55dab85bcdfd62c07f30ad7cecb2309501ab504afea0df97f8b1e30fc5865c7f2270a423a78e4de1b7e/index-f1-v1-a1.m3u8",
+                        "quality": "Vidcloud - 1080p - dub",
+                        "videoUrl": "https://c-an-ca1.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b1034be83c7430c04c6a1042a05fd091de8d71271f378b7258d4eceaa19df153bd0248e459e784f4931b74201a6a1867fc13e79b2a380c55dab85bcdfd62c07f30ad7cecb2309501ab504afea0df97f8b1e30fc5865c7f2270a423a78e4de1b7e/index-f1-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://rapid-cloud.co",
+                            "Referer": "https://rapid-cloud.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/84/a1/84a1341e2da2d469b311490a81dde83e/eng-0.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://c-an-ca1.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b1034be83c7430c04c6a1042a05fd091de8d71271f378b7258d4eceaa19df153bd0248e459e784f4931b74201a6a1867fc13e79b2a380c55dab85bcdfd62c07f30ad7cecb2309501ab504afea0df97f8b1e30fc5865c7f2270a423a78e4de1b7e/index-f2-v1-a1.m3u8",
+                        "quality": "Vidcloud - 720p - dub",
+                        "videoUrl": "https://c-an-ca1.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b1034be83c7430c04c6a1042a05fd091de8d71271f378b7258d4eceaa19df153bd0248e459e784f4931b74201a6a1867fc13e79b2a380c55dab85bcdfd62c07f30ad7cecb2309501ab504afea0df97f8b1e30fc5865c7f2270a423a78e4de1b7e/index-f2-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://rapid-cloud.co",
+                            "Referer": "https://rapid-cloud.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/84/a1/84a1341e2da2d469b311490a81dde83e/eng-0.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://c-an-ca1.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b1034be83c7430c04c6a1042a05fd091de8d71271f378b7258d4eceaa19df153bd0248e459e784f4931b74201a6a1867fc13e79b2a380c55dab85bcdfd62c07f30ad7cecb2309501ab504afea0df97f8b1e30fc5865c7f2270a423a78e4de1b7e/index-f3-v1-a1.m3u8",
+                        "quality": "Vidcloud - 360p - dub",
+                        "videoUrl": "https://c-an-ca1.betterstream.cc:2223/hls-playback/e3cfc508fb6ba3314be399ded73c51eab2b1aa835e9d3f7549fd93af64dfc84f68d7ea9abed291464f85d64fb2623d0b1034be83c7430c04c6a1042a05fd091de8d71271f378b7258d4eceaa19df153bd0248e459e784f4931b74201a6a1867fc13e79b2a380c55dab85bcdfd62c07f30ad7cecb2309501ab504afea0df97f8b1e30fc5865c7f2270a423a78e4de1b7e/index-f3-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://rapid-cloud.co",
+                            "Referer": "https://rapid-cloud.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.zorores.com/84/a1/84a1341e2da2d469b311490a81dde83e/eng-0.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }
