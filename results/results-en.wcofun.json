@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/mutant-league-1994",
+                                "title": "Mutant League (1994)",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933807.jpg"
+                            },
+                            {
+                                "url": "/anime/minoriteam",
+                                "title": "Minoriteam",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933806.jpg"
+                            },
+                            {
+                                "url": "/anime/max-and-the-midknights",
+                                "title": "Max and the Midknights",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933805.jpg"
+                            },
+                            {
+                                "url": "/anime/sausage-party-foodtopia",
+                                "title": "Sausage Party: Foodtopia",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933804.jpg"
+                            },
+                            {
                                 "url": "/anime/fate-strange-fake",
                                 "title": "Fate/strange Fake",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933803.jpg"
@@ -65,26 +85,6 @@
                                 "url": "/anime/american-dad-season-21",
                                 "title": "American Dad! Season 21",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933788.jpg"
-                            },
-                            {
-                                "url": "/anime/demon-lord-2099",
-                                "title": "Demon Lord 2099",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933787.jpg"
-                            },
-                            {
-                                "url": "/anime/you-are-ms-servant",
-                                "title": "You are Ms. Servant.",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933786.jpg"
-                            },
-                            {
-                                "url": "/anime/ao-no-miburo",
-                                "title": "Ao no Miburo",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933785.jpg"
-                            },
-                            {
-                                "url": "/anime/trillion-game",
-                                "title": "Trillion Game",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933784.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/fate-strange-fake",
-                    "title": "Fate/strange Fake",
-                    "description": "Fate/strange Fake centers around an imperfect copy of a Grail War based on the Third Holy Grail War in Fuyuki. Following the conclusion of the third Grail War, a US-based organization with magi distinct from the London-based Mage Association, used data from Fuyuki’s Grail War to plan their own ritual. Seventy years later, they used the city of Snowfield as the Sacred Land for their own Grail War. However, they were unable to successfully replicate every aspect of the ritual, resulting in it acting only as an imitation that has lost the Saber class and allowed for the summoning of strange Servants due to the blurring of the definition of a “hero.”",
-                    "genre": "Action, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933803.jpg",
+                    "url": "/anime/mutant-league-1994",
+                    "title": "Mutant League (1994)",
+                    "description": "They’re pumped up mutant athletes and they’re ready to rumble on the playing field! These hunks of bone and muscle were mutated by toxic gas unleashed in a massive earthquake. Demonstrating total unsportsmanlike conduct, along with super strength, sonic speed and unusual abilities, they battle in a variety of games for the ultimate trophy – the Mutant League Championship! Sports will never be the same.",
+                    "genre": "Action, Animation, Horror, Sci-fi, Sports, Thriller, Thriller, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933807.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,9 +616,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/fate-strange-fake-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
+                        "url": "/mutant-league-1994-season-2-episode-27-the-hall-of-pain-awards",
+                        "name": "Season 2 - Episode 27",
+                        "episode_number": 227.0
+                    },
+                    {
+                        "url": "/mutant-league-1994-season-2-episode-26-sudden-death",
+                        "name": "Season 2 - Episode 26",
+                        "episode_number": 226.0
                     }
                 ],
                 "passed": true
@@ -626,19 +631,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ijnUv8Kq-T4xAoxfjh7Xgrs_ed6kLnd609eEit2zrw81jHjsHapel52nOxiw2oZmwOfuLd-RvyIjGqyZ1xeFiE5UKg7gVgS4LzpcR0yQopYNW9ckZhk29TSaEF7B4lRc6bvOjVGAWGkUX3RkCgsGAg3zV0CO8o-dn8-YINTK7E_2Sqt0npW8KQl4R-1laKprlDNWESt5h0YZZmlz96_3nezGi9zuW7ykKmntHl2e_1GNOKkN_MQ1k-6AMWz4jIDrNfP1-7JxE5_hprqbqZIeRGCQB65IFPqC2WxJ-CL07TEeib6b7XRiVd6AgSl1YRpZ0kx_yDSJik997I5-JvEjkNs5xbMgoCVksVU0Xbm-ullRVXaH81PayAq14Uy_kKNkk",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKk5AnwboQfjbxX1Hlk4YupIvhU-IgWfVvpTj8jdEBrntoRFYML9SVQlnc9o7CnOISppESLFzsdxtUzmvzCIqVfOKXCURLbs_38Hft1SnkdK_KLBpBEN7dT9b-8dRQ7rsX02mmvgMxnA8XsHkSxYnpO865V3rl3cl19JLXit3zAWRIbC9MukuB7B1VoWIC303dhtx17vFFWKpPX-wRzwaY0Q-6ZzUXwDOfPsiBPBbf4TKsnGvYOqcNShS8I7xV6OkbqihX6ocfu9qxN8tSRm-lyw",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ijnUv8Kq-T4xAoxfjh7Xgrs_ed6kLnd609eEit2zrw81jHjsHapel52nOxiw2oZmwOfuLd-RvyIjGqyZ1xeFiE5UKg7gVgS4LzpcR0yQopYNW9ckZhk29TSaEF7B4lRc6bvOjVGAWGkUX3RkCgsGAg3zV0CO8o-dn8-YINTK7E_2Sqt0npW8KQl4R-1laKprlDNWESt5h0YZZmlz96_3nezGi9zuW7ykKmntHl2e_1GNOKkN_MQ1k-6AMWz4jIDrNfP1-7JxE5_hprqbqZIeRGCQB65IFPqC2WxJ-CL07TEeib6b7XRiVd6AgSl1YRpZ0kx_yDSJik997I5-JvEjkNs5xbMgoCVksVU0Xbm-ullRVXaH81PayAq14Uy_kKNkk"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKk5AnwboQfjbxX1Hlk4YupIvhU-IgWfVvpTj8jdEBrntoRFYML9SVQlnc9o7CnOISppESLFzsdxtUzmvzCIqVfOKXCURLbs_38Hft1SnkdK_KLBpBEN7dT9b-8dRQ7rsX02mmvgMxnA8XsHkSxYnpO865V3rl3cl19JLXit3zAWRIbC9MukuB7B1VoWIC303dhtx17vFFWKpPX-wRzwaY0Q-6ZzUXwDOfPsiBPBbf4TKsnGvYOqcNShS8I7xV6OkbqihX6ocfu9qxN8tSRm-lyw"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ijnUv8Kq-T4xAoxfjh7Xgrs_ed6kLnd609eEit2zrw81jHjsHapel52nOxiw2oZmwOfuLd-RvyIjGqyZ1xeFiE5UKg7gVgS4LzpcR0yQopYHcSRseBSXGRehsZmbh78PgEGxFOZwW-q_lfHRVb8rKblH9GmmsQQzSXU_alDCPgDgg1tUYp4me9l71yvRQOfTurACEK_4pgWETFOQHRg910pIUCyz2qDeOMtCCufgqF4LCzV-0ntxBzhIQOpWHaf_79ybZL4aVKjovDnoC1vgm2qgkCV0XsKEPm-5XXd37e3pFSAIdsMpUJdytfP4LVeGzS9l3zVb8hgZ64qCvr64btNyGYa3ar9nmt7FDut2B-TlAkaYEs43CWYLRnEEanK80",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKm5UgGfY9-uvgSNK77PDkjog3kLEcCpcOdTwkcF4zjqpS2UtqZ3ARD8tJjb-RhnYCkTD74cEnuvD0FupRAnKPq-dp0Phwhrt5B8X0fwKqAIsDdNBWxnHELENlrDkmkBP0a5E7wIf8VDQHa3cXROU9n2103QNEDzJiYKmXCMsLEXmUxkduPhgaVVwNDgOxPsvU4-kdd8FGxoq8Z8QrHkk30vPZlKbT__q-Lk4pJ2z93B9PnTWfzLMAxbSffvGhDdESOjPBPSoH6zlm5opzf1-hgP",
                         "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ijnUv8Kq-T4xAoxfjh7Xgrs_ed6kLnd609eEit2zrw81jHjsHapel52nOxiw2oZmwOfuLd-RvyIjGqyZ1xeFiE5UKg7gVgS4LzpcR0yQopYHcSRseBSXGRehsZmbh78PgEGxFOZwW-q_lfHRVb8rKblH9GmmsQQzSXU_alDCPgDgg1tUYp4me9l71yvRQOfTurACEK_4pgWETFOQHRg910pIUCyz2qDeOMtCCufgqF4LCzV-0ntxBzhIQOpWHaf_79ybZL4aVKjovDnoC1vgm2qgkCV0XsKEPm-5XXd37e3pFSAIdsMpUJdytfP4LVeGzS9l3zVb8hgZ64qCvr64btNyGYa3ar9nmt7FDut2B-TlAkaYEs43CWYLRnEEanK80"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKm5UgGfY9-uvgSNK77PDkjog3kLEcCpcOdTwkcF4zjqpS2UtqZ3ARD8tJjb-RhnYCkTD74cEnuvD0FupRAnKPq-dp0Phwhrt5B8X0fwKqAIsDdNBWxnHELENlrDkmkBP0a5E7wIf8VDQHa3cXROU9n2103QNEDzJiYKmXCMsLEXmUxkduPhgaVVwNDgOxPsvU4-kdd8FGxoq8Z8QrHkk30vPZlKbT__q-Lk4pJ2z93B9PnTWfzLMAxbSffvGhDdESOjPBPSoH6zlm5opzf1-hgP"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ijnUv8Kq-T4xAoxfjh7Xgrs_ed6kLnd609eEit2zrw81jHjsHapel52nOxiw2oZmwOfuLd-RvyIjGqyZ1xeFiE5UKg7gVgS4LzpcR0yQopYBN580-YF6533tvGd76sHJcWAf80wKR46DXT0OsvzW3V4yslybGaY7YdBbTwCYn4OSF_XkhYinWSYnvYZujCGuKuw-mGNyaNUNH6BpN-0-dkc4Tw7Q4ptHuyBJ9me0ofA2cJYwHt8Lg0QMdTcLFKhHPfAZ3kHXN8LJdZEjg8bfj2lgAiRWs8AlXbJXXzZQnrH5xw6OWeN5SCoW3hjCxNs_ufwB2GqyACxpHfsvinqhdpMfudJfeyDHi-k7-u2uNSdAJ5hvYrhSDeSMeP548S7aY",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKmFIJrnAkbKvV1nuTzLvxUq0V9hTB4gIIC3JgCspMT1NTRHZWKn6fP1TMmjdEWAR7LeLa6kwLn9LCExMq6GCi8VwBfGaQMxZt4r6RQC0VGfaMK1QUzcaCu_0uTr8g0Jqzi80AVcGposSTnPdFBlUvEtJr8dqgKr9n_T63jo-GSoJ4elYWHnwHxLImLUW1vtRP3lplKcKaZw3ZuDBAz7dvtey9s0vvMNSwD31APQt0O9WPRqya7FYUNQeNwS6o0cyfMpn7Jd4Mt2Sw63kxDY0clD",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2ijnUv8Kq-T4xAoxfjh7Xgrs_ed6kLnd609eEit2zrw81jHjsHapel52nOxiw2oZmwOfuLd-RvyIjGqyZ1xeFiE5UKg7gVgS4LzpcR0yQopYBN580-YF6533tvGd76sHJcWAf80wKR46DXT0OsvzW3V4yslybGaY7YdBbTwCYn4OSF_XkhYinWSYnvYZujCGuKuw-mGNyaNUNH6BpN-0-dkc4Tw7Q4ptHuyBJ9me0ofA2cJYwHt8Lg0QMdTcLFKhHPfAZ3kHXN8LJdZEjg8bfj2lgAiRWs8AlXbJXXzZQnrH5xw6OWeN5SCoW3hjCxNs_ufwB2GqyACxpHfsvinqhdpMfudJfeyDHi-k7-u2uNSdAJ5hvYrhSDeSMeP548S7aY"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKmFIJrnAkbKvV1nuTzLvxUq0V9hTB4gIIC3JgCspMT1NTRHZWKn6fP1TMmjdEWAR7LeLa6kwLn9LCExMq6GCi8VwBfGaQMxZt4r6RQC0VGfaMK1QUzcaCu_0uTr8g0Jqzi80AVcGposSTnPdFBlUvEtJr8dqgKr9n_T63jo-GSoJ4elYWHnwHxLImLUW1vtRP3lplKcKaZw3ZuDBAz7dvtey9s0vvMNSwD31APQt0O9WPRqya7FYUNQeNwS6o0cyfMpn7Jd4Mt2Sw63kxDY0clD"
                     }
                 ],
                 "passed": true
