@@ -61,7 +61,7 @@
   },
   {
     "pkg": "all.torrentio",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-all.torrentio.json"
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "pkg": "en.allanime",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.allanime.json"
   },
   {
@@ -191,7 +191,7 @@
   },
   {
     "pkg": "en.animenosub",
-    "passed": false,
+    "passed": true,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.animenosub.json"
   },
   {
@@ -261,7 +261,7 @@
   },
   {
     "pkg": "en.edytjedhgmdhm",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.edytjedhgmdhm.json"
   },
   {
@@ -301,7 +301,7 @@
   },
   {
     "pkg": "en.kaido",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.kaido.json"
   },
   {
@@ -436,7 +436,7 @@
   },
   {
     "pkg": "en.zoro",
-    "passed": true,
+    "passed": false,
     "log": "https://raw.githubusercontent.com/ahmedgamal17/aet/results/results/results-en.zoro.json"
   }
 ]

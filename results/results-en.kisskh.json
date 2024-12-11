@@ -122,6 +122,11 @@
                                 "thumbnail_url": "https://puui.wetvinfo.com/wetv/cms/8970_1693898834_19201080.jpeg?imageMogr2/thumbnail/720x"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9491?isq=false",
+                                "title": "Family by Choice",
+                                "thumbnail_url": "https://prod-images.viu.com/3539505242/3f0b34521daca8433c603ad09581fc79b6dbad51?im=Resize,width=1920"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/8043?isq=false",
                                 "title": "Pit Babe The Series",
                                 "thumbnail_url": "https://i0.wp.com/pic0.iqiyipic.com/image/20231229/42/cc/a_100545227_m_601_en_m1_720_405.webp"
@@ -135,11 +140,6 @@
                                 "url": "/api/DramaList/Drama/5400?isq=false",
                                 "title": "Between Us",
                                 "thumbnail_url": "https://i0.wp.com/pic6.iqiyipic.com/image/20220221/12/b0/a_100496241_m_601_zh-CN_m1_1600_900.webp"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9491?isq=false",
-                                "title": "Family by Choice",
-                                "thumbnail_url": "https://prod-images.viu.com/3539505242/3f0b34521daca8433c603ad09581fc79b6dbad51?im=Resize,width=1920"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9441?isq=false",
@@ -177,14 +177,14 @@
                                 "thumbnail_url": "https://m.ykimg.com/05350000642A47BD13EBC60AFF436E62"
                             },
                             {
-                                "url": "/api/DramaList/Drama/2897?isq=false",
-                                "title": "Unforgettable Love",
-                                "thumbnail_url": "https://puui.qpic.cn/vcover_hz_pic/0/25ccu5x8lyw59aq1627733258834/0"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/1268?isq=false",
                                 "title": "Douluo Dalu - Soul Land 2nd Season",
                                 "thumbnail_url": "https://puui.wetvinfo.com/wetv/cms/1357_1701663513_19201080.jpeg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/2897?isq=false",
+                                "title": "Unforgettable Love",
+                                "thumbnail_url": "https://puui.qpic.cn/vcover_hz_pic/0/25ccu5x8lyw59aq1627733258834/0"
                             },
                             {
                                 "url": "/api/DramaList/Drama/5033?isq=false",
@@ -197,14 +197,14 @@
                                 "thumbnail_url": "https://i0.wp.com/pic6.iqiyipic.com/image/20230216/94/00/a_100528516_m_601_en_1600_900.webp"
                             },
                             {
-                                "url": "/api/DramaList/Drama/5227?isq=false",
-                                "title": "Big Mouth",
-                                "thumbnail_url": "https://www.themoviedb.org/t/p/w1000_and_h563_face/wU2pQ6yv0c2TrgAMWs2zFWk4F3z.jpg"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/8717?isq=false",
                                 "title": "The Rain in Espana",
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/zixjsw1KIphrpeerv0vGU4V5hK1.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/5227?isq=false",
+                                "title": "Big Mouth",
+                                "thumbnail_url": "https://www.themoviedb.org/t/p/w1000_and_h563_face/wU2pQ6yv0c2TrgAMWs2zFWk4F3z.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -247,29 +247,19 @@
                                 "thumbnail_url": "https://imagecdn.app/v1/images/http%3A%2F%2Fpic5.iqiyipic.com%2Fimage%2F20241120%2Fa7%2F1a%2Fa_100592327_m_601_en_1920_1080.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9917?isq=false",
-                                "title": "Love in the Big City (Movie)",
-                                "thumbnail_url": "https://i.ytimg.com/vi/exuxrzuteho/maxresdefault.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9919?isq=false",
-                                "title": "Jung Kook: I Am Still",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/qkIYOe2IUUhebK5OIeD6Oe5QFH3.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9918?isq=false",
-                                "title": "Match Play",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/8UalM9zUs2mLS7U7bnKITZVIJGJ.jpg"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/9712?isq=false",
                                 "title": "Brewing Love",
                                 "thumbnail_url": "https://1.vikiplatform.com/c/40729c/bcfef8efd4.png?x=b"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9598?isq=false",
-                                "title": "High School Frenemy",
-                                "thumbnail_url": "https://prod-images.viu.com/3402213068/b07be2cf541f7ae4f7d103b078aa456eb8071524?im=Resize,width=1920"
+                                "url": "/api/DramaList/Drama/9923?isq=false",
+                                "title": "Cinderella Game",
+                                "thumbnail_url": "https://prod-images.viu.com/1994399550/0597b331e16cebe1e8ad8895495cfb1e7c41e3b7?im=Resize,width=1920"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9582?isq=false",
+                                "title": "Rekishi ni Nokoru Akujo ni Naru zo - I'll Become a Villainess Who Goes Down in History",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/rkLWGjeL9VMbYk8OATX5exjIA5R.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9857?isq=false",
@@ -277,9 +267,39 @@
                                 "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/5otuxjhuyyf07zc1732100106777/0?.jpg"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9931?isq=false",
+                                "title": "Weekend in Taipei",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/vJRuCui4zqNIzjY0kgsBdtfEJjU.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9930?isq=false",
+                                "title": "Wakatte Ite mo: The Shapes of Love - Nevertheless: The Shapes of Love",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/q0LDzmwQPKVEdwsdS8sxW9BXZxS.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9898?isq=false",
+                                "title": "Married (2024)",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/c8yz310yvhztumh1732681133295/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9155?isq=false",
+                                "title": "Blossom",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/dcxhgvomupwckqd1733223266609/0"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/9143?isq=false",
                                 "title": "The Land of Warriors",
                                 "thumbnail_url": "https://puui.wetvinfo.com/wetv/cms/5147_1733136704_19201080.jpeg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9175?isq=false",
+                                "title": "Under the Skin Season 2",
+                                "thumbnail_url": "https://imagecdn.app/v1/images/https%3A%2F%2Fpic4.iqiyipic.com%2Fimage%2F20241205%2F24%2F4e%2Fa_100596531_m_601_en_1920_1080.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9909?isq=false",
+                                "title": "The Shining Stars (Love Game in Eastern Fantasy TvShow)",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/u30andlkg8myxgs1732706728507/0"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9786?isq=false",
@@ -287,9 +307,19 @@
                                 "thumbnail_url": "https://img.gagaoolala.com/media/db4a6bc2-750672-lg.jpg"
                             },
                             {
+                                "url": "/api/DramaList/Drama/9925?isq=false",
+                                "title": "The Legend of Taotie",
+                                "thumbnail_url": "https://m.ykimg.com/053500006756B87A13EB6613226F6F6B"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/9890?isq=false",
                                 "title": "Brocade Odyssey",
                                 "thumbnail_url": "https://m.ykimg.com/0535000067491E916BE2180F84D92F7D"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9920?isq=false",
+                                "title": "The Silent Wife",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/7ypeq0qz8mc2h7y1733283134016/0"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9799?isq=false",
@@ -297,64 +327,14 @@
                                 "thumbnail_url": "https://1.vikiplatform.com/c/40723c/adc2f64a3f.jpg?x=b&s=1920x1080"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9895?isq=false",
-                                "title": "Choose One of Four",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/1772fhlk7q6h6zj1732619908926/0"
+                                "url": "/api/DramaList/Drama/9929?isq=false",
+                                "title": "Eternal Rebirths",
+                                "thumbnail_url": "https://m.ykimg.com/053500006756940D1417E41452EB8EE1"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9897?isq=false",
-                                "title": "Almost Delicious",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/erf5335sitlykkf1732587386583/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9902?isq=false",
-                                "title": "Love Endures Eternally",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/m0r287wd5g8jtt41732687436896/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9893?isq=false",
-                                "title": "Mountains (2024)",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/z3bzdjbj46adblv1732293164330/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9906?isq=false",
-                                "title": "She Behind, I Before",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/1itladgexyae2rd1732867348070/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9886?isq=false",
-                                "title": "Calling from the Galaxy",
-                                "thumbnail_url": "https://m.ykimg.com/05350000673D49197B50BB15D03FBC99"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9907?isq=false",
-                                "title": "Misfortune Miss and Lucky Mr",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/3mdblosodllmsvb1732866784982/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9908?isq=false",
-                                "title": "My Contractual Husband",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/nbtpvqvjz357jch1732865568583/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9888?isq=false",
-                                "title": "Pretty Boy",
-                                "thumbnail_url": "https://imagecdn.app/v1/images/https%3A%2F%2Fpic6.iqiyipic.com%2Fimage%2F20241128%2F70%2F5b%2Fa_100595941_m_601_en_m3_1920_1080.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9901?isq=false",
-                                "title": "A Deadly Loop",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/mm29zpqw9p3w82w1732776414512/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9369?isq=false",
-                                "title": "Blue Canvas of Youthful Days",
-                                "thumbnail_url": "https://img.gagaoolala.com/media/c6138e2b-483133-lg.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9259?isq=false",
-                                "title": "The Loyal Pin: Uncut",
-                                "thumbnail_url": "https://bloganchoi.com/wp-content/uploads/2024/08/phim-gl-bach-hop-the-loyal-pin-freenbeck-7.jpg"
+                                "url": "/api/DramaList/Drama/9644?isq=false",
+                                "title": "Yakuza Fiancé: Raise wa Tanin ga Ii",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/u7I8IvLfiJeZLrYEFq9iClsDQqw.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9496?isq=false",
@@ -367,44 +347,24 @@
                                 "thumbnail_url": "https://puui.wetvinfo.com/wetv/cms/6945_1696415708_19201080.jpeg?imageMogr2/thumbnail/3000x"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9856?isq=false",
-                                "title": "How to Spot a Red Flag",
-                                "thumbnail_url": "https://prod-images.viu.com/3882626068/b0817fe3059b3268d5435df200eff49b91b216b6?im=Resize,width=1920"
+                                "url": "/api/DramaList/Drama/9928?isq=false",
+                                "title": "My Summer Sweetheart",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/hdtvR3qrEK468HvCjzEN2hmDqUK.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9898?isq=false",
-                                "title": "Married (2024)",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/c8yz310yvhztumh1732681133295/0"
+                                "url": "/api/DramaList/Drama/535?isq=false",
+                                "title": "Running Man",
+                                "thumbnail_url": "https://kocowa-img.imgix.net/images/fada9c86-d4ca-464d-877e-9165da917b51.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9850?isq=false",
-                                "title": "Later, I Laughed",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/aux19wvvt77wr0o1731925111512/0"
+                                "url": "/api/DramaList/Drama/9531?isq=false",
+                                "title": "Love Is a Poison - Doku Koi: Doku mo Sugireba Koi to Naru",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/t9Pia597dvRElFk6gs2UhRHOAKs.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9894?isq=false",
-                                "title": "The Dark Crown",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/4t2qid1k6v4an9q1732452081434/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9155?isq=false",
-                                "title": "Blossom",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/dcxhgvomupwckqd1718760054697/0?imageMogr2/thumbnail/NA"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9915?isq=false",
-                                "title": "Black and White Forest",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/77c6rbrxsjkolwn1727332615630/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9868?isq=false",
-                                "title": "Found & Lost",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/4qmlmaqx40ninaw1732155478463/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9891?isq=false",
-                                "title": "Feng Yi Tian Xia - The Reign of Feng Yi",
-                                "thumbnail_url": "https://imagecdn.app/v1/images/http%3A%2F%2Fpic5.iqiyipic.com%2Fimage%2F20241125%2Fb3%2Fc8%2Fa_100586201_m_601_en_m1_1920_1080.jpg"
+                                "url": "/api/DramaList/Drama/9495?isq=false",
+                                "title": "Love Sick 2024 (UNCUT) - LoveSick 2024",
+                                "thumbnail_url": "https://pic1.iqiyipic.com/image/20240919/9a/07/a_100589969_m_601_en_1920_1080.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9827?isq=false",
@@ -412,9 +372,49 @@
                                 "thumbnail_url": "https://imagecdn.app/v2/image/https%3A%2F%2Fpic6.iqiyipic.com%2Fimage%2F20241116%2Fc8%2F33%2Fa_100590443_m_601_en_1920_1080.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/9495?isq=false",
-                                "title": "Love Sick 2024 (UNCUT) - LoveSick 2024",
-                                "thumbnail_url": "https://pic1.iqiyipic.com/image/20240919/9a/07/a_100589969_m_601_en_1920_1080.jpg"
+                                "url": "/api/DramaList/Drama/9829?isq=false",
+                                "title": "Love Your Enemy",
+                                "thumbnail_url": "https://1.vikiplatform.com/c/40699c/b3f092d565.jpg?x=b&s=1920x1080"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9740?isq=false",
+                                "title": "Perfect 10 Liners",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/feag2shxw6mx76l1732864329122/0?.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9798?isq=false",
+                                "title": "Marry You",
+                                "thumbnail_url": "https://kocowa-img.imgix.net/images/fd493c90-3c3e-4753-b5b8-4609553362c7.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9841?isq=false",
+                                "title": "The Tale of Lady Ok",
+                                "thumbnail_url": "https://kocowa-img.imgix.net/images/2bbfcef0-636c-40d6-8490-670d2191754d.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/8050?isq=false",
+                                "title": "Renegade Immortal - Xian Ni",
+                                "thumbnail_url": "https://vcover-hz-pic.puui.qpic.cn/vcover_hz_pic/0/mzc00200aaogpgh1708225531019/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9421?isq=false",
+                                "title": "Chasing in the Wild",
+                                "thumbnail_url": "https://im.gurl.eu.org/file/83e83f3d8724d4a0493b1.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9711?isq=false",
+                                "title": "Love in the Air: Koi no Yokan",
+                                "thumbnail_url": "https://img.gagaoolala.com/media/520e27c6-782931-lg.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9566?isq=false",
+                                "title": "Iron Family",
+                                "thumbnail_url": "https://prod-images.viu.com/2618648271/94e1e504d9ca6a487ae1f91bee3c055f417a3121?im=Resize,width=1920"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9927?isq=false",
+                                "title": "Rented in Finland",
+                                "thumbnail_url": "https://prod-images.viu.com/4289645623/447949ddbe3f77ea2c51814bc381f2c957d66824?im=Resize,width=1920"
                             }
                         ],
                         "hasNextPage": true
@@ -449,7 +449,7 @@
                             {
                                 "url": "/api/DramaList/Drama/1279?isq=false",
                                 "title": "World Trigger",
-                                "thumbnail_url": "https://media.comicbook.com/2019/12/world-trigger-1200670-1280x0.jpeg"
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/44mskhTP5bZLo6Dib3QTIjOQpRt.jpg"
                             },
                             {
                                 "url": "/api/DramaList/Drama/156?isq=false",
@@ -507,14 +507,14 @@
                                 "thumbnail_url": "https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/obUMa1OTwTFWeWk5nawFjojCe8V.jpg"
                             },
                             {
-                                "url": "/api/DramaList/Drama/596?isq=false",
-                                "title": "Double World",
-                                "thumbnail_url": "https://occ-0-58-64.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcU-HFF-VdlG2ZOm6cOU02ToX3Vr9YYnIoZLnJO2OuG5wkobD2eblg_mTsvhcgvxQ3fP96UyJehiv1tDUt4oVh954SgR.jpg?r=1a4"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/963?isq=false",
                                 "title": "All the Love in the World: Season 1",
                                 "thumbnail_url": "https://i.ytimg.com/vi/fC0P9SS5nmg/maxresdefault.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/596?isq=false",
+                                "title": "Double World",
+                                "thumbnail_url": "https://occ-0-58-64.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcU-HFF-VdlG2ZOm6cOU02ToX3Vr9YYnIoZLnJO2OuG5wkobD2eblg_mTsvhcgvxQ3fP96UyJehiv1tDUt4oVh954SgR.jpg?r=1a4"
                             },
                             {
                                 "url": "/api/DramaList/Drama/1370?isq=false",
@@ -571,23 +571,23 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "file:///tmp/subs549373449177526116srt",
+                                "url": "file:///tmp/subs4351888695607560194srt",
                                 "lang": "English"
                             },
                             {
-                                "url": "file:///tmp/subs17840407587572907467srt",
+                                "url": "file:///tmp/subs10442784471715158410srt",
                                 "lang": "Khmer"
                             },
                             {
-                                "url": "file:///tmp/subs3866578910281467634srt",
+                                "url": "file:///tmp/subs7744276254038571384srt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "file:///tmp/subs7303362761134141551srt",
+                                "url": "file:///tmp/subs8451133345974927301srt",
                                 "lang": "Indonesia"
                             },
                             {
-                                "url": "file:///tmp/subs1708014639701353434srt",
+                                "url": "file:///tmp/subs9293588346734190720srt",
                                 "lang": "Malay"
                             }
                         ]

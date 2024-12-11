@@ -7,6 +7,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/boonie-bears-or-bust",
+                                "title": "Boonie Bears or Bust (7+)",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933812.jpg"
+                            },
+                            {
+                                "url": "/anime/dungeon-people",
+                                "title": "Dungeon People",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933811.jpg"
+                            },
+                            {
+                                "url": "/anime/barbie-mysteries-the-great-horse-chase",
+                                "title": "Barbie Mysteries: The Great Horse Chase",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933810.jpg"
+                            },
+                            {
+                                "url": "/anime/mermaid-magic",
+                                "title": "Mermaid Magic",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933809.jpg"
+                            },
+                            {
+                                "url": "/anime/rascal-does-not-dream-of-bunny-girl-senpai",
+                                "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933808.jpg"
+                            },
+                            {
                                 "url": "/anime/mutant-league-1994",
                                 "title": "Mutant League (1994)",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933807.jpg"
@@ -60,31 +85,6 @@
                                 "url": "/anime/rock-paper-scissors-2024",
                                 "title": "Rock Paper Scissors 2024",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933796.jpg"
-                            },
-                            {
-                                "url": "/anime/zombies-the-re-animated-series",
-                                "title": "Zombies: The Re-Animated Series",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933795.jpg"
-                            },
-                            {
-                                "url": "/anime/jurassic-world-chaos-theory",
-                                "title": "Jurassic World: Chaos Theory",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933792.jpg"
-                            },
-                            {
-                                "url": "/anime/duel-masters-lost-tsuioku-no-suishou",
-                                "title": "Duel Masters LOST: Tsuioku no Suishou",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933791.jpg"
-                            },
-                            {
-                                "url": "/anime/invincible-fight-girl",
-                                "title": "Invincible Fight Girl",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933790.jpg"
-                            },
-                            {
-                                "url": "/anime/american-dad-season-21",
-                                "title": "American Dad! Season 21",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933788.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/mutant-league-1994",
-                    "title": "Mutant League (1994)",
-                    "description": "They’re pumped up mutant athletes and they’re ready to rumble on the playing field! These hunks of bone and muscle were mutated by toxic gas unleashed in a massive earthquake. Demonstrating total unsportsmanlike conduct, along with super strength, sonic speed and unusual abilities, they battle in a variety of games for the ultimate trophy – the Mutant League Championship! Sports will never be the same.",
-                    "genre": "Action, Animation, Horror, Sci-fi, Sports, Thriller, Thriller, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933807.jpg",
+                    "url": "/anime/boonie-bears-or-bust",
+                    "title": "Boonie Bears or Bust (7+)",
+                    "description": "The bumbling but lovable Bear Brothers are back, and Logger Vick remains in hot pursuit! Their latest adventures take our heroes out of the forest and into the big city, where they make new friends and a host of wonderful discoveries…and where they learn a few fabulous new tricks for escaping the clutches of the villainous Vick!",
+                    "genre": "Comedy, Computer Animation, Kids, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933812.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,14 +616,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/mutant-league-1994-season-2-episode-27-the-hall-of-pain-awards",
-                        "name": "Season 2 - Episode 27",
-                        "episode_number": 227.0
+                        "url": "/boonie-bears-or-bust-season-1-episode-26-berry-battle-welcome-to-the-new-world",
+                        "name": "Season 1 - Episode 26",
+                        "episode_number": 126.0
                     },
                     {
-                        "url": "/mutant-league-1994-season-2-episode-26-sudden-death",
-                        "name": "Season 2 - Episode 26",
-                        "episode_number": 226.0
+                        "url": "/boonie-bears-or-bust-season-1-episode-25-briars-got-a-cold-the-prince-of-gymnastics",
+                        "name": "Season 1 - Episode 25",
+                        "episode_number": 125.0
                     }
                 ],
                 "passed": true
@@ -631,19 +631,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKk5AnwboQfjbxX1Hlk4YupIvhU-IgWfVvpTj8jdEBrntoRFYML9SVQlnc9o7CnOISppESLFzsdxtUzmvzCIqVfOKXCURLbs_38Hft1SnkdK_KLBpBEN7dT9b-8dRQ7rsX02mmvgMxnA8XsHkSxYnpO865V3rl3cl19JLXit3zAWRIbC9MukuB7B1VoWIC303dhtx17vFFWKpPX-wRzwaY0Q-6ZzUXwDOfPsiBPBbf4TKsnGvYOqcNShS8I7xV6OkbqihX6ocfu9qxN8tSRm-lyw",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkUx1yrPXAHUcgMWCrsGbVPWyLcoqXfHgNpHjtGlf_JbWDCxBhTePo5K4vmP-Co5qlWg8kD4kFyb5-Ksx4xvpGSvBKSJ87tOxLJQ6aUeYB5eIs5VZEBgD9auTGF6_cwqfUxYckxUJPLbq_Mio3HAT9h5JUByZGox0_YoTjPMQAdKZAN4GvFQ57IIFpGvxW7TBxsoVGznT70Mo2771XBNukj2phxIM-6H6J3Mtc0GeWi3TJgn-ybv-Bawu29exJt_zoBIRvTLZKcrX4QRIA-GvqnPAjBuHS9dYIxo9A6ocEAEIWrFP0T88JsaunFuOgY19cnlRNzs5-8OBbxLJKKKnLr-S6dhxZFbk-iO3IJzyvpQ8W2o-3qGgfFlhacbFKWm5w",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKk5AnwboQfjbxX1Hlk4YupIvhU-IgWfVvpTj8jdEBrntoRFYML9SVQlnc9o7CnOISppESLFzsdxtUzmvzCIqVfOKXCURLbs_38Hft1SnkdK_KLBpBEN7dT9b-8dRQ7rsX02mmvgMxnA8XsHkSxYnpO865V3rl3cl19JLXit3zAWRIbC9MukuB7B1VoWIC303dhtx17vFFWKpPX-wRzwaY0Q-6ZzUXwDOfPsiBPBbf4TKsnGvYOqcNShS8I7xV6OkbqihX6ocfu9qxN8tSRm-lyw"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkUx1yrPXAHUcgMWCrsGbVPWyLcoqXfHgNpHjtGlf_JbWDCxBhTePo5K4vmP-Co5qlWg8kD4kFyb5-Ksx4xvpGSvBKSJ87tOxLJQ6aUeYB5eIs5VZEBgD9auTGF6_cwqfUxYckxUJPLbq_Mio3HAT9h5JUByZGox0_YoTjPMQAdKZAN4GvFQ57IIFpGvxW7TBxsoVGznT70Mo2771XBNukj2phxIM-6H6J3Mtc0GeWi3TJgn-ybv-Bawu29exJt_zoBIRvTLZKcrX4QRIA-GvqnPAjBuHS9dYIxo9A6ocEAEIWrFP0T88JsaunFuOgY19cnlRNzs5-8OBbxLJKKKnLr-S6dhxZFbk-iO3IJzyvpQ8W2o-3qGgfFlhacbFKWm5w"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKm5UgGfY9-uvgSNK77PDkjog3kLEcCpcOdTwkcF4zjqpS2UtqZ3ARD8tJjb-RhnYCkTD74cEnuvD0FupRAnKPq-dp0Phwhrt5B8X0fwKqAIsDdNBWxnHELENlrDkmkBP0a5E7wIf8VDQHa3cXROU9n2103QNEDzJiYKmXCMsLEXmUxkduPhgaVVwNDgOxPsvU4-kdd8FGxoq8Z8QrHkk30vPZlKbT__q-Lk4pJ2z93B9PnTWfzLMAxbSffvGhDdESOjPBPSoH6zlm5opzf1-hgP",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKm5UgGfY9-uvgSNK77PDkjog3kLEcCpcOdTwkcF4zjqpS2UtqZ3ARD8tJjb-RhnYCkTD74cEnuvD0FupRAnKPq-dp0Phwhrt5B8X0fwKqAIsDdNBWxnHELENlrDkmkBP0a5E7wIf8VDQHa3cXROU9n2103QNEDzJiYKmXCMsLEXmUxkduPhgaVVwNDgOxPsvU4-kdd8FGxoq8Z8QrHkk30vPZlKbT__q-Lk4pJ2z93B9PnTWfzLMAxbSffvGhDdESOjPBPSoH6zlm5opzf1-hgP"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKmFIJrnAkbKvV1nuTzLvxUq0V9hTB4gIIC3JgCspMT1NTRHZWKn6fP1TMmjdEWAR7LeLa6kwLn9LCExMq6GCi8VwBfGaQMxZt4r6RQC0VGfaMK1QUzcaCu_0uTr8g0Jqzi80AVcGposSTnPdFBlUvEtJr8dqgKr9n_T63jo-GSoJ4elYWHnwHxLImLUW1vtRP3lplKcKaZw3ZuDBAz7dvtey9s0vvMNSwD31APQt0O9WPRqya7FYUNQeNwS6o0cyfMpn7Jd4Mt2Sw63kxDY0clD",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkUx1yrPXAHUcgMWCrsGbVPWyLcoqXfHgNpHjtGlf_JbWDCxBhTePo5K4vmP-Co5qlWg8kD4kFyb5-Ksx4xvpGTQLWVwO59EaKicEsax97wq4L9AqxqP46hjWzJM5DXvV6nPvyk1335smKFnrNqV_F_S4VO-6t0fZN5-iDVnZLIGqafjSPzToioKr_oD5L42Mi3UP5ke1b_zjG8y6ykzarm3uBNCZ8bYdPKVavAuUv_zBHA7uWIKbTukNBx6prH6lk9MaLbgnnP6DwA6FGbFPQ8H5jU9hFhmjrKNi6ZbcmcyJftnASk27yAR9gdYyJOI0vsez0AvTxXvYFsUD_LUWDwdcuVufREX4Y3N5tSu-2B3",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJophHxnN6sXRYCEZVqMYZjCqs8HCcDHN72z5yrAW4VfmJTI5dWm5zyh1jgulGKI0mCf5tkVpYOwTxH15EprnBKmFIJrnAkbKvV1nuTzLvxUq0V9hTB4gIIC3JgCspMT1NTRHZWKn6fP1TMmjdEWAR7LeLa6kwLn9LCExMq6GCi8VwBfGaQMxZt4r6RQC0VGfaMK1QUzcaCu_0uTr8g0Jqzi80AVcGposSTnPdFBlUvEtJr8dqgKr9n_T63jo-GSoJ4elYWHnwHxLImLUW1vtRP3lplKcKaZw3ZuDBAz7dvtey9s0vvMNSwD31APQt0O9WPRqya7FYUNQeNwS6o0cyfMpn7Jd4Mt2Sw63kxDY0clD"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkUx1yrPXAHUcgMWCrsGbVPWyLcoqXfHgNpHjtGlf_JbWDCxBhTePo5K4vmP-Co5qlWg8kD4kFyb5-Ksx4xvpGTQLWVwO59EaKicEsax97wq4L9AqxqP46hjWzJM5DXvV6nPvyk1335smKFnrNqV_F_S4VO-6t0fZN5-iDVnZLIGqafjSPzToioKr_oD5L42Mi3UP5ke1b_zjG8y6ykzarm3uBNCZ8bYdPKVavAuUv_zBHA7uWIKbTukNBx6prH6lk9MaLbgnnP6DwA6FGbFPQ8H5jU9hFhmjrKNi6ZbcmcyJftnASk27yAR9gdYyJOI0vsez0AvTxXvYFsUD_LUWDwdcuVufREX4Y3N5tSu-2B3"
                     }
                 ],
                 "passed": true

@@ -87,6 +87,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/w4JI7OCtfCRlsRXDJYYar0JZKPg7ESeg",
+                                "title": "Puella Magi Madoka Magica the Movie Part III: Rebellion",
+                                "description": "Were all the magical girls truly saved from despair? Now, the great \"Law of Cycles\" leads the magical girls to their new fate. Madoka Kaname, a girl who once led an ordinary life, sacrificed her very existence to set every magical girl free from their cruel destiny. Homura Akemi, another magical girl who was unable to keep her promise with Madoka, continues to fight in the world in which Madoka left her behind.\n\n\"I dream of the day when I can finally see your dear smile again.\"\n\nMadoka Kaname has changed the world. In this new world, is what the magical girls see a world of hope... or despair?\n\n(Source: Madman)",
+                                "status": 2,
+                                "thumbnail_url": "https://ipfs.animeui.com/ipfs/bafkreietumrmvghw4aieg7ovtyq2rzroxfuwdyut5jzzy64af7to73hbnu"
+                            },
+                            {
                                 "url": "/anime/6S10YjY9Qoac4KSmKmzbAOR7MLAJO2vY",
                                 "description": "The world has collapsed due to a zombie pandemic. The protagonist, Mikoto Amano, wakes up in an unfamiliar place with no memory and is taken in by six girls. However, a shocking incident occurs: a man who was taken in alongside Mikoto is murdered, and the culprit is one of them.\n\nSet in the Tokyu Kabukicho Tower, mysteries and secrets unfold one after another within the now-sealed building. Will the girls, who have begun to form a bond, be able to uncover the truth behind the incident?\n\n(animated Times, translated)",
                                 "thumbnail_url": "https://ipfs.animeui.com/ipfs/bafkreicbvq2tjkftaleb44ryzgjer7us2njy7cs3675a6pcwkhyiwqveny"
@@ -251,13 +258,6 @@
                                 "description": "Follow Wu Cheng’en on his own legendary pilgrimage to the “Western Regions” in search of Enlightenment.\n\n(Source: Crunchyroll)",
                                 "status": 1,
                                 "thumbnail_url": "https://ipfs.animeui.com/ipfs/bafkreiao7kqxxj2t6mrudbjcdwulcyyw2d6odk6r6qh46is7odklxn3vom"
-                            },
-                            {
-                                "url": "/anime/4ww7DVk6m54guN33tNPsNqHeFhltDKDU",
-                                "title": "The Do-Over Damsel Conquers The Dragon Emperor",
-                                "description": "Jill breaks out of prison the night before she’s set to be executed by her fiancé, Crown Prince Gerald. She’s struck by an arrow while escaping, but instead of dying, she’s transported six years into the past—to the night she and Gerald met. Desperate to alter fate, she instead proposes to the first man she sees, Hadis Teos Rave, her enemy in the future. This is her last chance to get it right!\n\n(Source: Crunchyroll)",
-                                "status": 1,
-                                "thumbnail_url": "https://ipfs.animeui.com/ipfs/bafkreiezv6lz67csemzbh2dekng3f5rxe3pgnlxqt3czatszzajqtnn2ca"
                             }
                         ],
                         "hasNextPage": true
@@ -416,14 +416,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/watch/e6r0GWuknkhqVqZBP9hJT3sYWs3kFOM1/9",
+                        "name": "Episode 9",
+                        "episode_number": 9.0
+                    },
+                    {
                         "url": "/watch/e6r0GWuknkhqVqZBP9hJT3sYWs3kFOM1/8",
                         "name": "Episode 8",
                         "episode_number": 8.0
-                    },
-                    {
-                        "url": "/watch/e6r0GWuknkhqVqZBP9hJT3sYWs3kFOM1/7",
-                        "name": "Episode 7",
-                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -431,28 +431,28 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://ipfs.sudatchi.com/ipfs/bafybeig66ebveqsowkaagryuf2mpyes5kqphzxjvxxe6wc3zxe65nxdnkq/1920x1080.m3u8",
+                        "url": "https://ipfs.sudatchi.com/ipfs/bafybeie6zsctkj5tq36qsytwegwd5ahkvujpfh46mwxyrcokmrwjaswffu/1920x1080.m3u8",
                         "quality": "Sudatchi (Private IPFS Gateway) - 1080p",
-                        "videoUrl": "https://ipfs.sudatchi.com/ipfs/bafybeig66ebveqsowkaagryuf2mpyes5kqphzxjvxxe6wc3zxe65nxdnkq/1920x1080.m3u8",
+                        "videoUrl": "https://ipfs.sudatchi.com/ipfs/bafybeie6zsctkj5tq36qsytwegwd5ahkvujpfh46mwxyrcokmrwjaswffu/1920x1080.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://ipfs.animeui.com/ipfs/bafkreictfbwwicuwjnkesrntqslp3fxnd32bj5s3u2f6ffysg7htvqucay",
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreiagbar5flhkg5oiq6xw7d7tvt4jijkzhepwskbk2zptgrl673eoki",
                                 "lang": "English (eng)"
                             },
                             {
-                                "url": "https://ipfs.animeui.com/ipfs/bafkreibfarpthakmqirdexqo7jlsfuwqy6hwwrufngbwdc7wxymwo2sbuy",
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreiee632vpxvndlt5xrvjuk4yhphpb5cddha3l55tjxolx7h5oyb2vq",
                                 "lang": "French (fra)"
                             },
                             {
-                                "url": "https://ipfs.animeui.com/ipfs/bafybeie4w3aehxf5fmfktwpldudfltazda35suq2zl5clwnm67emgtzkfe",
+                                "url": "https://ipfs.animeui.com/ipfs/bafybeihukw25dwtb5bm3zowhjikgdbvaih7nsgt3gizekejwcf4lczqrwu",
                                 "lang": "Latin American Spanish (spa-419)"
                             },
                             {
-                                "url": "https://ipfs.animeui.com/ipfs/bafkreia2xvaekswniafnd2mh4lyeak3znu2eintqg7kzaolbvafmzac7ma",
+                                "url": "https://ipfs.animeui.com/ipfs/bafkreiaezjtfg7kkene7ob35akdxrqy3qbuegffc7oyqd2wtpchmz5f7n4",
                                 "lang": "Russian (rus)"
                             }
                         ]
