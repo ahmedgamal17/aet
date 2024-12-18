@@ -7,6 +7,56 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/carl-the-collector",
+                                "title": "Carl the Collector",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933822.jpg"
+                            },
+                            {
+                                "url": "/anime/barneys-world",
+                                "title": "Barney's World",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933821.jpg"
+                            },
+                            {
+                                "url": "/anime/matt-bird-break-loose",
+                                "title": "Matt & Bird Break Loose",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933820.jpg"
+                            },
+                            {
+                                "url": "/anime/angry-birds-mystery-island",
+                                "title": "Angry Birds: Mystery Island",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933819.jpg"
+                            },
+                            {
+                                "url": "/anime/dc-heroes-united",
+                                "title": "DC Heroes United",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933818.jpg"
+                            },
+                            {
+                                "url": "/anime/jentry-chau-vs-the-underworld",
+                                "title": "Jentry Chau vs the Underworld",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933817.jpg"
+                            },
+                            {
+                                "url": "/anime/press-start",
+                                "title": "Press Start!",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933816.jpg"
+                            },
+                            {
+                                "url": "/anime/creature-commandos",
+                                "title": "Creature Commandos",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933815.jpg"
+                            },
+                            {
+                                "url": "/anime/secret-level",
+                                "title": "Secret Level",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933814.jpg"
+                            },
+                            {
+                                "url": "/anime/dream-productions",
+                                "title": "Dream Productions",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933813.jpg"
+                            },
+                            {
                                 "url": "/anime/boonie-bears-or-bust",
                                 "title": "Boonie Bears or Bust (7+)",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933812.jpg"
@@ -35,56 +85,6 @@
                                 "url": "/anime/mutant-league-1994",
                                 "title": "Mutant League (1994)",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933807.jpg"
-                            },
-                            {
-                                "url": "/anime/minoriteam",
-                                "title": "Minoriteam",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933806.jpg"
-                            },
-                            {
-                                "url": "/anime/max-and-the-midknights",
-                                "title": "Max and the Midknights",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933805.jpg"
-                            },
-                            {
-                                "url": "/anime/sausage-party-foodtopia",
-                                "title": "Sausage Party: Foodtopia",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933804.jpg"
-                            },
-                            {
-                                "url": "/anime/fate-strange-fake",
-                                "title": "Fate/strange Fake",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933803.jpg"
-                            },
-                            {
-                                "url": "/anime/tokyo-override-english-subbed",
-                                "title": "Tokyo Override English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933802.jpg"
-                            },
-                            {
-                                "url": "/anime/total-drama-island-reboot",
-                                "title": "Total Drama Island: Reboot",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933801.jpg"
-                            },
-                            {
-                                "url": "/anime/shasha-and-milo",
-                                "title": "Shasha and Milo",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933800.jpg"
-                            },
-                            {
-                                "url": "/anime/dee-friends-in-oz",
-                                "title": "Dee & Friends in Oz",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933799.jpg"
-                            },
-                            {
-                                "url": "/anime/insomniacs-after-school",
-                                "title": "Insomniacs After School",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933797.jpg"
-                            },
-                            {
-                                "url": "/anime/rock-paper-scissors-2024",
-                                "title": "Rock Paper Scissors 2024",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933796.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/boonie-bears-or-bust",
-                    "title": "Boonie Bears or Bust (7+)",
-                    "description": "The bumbling but lovable Bear Brothers are back, and Logger Vick remains in hot pursuit! Their latest adventures take our heroes out of the forest and into the big city, where they make new friends and a host of wonderful discoveries…and where they learn a few fabulous new tricks for escaping the clutches of the villainous Vick!",
-                    "genre": "Comedy, Computer Animation, Kids, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933812.jpg",
+                    "url": "/anime/carl-the-collector",
+                    "title": "Carl the Collector",
+                    "description": "An autistic collector raccoon goes on adventures with his friends.",
+                    "genre": "Adventure, Animation, Comedy, Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933822.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/boonie-bears-or-bust-season-1-episode-26-berry-battle-welcome-to-the-new-world",
-                        "name": "Season 1 - Episode 26",
-                        "episode_number": 126.0
-                    },
-                    {
-                        "url": "/boonie-bears-or-bust-season-1-episode-25-briars-got-a-cold-the-prince-of-gymnastics",
-                        "name": "Season 1 - Episode 25",
-                        "episode_number": 125.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkUx1yrPXAHUcgMWCrsGbVPWyLcoqXfHgNpHjtGlf_JbWDCxBhTePo5K4vmP-Co5qlWg8kD4kFyb5-Ksx4xvpGSvBKSJ87tOxLJQ6aUeYB5eIs5VZEBgD9auTGF6_cwqfUxYckxUJPLbq_Mio3HAT9h5JUByZGox0_YoTjPMQAdKZAN4GvFQ57IIFpGvxW7TBxsoVGznT70Mo2771XBNukj2phxIM-6H6J3Mtc0GeWi3TJgn-ybv-Bawu29exJt_zoBIRvTLZKcrX4QRIA-GvqnPAjBuHS9dYIxo9A6ocEAEIWrFP0T88JsaunFuOgY19cnlRNzs5-8OBbxLJKKKnLr-S6dhxZFbk-iO3IJzyvpQ8W2o-3qGgfFlhacbFKWm5w",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkUx1yrPXAHUcgMWCrsGbVPWyLcoqXfHgNpHjtGlf_JbWDCxBhTePo5K4vmP-Co5qlWg8kD4kFyb5-Ksx4xvpGSvBKSJ87tOxLJQ6aUeYB5eIs5VZEBgD9auTGF6_cwqfUxYckxUJPLbq_Mio3HAT9h5JUByZGox0_YoTjPMQAdKZAN4GvFQ57IIFpGvxW7TBxsoVGznT70Mo2771XBNukj2phxIM-6H6J3Mtc0GeWi3TJgn-ybv-Bawu29exJt_zoBIRvTLZKcrX4QRIA-GvqnPAjBuHS9dYIxo9A6ocEAEIWrFP0T88JsaunFuOgY19cnlRNzs5-8OBbxLJKKKnLr-S6dhxZFbk-iO3IJzyvpQ8W2o-3qGgfFlhacbFKWm5w"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkUx1yrPXAHUcgMWCrsGbVPWyLcoqXfHgNpHjtGlf_JbWDCxBhTePo5K4vmP-Co5qlWg8kD4kFyb5-Ksx4xvpGTQLWVwO59EaKicEsax97wq4L9AqxqP46hjWzJM5DXvV6nPvyk1335smKFnrNqV_F_S4VO-6t0fZN5-iDVnZLIGqafjSPzToioKr_oD5L42Mi3UP5ke1b_zjG8y6ykzarm3uBNCZ8bYdPKVavAuUv_zBHA7uWIKbTukNBx6prH6lk9MaLbgnnP6DwA6FGbFPQ8H5jU9hFhmjrKNi6ZbcmcyJftnASk27yAR9gdYyJOI0vsez0AvTxXvYFsUD_LUWDwdcuVufREX4Y3N5tSu-2B3",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkUx1yrPXAHUcgMWCrsGbVPWyLcoqXfHgNpHjtGlf_JbWDCxBhTePo5K4vmP-Co5qlWg8kD4kFyb5-Ksx4xvpGTQLWVwO59EaKicEsax97wq4L9AqxqP46hjWzJM5DXvV6nPvyk1335smKFnrNqV_F_S4VO-6t0fZN5-iDVnZLIGqafjSPzToioKr_oD5L42Mi3UP5ke1b_zjG8y6ykzarm3uBNCZ8bYdPKVavAuUv_zBHA7uWIKbTukNBx6prH6lk9MaLbgnnP6DwA6FGbFPQ8H5jU9hFhmjrKNi6ZbcmcyJftnASk27yAR9gdYyJOI0vsez0AvTxXvYFsUD_LUWDwdcuVufREX4Y3N5tSu-2B3"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
